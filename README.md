@@ -250,7 +250,16 @@ flowchart LR
 ./run.sh --publish    # 抓取后 git commit + push 到本仓库（定时任务用这个）
 ```
 
-无人值守由 launchd 承担（`~/Library/LaunchAgents/com.aisignal.daily.plist`）：每天 06:00 触发 `run.sh --publish`，外面套 `caffeinate -i` 防止跑到一半进休眠；配合 `pmset repeat wakepoweron` 在 05:55 唤醒机器，保证准点而不是等唤醒后补跑。推送失败会重试 4 次，仍失败则提交留在本地，下次运行一并补推，不丢数据。
+无人值守由两个 launchd 任务承担：
+
+| 任务 | 时间 | 干什么 |
+|---|---|---|
+| `com.aisignal.daily` | 每天 06:00 | 跑 `run.sh --publish`：抓取 → 提交 → 推送 → 健康检查 |
+| `com.aisignal.wechatcheck` | 每天 00:00 | 只查微信读书登录是否失效，失效就发邮件 |
+
+主任务外面套 `caffeinate -i` 防止跑到一半进休眠；配合 `pmset repeat wakepoweron` 在 05:55 唤醒机器，保证准点而不是等唤醒后补跑。推送失败会重试 4 次，仍失败则提交留在本地，下次运行一并补推，不丢数据。
+
+**公众号同步不依赖 wewe-rss 自己的定时任务。** 它的内置 cron 在微信读书 token 过期时会抛 `暂无可用读书账号` 中止，而且不会自行恢复——实测静默跳过了整整一天。所以抓取前我们主动调它的 `feed.refreshArticles` 拉一次最新文章，需要在 `.env` 里配 `WEWE_RSS_AUTH_CODE`（就是控制台登录码，见 `~/wewe-rss/auth_code.txt`）。这样既保证每天拿到的是新数据，也让登录失效在我们关心的那一刻就报错，而不是变成一份看不出问题的旧 feed。
 
 排查看两处：
 
@@ -265,7 +274,7 @@ tail -30 run-cron.log
 |------|------|------|
 | 依赖 | 中央依赖能否 import | 给出补装命令 |
 | X/Twitter | feed 是否超 26h 没更新 / 全部账号 0 内容 | cookie 过期，去更新 `TWITTER_COOKIES` |
-| 公众号 | wewe-rss 是否可达；`syncTime` 是否超 48h 没推进 | 服务挂了 or 微信读书要重新扫码 |
+| 公众号 | 账号是否被禁用（收到 401 当下就置位）；wewe-rss 是否可达；`syncTime` 是否超 26h 没推进 | 服务挂了 or 微信读书要重新扫码 |
 | ASR 转录 | 转录失败里是否含余额/配额字样 | 去火山引擎控制台看余额 |
 | arXiv / 博客 / 播客 | feed 是否超 26h 没更新 | 对应来源连续抓取失败 |
 

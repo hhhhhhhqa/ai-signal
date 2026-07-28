@@ -1888,6 +1888,36 @@ def fetch_wechat(sources):
     fulltext_limit = wx_cfg.get("max_fulltext_articles", 15)
     since = datetime.now(timezone.utc) - timedelta(hours=lookback)
 
+    def refresh_wewe_rss():
+        """Pull the newest posts before reading the feed instead of trusting
+        wewe-rss's own cron. That cron aborts with "暂无可用读书账号" the moment the
+        微信读书 token expires and does not resume on its own — observed silently
+        skipping a full day. Refreshing here also surfaces an expired token as a
+        loud error at the exact moment we care, rather than as a stale feed."""
+        auth = os.environ.get("WEWE_RSS_AUTH_CODE", "").strip()
+        if not auth:
+            log("  ℹ️ 未设 WEWE_RSS_AUTH_CODE,跳过主动刷新(用 wewe-rss 自己的定时任务)")
+            return None
+        try:
+            resp = httpx.post(f"{base_url}/trpc/feed.refreshArticles",
+                              headers={"Authorization": auth,
+                                       "Content-Type": "application/json"},
+                              json={"json": {}}, timeout=180)
+        except Exception as e:
+            log(f"  ⚠️ 触发刷新失败: {e}")
+            return f"refresh request failed: {e}"
+        if resp.status_code == 200:
+            log("  🔄 已触发 wewe-rss 拉取最新文章")
+            return None
+        detail = resp.text[:200]
+        # The token expiring is the one failure worth naming outright — it needs
+        # a QR re-scan and nothing downstream can work around it.
+        if "暂无可用读书账号" in detail:
+            log("  ❌ 微信读书登录已失效,需要重新扫码;本次只能用已有文章")
+            return "wewe-rss: 微信读书登录失效,需重新扫码"
+        log(f"  ⚠️ 触发刷新失败 (HTTP {resp.status_code}): {detail}")
+        return f"refresh failed: HTTP {resp.status_code} {detail}"
+
     def get_feed(query=""):
         last_err = None
         for attempt in range(4):
@@ -1906,6 +1936,8 @@ def fetch_wechat(sources):
     # body entirely; with it, every post carries its images inline as base64 —
     # ~3MB each, ~100MB for a full feed. So list first (18KB), decide what we
     # keep, then pull bodies only that deep into the newest-first list.
+    refresh_error = refresh_wewe_rss()
+
     feed, _, err = get_feed()
     if feed is None:
         log(f"  ⚠️ wewe-rss unreachable at {base_url}: {err}")
@@ -1943,7 +1975,7 @@ def fetch_wechat(sources):
     articles.sort(key=lambda a: a.get("published") or "", reverse=True)
     articles = articles[:max_articles]
 
-    errors = []
+    errors = [refresh_error] if refresh_error else []
     if articles and deepest_kept >= 0:
         depth = min(deepest_kept + 1, fulltext_limit)
         bodies, size, err = get_feed(f"?mode=fulltext&limit={depth}")

@@ -393,8 +393,14 @@ def main():
     if "--test" in sys.argv:
         return send_test_alert()
 
-    checks = [check_dependencies(), check_x(), check_wechat(), check_asr()]
-    checks.extend(check_other_feeds())
+    # 微信读书 tokens expire at arbitrary times and need a QR re-scan, so this one
+    # check runs on its own short schedule. Everything else only changes when the
+    # daily job runs, and would false-alarm mid-run.
+    if "--wechat-only" in sys.argv:
+        checks = [check_wechat()]
+    else:
+        checks = [check_dependencies(), check_x(), check_wechat(), check_asr()]
+        checks.extend(check_other_feeds())
 
     log("\n━━━ 健康检查 ━━━")
     for c in checks:
@@ -405,8 +411,11 @@ def main():
     problems = [c for c in checks if c["status"] != OK]
     failures = [c for c in problems if c["status"] == FAIL]
 
-    STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
-    STATE_PATH.write_text(json.dumps(
+    # A partial run gets its own file so it never clobbers the full picture.
+    state_path = (STATE_PATH.with_name("health-wechat.json")
+                  if "--wechat-only" in sys.argv else STATE_PATH)
+    state_path.parent.mkdir(parents=True, exist_ok=True)
+    state_path.write_text(json.dumps(
         {"checked_at": datetime.now(timezone.utc).isoformat(),
          "status": FAIL if failures else (WARN if problems else OK),
          "checks": checks},
