@@ -78,5 +78,10 @@ if [ "$DO_PUBLISH" = 1 ]; then
   fi
 fi
 
+# ── 健康检查:把 exit 0 掩盖掉的静默故障喊出来 ────────────────
+# cookie 过期、公众号掉登录、ASR 没余额、依赖丢失都不会让上面任何一步报错,
+# 只会让 feed 悄悄停在昨天。这一步专门检查这些,并按 .env 里配的渠道提醒。
+"$PY" scripts/healthcheck.py || true
+
 echo ""
 echo "🎉 done ($(date '+%Y-%m-%d %H:%M'))"

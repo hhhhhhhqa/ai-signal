@@ -1,6 +1,11 @@
 # Content Sources
 
-Central feed is updated daily at 6am Beijing time (UTC 22:00) with:
+Central feed is updated daily at 6am Beijing time. It is published from the
+maintainer's machine rather than CI, because the WeChat source depends on a
+self-hosted service that CI cannot reach. If that machine is offline,
+subscribers simply keep reading the last successfully published feed.
+
+Sources:
 
 ### Podcasts (14 channels)
 Dwarkesh Patel, Lex Fridman, Latent Space, All-In Podcast, a16z, Naval, No Priors,
@@ -40,6 +45,22 @@ Leopold Aschenbrenner, Jim Keller
 **Executives:** Sam Altman, Dario Amodei, Demis Hassabis (Google DeepMind), Tang Jie (Z.ai)
 **Infrastructure:** NVIDIA (Jensen Huang / AI infrastructure signal)
 **Builders:** Amanda Askell, Boris Cherny (Claude Code), Cat Wu, Alex Albert, Guillermo Rauch (Vercel), Amjad Masad (Replit), Josh Woodward (Google Labs)
+
+### Official blogs (3 labs)
+Anthropic (official sitemap — Anthropic has no RSS — filtered by the real
+publish date on the article page), OpenAI (official RSS), Google DeepMind
+(official RSS). Model launches, product releases, research and safety
+frameworks land straight from the source instead of second-hand coverage.
+Up to 5 per lab per day, 48h window. Served as `feed-blogs.json`.
+
+### WeChat 公众号
+A lot of first-hand Chinese AI content (model evals, engineering write-ups,
+industry analysis) is published only on WeChat 公众号 and never surfaces in the
+English sources. The central feed pulls subscribed 公众号 through a self-hosted
+[wewe-rss](https://github.com/cooderl/wewe-rss) instance and merges them in.
+72h window, up to 30 articles per day and 5 per account; every item carries the
+source 公众号 name. Served as `feed-wechat.json`, and merged into the same
+`articles` stream as the official blogs (so they share the B1/B2 numbering).
 
 ### arXiv Papers (daily, up to 30)
 cs.AI (Artificial Intelligence), cs.CL (Computation and Language), cs.LG (Machine Learning)

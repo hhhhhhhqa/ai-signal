@@ -148,12 +148,20 @@ curl -s http://127.0.0.1:4000/feeds | python3 -m json.tool   # 看已订阅的�
 - ai-signal 接入公众号,端到端跑通,29 个测试全过
 - 生成过一份含公众号的真日报验证效果
 
+**已完成 ✅(2026-07-28 补)**
+- 代码改动已提交进 `hhhhhhhqa/ai-signal` repo(同事可装)
+- Mac 定时任务已配:launchd `com.aisignal.daily` 每天 06:00 跑 `run.sh --publish`,
+  外套 `caffeinate -i`,配合 `pmset repeat wakepoweron 05:55` 准点唤醒
+- 云端 GitHub Actions 的日常 cron 已停(会和本机 push 打架、且盖掉公众号),
+  只保留 `workflow_dispatch` 手动兜底
+- 静默故障告警已加:`scripts/healthcheck.py`,run.sh 末尾自动跑,
+  覆盖 cookie 过期 / 微信读书掉登录 / ASR 余额 / 依赖丢失 / feed 变陈旧
+
 **待办 ⬜**
-1. 把代码改动提交进 `hhhhhhhqa/ai-signal` repo(同事才能装)
-2. 配 Mac 定时任务(launchd):每天自动 `generate_feed` + `git push`
-3. 加 wewe-rss 登录失效提醒(掉了自动通知你去重扫)
-4. 写"同事安装 /ai-signal"的一页说明
-5. (可选)按需调短各源 `lookback_hours`,让日报更"当日"
+1. 写"同事安装 /ai-signal"的一页说明
+2. (可选)按需调短各源 `lookback_hours`,让日报更"当日"
+3. arXiv 连续 429 限流待处理(7-24 起 feed 就没更新过,一直在喂旧论文)
+4. (可选)在 `.env` 配 `HEALTH_WEBHOOK_URL`,让告警推到手机而不只是 macOS 通知
 
 ---
 

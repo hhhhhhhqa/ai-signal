@@ -233,6 +233,26 @@ launchctl print gui/$(id -u)/com.aisignal.daily | grep -E "runs|last exit code"
 tail -30 run-cron.log
 ```
 
+**静默故障告警。** 无人值守最大的风险不是报错，是**不报错**：X cookie 过期、微信读书掉登录、ASR 余额耗尽、venv 里的依赖丢了，这些都不会让任务退出码变成非 0，只会让 feed 悄悄停在昨天。`run.sh` 最后会跑 `scripts/healthcheck.py` 专门查这些：
+
+| 检查 | 判据 | 提示 |
+|------|------|------|
+| 依赖 | 中央依赖能否 import | 给出补装命令 |
+| X/Twitter | feed 是否超 26h 没更新 / 全部账号 0 内容 | cookie 过期，去更新 `TWITTER_COOKIES` |
+| 公众号 | wewe-rss 是否可达；`syncTime` 是否超 48h 没推进 | 服务挂了 or 微信读书要重新扫码 |
+| ASR 转录 | 转录失败里是否含余额/配额字样 | 去火山引擎控制台看余额 |
+| arXiv / 博客 / 播客 | feed 是否超 26h 没更新 | 对应来源连续抓取失败 |
+
+结果写进 `~/.ai-signal/health.json`，有问题时**默认弹一条 macOS 通知**（零配置）。想推到手机，在 `.env` 里补上任一组：
+
+```bash
+HEALTH_WEBHOOK_URL=...    # 飞书 / 企业微信 自定义机器人
+HEALTH_TG_BOT_TOKEN=...   # Telegram(配合 HEALTH_TG_CHAT_ID)
+HEALTH_TG_CHAT_ID=...
+```
+
+> ASR 那项是**症状检测**不是余额查询——火山的 API-key 凭据查不了余额，所以只能在转录报错里识别余额/配额关键词。余额耗尽会在第一次尝试转录时被发现，不会提前预警。
+
 **中央那台机器关着也不影响订阅方**——大家拉到的是上一次成功推送的 feed。
 
 </details>
