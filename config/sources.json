@@ -139,6 +139,7 @@
       "provider": "volc_asr_auc",
       "enabled_by_default": true,
       "default_limit": 2,
+      "min_publish_date": "2026-07-28T00:00:00+08:00",
       "poll_interval_seconds": 10,
       "max_wait_seconds": 1800,
       "relevance_keywords": [
@@ -323,12 +324,14 @@
       {
         "name": "Dwarkesh Patel",
         "domain": "ai",
-        "rss_url": "https://www.dwarkesh.com/feed"
+        "rss_url": "https://www.dwarkesh.com/feed",
+        "transcribe_missing": true
       },
       {
         "name": "Lex Fridman",
         "domain": "ai",
-        "rss_url": "https://lexfridman.com/feed/podcast/"
+        "rss_url": "https://lexfridman.com/feed/podcast/",
+        "transcribe_missing": true
       },
       {
         "name": "Latent Space",
@@ -349,7 +352,8 @@
       {
         "name": "a16z",
         "domain": "ai",
-        "rss_url": "https://feeds.simplecast.com/JGE3yC0V"
+        "rss_url": "https://feeds.simplecast.com/JGE3yC0V",
+        "transcribe_missing": true
       },
       {
         "name": "Naval",

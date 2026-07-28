@@ -21,6 +21,7 @@ import subprocess
 import sys
 import time
 import uuid
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -165,29 +166,61 @@ def is_relevant(item, keywords):
 
 
 IMAGE_EXTS = {"jpg", "jpeg", "png", "webp", "gif", "svg", "bmp"}
+AUDIO_EXTS = {"mp3", "m4a", "mp4", "wav", "aac", "ogg", "oga", "opus", "flac", "m4b"}
 
 
 def has_real_audio(item):
     """Substack podcast feeds mix real audio episodes with text-only newsletter
-    posts. Those text posts carry the post's cover image in audio_url and have no
-    size/duration — ASR can't convert an image, so skip them."""
+    posts. Those text posts carry the post's cover image in audio_url, so the
+    URL itself is what separates them.
+
+    Size and duration used to be required, but Substack publishes neither — so
+    every Lenny's episode was written off as a text post and never transcribed,
+    which is exactly the feed that needs ASR (its transcripts sit behind a
+    paywall). Judge by what the URL points at, and only fall back to
+    size/duration when the extension says nothing.
+    """
     url = (item.get("audio_url") or "").lower()
     if not url:
         return False
     base = url.split("?", 1)[0]
-    if "/image/" in url or base.rsplit(".", 1)[-1] in IMAGE_EXTS:
+    ext = base.rsplit(".", 1)[-1] if "." in base.rsplit("/", 1)[-1] else ""
+    if "/image/" in url or ext in IMAGE_EXTS:
         return False
-    # No byte size AND no duration → not an actual audio episode
-    if not item.get("audio_bytes") and not (item.get("duration") or "").strip():
-        return False
-    return True
+    if ext in AUDIO_EXTS:
+        return True
+    # Extension tells us nothing (redirect/tracking URL): fall back to metadata.
+    return bool(item.get("audio_bytes") or (item.get("duration") or "").strip())
 
 
-def should_transcribe(item, policy, keywords):
+def published_before(item, cutoff):
+    """ASR is paid per minute of audio, so the backlog is not worth buying.
+
+    Widening the channel policies makes every already-published episode in the
+    window newly eligible at once; this keeps spend on episodes going forward.
+    Episodes with no parseable date are treated as old and skipped.
+    """
+    if not cutoff:
+        return False
+    raw = (item.get("pub_date") or "").strip()
+    if not raw:
+        return True
+    try:
+        published = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+    except ValueError:
+        return True
+    if published.tzinfo is None:
+        published = published.replace(tzinfo=timezone.utc)
+    return published < cutoff
+
+
+def should_transcribe(item, policy, keywords, cutoff=None):
     if item.get("transcript") or (
         item.get("transcript_available") and item.get("transcript_path")
     ):
         return False, "already has transcript"
+    if published_before(item, cutoff):
+        return False, f"published before {cutoff.date()} (不补转历史)"
     if is_youtube_url(item.get("link")):
         pass  # audio is pulled from YouTube via yt-dlp, not audio_url
     elif not has_real_audio(item):
@@ -321,16 +354,30 @@ def query_task(client, api_key, request_id, poll_interval, max_wait):
     raise TimeoutError(f"transcription timed out after {max_wait}s; last body: {last_body[:500]}")
 
 
+def transcription_cutoff(sources):
+    raw = (sources.get("podcasts", {}).get("transcription", {})
+           .get("min_publish_date") or "").strip()
+    if not raw:
+        return None
+    try:
+        cutoff = datetime.fromisoformat(raw)
+    except ValueError:
+        log(f"⚠️ min_publish_date 无法解析: {raw!r},忽略该限制")
+        return None
+    return cutoff.replace(tzinfo=timezone.utc) if cutoff.tzinfo is None else cutoff
+
+
 def candidate_items(feed, sources):
     podcast_cfg = sources.get("podcasts", {})
     policies = channel_policy_map(sources)
     keywords = podcast_cfg.get("transcription", {}).get("relevance_keywords", [])
+    cutoff = transcription_cutoff(sources)
 
     candidates = []
     skipped = []
     for index, item in enumerate(feed.get("podcasts", [])):
         policy = policies.get(item.get("channel"), {})
-        ok, reason = should_transcribe(item, policy, keywords)
+        ok, reason = should_transcribe(item, policy, keywords, cutoff)
         if ok:
             candidates.append((index, item, reason))
         else:
