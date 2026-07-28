@@ -21,6 +21,7 @@
 
 ## 最近更新
 
+- `2026-07-28`：X 新增 [@ArtificialAnlys](https://x.com/ArtificialAnlys)（独立模型评测跑分）和 [@paulgauthier](https://x.com/paulgauthier)（Aider 作者），共 21 个账号；公众号新增「Web3天空之城」，共 2 个
 - `2026-07-28`：新增微信公众号来源——中文 AI 生态里很多一手内容只发在公众号，现在通过自建 wewe-rss 接入，和官方博客并入同一条 articles 流进日报（编号 B1/B2，可展开）
 - `2026-07-28`：中央改为「本机发布者」模式——公众号抓取依赖自建服务，云端够不到，因此改由维护者的 Mac 每天 06:00 定时全量抓取并推送到本仓库；订阅方无感，照常从 GitHub / CDN 拉 JSON
 - `2026-07-08`：新增 Naval Ravikant——加入 X 人物追踪、YouTube 人物访谈搜索和 Naval RSS 播客频道；Naval 频道单独使用 14 天窗口，避免错过低频长节目
@@ -97,15 +98,15 @@
 
 > 过滤规则：只收本周上传（YouTube 服务端过滤）、标题必须含人名（去同名假阳性）、时长 ≥ 15 分钟（去切片/shorts）、频道订阅数 ≥ 5 万（去小搬运号）、海外人物剔除非拉丁文字频道名/标题（去大号外语搬运/二创，如中文配音、印地语二创、韩语搬运）、海外人物要求视频有英文字幕轨（挡住英文标题的外语综艺，如韩综 You Quiz 上的 Jensen Huang 只有韩语字幕；只要英文原版）、剔除例行盘面播报和影视剧合集噪音；与频道订阅命中的同一期节目自动去重；每天最多新收 5 条，日报不会被人物命中刷屏。名单在 `config/sources.json` 的 `podcasts.people`。
 
-### Twitter/X（19 个账号）
+### Twitter/X（21 个账号）
 
-**分析师/研究者**：[@karpathy](https://x.com/karpathy)、[@swyx](https://x.com/swyx)、[@dylan522p](https://x.com/dylan522p)（SemiAnalysis）、[@insane_analyst](https://x.com/insane_analyst)（Irrational Analysis，半导体投资）、[@naval](https://x.com/naval)（Naval Ravikant）、[@leopoldasch](https://x.com/leopoldasch)、[@jimkxa](https://x.com/jimkxa)（Jim Keller）
+**分析师/研究者**：[@karpathy](https://x.com/karpathy)、[@swyx](https://x.com/swyx)、[@dylan522p](https://x.com/dylan522p)（SemiAnalysis）、[@insane_analyst](https://x.com/insane_analyst)（Irrational Analysis，半导体投资）、[@ArtificialAnlys](https://x.com/ArtificialAnlys)（Artificial Analysis，独立模型评测与跑分）、[@naval](https://x.com/naval)（Naval Ravikant）、[@leopoldasch](https://x.com/leopoldasch)、[@jimkxa](https://x.com/jimkxa)（Jim Keller）
 
 **决策者**：[@sama](https://x.com/sama)、[@DarioAmodei](https://x.com/DarioAmodei)、[@demishassabis](https://x.com/demishassabis)（Google DeepMind）、[@jietang](https://x.com/jietang)（Z.ai / Tsinghua）
 
 **基础设施**：[@nvidia](https://x.com/nvidia)（Jensen Huang / NVIDIA AI 基础设施信号）
 
-**建造者**：[@AmandaAskell](https://x.com/AmandaAskell)、[@bcherny](https://x.com/bcherny)（Claude Code）、[@_catwu](https://x.com/_catwu)、[@alexalbert__](https://x.com/alexalbert__)、[@rauchg](https://x.com/rauchg)（Vercel）、[@amasad](https://x.com/amasad)（Replit）、[@joshwoodward](https://x.com/joshwoodward)（Google Labs）
+**建造者**：[@AmandaAskell](https://x.com/AmandaAskell)、[@bcherny](https://x.com/bcherny)（Claude Code）、[@_catwu](https://x.com/_catwu)、[@alexalbert__](https://x.com/alexalbert__)、[@rauchg](https://x.com/rauchg)（Vercel）、[@amasad](https://x.com/amasad)（Replit）、[@joshwoodward](https://x.com/joshwoodward)（Google Labs）、[@paulgauthier](https://x.com/paulgauthier)（Aider 作者）
 
 > 选人标准：在一线做事 / 有独立判断 / 用真金白银下注。不选搬运号、评论员、流量账号。
 
@@ -121,9 +122,14 @@
 
 > 模型发布、产品上线、研究成果、安全框架，第一时间从官方渠道进日报，不等二手转述。每家每天最多 5 条，48 小时窗口。
 
-### 微信公众号
+### 微信公众号（2 个）
 
-中文 AI 生态里大量一手内容（模型评测、工程实践、行业观察）只在公众号发，英文源覆盖不到。中央通过自建的 [wewe-rss](https://github.com/cooderl/wewe-rss) 把订阅的公众号转成 RSS 再并入 feed，产出 `feed-wechat.json`，在日报里和官方博客同属 articles 流，会标注来源公众号名。
+| 公众号 | 为什么选 |
+|--------|----------|
+| 数字生命卡兹克 | 一线 AI 工具实测与工程实践，出手快、动手做，不停留在转述 |
+| Web3天空之城 | AI 与加密的交叉视角，关注技术叙事背后的资本与产业变化 |
+
+中文 AI 生态里大量一手内容（模型评测、工程实践、行业观察）只在公众号发，英文源覆盖不到。中央通过自建的 [wewe-rss](https://github.com/cooderl/wewe-rss) 把订阅的公众号转成 RSS 再并入 feed，产出 `feed-wechat.json`，在日报里和官方博客同属 articles 流，会标注来源公众号名，**带正文摘要**（默认前 1500 字，可展开原文链接）。
 
 > 72 小时窗口，每天最多 30 篇、单个公众号最多 5 篇。订阅列表由中央维护，随时可加，**订阅方不需要任何配置**——公众号登录态、Docker、抓取全在中央那一端。
 

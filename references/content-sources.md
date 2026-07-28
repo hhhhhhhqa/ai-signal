@@ -39,12 +39,13 @@ Naval Ravikant
 **China AI:** 闫俊杰 (MiniMax), 杨植麟 (Moonshot), 梁文锋 (DeepSeek), 唐杰 (智谱),
 罗福莉, 李广密 (拾象), 肖弘 (Manus)
 
-### Twitter/X (19 accounts)
-**Analysts:** Karpathy, Swyx, Dylan Patel (SemiAnalysis), Irrational Analysis, Naval Ravikant,
+### Twitter/X (21 accounts)
+**Analysts:** Karpathy, Swyx, Dylan Patel (SemiAnalysis), Irrational Analysis,
+Artificial Analysis (independent model benchmarks), Naval Ravikant,
 Leopold Aschenbrenner, Jim Keller
 **Executives:** Sam Altman, Dario Amodei, Demis Hassabis (Google DeepMind), Tang Jie (Z.ai)
 **Infrastructure:** NVIDIA (Jensen Huang / AI infrastructure signal)
-**Builders:** Amanda Askell, Boris Cherny (Claude Code), Cat Wu, Alex Albert, Guillermo Rauch (Vercel), Amjad Masad (Replit), Josh Woodward (Google Labs)
+**Builders:** Amanda Askell, Boris Cherny (Claude Code), Cat Wu, Alex Albert, Guillermo Rauch (Vercel), Amjad Masad (Replit), Josh Woodward (Google Labs), Paul Gauthier (Aider)
 
 ### Official blogs (3 labs)
 Anthropic (official sitemap — Anthropic has no RSS — filtered by the real
@@ -53,14 +54,18 @@ publish date on the article page), OpenAI (official RSS), Google DeepMind
 frameworks land straight from the source instead of second-hand coverage.
 Up to 5 per lab per day, 48h window. Served as `feed-blogs.json`.
 
-### WeChat 公众号
+### WeChat 公众号 (2 accounts)
+数字生命卡兹克 (hands-on AI tooling tests and engineering practice),
+Web3天空之城 (AI × crypto, capital and industry shifts behind the tech).
+
 A lot of first-hand Chinese AI content (model evals, engineering write-ups,
 industry analysis) is published only on WeChat 公众号 and never surfaces in the
 English sources. The central feed pulls subscribed 公众号 through a self-hosted
 [wewe-rss](https://github.com/cooderl/wewe-rss) instance and merges them in.
 72h window, up to 30 articles per day and 5 per account; every item carries the
-source 公众号 name. Served as `feed-wechat.json`, and merged into the same
-`articles` stream as the official blogs (so they share the B1/B2 numbering).
+source 公众号 name and a body excerpt (first 1500 chars). Served as
+`feed-wechat.json`, and merged into the same `articles` stream as the official
+blogs (so they share the B1/B2 numbering).
 
 ### arXiv Papers (daily, up to 30)
 cs.AI (Artificial Intelligence), cs.CL (Computation and Language), cs.LG (Machine Learning)
