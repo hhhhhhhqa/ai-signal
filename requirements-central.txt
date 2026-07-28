@@ -7,3 +7,6 @@
 twscrape @ git+https://github.com/jonsuh/twscrape.git@6f2e01d1aa3ee2185809870204e76d12fb65314b
 youtube-transcript-api>=0.6
 yt-dlp>=2024.1
+# Renders the 微信读书 re-login QR into the health alert email. Optional —
+# healthcheck.py falls back to a plain link if it is missing.
+qrcode[pil]>=7.4

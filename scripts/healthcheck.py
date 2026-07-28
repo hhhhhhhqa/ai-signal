@@ -296,7 +296,46 @@ def notify_webhook(text):
         log(f"  ⚠️ webhook 推送失败: {exc}")
 
 
-def notify_email(subject, text):
+def wechat_login_qr():
+    """Ask wewe-rss for a fresh login URL and render it as a PNG.
+
+    Getting told the login died is only half useful — the fix is a QR scan, and
+    hunting for the dashboard on a phone is the annoying part. Returns
+    (png_bytes, scan_url), or None when we can't produce one.
+    """
+    auth = os.environ.get("WEWE_RSS_AUTH_CODE", "").strip()
+    if not auth:
+        return None
+    try:
+        sources = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
+        base_url = ((sources.get("wechat") or {}).get("base_url") or "").rstrip("/")
+        resp = httpx.post(f"{base_url}/trpc/platform.createLoginUrl",
+                          headers={"Authorization": auth,
+                                   "Content-Type": "application/json"},
+                          json={"json": None}, timeout=30)
+        resp.raise_for_status()
+        scan_url = resp.json()["result"]["data"]["scanUrl"]
+    except Exception as exc:
+        log(f"  ⚠️ 生成登录二维码失败: {exc}")
+        return None
+
+    try:
+        import io
+
+        import qrcode
+
+        qr = qrcode.QRCode(box_size=8, border=2)
+        qr.add_data(scan_url)
+        qr.make(fit=True)
+        buf = io.BytesIO()
+        qr.make_image(fill_color="black", back_color="white").save(buf, format="PNG")
+        return buf.getvalue(), scan_url
+    except Exception as exc:
+        log(f"  ⚠️ 二维码渲染失败(仍会附上链接): {exc}")
+        return b"", scan_url
+
+
+def notify_email(subject, text, attachments=None):
     """Two ways in, because neither is universally convenient: SMTP needs an
     app password (so 2FA on the account), Resend needs a signup. SMTP is tried
     first since it depends on no third party — but it falls through to Resend
@@ -319,6 +358,8 @@ def notify_email(subject, text):
         msg["From"] = smtp_user
         msg["To"] = to_addr
         msg.set_content(text)
+        for name, blob in (attachments or []):
+            msg.add_attachment(blob, maintype="image", subtype="png", filename=name)
         try:
             # 465 is implicit TLS; anything else (587) negotiates STARTTLS.
             if port == 465:
@@ -342,12 +383,20 @@ def notify_email(subject, text):
         log(f"  ⚠️ HEALTH_EMAIL_TO 已设为 {to_addr},但没有可用的发信方式"
             "(HEALTH_SMTP_USER/HEALTH_SMTP_PASS 或 RESEND_API_KEY),邮件跳过")
         return
+    payload = {"from": "AI Signal <onboarding@resend.dev>", "to": [to_addr],
+               "subject": subject, "text": text}
+    if attachments:
+        import base64
+
+        payload["attachments"] = [
+            {"filename": name, "content": base64.b64encode(blob).decode()}
+            for name, blob in attachments
+        ]
     try:
         resp = httpx.post(
             "https://api.resend.com/emails",
             headers={"Authorization": f"Bearer {api_key}"},
-            json={"from": "AI Signal <onboarding@resend.dev>", "to": [to_addr],
-                  "subject": subject, "text": text},
+            json=payload,
             timeout=30,
         )
         if resp.is_success:
@@ -433,10 +482,25 @@ def main():
             body_lines.append(f"   → {c['fix']}")
     body = "\n".join(body_lines)
 
+    # The one failure with a self-service fix: ship the QR so the mail alone is
+    # enough to recover, without opening a terminal or the dashboard.
+    attachments = []
+    if any(c["title"] == "公众号" and c["status"] == FAIL for c in problems):
+        qr = wechat_login_qr()
+        if qr:
+            png, scan_url = qr
+            if png:
+                attachments.append(("wechat-login-qr.png", png))
+                body += ("\n\n📱 附件里是微信读书的登录二维码,用微信扫一下即可恢复。"
+                         "\n   二维码有效期只有几分钟,过期了就重新跑一次这个检查:"
+                         f"\n   cd {ROOT} && .venv/bin/python scripts/healthcheck.py --wechat-only")
+            body += f"\n   扫码链接:{scan_url}"
+
     notify_macos(headline, body_lines[0])
     notify_email(f"[AI Signal] {headline.split(': ', 1)[-1]}",
                  f"{body}\n\n检查时间:{datetime.now().strftime('%Y-%m-%d %H:%M')}\n"
-                 f"完整结果:{STATE_PATH}\n运行日志:{ROOT / 'run-cron.log'}")
+                 f"完整结果:{STATE_PATH}\n运行日志:{ROOT / 'run-cron.log'}",
+                 attachments=attachments)
     notify_webhook(f"{headline}\n{body}")
     notify_telegram(f"{headline}\n{body}")
 
