@@ -1802,6 +1802,82 @@ def fetch_blogs(sources):
     return {"articles": articles, "errors": errors or None}
 
 
+# ── WeChat official accounts (via self-hosted wewe-rss) ───────────────────────
+
+def fetch_wechat(sources):
+    """Pull WeChat 公众号 posts from a self-hosted wewe-rss instance.
+
+    wewe-rss exposes a JSON Feed at {base_url}/feeds/all.json where every item
+    already carries its source account name under author.name — one request
+    covers all subscribed accounts, and new accounts show up automatically.
+    """
+    wx_cfg = sources.get("wechat", {})
+    log("\n━━━ WeChat 公众号 ━━━")
+    if not wx_cfg.get("enabled"):
+        return {"articles": [], "errors": ["wechat source disabled"]}
+
+    base_url = (wx_cfg.get("base_url") or "").rstrip("/")
+    if not base_url:
+        log("⚠️ wechat.base_url not set, skipping WeChat")
+        return {"articles": [], "errors": ["wechat.base_url not set"]}
+
+    lookback = wx_cfg.get("lookback_hours", 72)
+    max_articles = wx_cfg.get("max_articles", 30)
+    max_per_account = wx_cfg.get("max_per_account", 5)
+    since = datetime.now(timezone.utc) - timedelta(hours=lookback)
+
+    url = f"{base_url}/feeds/all.json"
+    feed = None
+    last_err = None
+    for attempt in range(4):
+        # wewe-rss can return 503 while it is busy regenerating a feed; retry.
+        try:
+            resp = httpx.get(url, timeout=30, headers={"User-Agent": UA}, follow_redirects=True)
+            resp.raise_for_status()
+            feed = resp.json()
+            break
+        except Exception as e:
+            last_err = e
+            time.sleep(2 * (attempt + 1))
+    if feed is None:
+        log(f"  ⚠️ wewe-rss unreachable at {url}: {last_err}")
+        return {"articles": [], "errors": [f"wewe-rss unreachable: {last_err}"]}
+
+    per_account = {}
+    articles = []
+    for it in feed.get("items", []):
+        link = (it.get("url") or "").strip()
+        title = re.sub(r"\s+", " ", (it.get("title") or "")).strip()
+        if not title or not link:
+            continue
+        pub = parse_iso_datetime(it.get("date_modified") or it.get("date_published"))
+        if pub and pub < since:
+            continue
+        author = it.get("author") or {}
+        account = (author.get("name") if isinstance(author, dict) else str(author)) or "公众号"
+        # cap per account so one prolific 公众号 can't flood the digest
+        seen = per_account.get(account, 0)
+        if seen >= max_per_account:
+            continue
+        per_account[account] = seen + 1
+        summary = html_to_text(it.get("content_html") or "")
+        articles.append({
+            "id": link,
+            "source": "wechat",
+            "source_name": account,
+            "title": title,
+            "url": link,
+            "published": pub.isoformat() if pub else None,
+            "summary": summary[:600].strip(),
+        })
+
+    articles.sort(key=lambda a: a.get("published") or "", reverse=True)
+    articles = articles[:max_articles]
+    accounts = len({a["source_name"] for a in articles})
+    log(f"  ✅ {len(articles)} articles from {accounts} 公众号")
+    return {"articles": articles, "errors": None}
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 async def main():
@@ -1811,6 +1887,7 @@ async def main():
     parser.add_argument("--podcasts-only", action="store_true")
     parser.add_argument("--arxiv-only", action="store_true")
     parser.add_argument("--blogs-only", action="store_true")
+    parser.add_argument("--wechat-only", action="store_true")
     parser.add_argument("--people-only", action="store_true",
                         help="refresh person-appearance searches only; keep channel episodes as-is")
     args = parser.parse_args()
@@ -1820,7 +1897,7 @@ async def main():
     FEEDS_DIR.mkdir(parents=True, exist_ok=True)
 
     run_all = not (args.twitter_only or args.podcasts_only or args.arxiv_only
-                   or args.blogs_only or args.people_only)
+                   or args.blogs_only or args.wechat_only or args.people_only)
 
     if run_all or args.twitter_only:
         log("\n━━━ Twitter/X ━━━")
@@ -1862,6 +1939,17 @@ async def main():
                 blogs_feed = existing_blogs
         write_json(FEEDS_DIR / "feed-blogs.json", blogs_feed)
         log(f"✅ feed-blogs.json ({len(blogs_feed['articles'])} articles)")
+
+    if run_all or args.wechat_only:
+        wechat_feed = fetch_wechat(sources)
+        wechat_feed["generated_at"] = now.isoformat()
+        if not wechat_feed["articles"] and wechat_feed.get("errors"):
+            existing_wechat = load_feed("feed-wechat.json")
+            if existing_wechat and existing_wechat.get("articles"):
+                log("ℹ️  WeChat fetch returned nothing; keeping existing feed-wechat.json")
+                wechat_feed = existing_wechat
+        write_json(FEEDS_DIR / "feed-wechat.json", wechat_feed)
+        log(f"✅ feed-wechat.json ({len(wechat_feed['articles'])} articles)")
 
     log("\n🎉 Feed generation complete")
 

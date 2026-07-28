@@ -121,7 +121,7 @@
 
 打开你的 AI Agent（OpenClaw / Claude Code / Cursor / WorkBuddy / Codex 等），说一句话：
 
-> **帮我安装 https://github.com/Benboerba620/ai-signal**
+> **帮我安装 https://github.com/hhhhhhhqa/ai-signal**
 
 AI 会自动完成安装，然后引导你设置推送频率和时间、语言、详细程度和输出方式。设置完**立刻生成第一份日报**。
 
@@ -132,24 +132,24 @@ AI 会自动完成安装，然后引导你设置推送频率和时间、语言�
 
 ```bash
 # OpenClaw
-git clone https://github.com/Benboerba620/ai-signal.git ~/skills/ai-signal
+git clone https://github.com/hhhhhhhqa/ai-signal.git ~/skills/ai-signal
 cd ~/skills/ai-signal/scripts && pip install -r ../requirements.txt
 
 # Claude Code
-git clone https://github.com/Benboerba620/ai-signal.git ~/.claude/skills/ai-signal
+git clone https://github.com/hhhhhhhqa/ai-signal.git ~/.claude/skills/ai-signal
 cd ~/.claude/skills/ai-signal/scripts && pip install -r ../requirements.txt
 
 # 其他
-git clone https://github.com/Benboerba620/ai-signal.git
+git clone https://github.com/hhhhhhhqa/ai-signal.git
 cd ai-signal/scripts && pip install -r ../requirements.txt
 ```
 
 **国内网络 clone 失败？** 用镜像加速前缀（示例，失效就换一个同类服务）：
 
 ```bash
-git clone https://gh-proxy.com/https://github.com/Benboerba620/ai-signal.git
+git clone https://gh-proxy.com/https://github.com/hhhhhhhqa/ai-signal.git
 # 或
-git clone https://ghfast.top/https://github.com/Benboerba620/ai-signal.git
+git clone https://ghfast.top/https://github.com/hhhhhhhqa/ai-signal.git
 ```
 
 安装后的每日 feed 更新不依赖代理：GitHub 直连失败时自动切换 jsDelivr CDN 镜像。

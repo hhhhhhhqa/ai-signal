@@ -31,7 +31,7 @@ from feedback import summarize_feedback
 SCRIPT_DIR = Path(__file__).parent
 ROOT_DIR = SCRIPT_DIR.parent
 
-RAW_BASE = "https://raw.githubusercontent.com/Benboerba620/ai-signal/main"
+RAW_BASE = "https://raw.githubusercontent.com/hhhhhhhqa/ai-signal/main"
 # Tried in order. raw.githubusercontent.com is blocked in some regions
 # (notably mainland China), and cdn.jsdelivr.net itself is unreliable there
 # since its mainland nodes were shut down. The extra jsDelivr endpoints serve
@@ -40,10 +40,10 @@ RAW_BASE = "https://raw.githubusercontent.com/Benboerba620/ai-signal/main"
 # Override with AI_SIGNAL_BASE_URLS="https://base1,https://base2" if needed.
 MIRROR_BASES = [
     RAW_BASE,
-    "https://cdn.jsdelivr.net/gh/Benboerba620/ai-signal@main",
-    "https://fastly.jsdelivr.net/gh/Benboerba620/ai-signal@main",
-    "https://gcore.jsdelivr.net/gh/Benboerba620/ai-signal@main",
-    "https://testingcf.jsdelivr.net/gh/Benboerba620/ai-signal@main",
+    "https://cdn.jsdelivr.net/gh/hhhhhhhqa/ai-signal@main",
+    "https://fastly.jsdelivr.net/gh/hhhhhhhqa/ai-signal@main",
+    "https://gcore.jsdelivr.net/gh/hhhhhhhqa/ai-signal@main",
+    "https://testingcf.jsdelivr.net/gh/hhhhhhhqa/ai-signal@main",
 ]
 PROMPT_FILES = [
     "summarize-podcast.md",
@@ -613,6 +613,7 @@ def main():
     feed_podcasts, podcast_source = fetch_feed("feed-podcasts.json", "podcasts")
     feed_arxiv, arxiv_source = fetch_feed("feed-arxiv.json", "papers")
     feed_blogs, blogs_source = fetch_feed("feed-blogs.json", "articles")
+    feed_wechat, wechat_source = fetch_feed("feed-wechat.json", "articles")
     include_central_summaries = wants_central_summaries(config)
     if include_central_summaries:
         feed_summaries, summaries_source = fetch_feed("feed-summaries.json", "profiles")
@@ -625,6 +626,7 @@ def main():
             "podcasts": podcast_source,
             "arxiv": arxiv_source,
             "blogs": blogs_source,
+            "wechat": wechat_source,
             "summaries": summaries_source,
         },
         {
@@ -632,6 +634,7 @@ def main():
             "podcasts": feed_podcasts,
             "arxiv": feed_arxiv,
             "blogs": feed_blogs,
+            "wechat": feed_wechat,
             "summaries": feed_summaries,
         },
     )
@@ -652,6 +655,15 @@ def main():
     if not feed_blogs:
         # Newer feed: older central snapshots/mirror caches may not have it yet
         warnings.append("Could not fetch official blog feed; skipping blog articles this run")
+    if not feed_wechat:
+        # Optional source (self-hosted wewe-rss); absence is non-fatal
+        warnings.append("Could not fetch WeChat 公众号 feed; skipping 公众号 articles this run")
+
+    # Official blogs and WeChat 公众号 share the same article shape, so they flow
+    # through the digest as one "articles" stream (each keeps its own source_name).
+    def all_articles():
+        return ((feed_blogs or {}).get("articles", []) or []) + \
+               ((feed_wechat or {}).get("articles", []) or [])
 
     # 3. Load prompts: user custom > remote > local
     prompts = {}
@@ -682,14 +694,14 @@ def main():
         x_accounts = (feed_x or {}).get("x", [])
         episodes = (feed_podcasts or {}).get("podcasts", [])
         papers = (feed_arxiv or {}).get("papers", [])
-        articles = (feed_blogs or {}).get("articles", [])
+        articles = all_articles()
         marks = {"tweets": {}, "episodes": {}, "papers": {}, "articles": {}}
     else:
         x_accounts, episodes, papers, articles, marks = filter_unseen(
             feed_x,
             feed_podcasts,
             (feed_arxiv or {}).get("papers", []),
-            (feed_blogs or {}).get("articles", []),
+            all_articles(),
             seen,
         )
 

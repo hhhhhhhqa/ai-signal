@@ -164,13 +164,34 @@ def is_relevant(item, keywords):
     return False
 
 
+IMAGE_EXTS = {"jpg", "jpeg", "png", "webp", "gif", "svg", "bmp"}
+
+
+def has_real_audio(item):
+    """Substack podcast feeds mix real audio episodes with text-only newsletter
+    posts. Those text posts carry the post's cover image in audio_url and have no
+    size/duration — ASR can't convert an image, so skip them."""
+    url = (item.get("audio_url") or "").lower()
+    if not url:
+        return False
+    base = url.split("?", 1)[0]
+    if "/image/" in url or base.rsplit(".", 1)[-1] in IMAGE_EXTS:
+        return False
+    # No byte size AND no duration → not an actual audio episode
+    if not item.get("audio_bytes") and not (item.get("duration") or "").strip():
+        return False
+    return True
+
+
 def should_transcribe(item, policy, keywords):
     if item.get("transcript") or (
         item.get("transcript_available") and item.get("transcript_path")
     ):
         return False, "already has transcript"
-    if not item.get("audio_url") and not is_youtube_url(item.get("link")):
-        return False, "missing audio_url"
+    if is_youtube_url(item.get("link")):
+        pass  # audio is pulled from YouTube via yt-dlp, not audio_url
+    elif not has_real_audio(item):
+        return False, "no real audio (text-only post / image)"
 
     mode = policy.get("transcribe_missing", False)
     if mode is True:

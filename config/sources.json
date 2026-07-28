@@ -440,5 +440,12 @@
         "url": "https://deepmind.google/blog/rss.xml"
       }
     ]
+  },
+  "wechat": {
+    "enabled": true,
+    "base_url": "http://127.0.0.1:4000",
+    "lookback_hours": 72,
+    "max_articles": 30,
+    "max_per_account": 5
   }
 }
