@@ -243,12 +243,25 @@ tail -30 run-cron.log
 | ASR 转录 | 转录失败里是否含余额/配额字样 | 去火山引擎控制台看余额 |
 | arXiv / 博客 / 播客 | feed 是否超 26h 没更新 | 对应来源连续抓取失败 |
 
-结果写进 `~/.ai-signal/health.json`，有问题时**默认弹一条 macOS 通知**（零配置）。想推到手机，在 `.env` 里补上任一组：
+结果写进 `~/.ai-signal/health.json`，有问题时**默认弹一条 macOS 通知**（零配置）。想收邮件或推到手机，在 `.env` 里补上任一组，多个渠道可叠加：
 
 ```bash
-HEALTH_WEBHOOK_URL=...    # 飞书 / 企业微信 自定义机器人
-HEALTH_TG_BOT_TOKEN=...   # Telegram(配合 HEALTH_TG_CHAT_ID)
+# 邮件(二选一种发信方式)
+HEALTH_EMAIL_TO=you@example.com
+HEALTH_SMTP_USER=you@gmail.com     # 方式 A：SMTP，密码用 Google 应用专用密码
+HEALTH_SMTP_PASS=xxxxxxxxxxxxxxxx  #   host/port 默认 smtp.gmail.com:465
+RESEND_API_KEY=re_xxx              # 方式 B：Resend（不配 SMTP 时用它）
+
+HEALTH_WEBHOOK_URL=...             # 飞书 / 企业微信 自定义机器人
+HEALTH_TG_BOT_TOKEN=...            # Telegram（配合 HEALTH_TG_CHAT_ID）
 HEALTH_TG_CHAT_ID=...
+```
+
+配完不用等真故障，直接验证通道：
+
+```bash
+set -a; source .env; set +a
+.venv/bin/python scripts/healthcheck.py --test
 ```
 
 > ASR 那项是**症状检测**不是余额查询——火山的 API-key 凭据查不了余额，所以只能在转录报错里识别余额/配额关键词。余额耗尽会在第一次尝试转录时被发现，不会提前预警。

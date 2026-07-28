@@ -11,6 +11,10 @@ Run it at the end of ``run.sh``; it needs no arguments. Exit code is 1 when
 something is broken, 0 otherwise, so a manual run reads like a normal command.
 
 Alert channels, all optional and additive (set in .env):
+  HEALTH_EMAIL_TO      recipient; enables email. Send via SMTP when
+                       HEALTH_SMTP_USER/HEALTH_SMTP_PASS are set (host and port
+                       default to Gmail), otherwise via Resend when
+                       RESEND_API_KEY is set.
   HEALTH_WEBHOOK_URL   飞书 / 企业微信 自定义机器人 webhook — pushes to phone
   HEALTH_TG_BOT_TOKEN  Telegram bot token (needs HEALTH_TG_CHAT_ID too)
   HEALTH_TG_CHAT_ID    Telegram chat id
@@ -259,6 +263,64 @@ def notify_webhook(text):
         log(f"  ⚠️ webhook 推送失败: {exc}")
 
 
+def notify_email(subject, text):
+    """Two ways in, because neither is universally convenient: SMTP needs an
+    app password (so 2FA on the account), Resend needs a signup. Whichever is
+    configured wins; SMTP first since it depends on no third party."""
+    to_addr = os.environ.get("HEALTH_EMAIL_TO", "").strip()
+    if not to_addr:
+        return
+
+    smtp_user = os.environ.get("HEALTH_SMTP_USER", "").strip()
+    smtp_pass = os.environ.get("HEALTH_SMTP_PASS", "").strip()
+    if smtp_user and smtp_pass:
+        import smtplib
+        from email.message import EmailMessage
+
+        host = os.environ.get("HEALTH_SMTP_HOST", "smtp.gmail.com").strip()
+        port = int(os.environ.get("HEALTH_SMTP_PORT", "465"))
+        msg = EmailMessage()
+        msg["Subject"] = subject
+        msg["From"] = smtp_user
+        msg["To"] = to_addr
+        msg.set_content(text)
+        try:
+            # 465 is implicit TLS; anything else (587) negotiates STARTTLS.
+            if port == 465:
+                with smtplib.SMTP_SSL(host, port, timeout=30) as server:
+                    server.login(smtp_user, smtp_pass)
+                    server.send_message(msg)
+            else:
+                with smtplib.SMTP(host, port, timeout=30) as server:
+                    server.starttls()
+                    server.login(smtp_user, smtp_pass)
+                    server.send_message(msg)
+            log(f"  📧 已邮件通知 {to_addr}")
+        except Exception as exc:
+            log(f"  ⚠️ 邮件发送失败({host}:{port}): {exc}")
+        return
+
+    api_key = os.environ.get("RESEND_API_KEY", "").strip()
+    if not api_key:
+        log(f"  ⚠️ HEALTH_EMAIL_TO 已设为 {to_addr},但没有配 "
+            "HEALTH_SMTP_USER/HEALTH_SMTP_PASS 或 RESEND_API_KEY,邮件跳过")
+        return
+    try:
+        resp = httpx.post(
+            "https://api.resend.com/emails",
+            headers={"Authorization": f"Bearer {api_key}"},
+            json={"from": "AI Signal <onboarding@resend.dev>", "to": [to_addr],
+                  "subject": subject, "text": text},
+            timeout=30,
+        )
+        if resp.is_success:
+            log(f"  📧 已邮件通知 {to_addr}")
+        else:
+            log(f"  ⚠️ 邮件发送失败(resend {resp.status_code}): {resp.text[:200]}")
+    except Exception as exc:
+        log(f"  ⚠️ 邮件发送失败(resend): {exc}")
+
+
 def notify_telegram(text):
     token = os.environ.get("HEALTH_TG_BOT_TOKEN", "").strip()
     chat_id = os.environ.get("HEALTH_TG_CHAT_ID", "").strip()
@@ -271,7 +333,29 @@ def notify_telegram(text):
         log(f"  ⚠️ Telegram 推送失败: {exc}")
 
 
+def send_test_alert():
+    """Verify the notification channels without waiting for a real failure."""
+    headline = "AI Signal: 通道测试"
+    body = ("这是一条测试告警。收到就说明这个渠道能用,\n"
+            "真出问题时(cookie 过期 / 微信读书掉登录 / ASR 没余额)会走同一条路。")
+    log("\n━━━ 发送测试告警 ━━━")
+    notify_macos(headline, "测试告警,收到即通道正常")
+    notify_email("[AI Signal] 通道测试", body)
+    notify_webhook(f"{headline}\n{body}")
+    notify_telegram(f"{headline}\n{body}")
+    configured = [name for name, on in (
+        ("邮件", os.environ.get("HEALTH_EMAIL_TO")),
+        ("webhook", os.environ.get("HEALTH_WEBHOOK_URL")),
+        ("Telegram", os.environ.get("HEALTH_TG_BOT_TOKEN")),
+    ) if on]
+    log(f"  已配置渠道:macOS 通知" + ("、" + "、".join(configured) if configured else "(仅此一项)"))
+    return 0
+
+
 def main():
+    if "--test" in sys.argv:
+        return send_test_alert()
+
     checks = [check_dependencies(), check_x(), check_wechat(), check_asr()]
     checks.extend(check_other_feeds())
 
@@ -304,6 +388,9 @@ def main():
     body = "\n".join(body_lines)
 
     notify_macos(headline, body_lines[0])
+    notify_email(f"[AI Signal] {headline.split(': ', 1)[-1]}",
+                 f"{body}\n\n检查时间:{datetime.now().strftime('%Y-%m-%d %H:%M')}\n"
+                 f"完整结果:{STATE_PATH}\n运行日志:{ROOT / 'run-cron.log'}")
     notify_webhook(f"{headline}\n{body}")
     notify_telegram(f"{headline}\n{body}")
 
