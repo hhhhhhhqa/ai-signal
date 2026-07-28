@@ -17,21 +17,41 @@
           "id": "2081904230768816487",
           "text": "incidentally, $ per input/output tokens died as a relevant cost measure sometime last year\n\nif you haven’t updated your x axes to $/task per @ArtificialAnlys then idk if you can be taken seriously anymore these days",
           "created_at": "2026-07-28T00:47:03+00:00",
-          "like_count": 138,
-          "retweet_count": 6,
-          "reply_count": 37,
-          "engagement_score": 187,
+          "like_count": 286,
+          "retweet_count": 12,
+          "reply_count": 52,
+          "engagement_score": 362,
           "url": "https://x.com/swyx/status/2081904230768816487"
+        },
+        {
+          "id": "2082199414656127010",
+          "text": "re: hiring right now\n\nit's a huge bull market for AI-native IC's/player-coaches\nit's a huge bear market for \"heads of X\" managers\n\nnever seen such furious bifurcation. to oversimplify: 1 year experience managing 10 agents &gt; 10 years experience managing 10-100 people",
+          "created_at": "2026-07-28T20:20:00+00:00",
+          "like_count": 188,
+          "retweet_count": 8,
+          "reply_count": 32,
+          "engagement_score": 236,
+          "url": "https://x.com/swyx/status/2082199414656127010"
         },
         {
           "id": "2081890955070980416",
           "text": "as the progenitor of the agent lab thesis which got the evals/routing/interactivity/ROI focus right\n\n i gotta say the biggest argument against myself is that Claude Code got accidentally \"open sourced\" this year and approximately ~nothing happened to either it or its competitors' roadmaps",
           "created_at": "2026-07-27T23:54:18+00:00",
-          "like_count": 61,
-          "retweet_count": 3,
-          "reply_count": 17,
-          "engagement_score": 84,
+          "like_count": 90,
+          "retweet_count": 4,
+          "reply_count": 30,
+          "engagement_score": 128,
           "url": "https://x.com/swyx/status/2081890955070980416"
+        },
+        {
+          "id": "2082165420237492346",
+          "text": "really grateful to @realbasilchatha for helping me curate a survey of the entire field of Forward Deployed Engineering in one track!\n\nFrom FDE 101 by @zkevinbai (Anthropic, Palantir, Rippling Founding FDE) to head of FDE practices at:\n\n- Decagon\n- Cursor\n- Sierra\n- Ramp\n- Cognition\n- Factory\n- Kepler\n- Varick (tooling for FDEs)\n\nloving the track drop model for releasing the 30+ tracks from AIEWF. please give them some love and send to friends exploring FDE career paths. \n\nall of the speakers are hiring. naturally.",
+          "created_at": "2026-07-28T18:04:55+00:00",
+          "like_count": 29,
+          "retweet_count": 6,
+          "reply_count": 9,
+          "engagement_score": 50,
+          "url": "https://x.com/swyx/status/2082165420237492346"
         }
       ]
     },
@@ -47,18 +67,7 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2081576298573685197",
-          "text": "\"Did you know that the first Matrix was designed to be a perfect human world where none suffered, where everyone would be happy. It was a disaster. No one would accept the program.\"\n\nThere will be no abundance due to AI.\n\nCultists are neither less wrong nor rational.\n\nhttps://t.co/QKDtIIPoPS",
-          "created_at": "2026-07-27T03:03:58+00:00",
-          "like_count": 73,
-          "retweet_count": 2,
-          "reply_count": 10,
-          "engagement_score": 87,
-          "url": "https://x.com/insane_analyst/status/2081576298573685197"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "ArtificialAnlys",
@@ -70,21 +79,31 @@
           "id": "2081821449745236270",
           "text": "Kimi K3 weights have been released! Kimi K3 is now the leading open weights model at 57 in the Artificial Analysis Intelligence Index\n\nMoonshot has released the weights of their 2.6T parameter model under their 'Kimi K3 License' which we have labelled ‘Commercial Use Restricted’.\n\nRestrictions compared with more permissive licenses such as MIT or Apache 2.0 include requiring model-as-a-service businesses with more than $20 million in revenue to enter into a separate agreement. Commercial products with more than 100 million monthly active users or $20 million in monthly revenue also need to display “Kimi K3” in the user interface.\n\n@Kimi_Moonshot has also released their technical report with insights into model’s architecture and training approach. \n\nLinks below to the weights on Hugging Face, the Technical Report and further benchmarks 🔽",
           "created_at": "2026-07-27T19:18:06+00:00",
-          "like_count": 1096,
-          "retweet_count": 111,
-          "reply_count": 35,
-          "engagement_score": 1353,
+          "like_count": 1257,
+          "retweet_count": 121,
+          "reply_count": 42,
+          "engagement_score": 1541,
           "url": "https://x.com/ArtificialAnlys/status/2081821449745236270"
         },
         {
           "id": "2081926991788626011",
           "text": "Open weights intelligence advanced today with the release of Kimi K3. The gap between the leading proprietary and open weights models is now just 4 points on the Artificial Analysis Intelligence Index, the smallest it has been since the GLM-5 release in February\n\n@Kimi_Moonshot's Kimi K3 scores 57 on the Artificial Analysis Intelligence Index. Only two labs have higher-scoring models: @AnthropicAI, with Claude Opus 5 at 61 and Claude Fable 5 at 60, and @OpenAI, with GPT-5.6 Sol at 59.",
           "created_at": "2026-07-28T02:17:29+00:00",
-          "like_count": 334,
-          "retweet_count": 36,
-          "reply_count": 21,
-          "engagement_score": 427,
+          "like_count": 563,
+          "retweet_count": 59,
+          "reply_count": 31,
+          "engagement_score": 712,
           "url": "https://x.com/ArtificialAnlys/status/2081926991788626011"
+        },
+        {
+          "id": "2082179251407917475",
+          "text": "Alibaba has released Qwen Audio 3.0 Realtime, with the Plus variant debuting as the new #1 model on the Artificial Analysis Speech to Speech Index at 84.1%, ahead of GPT-Realtime-2.1 High at 79.1%\n\nReleased earlier this month, Qwen Audio 3.0 Realtime is @Alibaba_Qwen’s flagship native Speech to Speech model, available in two variants: Plus and Flash. Qwen Audio 3.0 Realtime Plus leads on all three component benchmarks comprising the Artificial Analysis Speech to Speech Index, Big Bench Audio for Speech Reasoning, Full Duplex Bench for Conversational Dynamics, and Tau Voice for Agentic Performance. We tested the China-hosted endpoints on Aliyun (Alibaba Cloud).\n\nKey takeaways:\n ➤ Speech to Speech Index: Qwen Audio 3.0 Realtime Plus is the new leader at 84.1%, ahead of GPT-Realtime-2.1 High (79.1%) and GPT-Realtime-2 High (77.2%). The Flash variant comes in at 4th at 76.3%.\n➤ Speech to Speech Index by Benchmark: On Big Bench Audio, the Plus variant achieves 99.2%, up ~0.5 percentage points from the previous best of 98.7% (Alibaba Qwen3.5 Omni Plus Realtime), with Flash variant scoring 96.1%. On Tau Voice, the Plus variant currently leads with a score of 54.6%, ahead of Grok Voice Think Fast 1.0 at 52.1%. On Full Duplex Bench, the Plus variant leads our Full Duplex Bench subset at 98.4%, with Flash at 96.9%, both ahead of the best non-Alibaba model, GPT-Realtime-2 (Minimal) at 96.1%.\n ➤ Speed: The Plus variant records an average Time to First Audio of 4.02 seconds on Big Bench Audio, with Flash at 4.16 seconds, among the slowest models on our leaderboard, and well behind GPT-Realtime-2 (Minimal) at 1.10 seconds and GPT-Realtime-2 (High) at 1.14 seconds\n ➤ Price: Plus costs $4.42 per hour of input audio on our Big Bench Audio subset, more expensive than GPT-Realtime-2 High ($4.14) and ~2.4x cheaper than GPT-Realtime-2.1 High ($10.75). The average cost for Flash variant is $4.77, higher than the Plus variant despite lower list prices, driven by comparatively more verbose responses.\n\nSee below for more detail ⬇️",
+          "created_at": "2026-07-28T18:59:53+00:00",
+          "like_count": 253,
+          "retweet_count": 21,
+          "reply_count": 11,
+          "engagement_score": 306,
+          "url": "https://x.com/ArtificialAnlys/status/2082179251407917475"
         }
       ]
     },
@@ -93,18 +112,7 @@
       "name": "Naval Ravikant",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2081417049935417673",
-          "text": "If there were backdoors and biases hidden in open-weight models, you could count on closed-weight labs to find and reveal them.",
-          "created_at": "2026-07-26T16:31:10+00:00",
-          "like_count": 7716,
-          "retweet_count": 358,
-          "reply_count": 310,
-          "engagement_score": 8742,
-          "url": "https://x.com/naval/status/2081417049935417673"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "leopoldasch",
@@ -158,30 +166,30 @@
           "id": "2081666629264449730",
           "text": "AI security advances when the industry builds in the open, together.\n\nWe're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents.\n\nBy sharing models, tooling and research in the open, we can broaden the community of defenders.\n\nLearn more about the founding members’ contributions: https://t.co/A16oqxs5Ty",
           "created_at": "2026-07-27T09:02:54+00:00",
-          "like_count": 7289,
-          "retweet_count": 1008,
-          "reply_count": 483,
-          "engagement_score": 9788,
+          "like_count": 7967,
+          "retweet_count": 1109,
+          "reply_count": 530,
+          "engagement_score": 10715,
           "url": "https://x.com/nvidia/status/2081666629264449730"
         },
         {
           "id": "2081730105454322151",
           "text": "Korea’s AI moment came to San Francisco last week 🇰🇷 \n\nPresident Lee Jae Myung joined @JensenHuang and some of the biggest names in technology, industry and research to accelerate Korea’s full-stack AI ambitions. https://t.co/rTcXjtJNb9",
           "created_at": "2026-07-27T13:15:08+00:00",
-          "like_count": 648,
-          "retweet_count": 95,
-          "reply_count": 66,
-          "engagement_score": 904,
+          "like_count": 715,
+          "retweet_count": 101,
+          "reply_count": 69,
+          "engagement_score": 986,
           "url": "https://x.com/nvidia/status/2081730105454322151"
         },
         {
           "id": "2081884835715404071",
           "text": "Translation queues and custom integrations can slow global launches.\n\nOur Digital Marketing team built an AI-powered localization platform with NVIDIA Nemotron Speech to change that.\n\nSee the results ↓\nhttps://t.co/FbBEdcINv1 https://t.co/7GyBR9ivRM",
           "created_at": "2026-07-27T23:29:59+00:00",
-          "like_count": 192,
-          "retweet_count": 21,
-          "reply_count": 32,
-          "engagement_score": 266,
+          "like_count": 279,
+          "retweet_count": 30,
+          "reply_count": 42,
+          "engagement_score": 381,
           "url": "https://x.com/nvidia/status/2081884835715404071"
         }
       ]
@@ -224,30 +232,30 @@
           "id": "2081546513885622760",
           "text": "Vercel proudly co-signs the Open Weights and American AI Leadership letter. \n\nOpen source, data, protocols &amp; research enable the technological wonders we enjoy every day, enriching our lives and our world.\n\nOpen weights are the logical next frontier: https://t.co/SMeMS2lINu https://t.co/JeQwc1YvtL",
           "created_at": "2026-07-27T01:05:36+00:00",
-          "like_count": 2143,
-          "retweet_count": 107,
-          "reply_count": 62,
-          "engagement_score": 2419,
+          "like_count": 2217,
+          "retweet_count": 111,
+          "reply_count": 63,
+          "engagement_score": 2502,
           "url": "https://x.com/rauchg/status/2081546513885622760"
         },
         {
           "id": "2081517519303737559",
           "text": "I compiled 𝚟𝚎𝚛𝚌𝚎𝚕 CLI TypeScript to native with 𝚜𝚌𝚛𝚒𝚙𝚝𝚌. Incredible.\n\n✓ Resulting binary size: 1.28mb \n✓ Startup overhead: 1.5ms (mean)\n✓ Compiles in 2.94s (mean)\n✓ Uses 𝚗𝚘𝚍𝚎:𝚑𝚝𝚝𝚙𝚜, 𝚗𝚘𝚍𝚎:𝚏𝚜, 𝚗𝚘𝚍𝚎:𝚙𝚊𝚝𝚑, 𝚗𝚘𝚍𝚎:𝚘𝚜, 𝚗𝚘𝚍𝚎:𝚌𝚛𝚢𝚙𝚝𝚘\n✓ Highly readable TypeScript\n✓ Code translated by GLM 5.2 Fast\n✓ Deploys like a charm!\n\nNo embedded v8 / QuickJS, fully static.",
           "created_at": "2026-07-26T23:10:23+00:00",
-          "like_count": 883,
+          "like_count": 901,
           "retweet_count": 47,
-          "reply_count": 52,
-          "engagement_score": 1029,
+          "reply_count": 53,
+          "engagement_score": 1048,
           "url": "https://x.com/rauchg/status/2081517519303737559"
         },
         {
           "id": "2081842439304995169",
           "text": "Kimi's paper underlines the importance of the right security boundary for agents to run in.\n\ntl:DR: container-level isolation is not enough. In their experiments, agents crashed the underlying machine (via kernel panics).\n\nFirecracker microVMs (as in Vercel Sandbox) are safe. https://t.co/wvbdBo5Ng8",
           "created_at": "2026-07-27T20:41:30+00:00",
-          "like_count": 368,
-          "retweet_count": 27,
-          "reply_count": 40,
-          "engagement_score": 462,
+          "like_count": 627,
+          "retweet_count": 42,
+          "reply_count": 51,
+          "engagement_score": 762,
           "url": "https://x.com/rauchg/status/2081842439304995169"
         }
       ]
@@ -259,43 +267,33 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2081576172656456076",
-          "text": "Interesting drop from former Anthropic employee: Hackers prefer to use massively subsidized labs AI subscriptions for attacks as opposed to open models. https://t.co/gSVw9tv346",
-          "created_at": "2026-07-27T03:03:28+00:00",
-          "like_count": 440,
-          "retweet_count": 32,
-          "reply_count": 30,
-          "engagement_score": 534,
-          "url": "https://x.com/amasad/status/2081576172656456076"
+          "id": "2082025429901390266",
+          "text": "I bet it’s more or less an LLM",
+          "created_at": "2026-07-28T08:48:39+00:00",
+          "like_count": 1638,
+          "retweet_count": 23,
+          "reply_count": 79,
+          "engagement_score": 1763,
+          "url": "https://x.com/amasad/status/2082025429901390266"
         },
         {
           "id": "2082000490066592127",
           "text": "We’re entering a new era of exploration.\n\nOur ancestors mapped the Earth. Then they explored space.\n\nOur generation may explore the computational universe: the vast space of algorithms, programs, proofs, and designs that AI agents can search.",
           "created_at": "2026-07-28T07:09:33+00:00",
-          "like_count": 111,
-          "retweet_count": 4,
-          "reply_count": 16,
-          "engagement_score": 135,
+          "like_count": 549,
+          "retweet_count": 32,
+          "reply_count": 39,
+          "engagement_score": 652,
           "url": "https://x.com/amasad/status/2082000490066592127"
-        },
-        {
-          "id": "2082025429901390266",
-          "text": "I bet it’s more or less an LLM",
-          "created_at": "2026-07-28T08:48:39+00:00",
-          "like_count": 45,
-          "retweet_count": 0,
-          "reply_count": 7,
-          "engagement_score": 52,
-          "url": "https://x.com/amasad/status/2082025429901390266"
         },
         {
           "id": "2082014295177724025",
           "text": "hit massive diminishing returns training my chess LLM on board→move pairs. \n\nthen an accident: a \"think before you move\" branch failed (hallucinated moves) but mixing just ~8% of those reasoning traces into plain board→move training beat pure move data at equal budget. \n\nthe model internalizes the thinking without ever doing it at inference.",
           "created_at": "2026-07-28T08:04:24+00:00",
-          "like_count": 22,
-          "retweet_count": 4,
-          "reply_count": 8,
-          "engagement_score": 38,
+          "like_count": 137,
+          "retweet_count": 8,
+          "reply_count": 21,
+          "engagement_score": 174,
           "url": "https://x.com/amasad/status/2082014295177724025"
         }
       ]
@@ -316,5 +314,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-07-28T09:19:36.952033+00:00"
+  "generated_at": "2026-07-28T22:14:09.362607+00:00"
 }
