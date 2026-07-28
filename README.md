@@ -246,11 +246,11 @@ tail -30 run-cron.log
 结果写进 `~/.ai-signal/health.json`，有问题时**默认弹一条 macOS 通知**（零配置）。想收邮件或推到手机，在 `.env` 里补上任一组，多个渠道可叠加：
 
 ```bash
-# 邮件(二选一种发信方式)
+# 邮件(两种发信方式，SMTP 失败会自动回落到 Resend)
 HEALTH_EMAIL_TO=you@example.com
 HEALTH_SMTP_USER=you@gmail.com     # 方式 A：SMTP，密码用 Google 应用专用密码
 HEALTH_SMTP_PASS=xxxxxxxxxxxxxxxx  #   host/port 默认 smtp.gmail.com:465
-RESEND_API_KEY=re_xxx              # 方式 B：Resend（不配 SMTP 时用它）
+RESEND_API_KEY=re_xxx              # 方式 B：Resend（HTTPS，不吃 SMTP 端口封锁）
 
 HEALTH_WEBHOOK_URL=...             # 飞书 / 企业微信 自定义机器人
 HEALTH_TG_BOT_TOKEN=...            # Telegram（配合 HEALTH_TG_CHAT_ID）
@@ -263,6 +263,8 @@ HEALTH_TG_CHAT_ID=...
 set -a; source .env; set +a
 .venv/bin/python scripts/healthcheck.py --test
 ```
+
+> **大陆网络注意**：Gmail 的 SMTP 端口（465/587）在大陆基本发不出去——465 的 TLS 会被直接掐断，587 连得上但收不到 SMTP 欢迎语。不挂代理的话走方式 B（Resend 是 HTTPS，不受影响）。SMTP 失败时代码会自动回落到 Resend，两个都配上最稳。
 
 > ASR 那项是**症状检测**不是余额查询——火山的 API-key 凭据查不了余额，所以只能在转录报错里识别余额/配额关键词。余额耗尽会在第一次尝试转录时被发现，不会提前预警。
 

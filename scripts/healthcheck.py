@@ -265,8 +265,10 @@ def notify_webhook(text):
 
 def notify_email(subject, text):
     """Two ways in, because neither is universally convenient: SMTP needs an
-    app password (so 2FA on the account), Resend needs a signup. Whichever is
-    configured wins; SMTP first since it depends on no third party."""
+    app password (so 2FA on the account), Resend needs a signup. SMTP is tried
+    first since it depends on no third party — but it falls through to Resend
+    when it fails, because mainland networks block Gmail's SMTP ports outright
+    while leaving HTTPS APIs reachable."""
     to_addr = os.environ.get("HEALTH_EMAIL_TO", "").strip()
     if not to_addr:
         return
@@ -296,14 +298,16 @@ def notify_email(subject, text):
                     server.login(smtp_user, smtp_pass)
                     server.send_message(msg)
             log(f"  📧 已邮件通知 {to_addr}")
+            return
         except Exception as exc:
-            log(f"  ⚠️ 邮件发送失败({host}:{port}): {exc}")
-        return
+            log(f"  ⚠️ SMTP 发送失败({host}:{port}): {exc}")
+            # Fall through to Resend rather than giving up — a blocked SMTP
+            # port is exactly the case the HTTPS fallback exists for.
 
     api_key = os.environ.get("RESEND_API_KEY", "").strip()
     if not api_key:
-        log(f"  ⚠️ HEALTH_EMAIL_TO 已设为 {to_addr},但没有配 "
-            "HEALTH_SMTP_USER/HEALTH_SMTP_PASS 或 RESEND_API_KEY,邮件跳过")
+        log(f"  ⚠️ HEALTH_EMAIL_TO 已设为 {to_addr},但没有可用的发信方式"
+            "(HEALTH_SMTP_USER/HEALTH_SMTP_PASS 或 RESEND_API_KEY),邮件跳过")
         return
     try:
         resp = httpx.post(
