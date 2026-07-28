@@ -14,14 +14,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2080387171723137440",
-          "text": "one thing i think people dont appreciate enough about @poolsideai is their unusual degree of openness — not only have they shipped an excellent Small model that somehow beat @thinkymachines at coding, but most people (like @eliebakouch) have been shouting out their excellent papers, but also they're among a rare few to actually expose their full eval dataset as well - beautifully published, with across 6 public benchmarks  with 4 runs each and hundreds of turns per run. you can satisfy for yourself if they rewardhack. brilliant.",
-          "created_at": "2026-07-23T20:18:48+00:00",
-          "like_count": 59,
-          "retweet_count": 10,
-          "reply_count": 6,
-          "engagement_score": 85,
-          "url": "https://x.com/swyx/status/2080387171723137440"
+          "id": "2081904230768816487",
+          "text": "incidentally, $ per input/output tokens died as a relevant cost measure sometime last year\n\nif you haven’t updated your x axes to $/task per @ArtificialAnlys then idk if you can be taken seriously anymore these days",
+          "created_at": "2026-07-28T00:47:03+00:00",
+          "like_count": 18,
+          "retweet_count": 1,
+          "reply_count": 14,
+          "engagement_score": 34,
+          "url": "https://x.com/swyx/status/2081904230768816487"
+        },
+        {
+          "id": "2081890955070980416",
+          "text": "as the progenitor of the agent lab thesis which got the evals/routing/interactivity/ROI focus right\n\n i gotta say the biggest argument against myself is that Claude Code got accidentally \"open sourced\" this year and approximately ~nothing happened to either it or its competitors' roadmaps",
+          "created_at": "2026-07-27T23:54:18+00:00",
+          "like_count": 21,
+          "retweet_count": 1,
+          "reply_count": 11,
+          "engagement_score": 34,
+          "url": "https://x.com/swyx/status/2081890955070980416"
         }
       ]
     },
@@ -30,42 +40,43 @@
       "name": "Dylan Patel (SemiAnalysis)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2079764693640790176",
-          "text": "This is a public cry to not waste the silicon and have better AI infra\nRivos, DSF, Grand Teton, Ariel and the cut-down MI450X were defensible on some narrow metric that a group inside Meta Infrastructure was optimizing for, but each was a poor decision for the company as a whole.",
-          "created_at": "2026-07-22T03:05:17+00:00",
-          "like_count": 295,
-          "retweet_count": 5,
-          "reply_count": 17,
-          "engagement_score": 322,
-          "url": "https://x.com/dylan522p/status/2079764693640790176"
-        },
-        {
-          "id": "2080026098096853215",
-          "text": "Coincidentally AMD has a product named Verano.\nCompeting with Nvidia's Vera CPU.\nThe pun, Vera No writes itself.\nIt's attached to MI500.\nIt is on 2nm, and generally has more cores, memory.\nWe described it back here in February.\nhttps://t.co/Fz6fps7iM8",
-          "created_at": "2026-07-22T20:24:01+00:00",
-          "like_count": 190,
-          "retweet_count": 11,
-          "reply_count": 18,
-          "engagement_score": 230,
-          "url": "https://x.com/dylan522p/status/2080026098096853215"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "insane_analyst",
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2081576298573685197",
+          "text": "\"Did you know that the first Matrix was designed to be a perfect human world where none suffered, where everyone would be happy. It was a disaster. No one would accept the program.\"\n\nThere will be no abundance due to AI.\n\nCultists are neither less wrong nor rational.\n\nhttps://t.co/QKDtIIPoPS",
+          "created_at": "2026-07-27T03:03:58+00:00",
+          "like_count": 72,
+          "retweet_count": 2,
+          "reply_count": 10,
+          "engagement_score": 86,
+          "url": "https://x.com/insane_analyst/status/2081576298573685197"
+        }
+      ]
     },
     {
       "handle": "naval",
       "name": "Naval Ravikant",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2081417049935417673",
+          "text": "If there were backdoors and biases hidden in open-weight models, you could count on closed-weight labs to find and reveal them.",
+          "created_at": "2026-07-26T16:31:10+00:00",
+          "like_count": 7297,
+          "retweet_count": 346,
+          "reply_count": 306,
+          "engagement_score": 8295,
+          "url": "https://x.com/naval/status/2081417049935417673"
+        }
+      ]
     },
     {
       "handle": "leopoldasch",
@@ -100,18 +111,7 @@
       "name": "Demis Hassabis (Google DeepMind)",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2080332282028507234",
-          "text": "Congratulations @KanishkaNarayan on your new role as UK's AI Minister in the Cabinet, great news for the UK AI ecosystem!",
-          "created_at": "2026-07-23T16:40:41+00:00",
-          "like_count": 722,
-          "retweet_count": 34,
-          "reply_count": 30,
-          "engagement_score": 820,
-          "url": "https://x.com/demishassabis/status/2080332282028507234"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "jietang",
@@ -127,44 +127,34 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2079715060197310935",
-          "text": "Missed the NVIDIA keynote at #SIGGRAPH2026? \n\nCatch up on the latest breakthroughs in neural rendering, world models and simulation for robotics, presented by NVIDIA research and engineering leaders Neil Ashton, Edward Liu and Ming-Yu Liu.  \n\nWatch on demand 🎥 https://t.co/Pf9mKtTojz",
-          "created_at": "2026-07-21T23:48:04+00:00",
-          "like_count": 278,
-          "retweet_count": 33,
-          "reply_count": 22,
-          "engagement_score": 366,
-          "url": "https://x.com/nvidia/status/2079715060197310935"
+          "id": "2081666629264449730",
+          "text": "AI security advances when the industry builds in the open, together.\n\nWe're introducing the Open Secure AI Alliance with industry leaders to develop new techniques and tools to safeguard software and agents.\n\nBy sharing models, tooling and research in the open, we can broaden the community of defenders.\n\nLearn more about the founding members’ contributions: https://t.co/A16oqxs5Ty",
+          "created_at": "2026-07-27T09:02:54+00:00",
+          "like_count": 6682,
+          "retweet_count": 915,
+          "reply_count": 442,
+          "engagement_score": 8954,
+          "url": "https://x.com/nvidia/status/2081666629264449730"
         },
         {
-          "id": "2080326297260072992",
-          "text": "What a moment for @NPS_Monterey and the public sector.\n\nAt Converge @ NPS, our CEO Jensen Huang joined federal leaders and ecosystem partners to commission the #NVIDIADGX GB300 system, providing 1,500 students and 600 faculty with on-premises access to large-scale AI computing for research, model training, simulations, and real-world application development.\n\nThe visit marked a shared commitment to advancing AI education, research, and mission-focused innovation.",
-          "created_at": "2026-07-23T16:16:54+00:00",
-          "like_count": 152,
-          "retweet_count": 21,
+          "id": "2081730105454322151",
+          "text": "Korea’s AI moment came to San Francisco last week 🇰🇷 \n\nPresident Lee Jae Myung joined @JensenHuang and some of the biggest names in technology, industry and research to accelerate Korea’s full-stack AI ambitions. https://t.co/rTcXjtJNb9",
+          "created_at": "2026-07-27T13:15:08+00:00",
+          "like_count": 552,
+          "retweet_count": 77,
+          "reply_count": 63,
+          "engagement_score": 769,
+          "url": "https://x.com/nvidia/status/2081730105454322151"
+        },
+        {
+          "id": "2081884835715404071",
+          "text": "Translation queues and custom integrations can slow global launches.\n\nOur Digital Marketing team built an AI-powered localization platform with NVIDIA Nemotron Speech to change that.\n\nSee the results ↓\nhttps://t.co/FbBEdcINv1 https://t.co/7GyBR9ivRM",
+          "created_at": "2026-07-27T23:29:59+00:00",
+          "like_count": 89,
+          "retweet_count": 7,
           "reply_count": 18,
-          "engagement_score": 212,
-          "url": "https://x.com/nvidia/status/2080326297260072992"
-        },
-        {
-          "id": "2079709298784088470",
-          "text": "Already at #SIGGRAPH2026?\n\nKeep your camera handy.\n\nCheck out the giveaway below for your chance to take home an NVIDIA RTX PRO 6000 Workstation Edition GPU.",
-          "created_at": "2026-07-21T23:25:10+00:00",
-          "like_count": 170,
-          "retweet_count": 14,
-          "reply_count": 13,
-          "engagement_score": 211,
-          "url": "https://x.com/nvidia/status/2079709298784088470"
-        },
-        {
-          "id": "2080078677426241940",
-          "text": "Personalized fan experiences don't have to end at the game.\n\nCheck out how @LiveX_ai is using NVIDIA AI to blend real-time interaction, customization, and commerce.",
-          "created_at": "2026-07-22T23:52:57+00:00",
-          "like_count": 116,
-          "retweet_count": 8,
-          "reply_count": 15,
-          "engagement_score": 147,
-          "url": "https://x.com/nvidia/status/2080078677426241940"
+          "engagement_score": 121,
+          "url": "https://x.com/nvidia/status/2081884835715404071"
         }
       ]
     },
@@ -203,54 +193,34 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2080098518535110913",
-          "text": "Fable just found a 15-30% memory efficiency improvement in Turbopack / Next.js, nearly autonomously.\n\n@tobi asked me today: what have been your “holy s***” moments with AI?\n\nMy answer was: it’s every single week. And it’s accelerating. In fact, “WTFs/day” might just be my favorite metric for AI progress.\n\nIt’s one thing to read benchmarks or stories online. It’s another to watch these machines pull engineering feats every day. \n\n3 days ago? Sol helped us find novel vulnerabilities in some of the most audited code in the world. Today? Fable helps us ship this large optimization of a very complex Rust codebase. I just saw some results of work we’ve done to shrink binaries by 10-20x. List goes on.",
-          "created_at": "2026-07-23T01:11:47+00:00",
-          "like_count": 4038,
-          "retweet_count": 169,
-          "reply_count": 118,
-          "engagement_score": 4494,
-          "url": "https://x.com/rauchg/status/2080098518535110913"
+          "id": "2081546513885622760",
+          "text": "Vercel proudly co-signs the Open Weights and American AI Leadership letter. \n\nOpen source, data, protocols &amp; research enable the technological wonders we enjoy every day, enriching our lives and our world.\n\nOpen weights are the logical next frontier: https://t.co/SMeMS2lINu https://t.co/JeQwc1YvtL",
+          "created_at": "2026-07-27T01:05:36+00:00",
+          "like_count": 2074,
+          "retweet_count": 106,
+          "reply_count": 61,
+          "engagement_score": 2347,
+          "url": "https://x.com/rauchg/status/2081546513885622760"
         },
         {
-          "id": "2079972624524849601",
-          "text": "My first time in 🇨🇦, land of maple syrup, hockey, and S-tier commerce infrastructure.\n\nOn this stage @tobi and I will be discussing the future of the web, agents, CEO tech stacks, and more. https://t.co/QUHQPB0vr8",
-          "created_at": "2026-07-22T16:51:32+00:00",
-          "like_count": 606,
-          "retweet_count": 18,
-          "reply_count": 42,
-          "engagement_score": 684,
-          "url": "https://x.com/rauchg/status/2079972624524849601"
+          "id": "2081517519303737559",
+          "text": "I compiled 𝚟𝚎𝚛𝚌𝚎𝚕 CLI TypeScript to native with 𝚜𝚌𝚛𝚒𝚙𝚝𝚌. Incredible.\n\n✓ Resulting binary size: 1.28mb \n✓ Startup overhead: 1.5ms (mean)\n✓ Compiles in 2.94s (mean)\n✓ Uses 𝚗𝚘𝚍𝚎:𝚑𝚝𝚝𝚙𝚜, 𝚗𝚘𝚍𝚎:𝚏𝚜, 𝚗𝚘𝚍𝚎:𝚙𝚊𝚝𝚑, 𝚗𝚘𝚍𝚎:𝚘𝚜, 𝚗𝚘𝚍𝚎:𝚌𝚛𝚢𝚙𝚝𝚘\n✓ Highly readable TypeScript\n✓ Code translated by GLM 5.2 Fast\n✓ Deploys like a charm!\n\nNo embedded v8 / QuickJS, fully static.",
+          "created_at": "2026-07-26T23:10:23+00:00",
+          "like_count": 859,
+          "retweet_count": 44,
+          "reply_count": 51,
+          "engagement_score": 998,
+          "url": "https://x.com/rauchg/status/2081517519303737559"
         },
         {
-          "id": "2080005193337377146",
-          "text": "Shopify + Vercel are two sides of the same coin. A congregation: entrepreneur-first, developer-led, web-obsessed. So excited to bring our infrastructure for apps and agents to millions of businesses together https://t.co/46AmZCvSuq",
-          "created_at": "2026-07-22T19:00:57+00:00",
-          "like_count": 267,
-          "retweet_count": 17,
-          "reply_count": 26,
-          "engagement_score": 327,
-          "url": "https://x.com/rauchg/status/2080005193337377146"
-        },
-        {
-          "id": "2080118274973679683",
-          "text": "Keep thinking it’d be cool to write a short sci-fi story called “The last prompt.”\n\nBut then I remember Isaac Asimov did it already and it’s wonderful. In 1956.\n\nhttps://t.co/yWV11RToQQ https://t.co/kBSpCHb42r",
-          "created_at": "2026-07-23T02:30:18+00:00",
-          "like_count": 192,
-          "retweet_count": 16,
-          "reply_count": 32,
-          "engagement_score": 256,
-          "url": "https://x.com/rauchg/status/2080118274973679683"
-        },
-        {
-          "id": "2080344136625049690",
-          "text": "🔴🔊 AI Gateway keeps getting better. Unreal product velocity from the team.",
-          "created_at": "2026-07-23T17:27:47+00:00",
-          "like_count": 146,
-          "retweet_count": 3,
-          "reply_count": 17,
-          "engagement_score": 169,
-          "url": "https://x.com/rauchg/status/2080344136625049690"
+          "id": "2081842439304995169",
+          "text": "Kimi's paper underlines the importance of the right security boundary for agents to run in.\n\ntl:DR: container-level isolation is not enough. In their experiments, agents crashed the underlying machine (via kernel panics).\n\nFirecracker microVMs (as in Vercel Sandbox) are safe. https://t.co/wvbdBo5Ng8",
+          "created_at": "2026-07-27T20:41:30+00:00",
+          "like_count": 173,
+          "retweet_count": 14,
+          "reply_count": 30,
+          "engagement_score": 231,
+          "url": "https://x.com/rauchg/status/2081842439304995169"
         }
       ]
     },
@@ -261,24 +231,14 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2080126960202903575",
-          "text": "If you’re incentivized to push certain models, your router is merely a facade.",
-          "created_at": "2026-07-23T03:04:48+00:00",
-          "like_count": 705,
-          "retweet_count": 8,
-          "reply_count": 40,
-          "engagement_score": 761,
-          "url": "https://x.com/amasad/status/2080126960202903575"
-        },
-        {
-          "id": "2080371567221944657",
-          "text": "Viktor was able to disrupt the agency model and make a lot of money by using Replit.\n\nThen he figured: Why not automate the entire thing, not just the coding part?\n\nThe Agency: It's merely an agent loop...\n\nSo he asked our team for an MCP, and we built one and he's now built his autonomous agency.",
-          "created_at": "2026-07-23T19:16:47+00:00",
-          "like_count": 153,
-          "retweet_count": 8,
-          "reply_count": 12,
-          "engagement_score": 181,
-          "url": "https://x.com/amasad/status/2080371567221944657"
+          "id": "2081576172656456076",
+          "text": "Interesting drop from former Anthropic employee: Hackers prefer to use massively subsidized labs AI subscriptions for attacks as opposed to open models. https://t.co/gSVw9tv346",
+          "created_at": "2026-07-27T03:03:28+00:00",
+          "like_count": 435,
+          "retweet_count": 32,
+          "reply_count": 28,
+          "engagement_score": 527,
+          "url": "https://x.com/amasad/status/2081576172656456076"
         }
       ]
     },
@@ -291,5 +251,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-07-23T22:51:16.605571+00:00"
+  "generated_at": "2026-07-28T02:45:24.867960+00:00"
 }
