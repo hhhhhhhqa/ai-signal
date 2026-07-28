@@ -30,6 +30,12 @@
         "tier": "analyst"
       },
       {
+        "handle": "ArtificialAnlys",
+        "name": "Artificial Analysis",
+        "domain": "ai",
+        "tier": "analyst"
+      },
+      {
         "handle": "naval",
         "name": "Naval Ravikant",
         "domain": "ai",
@@ -116,6 +122,12 @@
       {
         "handle": "joshwoodward",
         "name": "Josh Woodward (Google Labs)",
+        "domain": "ai",
+        "tier": "builder"
+      },
+      {
+        "handle": "paulgauthier",
+        "name": "Paul Gauthier (Aider)",
         "domain": "ai",
         "tier": "builder"
       }
