@@ -21,6 +21,7 @@ import asyncio
 import argparse
 import json
 import os
+import random
 import re
 import sys
 import time
@@ -1487,6 +1488,64 @@ def fetch_podcasts(sources, people_only=False):
 
 # ── arXiv fetching ───────────────────────────────────────────────────────────
 
+# arXiv asks API clients to identify themselves rather than pose as a browser.
+# Kept separate from the global UA, which the scraped sources still need.
+ARXIV_UA = "ai-signal/1.0 (+https://github.com/hhhhhhhqa/ai-signal)"
+ARXIV_ATTEMPTS = 4
+# arXiv's own rate-limit guidance is one request per 3s; start the backoff above
+# that and cap it so a bad day costs minutes, not the whole run.
+ARXIV_BACKOFF_BASE_SECONDS = 5
+ARXIV_BACKOFF_MAX_SECONDS = 60
+
+
+def retry_after_seconds(resp):
+    """Parse Retry-After, which is either a delay in seconds or an HTTP date."""
+    raw = (resp.headers.get("Retry-After") or "").strip()
+    if not raw:
+        return None
+    try:
+        return max(0.0, float(raw))
+    except ValueError:
+        pass
+    try:
+        when = parsedate_to_datetime(raw)
+    except (TypeError, ValueError):
+        return None
+    if when is None:
+        return None
+    if when.tzinfo is None:
+        when = when.replace(tzinfo=timezone.utc)
+    return max(0.0, (when - datetime.now(timezone.utc)).total_seconds())
+
+
+def arxiv_get(url):
+    """GET with backoff. export.arxiv.org sheds load with 429s and hung
+    connections; a single attempt loses the whole day's papers, and the caller
+    then silently falls back to yesterday's file."""
+    last_err = None
+    for attempt in range(ARXIV_ATTEMPTS):
+        if attempt:
+            # Exponential, plus jitter so repeated failures don't resynchronise
+            # onto the same retry instant.
+            delay = min(ARXIV_BACKOFF_BASE_SECONDS * (2 ** (attempt - 1)),
+                        ARXIV_BACKOFF_MAX_SECONDS)
+            if isinstance(last_err, httpx.HTTPStatusError) and last_err.response.status_code == 429:
+                # Honour the server's own pacing when it bothers to state one.
+                stated = retry_after_seconds(last_err.response)
+                if stated is not None:
+                    delay = min(stated, ARXIV_BACKOFF_MAX_SECONDS)
+            delay += random.uniform(0, 3)
+            log(f"    ↻ 第 {attempt + 1}/{ARXIV_ATTEMPTS} 次尝试,等待 {delay:.1f}s")
+            time.sleep(delay)
+        try:
+            resp = httpx.get(url, timeout=30, headers={"User-Agent": ARXIV_UA})
+            resp.raise_for_status()
+            return resp
+        except Exception as e:
+            last_err = e
+    raise last_err
+
+
 def fetch_arxiv(sources):
     arxiv_cfg = sources.get("arxiv", {})
     categories = arxiv_cfg.get("categories", [])
@@ -1515,11 +1574,10 @@ def fetch_arxiv(sources):
         url = (f"https://export.arxiv.org/api/query?search_query={cat_query}"
                f"&sortBy={sort_by}&sortOrder=descending&max_results={max_papers * 3}")
         try:
-            resp = httpx.get(url, timeout=30, headers={"User-Agent": UA})
-            resp.raise_for_status()
+            resp = arxiv_get(url)
             roots.append(ET.fromstring(resp.text))
         except Exception as e:
-            log(f"  ⚠️ arXiv {sort_by} query failed: {e}")
+            log(f"  ⚠️ arXiv {sort_by} query failed after {ARXIV_ATTEMPTS} attempts: {e}")
             errors.append(f"{sort_by}: {e}")
 
     if not roots:
