@@ -446,6 +446,8 @@
     "base_url": "http://127.0.0.1:4000",
     "lookback_hours": 72,
     "max_articles": 30,
-    "max_per_account": 5
+    "max_per_account": 5,
+    "summary_chars": 1500,
+    "max_fulltext_articles": 15
   }
 }

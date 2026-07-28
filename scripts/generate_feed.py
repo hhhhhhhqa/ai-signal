@@ -1882,28 +1882,39 @@ def fetch_wechat(sources):
     lookback = wx_cfg.get("lookback_hours", 72)
     max_articles = wx_cfg.get("max_articles", 30)
     max_per_account = wx_cfg.get("max_per_account", 5)
+    summary_chars = wx_cfg.get("summary_chars", 1500)
+    # Bodies are only fetched for articles we are actually keeping (see below);
+    # this caps the worst case if a burst of posts lands inside the window.
+    fulltext_limit = wx_cfg.get("max_fulltext_articles", 15)
     since = datetime.now(timezone.utc) - timedelta(hours=lookback)
 
-    url = f"{base_url}/feeds/all.json"
-    feed = None
-    last_err = None
-    for attempt in range(4):
-        # wewe-rss can return 503 while it is busy regenerating a feed; retry.
-        try:
-            resp = httpx.get(url, timeout=30, headers={"User-Agent": UA}, follow_redirects=True)
-            resp.raise_for_status()
-            feed = resp.json()
-            break
-        except Exception as e:
-            last_err = e
-            time.sleep(2 * (attempt + 1))
+    def get_feed(query=""):
+        last_err = None
+        for attempt in range(4):
+            # wewe-rss can return 503 while it is busy regenerating a feed; retry.
+            try:
+                resp = httpx.get(f"{base_url}/feeds/all.json{query}", timeout=60,
+                                 headers={"User-Agent": UA}, follow_redirects=True)
+                resp.raise_for_status()
+                return resp.json(), len(resp.content), None
+            except Exception as e:
+                last_err = e
+                time.sleep(2 * (attempt + 1))
+        return None, 0, last_err
+
+    # Two passes on purpose. Without ?mode=fulltext wewe-rss omits the article
+    # body entirely; with it, every post carries its images inline as base64 —
+    # ~3MB each, ~100MB for a full feed. So list first (18KB), decide what we
+    # keep, then pull bodies only that deep into the newest-first list.
+    feed, _, err = get_feed()
     if feed is None:
-        log(f"  ⚠️ wewe-rss unreachable at {url}: {last_err}")
-        return {"articles": [], "errors": [f"wewe-rss unreachable: {last_err}"]}
+        log(f"  ⚠️ wewe-rss unreachable at {base_url}: {err}")
+        return {"articles": [], "errors": [f"wewe-rss unreachable: {err}"]}
 
     per_account = {}
     articles = []
-    for it in feed.get("items", []):
+    deepest_kept = -1
+    for position, it in enumerate(feed.get("items", [])):
         link = (it.get("url") or "").strip()
         title = re.sub(r"\s+", " ", (it.get("title") or "")).strip()
         if not title or not link:
@@ -1918,7 +1929,7 @@ def fetch_wechat(sources):
         if seen >= max_per_account:
             continue
         per_account[account] = seen + 1
-        summary = html_to_text(it.get("content_html") or "")
+        deepest_kept = position
         articles.append({
             "id": link,
             "source": "wechat",
@@ -1926,14 +1937,35 @@ def fetch_wechat(sources):
             "title": title,
             "url": link,
             "published": pub.isoformat() if pub else None,
-            "summary": summary[:600].strip(),
+            "summary": "",
         })
 
     articles.sort(key=lambda a: a.get("published") or "", reverse=True)
     articles = articles[:max_articles]
+
+    errors = []
+    if articles and deepest_kept >= 0:
+        depth = min(deepest_kept + 1, fulltext_limit)
+        bodies, size, err = get_feed(f"?mode=fulltext&limit={depth}")
+        if bodies is None:
+            log(f"  ⚠️ 正文拉取失败,只保留标题和链接: {err}")
+            errors.append(f"fulltext fetch failed: {err}")
+        else:
+            by_url = {(b.get("url") or "").strip(): b.get("content_html") or ""
+                      for b in bodies.get("items", [])}
+            filled = 0
+            for a in articles:
+                text = html_to_text(by_url.get(a["url"], ""))[:summary_chars].strip()
+                if text:
+                    a["summary"] = text
+                    filled += 1
+            log(f"  📄 正文 {filled}/{len(articles)} 篇(拉取 {depth} 篇,{size / 1e6:.1f}MB)")
+            if filled < len(articles):
+                errors.append(f"{len(articles) - filled} articles have no body text")
+
     accounts = len({a["source_name"] for a in articles})
     log(f"  ✅ {len(articles)} articles from {accounts} 公众号")
-    return {"articles": articles, "errors": None}
+    return {"articles": articles, "errors": errors or None}
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
