@@ -2,7 +2,7 @@
 
 追踪 AI 一线的声音——做事的人、写代码的人、下注的人，不是二手转述。
 
-这是一份给 AI Agent 用户的精心筛选信息源。中央每天自动抓取播客、推文和论文；你的 Agent 读取 JSON，按你的口味生成日报。
+这是一份给 AI Agent 用户的精心筛选信息源。中央每天自动抓取播客、推文、论文、官方博客和微信公众号；你的 Agent 读取 JSON，按你的口味生成日报。
 
 **这份清单本身就是产品。**
 
@@ -10,6 +10,8 @@
 
 ## 最近更新
 
+- `2026-07-28`：新增微信公众号来源——中文 AI 生态里很多一手内容只发在公众号，现在通过自建 wewe-rss 接入，和官方博客并入同一条 articles 流进日报（编号 B1/B2，可展开）
+- `2026-07-28`：中央改为「本机发布者」模式——公众号抓取依赖自建服务，云端够不到，因此改由维护者的 Mac 每天 06:00 定时全量抓取并推送到本仓库；订阅方无感，照常从 GitHub / CDN 拉 JSON
 - `2026-07-08`：新增 Naval Ravikant——加入 X 人物追踪、YouTube 人物访谈搜索和 Naval RSS 播客频道；Naval 频道单独使用 14 天窗口，避免错过低频长节目
 - `2026-07-08`：人物追踪剔除"被谈论但本人没出场"的视频——标题语法守卫识别 "记者 on 某人"/"the truth about 某人" 这类评论内容，只收本人真实出场的访谈
 - `2026-07-08`：定时任务默认限时拉到 15 分钟，避免网络或模型较慢时任务被中途杀掉后反复重启；OpenClaw cron 模板加 `--timeout-seconds 900`，其他平台要求任务限时 ≥10 分钟，另加故障排查一节
@@ -33,6 +35,7 @@
 - 一线播客的最新内容（日报先给简介；你说“展开 P2”后再按需读取该期全文字幕）
 - 精选推特账号的当日观点
 - Anthropic / OpenAI / Google DeepMind 官方博客的最新发布（新模型、产品、研究、安全框架）
+- 精选微信公众号的最新文章（中文 AI 生态的一手内容，很多只在公众号发）
 - arXiv 最新 AI/ML/NLP 论文标题、链接和摘要原文
 - 每条播客、推文和论文都显示来源发布时间，并按你的时区转换；无法验证的时间会明确标记
 - 按你的偏好定制：中文 / 英文 / 双语，精华 / 标准 / 完整
@@ -106,6 +109,12 @@
 | [Google DeepMind](https://deepmind.google/blog/) | 官方 RSS |
 
 > 模型发布、产品上线、研究成果、安全框架，第一时间从官方渠道进日报，不等二手转述。每家每天最多 5 条，48 小时窗口。
+
+### 微信公众号
+
+中文 AI 生态里大量一手内容（模型评测、工程实践、行业观察）只在公众号发，英文源覆盖不到。中央通过自建的 [wewe-rss](https://github.com/cooderl/wewe-rss) 把订阅的公众号转成 RSS 再并入 feed，产出 `feed-wechat.json`，在日报里和官方博客同属 articles 流，会标注来源公众号名。
+
+> 72 小时窗口，每天最多 30 篇、单个公众号最多 5 篇。订阅列表由中央维护，随时可加，**订阅方不需要任何配置**——公众号登录态、Docker、抓取全在中央那一端。
 
 ### arXiv 论文（每日最多 30 篇）
 
@@ -190,8 +199,8 @@ git clone https://ghfast.top/https://github.com/hhhhhhhqa/ai-signal.git
 
 ```mermaid
 flowchart LR
-  A["一线信息源<br/>X / 播客 / arXiv"] --> B["中央 GitHub Actions<br/>每天自动抓取"]
-  B --> C["公开 JSON feeds<br/>feed-x / feed-podcasts / feed-arxiv"]
+  A["一线信息源<br/>X / 播客 / arXiv<br/>官方博客 / 公众号"] --> B["中央<br/>每天 06:00 自动抓取"]
+  B --> C["公开 JSON feeds<br/>feed-x / feed-podcasts / feed-arxiv<br/>feed-blogs / feed-wechat"]
   C --> D["你的 AI Agent<br/>读取 JSON + 你的偏好"]
   D --> E["生成个性化日报<br/>中文/英文、长/短、可继续追问"]
   E --> F["聊天窗口 / Telegram / 飞书 / 邮件"]
@@ -202,6 +211,31 @@ flowchart LR
 **你不需要任何内容 API key。** 内容抓取在中央完成，摘要由你自己的 AI Agent 读取 JSON 后生成。
 
 默认是 **JSON-first**：中央只提供原始 feed，不生成中文版日报。这能减少中文、emoji、长播客字幕在命令行、定时任务和推送链路里的编码问题。中央 LLM 摘要能力仍保留为手动调试选项，但不是默认用户路径。
+
+<details>
+<summary>中央是怎么跑的（只有维护者需要看）</summary>
+
+公众号来源依赖一个自建的 wewe-rss 服务（跑在维护者本机 Docker 里），云端 CI 够不到，所以中央采用**本机发布者模式**：维护者的 Mac 每天定时跑一次全量抓取，再把 `feeds/` 推到本仓库。
+
+```bash
+./run.sh              # 抓全部来源 + 转录无字幕播客（最多 2 集）
+./run.sh --no-asr     # 只抓取，不做 ASR 转录（快、省钱）
+./run.sh --digest     # 抓取后再生成一份日报 payload
+./run.sh --publish    # 抓取后 git commit + push 到本仓库（定时任务用这个）
+```
+
+无人值守由 launchd 承担（`~/Library/LaunchAgents/com.aisignal.daily.plist`）：每天 06:00 触发 `run.sh --publish`，外面套 `caffeinate -i` 防止跑到一半进休眠；配合 `pmset repeat wakepoweron` 在 05:55 唤醒机器，保证准点而不是等唤醒后补跑。推送失败会重试 4 次，仍失败则提交留在本地，下次运行一并补推，不丢数据。
+
+排查看两处：
+
+```bash
+launchctl print gui/$(id -u)/com.aisignal.daily | grep -E "runs|last exit code"
+tail -30 run-cron.log
+```
+
+**中央那台机器关着也不影响订阅方**——大家拉到的是上一次成功推送的 feed。
+
+</details>
 
 ## 要求
 
