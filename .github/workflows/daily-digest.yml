@@ -1,9 +1,15 @@
 name: Generate Daily Feed
 
 on:
-  schedule:
-    - cron: '0 22 * * *'  # UTC 22:00 = Beijing 06:00
-    - cron: '30 1 * * 1-5'  # arXiv follow-up: Beijing 09:30, after the daily release
+  # Daily scheduling is disabled: the central feed is now published from the
+  # maintainer's Mac (launchd -> ./run.sh --publish, 06:00 Beijing), because the
+  # WeChat source needs a self-hosted wewe-rss on 127.0.0.1 that CI cannot reach.
+  # Leaving these crons on would race that push (non-fast-forward) and overwrite
+  # feed-wechat.json. Kept as manual-only fallback for when that Mac is down.
+  #
+  # schedule:
+  #   - cron: '0 22 * * *'  # UTC 22:00 = Beijing 06:00
+  #   - cron: '30 1 * * 1-5'  # arXiv follow-up: Beijing 09:30, after the daily release
   workflow_dispatch:
     inputs:
       x_llm:
