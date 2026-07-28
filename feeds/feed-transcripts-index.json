@@ -29,19 +29,6 @@
       "expires_at": "2026-08-11T02:57:57.571287+00:00"
     },
     {
-      "guid": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
-      "link": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
-      "channel": "Lenny's Podcast",
-      "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
-      "pub_date": "2026-07-26T12:32:06+00:00",
-      "transcript_path": "feeds/transcripts/dab141eefbb80e63927a0eca.txt",
-      "transcript_chars": 5680,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-28T02:08:47.383906+00:00",
-      "last_seen_at": "2026-07-28T02:57:57.571287+00:00",
-      "expires_at": "2026-08-11T02:57:57.571287+00:00"
-    },
-    {
       "guid": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
       "link": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
       "channel": "Latent Space",
@@ -146,19 +133,6 @@
       "expires_at": "2026-08-05T22:57:24.164029+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/xaira",
-      "link": "https://www.latent.space/p/xaira",
-      "channel": "Latent Space",
-      "title": "🔬Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
-      "pub_date": "2026-07-21T19:34:06+00:00",
-      "transcript_path": "feeds/transcripts/8d66348de2ea3ff5eecfc7cd.txt",
-      "transcript_chars": 7431,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-21T22:50:43.417456+00:00",
-      "last_seen_at": "2026-07-23T22:52:00.865589+00:00",
-      "expires_at": "2026-08-06T22:52:00.865589+00:00"
-    },
-    {
       "guid": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
       "link": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
       "channel": "Lenny's Podcast",
@@ -211,19 +185,6 @@
       "expires_at": "2026-08-05T22:57:24.164029+00:00"
     },
     {
-      "guid": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
-      "link": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
-      "channel": "Lenny's Podcast",
-      "title": "Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone",
-      "pub_date": "2026-07-19T12:31:21+00:00",
-      "transcript_path": "feeds/transcripts/bfd7ece907f6104a009eeb70.txt",
-      "transcript_chars": 5111,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-19T22:46:49.091071+00:00",
-      "last_seen_at": "2026-07-21T22:59:17.628278+00:00",
-      "expires_at": "2026-08-04T22:59:17.628278+00:00"
-    },
-    {
       "guid": "643dd7f8-9888-4093-bc89-acfdd4362fce",
       "link": "https://allinchamathjason.libsyn.com/can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters",
       "channel": "All-In Podcast",
@@ -261,19 +222,6 @@
       "cached_at": "2026-07-17T22:43:26.409199+00:00",
       "last_seen_at": "2026-07-19T22:46:49.091071+00:00",
       "expires_at": "2026-08-02T22:46:49.091071+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
-      "link": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
-      "channel": "Latent Space",
-      "title": "🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
-      "pub_date": "2026-07-16T13:30:44+00:00",
-      "transcript_path": "feeds/transcripts/25513cff497f6dc63d061fed.txt",
-      "transcript_chars": 8639,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-16T22:53:21.164853+00:00",
-      "last_seen_at": "2026-07-18T22:51:23.370757+00:00",
-      "expires_at": "2026-08-01T22:51:23.370757+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
@@ -378,19 +326,6 @@
       "cached_at": "2026-07-13T22:51:33.171545+00:00",
       "last_seen_at": "2026-07-15T22:54:47.218085+00:00",
       "expires_at": "2026-07-29T22:54:47.218085+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
-      "link": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
-      "channel": "Lenny's Podcast",
-      "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
-      "pub_date": "2026-07-12T12:32:14+00:00",
-      "transcript_path": "feeds/transcripts/fd34eb4ce4c232128c263ed1.txt",
-      "transcript_chars": 5925,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-12T22:41:58.170287+00:00",
-      "last_seen_at": "2026-07-14T23:01:01.668615+00:00",
-      "expires_at": "2026-07-28T23:01:01.668615+00:00"
     },
     {
       "guid": "https://nav.al/?p=28497007",

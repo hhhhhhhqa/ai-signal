@@ -97,13 +97,13 @@
       "audio_url": "https://api.substack.com/feed/podcast/207214207/5f341ddc033ea4f0aeb376bbced669eb.mp3",
       "duration": "",
       "description": "Listen now | Dianne Penn, Anthropic&#8217;s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved",
-      "transcript_available": true,
-      "transcript_source": "episode_page",
+      "transcript_available": false,
+      "transcript_source": null,
       "transcript_url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
       "transcript_video_id": null,
-      "transcript_error": null,
-      "transcript_path": "feeds/transcripts/dab141eefbb80e63927a0eca.txt",
-      "transcript_chars": 5680
+      "transcript_error": "episode_page: text too sparse to be a transcript (付费墙截断)",
+      "transcript_path": null,
+      "transcript_chars": 0
     },
     {
       "channel": "Lenny's Podcast",

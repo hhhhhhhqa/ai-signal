@@ -869,14 +869,35 @@ def duration_minutes(duration):
     return 0
 
 
+# Substack's player prints the runtime into the page ("Total time: -1:33:50"),
+# which is the only place it exists when the RSS omits <itunes:duration>.
+PLAYER_RUNTIME_RE = re.compile(
+    r"(?:total\s+time|duration)\s*:?\s*-?\s*(\d+):(\d{2})(?::(\d{2}))?", re.I)
+
+
+def runtime_minutes_from_text(text):
+    match = PLAYER_RUNTIME_RE.search(text or "")
+    if not match:
+        return 0
+    hours, mins, secs = match.group(1), match.group(2), match.group(3)
+    if secs is None:  # MM:SS
+        return int(hours)
+    return int(hours) * 60 + int(mins)
+
+
 def transcript_too_sparse(text, duration):
     """Reject show-notes text masquerading as a transcript.
 
     Real English speech transcribes to roughly 700-900 chars/min; page text
     that passes the transcript heuristics but is far below that is show notes,
-    not a transcript. Only applies when the episode duration is known.
+    not a transcript.
+
+    Substack feeds ship no duration, which used to disable this check on exactly
+    the podcasts that need it — a paywalled episode page yields ~5k chars of
+    nav, player chrome and footer, and that sailed through as a "full
+    transcript". So fall back to the runtime the page itself prints.
     """
-    minutes = duration_minutes(duration)
+    minutes = duration_minutes(duration) or runtime_minutes_from_text(text)
     if not text or minutes < 10:
         return False
     return len(text) / minutes < MIN_TRANSCRIPT_CHARS_PER_MIN
@@ -892,9 +913,10 @@ def get_podcast_transcript(ep):
                 errors.append(f"{source_name}: {result['error']}")
             return False
         if transcript_too_sparse(result["text"], duration):
+            minutes = duration_minutes(duration) or runtime_minutes_from_text(result["text"])
             errors.append(
                 f"{source_name}: text too sparse to be a transcript "
-                f"({len(result['text'])} chars for {duration_minutes(duration)} min)"
+                f"({len(result['text'])} chars for {minutes} min)"
             )
             return False
         return True
