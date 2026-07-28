@@ -21,6 +21,8 @@ Tell the user:
 - [N] 个 Twitter/X 账号（分析师、决策者、建造者）
 - [M] 个播客频道
 - arXiv 最新 AI/ML/NLP 论文
+- 官方博客（Anthropic / OpenAI / Google DeepMind）
+- 精选微信公众号
 
 这些信息源由中央统一维护，自动更新，你不需要做任何事。"
 

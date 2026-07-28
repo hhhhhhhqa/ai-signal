@@ -14,10 +14,11 @@ fi
 set -a; source .env; set +a
 PY="$(pwd)/.venv/bin/python"
 
-DO_ASR=1; DO_DIGEST=0
+DO_ASR=1; DO_DIGEST=0; DO_PUBLISH=0
 for a in "$@"; do
   [ "$a" = "--no-asr" ] && DO_ASR=0
   [ "$a" = "--digest" ] && DO_DIGEST=1
+  [ "$a" = "--publish" ] && DO_PUBLISH=1
 done
 
 # ── 1. 确保 Docker / wewe-rss 在运行(公众号需要)──────────────
@@ -52,5 +53,30 @@ else
   echo "==> 4/4 完成。feeds/ 已更新。"
 fi
 
+# ── 发布:提交 feeds 并推送到 GitHub(供同事订阅)──────────────
+if [ "$DO_PUBLISH" = 1 ]; then
+  echo "==> 发布:提交 feeds 并推送到 GitHub"
+  if git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
+    git add feeds/ 2>/dev/null
+    if git diff --staged --quiet; then
+      echo "   ℹ️ feeds 无变化,跳过推送"
+    else
+      git commit -q -m "Feed update $(date -u +%Y-%m-%d)"
+      pushed=0
+      for i in 1 2 3 4; do
+        if git push -q origin main 2>/dev/null; then pushed=1; break; fi
+        echo "   ⚠️ 推送第 $i 次失败(网络?),10 秒后重试..."; sleep 10
+      done
+      if [ "$pushed" = 1 ]; then
+        echo "   ✅ 已推送到 hhhhhhhqa/ai-signal"
+      else
+        echo "   ❌ 推送多次失败;提交已在本地,下次运行会一并补推(不丢数据)"
+      fi
+    fi
+  else
+    echo "   ⚠️ 当前目录不是 git 仓库,跳过发布"
+  fi
+fi
+
 echo ""
-echo "🎉 done. 下一步(待 repo 对接后启用):git add feeds && git commit && git push,供同事订阅。"
+echo "🎉 done ($(date '+%Y-%m-%d %H:%M'))"
