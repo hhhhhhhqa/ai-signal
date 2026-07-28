@@ -40,10 +40,11 @@ STATE_PATH = Path.home() / ".ai-signal" / "health.json"
 # The daily job runs every 24h; allow a couple of hours of slack before a feed
 # that failed to refresh counts as stale.
 MAX_FEED_AGE_HOURS = 26
-# wewe-rss pulls on its own schedule, which can sit close to a day behind
-# without anything being wrong. A dead 微信读书 session stays dead, so a wider
-# window still catches it in time for the next digest — without crying wolf.
-MAX_WECHAT_SYNC_AGE_HOURS = 48
+# wewe-rss syncs twice a day (built-in cron default 35 5,17 * * *), so a healthy
+# instance is never more than ~12h behind. Anything past a day means at least two
+# consecutive syncs failed — in practice the 微信读书 token expired, which makes
+# the cron abort with "暂无可用读书账号" and never retry on its own.
+MAX_WECHAT_SYNC_AGE_HOURS = 26
 
 OK, WARN, FAIL = "ok", "warn", "fail"
 ICON = {OK: "✅", WARN: "⚠️", FAIL: "❌"}
@@ -140,6 +141,28 @@ def check_x():
     return result(OK, "X/Twitter", f"{active}/{len(accounts)} 账号有内容")
 
 
+def disabled_wechat_accounts():
+    """wewe-rss flips an account's status when 微信读书 answers 401, which is the
+    earliest signal there is — hours before syncTime looks stale. Only its local
+    SQLite carries it; the HTTP feed never mentions accounts at all. Returns None
+    when the database isn't where we expect, so the caller falls back to syncTime.
+    """
+    db_path = Path(os.environ.get("WEWE_RSS_DB", Path.home() / "wewe-rss" / "data" / "wewe-rss.db"))
+    if not db_path.exists():
+        return None
+    import sqlite3
+
+    try:
+        conn = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True, timeout=5)
+        try:
+            rows = conn.execute("select name, status from accounts").fetchall()
+        finally:
+            conn.close()
+    except Exception:
+        return None
+    return [name for name, status in rows if status != 1]
+
+
 def check_wechat():
     """wewe-rss keeps serving a stale feed after the 微信读书 session dies —
     the give-away is syncTime no longer advancing, not an HTTP error."""
@@ -166,6 +189,16 @@ def check_wechat():
     if not accounts:
         return result(WARN, "公众号", "wewe-rss 在跑,但一个公众号都没订阅",
                       f"{base_url}/dash 里加公众号")
+
+    # Checked before syncTime: wewe-rss disables the account the moment 微信读书
+    # returns 401, which is hours earlier than the feed looking stale.
+    disabled = disabled_wechat_accounts()
+    if disabled:
+        return result(
+            FAIL, "公众号", f"微信读书账号已被禁用({', '.join(disabled)}),同步已停摆",
+            f"登录失效了 —— 打开 {base_url}/dash 重新扫码"
+            "(别勾「24 小时后自动退出」)",
+        )
 
     now = datetime.now(timezone.utc).timestamp()
     # syncTime is when wewe-rss last successfully pulled that account.
