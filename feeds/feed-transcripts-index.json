@@ -1,7 +1,111 @@
 {
-  "generated_at": "2026-07-28T23:32:00.216726+00:00",
+  "generated_at": "2026-07-29T22:47:50.822067+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "431ae0f7-c40c-4f00-a2ec-2123c3ca21d5",
+      "link": "https://a16z.simplecast.com/episodes/ai-micro-dramas-generative-media-and-the-future-of-creativity-ZbK1xyzO",
+      "channel": "a16z",
+      "title": "AI Micro Dramas, Generative Media, and the Future of Creativity",
+      "pub_date": "2026-07-29T10:00:00+00:00",
+      "transcript_path": "feeds/transcripts/14342f38e31f262e7fbc3c86.txt",
+      "transcript_chars": 49140,
+      "transcript_source": "volc_asr_auc",
+      "cached_at": "2026-07-29T22:47:50.822067+00:00",
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+    },
+    {
+      "guid": "a23359d3-8299-49b5-aada-ef230f27193b",
+      "link": "https://allinchamathjason.libsyn.com/the-1hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs",
+      "channel": "All-In Podcast",
+      "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+      "pub_date": "2026-07-28T20:21:00+00:00",
+      "transcript_path": "feeds/transcripts/cfd530c10f7cc5cc8ce1b94f.txt",
+      "transcript_chars": 73894,
+      "transcript_source": "volc_asr_auc",
+      "cached_at": "2026-07-29T22:47:50.822067+00:00",
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+      "link": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+      "channel": "Latent Space",
+      "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
+      "pub_date": "2026-07-29T00:46:52+00:00",
+      "transcript_path": "feeds/transcripts/586ccf3ecaabf1c389246930.txt",
+      "transcript_chars": 32980,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-07-29T22:13:21.800476+00:00",
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+    },
+    {
+      "guid": "yt:I4B37S1dyQQ",
+      "link": "https://www.youtube.com/watch?v=I4B37S1dyQQ",
+      "channel": "Y Combinator",
+      "title": "Jensen Huang: The Mindset That Built NVIDIA",
+      "pub_date": "2026-07-26T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/37c4b766f84abe7f27aed441.txt",
+      "transcript_chars": 45563,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-07-29T22:13:21.800476+00:00",
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+    },
+    {
+      "guid": "b91f7395-78d8-41ee-a9cb-bc54981da44a",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--021---The-AI-Project-Trinity-Capital--Offtake--Data-Center-Datacenter--Energy--Dan-Nishball--Jordan-Nanos--Zane-Fong--Kang-Wen-Cheang-e3mf98h",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 021 - The AI Project Trinity: Capital, Offtake, Data Center (Datacenter, Energy) | Dan Nishball, Jordan Nanos, Zane Fong, Kang Wen Cheang",
+      "pub_date": "2026-07-23T22:00:00+00:00",
+      "transcript_path": "feeds/transcripts/915ce4f0856514db4213f6d9.txt",
+      "transcript_chars": 50081,
+      "transcript_source": "companion_youtube",
+      "cached_at": "2026-07-29T22:13:21.800476+00:00",
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+    },
+    {
+      "guid": "232ed3ce-a135-4b1b-9725-7c7f4fb63a45",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--020---Anthropic-vs-OpenAI-Usage--Margins--Meta-Compute--Future-of-MSL-Tokenomics--Crystual-Huang--Max-Kan--Joey-Brookhart--Jordan-Nanos-e3m7c9e",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 020 - Anthropic vs OpenAI Usage, Margins, Meta Compute, Future of MSL (Tokenomics) | Crystual Huang, Max Kan, Joey Brookhart, Jordan Nanos",
+      "pub_date": "2026-07-18T16:00:00+00:00",
+      "transcript_path": "feeds/transcripts/bd54294c7d0024f2846bb038.txt",
+      "transcript_chars": 51848,
+      "transcript_source": "companion_youtube",
+      "cached_at": "2026-07-29T22:13:21.800476+00:00",
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+    },
+    {
+      "guid": "a72ae041-2497-479b-8393-b700a51b4486",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Emergency-Episode-Moonshots-Kimi-K3-has-Arrived--China-has-a-Frontier-Model-e3m7mra",
+      "channel": "SemiAnalysis",
+      "title": "[Emergency Episode] Moonshot’s Kimi K3 has Arrived! China has a Frontier Model",
+      "pub_date": "2026-07-18T01:08:14+00:00",
+      "transcript_path": "feeds/transcripts/06a6be1ea4792c21e13b35bc.txt",
+      "transcript_chars": 28861,
+      "transcript_source": "companion_youtube",
+      "cached_at": "2026-07-29T22:13:21.800476+00:00",
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+    },
+    {
+      "guid": "97c097a4-9499-4b70-8cb0-bea7c8a40836",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--019---Inside-the-STEEL-Lab-From-Package-to-Transistor-Teardown-Lab--Afzal-Ahmad--Andrew-Wagner--Jordan-Nanos-e3m5ont",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 019 - Inside the STEEL Lab: From Package to Transistor (Teardown Lab) | Afzal Ahmad, Andrew Wagner, Jordan Nanos",
+      "pub_date": "2026-07-16T21:00:00+00:00",
+      "transcript_path": "feeds/transcripts/7b8cd58f060fc294706d3fe3.txt",
+      "transcript_chars": 36574,
+      "transcript_source": "companion_youtube",
+      "cached_at": "2026-07-29T22:13:21.800476+00:00",
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+    },
     {
       "guid": "df73b893-d213-4168-a6fb-8c845e831df9",
       "link": "https://a16z.simplecast.com/episodes/fei-fei-li-on-spatial-intelligence-and-robotics-j8HvsWJf",
@@ -12,8 +116,8 @@
       "transcript_chars": 41976,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-07-28T23:32:00.216726+00:00",
-      "last_seen_at": "2026-07-28T23:32:00.216726+00:00",
-      "expires_at": "2026-08-11T23:32:00.216726+00:00"
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
     },
     {
       "guid": "aa5cce3c-879b-11f1-8b29-8bc127cc1ad0",
@@ -25,8 +129,8 @@
       "transcript_chars": 59512,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-07-28T23:32:00.216726+00:00",
-      "last_seen_at": "2026-07-28T23:32:00.216726+00:00",
-      "expires_at": "2026-08-11T23:32:00.216726+00:00"
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=6474",
@@ -38,8 +142,8 @@
       "transcript_chars": 237906,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-28T23:32:00.216726+00:00",
-      "expires_at": "2026-08-11T23:32:00.216726+00:00"
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
@@ -51,8 +155,8 @@
       "transcript_chars": 13787,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-28T23:32:00.216726+00:00",
-      "expires_at": "2026-08-11T23:32:00.216726+00:00"
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
     },
     {
       "guid": "https://www.latent.space/p/chatgpt-work",
@@ -64,8 +168,8 @@
       "transcript_chars": 94929,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-28T23:32:00.216726+00:00",
-      "expires_at": "2026-08-11T23:32:00.216726+00:00"
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
@@ -77,8 +181,8 @@
       "transcript_chars": 17887,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-28T23:32:00.216726+00:00",
-      "expires_at": "2026-08-11T23:32:00.216726+00:00"
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
     },
     {
       "guid": "yt:XDB5beon4DY",
@@ -90,8 +194,8 @@
       "transcript_chars": 61705,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-28T23:32:00.216726+00:00",
-      "expires_at": "2026-08-11T23:32:00.216726+00:00"
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
     },
     {
       "guid": "yt:ZIaOBAjvc38",
@@ -103,8 +207,8 @@
       "transcript_chars": 37554,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-28T23:32:00.216726+00:00",
-      "expires_at": "2026-08-11T23:32:00.216726+00:00"
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
     },
     {
       "guid": "yt:fr1IQspixmM",
@@ -116,8 +220,8 @@
       "transcript_chars": 62858,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-28T23:32:00.216726+00:00",
-      "expires_at": "2026-08-11T23:32:00.216726+00:00"
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
@@ -129,8 +233,8 @@
       "transcript_chars": 12532,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-28T02:08:47.383906+00:00",
-      "last_seen_at": "2026-07-28T23:32:00.216726+00:00",
-      "expires_at": "2026-08-11T23:32:00.216726+00:00"
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
@@ -142,8 +246,8 @@
       "transcript_chars": 5005,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-28T02:08:47.383906+00:00",
-      "last_seen_at": "2026-07-28T23:32:00.216726+00:00",
-      "expires_at": "2026-08-11T23:32:00.216726+00:00"
+      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
+      "expires_at": "2026-08-12T22:47:50.822067+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
