@@ -2017,6 +2017,54 @@ def fetch_blogs(sources):
 
 # ── WeChat official accounts (via self-hosted wewe-rss) ───────────────────────
 
+# we-mp-rss marks an article status=6 (FETCHING) while pulling its body, as a
+# lock against concurrent fetches. When the browser dies mid-fetch the lock is
+# never released, and the background gatherer skips status=6 forever — the
+# article is stuck with no body permanently. Seven had piled up this way.
+WEMP_STATUS_FETCHING = 6
+WEMP_RESCUE_LIMIT = 10
+
+
+def rescue_stuck_wemp_articles(base_url, auth):
+    """Re-request bodies for articles orphaned by a crashed fetch.
+
+    The per-article refresh endpoint ignores the lock, so it both frees the
+    article and gets the body — no need to write into we-mp-rss's own database.
+    """
+    db_path = Path.home() / "we-mp-rss" / "data" / "db.db"
+    if not db_path.exists():
+        return
+    import sqlite3
+
+    try:
+        conn = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True, timeout=10)
+        try:
+            rows = conn.execute(
+                "select id, title from articles where status = ? and has_content = 0 "
+                "order by publish_time desc limit ?",
+                (WEMP_STATUS_FETCHING, WEMP_RESCUE_LIMIT),
+            ).fetchall()
+        finally:
+            conn.close()
+    except Exception as e:
+        log(f"  ⚠️ 检查卡住的文章失败: {e}")
+        return
+
+    if not rows:
+        return
+    log(f"  🔓 {len(rows)} 篇卡在抓取锁里,逐个解锁重试")
+    for article_id, title in rows:
+        try:
+            httpx.post(f"{base_url}/api/v1/wx/articles/{article_id}/refresh",
+                       headers=auth, timeout=120)
+            log(f"     ↻ {(title or '')[:36]}")
+        except Exception as e:
+            log(f"     ⚠️ {(title or '')[:30]}: {e}")
+    # Bodies are fetched through a real browser; give them time to land before
+    # the feed is read.
+    time.sleep(min(20 + 15 * len(rows), 180))
+
+
 def trigger_wemp_sync(base_url):
     """Sync each 公众号 ourselves instead of waiting on we-mp-rss's own cron.
 
@@ -2050,6 +2098,8 @@ def trigger_wemp_sync(base_url):
     except Exception as e:
         log(f"  ⚠️ 主动同步失败(仍读现有文章): {e}")
         return f"we-mp-rss sync setup failed: {e}"
+
+    rescue_stuck_wemp_articles(base_url, auth)
 
     failed = []
     for account in accounts:
