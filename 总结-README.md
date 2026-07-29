@@ -94,16 +94,9 @@ export TWITTER_COOKIES='auth_token=...; ct0=...'   # 抓 Twitter 需要
 | 数据目录 | `~/we-mp-rss/data`(含 `db.db` 和登录凭据 `wx.lic`) |
 | 登录方式 | **公众号平台**扫码(不是微信读书),有效期约 **4 天** |
 
-**扫码前必须满足两个条件**,少一个二维码就出不来:
-
-```bash
-docker start we-mp-rss
-docker exec we-mp-rss sh -c 'rm -f /tmp/.X99-lock /tmp/.X11-unix/X99'   # 关键!
-docker restart we-mp-rss
-```
-
-那行 `rm` 不能省:容器重启后 `/tmp/.X99-lock` 会残留,Xvfb 起不来,微信就会把
-无头浏览器识别成机器人,二维码永远不出现。确认它真的起来了:
+**前提是 Xvfb 必须在跑**,否则微信会把无头浏览器识别成机器人,二维码永远不出现。
+容器的 `start.sh` 已打补丁自动清理残留的 `/tmp/.X99-lock`,所以 `docker restart`
+之后会自愈,不用手动干预。确认一下:
 
 ```bash
 docker exec we-mp-rss sh -c 'ps aux | grep -i "[X]vfb"'   # 必须有输出
@@ -148,7 +141,12 @@ docker logs we-mp-rss --since 5m | grep -E "已跳转到公众平台|已更新To
 - `GET /rss/all` —— 全部文章,正文在 `<content:encoded>` 里
 - `GET /rss/{mp_id}` —— 从 `<channel><title>` 取公众号名
 
-时序:**05:00** we-mp-rss 同步并采集正文 → **06:00** ai-signal 读取。
+**不依赖时序**:ai-signal 在抓公众号前会自己调
+`/api/v1/wx/mps/update/{mp_id}` 触发同步并**等它把正文采完**,再读 `/rss/all`。
+需要 `.env` 里的 `WEMP_USERNAME` / `WEMP_PASSWORD`。
+
+we-mp-rss 自己那个 05:57 的 cron 现在只是兜底 —— Mac 夜里休眠时它本来就不会跑
+(虚拟机整个挂起),这正是不能靠它的原因。
 
 ---
 
@@ -283,8 +281,9 @@ open http://localhost:4000/dash            # 控制台(AUTH_CODE 见 ~/wewe-rss/
 |---|------|------|------|
 | 1 | 镜像里 `wx.py` 是旧版(733 行),`networkidle` 无超时,微信登录页有持续轮询 → 永久卡死 | 换成 GitHub 最新版(814 行) | [issue #436](https://github.com/rachelos/we-mp-rss/issues/436) |
 | 2 | 无头浏览器被微信识别,返回反爬页 | `HEADLESS=false` + `ENABLE_XVFB=true` | issue #436 |
-| 3 | `_wait_qrcode_ready` 用 `getComputedStyle(img)` 判断可见性,读的是 img 自身样式;二维码被**祖先容器**隐藏时它仍返回可见,于是跳过"切换到扫码登录"的点击,截图必然超时 | 改用 `getBoundingClientRect()`,祖先隐藏时返回 0×0 | **本地发现,上游未知** |
-| 4 | `framenavigated` 监听器对任意 frame(含快捷登录 iframe)都打印"登录成功",用户以为好了就停手,实际 `wait_for_url` 还在等,5 分钟后超时 | 改成如实报告跳转,成功只由 `wait_for_url` 判定 | **本地发现,上游未知** |
+| 3 | `start.sh` 里 Xvfb 启动前不清理 `/tmp/.X99-lock`,容器重启后残留的锁让 Xvfb 起不来 → 二维码不出现 | 在启动 Xvfb 前加 `rm -f /tmp/.X99-lock` | **本地发现** |
+| 4 | `_wait_qrcode_ready` 用 `getComputedStyle(img)` 判断可见性,读的是 img 自身样式;二维码被**祖先容器**隐藏时它仍返回可见,于是跳过"切换到扫码登录"的点击,截图必然超时 | 改用 `getBoundingClientRect()`,祖先隐藏时返回 0×0 | **本地发现,上游未知** |
+| 5 | `framenavigated` 监听器对任意 frame(含快捷登录 iframe)都打印"登录成功",用户以为好了就停手,实际 `wait_for_url` 还在等,5 分钟后超时 | 改成如实报告跳转,成功只由 `wait_for_url` 判定 | **本地发现,上游未知** |
 
 重建容器后恢复补丁:
 

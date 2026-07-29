@@ -2017,6 +2017,64 @@ def fetch_blogs(sources):
 
 # ── WeChat official accounts (via self-hosted wewe-rss) ───────────────────────
 
+def trigger_wemp_sync(base_url):
+    """Sync each 公众号 ourselves instead of waiting on we-mp-rss's own cron.
+
+    That cron fires at a fixed hour, but this Mac is asleep for most of the
+    night — the VM is suspended, so the job simply does not run and the 06:00
+    digest reads yesterday's articles. Triggering here also blocks until the
+    bodies are gathered (GATHER.CONTENT collects them inline), so the feed is
+    never read mid-gather with empty summaries.
+    """
+    user = os.environ.get("WEMP_USERNAME", "").strip()
+    password = os.environ.get("WEMP_PASSWORD", "").strip()
+    if not (user and password):
+        log("  ℹ️ 未设 WEMP_USERNAME/WEMP_PASSWORD,跳过主动同步(靠 we-mp-rss 自己的定时任务)")
+        return None
+
+    try:
+        resp = httpx.post(f"{base_url}/api/v1/wx/auth/login",
+                          data={"username": user, "password": password}, timeout=30)
+        resp.raise_for_status()
+        payload = resp.json()
+        token = ((payload.get("data") or payload) or {}).get("access_token")
+        if not token:
+            log("  ⚠️ we-mp-rss 登录没拿到 token,跳过主动同步")
+            return "we-mp-rss login returned no token"
+        auth = {"Authorization": f"Bearer {token}"}
+
+        resp = httpx.get(f"{base_url}/api/v1/wx/mps", params={"page": 1, "size": 50},
+                         headers=auth, timeout=30)
+        resp.raise_for_status()
+        accounts = ((resp.json().get("data") or {}).get("list")) or []
+    except Exception as e:
+        log(f"  ⚠️ 主动同步失败(仍读现有文章): {e}")
+        return f"we-mp-rss sync setup failed: {e}"
+
+    failed = []
+    for account in accounts:
+        mp_id, name = account.get("id"), account.get("mp_name") or "?"
+        if not mp_id:
+            continue
+        try:
+            # Generous timeout: this call also fetches each new article's body
+            # through a real browser, which is the slow part.
+            r = httpx.get(f"{base_url}/api/v1/wx/mps/update/{mp_id}",
+                          headers=auth, timeout=300)
+            r.raise_for_status()
+            got = len(((r.json().get("data") or {}).get("list")) or [])
+            log(f"  🔄 {name}: 同步完成,新增 {got} 篇")
+        except Exception as e:
+            log(f"  ⚠️ {name}: 同步失败 {e}")
+            failed.append(name)
+
+    if failed:
+        return f"we-mp-rss sync failed for: {', '.join(failed)}"
+    if not accounts:
+        log("  ⚠️ we-mp-rss 里一个公众号都没订阅")
+    return None
+
+
 def fetch_wechat_wemp(wx_cfg, base_url, since, max_articles, max_per_account,
                       summary_chars):
     """Pull 公众号 posts from a self-hosted we-mp-rss instance.
@@ -2044,6 +2102,8 @@ def fetch_wechat_wemp(wx_cfg, base_url, since, max_articles, max_per_account,
                 last = e
                 time.sleep(2 * (attempt + 1))
         return None, last
+
+    sync_error = trigger_wemp_sync(base_url)
 
     root, err = get_xml("/rss/all")
     if root is None:
@@ -2107,7 +2167,7 @@ def fetch_wechat_wemp(wx_cfg, base_url, since, max_articles, max_per_account,
     articles = articles[:max_articles]
     log(f"  📄 正文 {with_body}/{len(articles)} 篇")
     log(f"  ✅ {len(articles)} articles from {len(per_account)} 公众号")
-    return {"articles": articles, "errors": None}
+    return {"articles": articles, "errors": [sync_error] if sync_error else None}
 
 
 def fetch_wechat(sources):
