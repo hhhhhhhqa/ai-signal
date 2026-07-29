@@ -130,8 +130,8 @@ def main():
     parser.add_argument("--mark-delivered-file", type=str,
                         help="Path to delivery-mark.json; marked only after successful delivery")
     parser.add_argument("--shown", type=str, default="",
-                        help="Comma-separated labels the digest printed (X1,P1,Paper2,B1). "
-                             "Without it every candidate is marked read.")
+                        help="Labels the digest printed; ranges allowed "
+                             "(X1-X4,P1,Paper1-Paper3,B1). Required to mark anything.")
     args = parser.parse_args()
 
     if args.message:

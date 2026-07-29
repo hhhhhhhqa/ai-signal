@@ -10,6 +10,7 @@ Usage:
 
 import argparse
 import json
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -55,6 +56,37 @@ def load_mark(path):
     return ids, data.get("labels") or {}
 
 
+LABEL_RE = re.compile(r"^([A-Za-z]+)(\d+)$")
+
+
+def expand_labels(raw):
+    """Accept 'Paper1-Paper3' and 'X1-X5' as shorthand for the whole run.
+
+    A digest that shows twenty items shouldn't need twenty comma-separated
+    labels; that is where typos and omissions come from.
+    """
+    out = []
+    for chunk in raw.split(","):
+        chunk = chunk.strip()
+        if not chunk:
+            continue
+        if "-" not in chunk:
+            out.append(chunk)
+            continue
+        start, _, end = chunk.partition("-")
+        m1, m2 = LABEL_RE.match(start.strip()), LABEL_RE.match(end.strip())
+        # Only expand when both ends name the same kind, e.g. Paper1-Paper3.
+        if not (m1 and m2) or m1.group(1).lower() != m2.group(1).lower():
+            out.append(chunk)
+            continue
+        prefix = m1.group(1)
+        lo, hi = int(m1.group(2)), int(m2.group(2))
+        if lo > hi:
+            lo, hi = hi, lo
+        out.extend(f"{prefix}{n}" for n in range(lo, hi + 1))
+    return out
+
+
 def select_shown(ids, labels, shown):
     """Keep only the items the digest actually printed.
 
@@ -91,9 +123,12 @@ def main():
     parser.add_argument("--file", type=str, default=str(DEFAULT_MARK_PATH),
                         help="Path to delivery-mark.json")
     parser.add_argument("--shown", type=str, default="",
-                        help="Comma-separated labels the digest actually printed "
-                             "(e.g. 'X1,X2,P1,Paper1,Paper2,B1'). Without it every "
-                             "candidate is marked, which hides items the user never saw.")
+                        help="Labels the digest actually printed, comma-separated. "
+                             "Ranges allowed: 'X1-X5,P1,Paper1-Paper3,B1'. Required "
+                             "unless --all.")
+    parser.add_argument("--all", action="store_true",
+                        help="Mark every candidate. Only correct when the digest "
+                             "really printed all of them.")
     parser.add_argument("--dry-run", action="store_true",
                         help="Show what would be marked without writing seen.json")
     args = parser.parse_args()
@@ -104,16 +139,26 @@ def main():
         sys.exit(1)
 
     ids, labels = load_mark(mark_path)
+
+    # Refuse rather than guess. Marking everything buries items the user never
+    # saw and a seen item never returns; marking nothing only makes tomorrow
+    # repeat them. Between a silent loss and a visible repeat, take the repeat.
+    if not args.shown.strip() and not args.all:
+        print(json.dumps({
+            "status": "error",
+            "error": "--shown is required (or --all if the digest printed everything)",
+            "hint": "pass the labels you printed, e.g. --shown 'X1-X4,P1,Paper1-Paper3,B1'",
+            "available": {kind: len(v) for kind, v in ids.items()},
+        }, ensure_ascii=False, indent=2))
+        sys.exit(2)
+
     unknown = []
     if args.shown.strip():
-        ids, unknown = select_shown(ids, labels, args.shown.split(","))
+        ids, unknown = select_shown(ids, labels, expand_labels(args.shown))
     counts = {kind: len(values) for kind, values in ids.items()}
     result = {"status": "ok", "marked": counts}
     if unknown:
         result["unknown_labels"] = unknown
-    if not args.shown.strip():
-        result["warning"] = ("marked every candidate; pass --shown with the labels "
-                             "the digest printed so unshown items stay unread")
 
     if args.dry_run:
         result["dry_run"] = True

@@ -223,11 +223,22 @@ confirm delivery state with:
 cd ${SKILL_DIR}/scripts && python mark_delivered.py --file "<delivery_mark_file>" --shown "<labels you printed>" 2>/dev/null
 ```
 
-**`--shown` is required in practice.** Pass the labels you actually printed,
-comma-separated and matching `labels` in the mark file: `X1,X2,P1,Paper1,B1`.
+**`--shown` is required — the command exits 2 without it.** Pass the labels you
+actually printed, matching `labels` in the mark file. Ranges are allowed, so a
+long digest stays short to express:
+
+```
+--shown "X1-X6,P1,P2,Paper1-Paper3,B1"
+```
+
 The payload is deliberately wider than the digest — 30 papers can come in and 3
-go out. Without `--shown` every candidate is marked read, so the 27 papers the
-user never saw are buried permanently; a seen item never comes back.
+go out. Marking all of them would bury the 27 the user never saw, and a seen
+item never comes back. If the digest really did print everything, pass `--all`
+instead.
+
+If you get exit 2, do not retry with `--all` to make it pass: work out which
+labels you printed. Leaving items unmarked only repeats them tomorrow, which is
+recoverable; marking unseen items is not.
 
 Do not run `mark_delivered.py` if digest generation failed or the content was
 not shown/sent.
