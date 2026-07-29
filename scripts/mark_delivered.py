@@ -52,7 +52,37 @@ def load_mark(path):
     ids = data.get("ids", {})
     for key in ("tweets", "episodes", "papers", "articles"):
         ids.setdefault(key, {})
-    return ids
+    return ids, data.get("labels") or {}
+
+
+def select_shown(ids, labels, shown):
+    """Keep only the items the digest actually printed.
+
+    The payload is deliberately wider than the digest — 30 papers can go in and
+    3 come out. Marking the whole payload buried the other 27 forever, since a
+    seen item never returns. The Agent knows what it printed, so it passes the
+    labels back (X1, P2, Paper3, B1) and only those get marked.
+
+    Unknown labels are reported rather than ignored: silently dropping them
+    would recreate the same silent data loss in the other direction.
+    """
+    picked = {kind: {} for kind in ids}
+    unknown = []
+    for raw in shown:
+        label = raw.strip()
+        if not label:
+            continue
+        entry = labels.get(label) or labels.get(label.upper())
+        if not entry:
+            unknown.append(label)
+            continue
+        kind, item_id = entry.get("kind"), entry.get("id")
+        stamp = ids.get(kind, {}).get(item_id)
+        if stamp is None:
+            unknown.append(label)
+            continue
+        picked.setdefault(kind, {})[item_id] = stamp
+    return picked, unknown
 
 
 def main():
@@ -60,6 +90,10 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--file", type=str, default=str(DEFAULT_MARK_PATH),
                         help="Path to delivery-mark.json")
+    parser.add_argument("--shown", type=str, default="",
+                        help="Comma-separated labels the digest actually printed "
+                             "(e.g. 'X1,X2,P1,Paper1,Paper2,B1'). Without it every "
+                             "candidate is marked, which hides items the user never saw.")
     parser.add_argument("--dry-run", action="store_true",
                         help="Show what would be marked without writing seen.json")
     args = parser.parse_args()
@@ -69,10 +103,21 @@ def main():
         print(json.dumps({"status": "error", "error": f"Missing mark file: {mark_path}"}))
         sys.exit(1)
 
-    ids = load_mark(mark_path)
+    ids, labels = load_mark(mark_path)
+    unknown = []
+    if args.shown.strip():
+        ids, unknown = select_shown(ids, labels, args.shown.split(","))
     counts = {kind: len(values) for kind, values in ids.items()}
+    result = {"status": "ok", "marked": counts}
+    if unknown:
+        result["unknown_labels"] = unknown
+    if not args.shown.strip():
+        result["warning"] = ("marked every candidate; pass --shown with the labels "
+                             "the digest printed so unshown items stay unread")
+
     if args.dry_run:
-        print(json.dumps({"status": "ok", "dry_run": True, "counts": counts}, indent=2))
+        result["dry_run"] = True
+        print(json.dumps(result, indent=2))
         return
 
     seen = load_seen()
@@ -80,7 +125,8 @@ def main():
         seen.setdefault(kind, {}).update(values)
     save_seen(seen)
 
-    print(json.dumps({"status": "ok", "marked": counts, "seen_path": str(SEEN_PATH)}, indent=2))
+    result["seen_path"] = str(SEEN_PATH)
+    print(json.dumps(result, indent=2))
 
 
 if __name__ == "__main__":

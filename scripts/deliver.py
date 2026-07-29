@@ -101,12 +101,17 @@ def send_email(text, api_key, to_email):
     return resp.is_success
 
 
-def mark_delivered(mark_file):
+def mark_delivered(mark_file, shown=""):
     if not mark_file:
         return
     import subprocess
+    cmd = [sys.executable, str(SCRIPT_DIR / "mark_delivered.py"), "--file", mark_file]
+    # Forward the labels the digest printed; without them every candidate is
+    # marked read and the unshown ones never surface again.
+    if shown:
+        cmd += ["--shown", shown]
     result = subprocess.run(
-        [sys.executable, str(SCRIPT_DIR / "mark_delivered.py"), "--file", mark_file],
+        cmd,
         capture_output=True,
         text=True,
         timeout=30,
@@ -124,6 +129,9 @@ def main():
     parser.add_argument("--file", "-f", type=str)
     parser.add_argument("--mark-delivered-file", type=str,
                         help="Path to delivery-mark.json; marked only after successful delivery")
+    parser.add_argument("--shown", type=str, default="",
+                        help="Comma-separated labels the digest printed (X1,P1,Paper2,B1). "
+                             "Without it every candidate is marked read.")
     args = parser.parse_args()
 
     if args.message:
@@ -158,7 +166,7 @@ def main():
         ok = send_telegram(text, token, chat_id)
         log("✅ Sent to Telegram" if ok else "❌ Telegram failed")
         if ok:
-            mark_delivered(args.mark_delivered_file)
+            mark_delivered(args.mark_delivered_file, args.shown)
 
     elif method == "feishu":
         webhook = delivery.get("webhook_url", os.environ.get("FEISHU_WEBHOOK_URL", ""))
@@ -168,7 +176,7 @@ def main():
         ok = send_feishu(text, webhook)
         log("✅ Sent to Feishu" if ok else "❌ Feishu failed")
         if ok:
-            mark_delivered(args.mark_delivered_file)
+            mark_delivered(args.mark_delivered_file, args.shown)
 
     elif method == "email":
         api_key = os.environ.get("RESEND_API_KEY", "")
@@ -179,11 +187,11 @@ def main():
         ok = send_email(text, api_key, email)
         log("✅ Sent to email" if ok else "❌ Email failed")
         if ok:
-            mark_delivered(args.mark_delivered_file)
+            mark_delivered(args.mark_delivered_file, args.shown)
 
     else:
         print(text)
-        mark_delivered(args.mark_delivered_file)
+        mark_delivered(args.mark_delivered_file, args.shown)
 
 
 if __name__ == "__main__":

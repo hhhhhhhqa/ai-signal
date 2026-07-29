@@ -299,6 +299,32 @@ def write_payload(out_dir, output, episodes):
     return payload_path, slim_episodes
 
 
+# The digest labels items X1/P1/Paper1/B1 in payload order. Mirroring that here
+# lets the Agent report back which ones it actually printed.
+MARK_LABEL_PREFIX = {
+    "tweets": "X",
+    "episodes": "P",
+    "papers": "Paper",
+    "articles": "B",
+}
+
+
+def build_mark_labels(marks):
+    """Map each candidate to the label the digest will show it under.
+
+    marks is insertion-ordered by payload order, so the Nth key of a kind is
+    that kind's Nth item in the digest.
+    """
+    labels = {}
+    for kind, ids in marks.items():
+        prefix = MARK_LABEL_PREFIX.get(kind)
+        if not prefix:
+            continue
+        for position, key in enumerate(ids, start=1):
+            labels[f"{prefix}{position}"] = {"kind": kind, "id": key}
+    return labels
+
+
 def write_delivery_mark(out_dir, marks, generated_at):
     out_dir.mkdir(parents=True, exist_ok=True)
     path = out_dir / DEFAULT_DELIVERY_MARK
@@ -307,6 +333,7 @@ def write_delivery_mark(out_dir, marks, generated_at):
         "prepared_at": datetime.now(timezone.utc).isoformat(),
         "ids": marks,
         "counts": {kind: len(ids) for kind, ids in marks.items()},
+        "labels": build_mark_labels(marks),
     }
     path.write_text(json.dumps(clean_data(payload), ensure_ascii=True, indent=2), encoding="utf-8")
     return path

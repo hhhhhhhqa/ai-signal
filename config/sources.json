@@ -375,7 +375,9 @@
       {
         "name": "SemiAnalysis",
         "domain": "ai",
-        "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg"
+        "rss_url": "https://anchor.fm/s/10fbee758/podcast/rss",
+        "transcript_rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf_KhBXw5TIV0A7butjgFhg",
+        "lookback_hours": 336
       },
       {
         "name": "Lightcone Podcast",

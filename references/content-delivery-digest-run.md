@@ -212,7 +212,7 @@ Read `config.delivery.method`:
 **If "telegram", "feishu", or "email":**
 ```bash
 echo '<digest text>' > /tmp/ai-signal-digest.txt
-cd ${SKILL_DIR}/scripts && python deliver.py --file /tmp/ai-signal-digest.txt --mark-delivered-file "<delivery_mark_file>" 2>/dev/null
+cd ${SKILL_DIR}/scripts && python deliver.py --file /tmp/ai-signal-digest.txt --mark-delivered-file "<delivery_mark_file>" --shown "<labels you printed>" 2>/dev/null
 ```
 If delivery fails, show the digest in terminal as fallback.
 
@@ -220,8 +220,14 @@ If delivery fails, show the digest in terminal as fallback.
 Output the digest directly. After the digest has been written to the user,
 confirm delivery state with:
 ```bash
-cd ${SKILL_DIR}/scripts && python mark_delivered.py --file "<delivery_mark_file>" 2>/dev/null
+cd ${SKILL_DIR}/scripts && python mark_delivered.py --file "<delivery_mark_file>" --shown "<labels you printed>" 2>/dev/null
 ```
+
+**`--shown` is required in practice.** Pass the labels you actually printed,
+comma-separated and matching `labels` in the mark file: `X1,X2,P1,Paper1,B1`.
+The payload is deliberately wider than the digest — 30 papers can come in and 3
+go out. Without `--shown` every candidate is marked read, so the 27 papers the
+user never saw are buried permanently; a seen item never comes back.
 
 Do not run `mark_delivered.py` if digest generation failed or the content was
 not shown/sent.

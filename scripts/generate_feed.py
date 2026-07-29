@@ -943,6 +943,15 @@ def get_podcast_transcript(ep):
     if usable(youtube_result, "youtube"):
         return youtube_result
 
+    # Companion feed (see build_transcript_link_index): the audio host has no
+    # transcript but the YouTube copy of this same episode does.
+    companion = ep.get("transcript_link")
+    if companion and companion != ep.get("link"):
+        companion_result = get_youtube_transcript(companion)
+        if usable(companion_result, "companion_youtube"):
+            return companion_result
+        youtube_result = youtube_result if youtube_result.get("video_id") else companion_result
+
     return transcript_result(
         source=None,
         error="; ".join(errors[:5]) or "Transcript unavailable",
@@ -950,11 +959,128 @@ def get_podcast_transcript(ep):
     )
 
 
+def title_match_key(title):
+    """Normalise a title enough to pair the same episode across two feeds."""
+    return re.sub(r"[^a-z0-9]+", " ", (title or "").lower()).strip()
+
+
+def build_transcript_link_index(channel):
+    """Index a channel's companion feed by title.
+
+    Some shows publish audio on one host and the same episode on YouTube, where
+    the captions live. SemiAnalysis is the case in point: its Anchor feed
+    carries every episode, but only the YouTube copy has a transcript. Reading
+    the audio feed alone loses episodes; reading YouTube alone loses the ones
+    never posted there.
+    """
+    url = (channel.get("transcript_rss_url") or "").strip()
+    if not url:
+        return {}
+    try:
+        resp = httpx.get(url, timeout=30, headers={"User-Agent": UA}, follow_redirects=True)
+        resp.raise_for_status()
+        entries = parse_rss(resp.text)
+    except Exception as e:
+        log(f"  ⚠️ transcript RSS failed ({url}): {e}")
+        return {}
+    index = {}
+    for entry in entries:
+        key = title_match_key(entry.get("title"))
+        if key and entry.get("link"):
+            index.setdefault(key, entry["link"])
+    return index
+
+
+def lookup_transcript_link(index, title):
+    if not index:
+        return None
+    key = title_match_key(title)
+    if not key:
+        return None
+    if key in index:
+        return index[key]
+    # Titles often differ by a trailing "| Podcast" or an added guest name.
+    for candidate, link in index.items():
+        if candidate.startswith(key[:40]) or key.startswith(candidate[:40]):
+            return link
+    return None
+
+
+def retry_companion_transcripts(channel_name, results, transcript_links):
+    """Re-resolve episodes whose page text was just rejected.
+
+    The per-episode fallback chain stopped at episode_page because that looked
+    like a hit; only the cross-episode comparison afterwards proved otherwise.
+    The companion feed is exactly what should have been used, so give it its
+    turn now rather than shipping the episode with nothing.
+    """
+    if not transcript_links:
+        return
+    for entry in results:
+        if entry.get("transcript_available"):
+            continue
+        link = lookup_transcript_link(transcript_links, entry.get("title"))
+        if not link:
+            continue
+        result = get_youtube_transcript(link)
+        text = result.get("text") or ""
+        if not text or transcript_too_sparse(text, entry.get("duration")):
+            continue
+        entry["transcript"] = text
+        entry["transcript_available"] = True
+        entry["transcript_source"] = "companion_youtube"
+        entry["transcript_url"] = link
+        entry["transcript_video_id"] = result.get("video_id")
+        entry["transcript_error"] = None
+        log(f"    ✅ {entry['title'][:44]} 改用字幕源 ({len(text)} chars)")
+
+
+def drop_shared_page_transcripts(channel_name, results):
+    """Reject a show page that every episode scraped as its own transcript.
+
+    Density catches show notes that are too short; it cannot catch a page that
+    is long enough to look real. SemiAnalysis is the case: each episode page on
+    the audio host renders the whole show listing — every blurb and chapter
+    list concatenated — so four different episodes each came back with ~30.2k
+    chars of the same text at 582 chars/min, comfortably past the density
+    floor.
+
+    The tell is that the text does not vary with the episode. Real transcripts
+    never share an opening; a shared one means we scraped the show, not the
+    episode.
+    """
+    # Match on the tail, not the head: each page opens with its own episode
+    # title, so the prefixes differ while the body and footer are identical.
+    by_tail = {}
+    for entry in results:
+        text = normalize_text(entry.get("transcript") or "")
+        if len(text) < MIN_TRANSCRIPT_CHARS:
+            continue
+        by_tail.setdefault(text[-1500:], []).append(entry)
+
+    for shared in by_tail.values():
+        if len(shared) < 2:
+            continue
+        for entry in shared:
+            entry["transcript"] = ""
+            entry["transcript_available"] = False
+            entry["transcript_source"] = None
+            entry["transcript_url"] = None
+            entry["transcript_error"] = (
+                "episode_page: same page text returned for multiple episodes "
+                "(节目列表页,非本集字幕)"
+            )
+        log(f"  ⚠️ {channel_name}: {len(shared)} 集抓到同一份页面文本,已判为非字幕")
+
+
 def fetch_channel(channel, lookback_hours, transcript_cache):
     name = channel["name"]
     channel_lookback = int(channel.get("lookback_hours", lookback_hours))
     since = datetime.now(timezone.utc) - timedelta(hours=channel_lookback)
     log(f"📻 {name}...")
+    transcript_links = build_transcript_link_index(channel)
+    if transcript_links:
+        log(f"  🔗 字幕源已加载({len(transcript_links)} 条可配对)")
 
     rss_text, final_url, rss_error = fetch_rss_with_fallback(channel)
     if rss_error:
@@ -982,6 +1108,10 @@ def fetch_channel(channel, lookback_hours, transcript_cache):
 
         log(f"  🆕 {ep['title'][:60]}...")
 
+        companion = lookup_transcript_link(transcript_links, ep["title"])
+        if companion:
+            ep["transcript_link"] = companion
+
         fetched = get_podcast_transcript(ep)
         transcript = fetched["text"]
         if transcript:
@@ -1006,6 +1136,9 @@ def fetch_channel(channel, lookback_hours, transcript_cache):
             "transcript_video_id": fetched["video_id"],
             "transcript_error": fetched["error"] if not transcript else None,
         })
+
+    drop_shared_page_transcripts(name, results)
+    retry_companion_transcripts(name, results, transcript_links)
 
     if not results:
         log(f"  ⏭️ nothing in window")
