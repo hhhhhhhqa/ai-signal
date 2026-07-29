@@ -1,7 +1,7 @@
 # AI Signal + 微信公众号 —— 部署与运维总结
 
 > 本文档记录了这套"AI 一线信号日报"系统的完整搭建成果、日常操作和排错方法。
-> 最后更新:2026-07-27
+> 最后更新:2026-07-29
 
 ---
 
@@ -14,7 +14,7 @@
 - **播客**(14 个频道 + 28 位人物的全网访谈搜索)
 - **arXiv 论文**(cs.AI / cs.CL / cs.LG)
 - **官方博客**(Anthropic / OpenAI / Google DeepMind)
-- **微信公众号** ⭐️(本次新增,通过自建 wewe-rss)
+- **微信公众号**(自建 we-mp-rss,2026-07-29 起;此前用 wewe-rss)
 
 ---
 
@@ -47,7 +47,8 @@
 | 组件 | 说明 | 位置/地址 |
 |------|------|-----------|
 | **Colima** | Mac 上的 Docker 运行时(aarch64 + vz + Rosetta) | `colima status` |
-| **wewe-rss** | 公众号 → RSS(Docker,arm64 原生) | http://localhost:4000 |
+| **we-mp-rss** | 公众号 → RSS(**当前使用**,公众号平台登录) | http://127.0.0.1:8001 |
+| wewe-rss | 旧方案,已停用但容器保留 | http://127.0.0.1:4000 |
 | **ai-signal** | 抓取 + 日报生成脚本 | 本目录 `ai-signal-main/` |
 | **Python venv** | 跑 ai-signal 脚本的环境 | `ai-signal-main/.venv` |
 
@@ -81,7 +82,77 @@ export TWITTER_COOKIES='auth_token=...; ct0=...'   # 抓 Twitter 需要
 
 ---
 
-## 5. 微信公众号子系统(wewe-rss)
+## 5. 微信公众号子系统(we-mp-rss,2026-07-29 起启用)
+
+### 5.0 怎么打开、怎么才能扫码成功
+
+| 项 | 值 |
+|----|----|
+| 控制台 | http://127.0.0.1:8001/ |
+| 账号 | `admin` / `admin@123` |
+| 端口 | 只绑 127.0.0.1,不对外 |
+| 数据目录 | `~/we-mp-rss/data`(含 `db.db` 和登录凭据 `wx.lic`) |
+| 登录方式 | **公众号平台**扫码(不是微信读书),有效期约 **4 天** |
+
+**扫码前必须满足两个条件**,少一个二维码就出不来:
+
+```bash
+docker start we-mp-rss
+docker exec we-mp-rss sh -c 'rm -f /tmp/.X99-lock /tmp/.X11-unix/X99'   # 关键!
+docker restart we-mp-rss
+```
+
+那行 `rm` 不能省:容器重启后 `/tmp/.X99-lock` 会残留,Xvfb 起不来,微信就会把
+无头浏览器识别成机器人,二维码永远不出现。确认它真的起来了:
+
+```bash
+docker exec we-mp-rss sh -c 'ps aux | grep -i "[X]vfb"'   # 必须有输出
+```
+
+**扫码步骤**:
+
+1. 开 http://127.0.0.1:8001/ 登录后台,点授权
+2. 二维码出不来就**强制刷新**(Cmd+Shift+R)—— 之前多次 404 会被浏览器缓存住;
+   或直接开 `http://127.0.0.1:8001/static/wx_qrcode.png?nocache=$(date +%s)`
+3. 手机扫码后**一定要点「确认登录」**,页面跳转到公众平台首页才算成功
+4. 看日志判断真假:
+
+```bash
+docker logs we-mp-rss --since 5m | grep -E "已跳转到公众平台|已更新Token|超时"
+```
+
+| 日志 | 含义 |
+|------|------|
+| `检测到页面跳转（尚未确认登录）` | 还没成 |
+| `已跳转到公众平台首页，扫码确认完成` | **真成了** |
+| `已更新Token: xxx` | 凭据落库 |
+| `扫码登录超时` | 5 分钟没确认,重来 |
+
+> ⚠️ **镜像里的代码有 bug,是打过补丁的。** `docker restart` 能保住补丁,
+> **`docker rm` 重建就会丢**,必须重新打。补丁文件见
+> `/private/tmp/.../scratchpad/wx_patched.py`,容器内原版备份在
+> `/app/driver/wx.py.bak`。详见 5.6。
+
+### 5.0.1 关键环境变量
+
+```bash
+-e HEADLESS=false -e ENABLE_XVFB=true    # 不加二维码出不来(微信反无头检测)
+-e GATHER.CONTENT=True                    # 不加抓不到正文,默认是 False
+-e GATHER.CONTENT_AUTO_CHECK=True
+```
+
+### 5.0.2 ai-signal 怎么接的
+
+`config/sources.json` 的 `wechat.provider = "we-mp-rss"`,读两个免鉴权接口:
+
+- `GET /rss/all` —— 全部文章,正文在 `<content:encoded>` 里
+- `GET /rss/{mp_id}` —— 从 `<channel><title>` 取公众号名
+
+时序:**05:00** we-mp-rss 同步并采集正文 → **06:00** ai-signal 读取。
+
+---
+
+## 5.5 旧方案:wewe-rss(已停用,容器保留)
 
 ### 5.1 基本信息
 
@@ -157,8 +228,8 @@ curl -s http://127.0.0.1:4000/feeds | python3 -m json.tool   # 看已订阅的�
   httpx 用 localhost 会走 IPv6(::1),撞上 Colima 的 IPv6 转发问题返回空 503。已在配置里固定 127.0.0.1。
 - **Docker 没反应**:先 `colima start`。
 - **公众号内容不更新**:检查微信读书登录是否失效(控制台看账号状态),失效就重新扫码。
-- **为什么用 wewe-rss 不用 we-mp-rss**:we-mp-rss 走"公众号平台扫码登录",对现在的微信已失效
-  (二维码出不来);wewe-rss 走微信读书接口,更稳。`~/we-mp-rss/` 目录已弃用,可删。
+- **二维码出不来**:2026-07-29 已查明并修复,不是微信封了扫码登录 —— 是镜像代码落后
+  + 无头浏览器被识别 + 可见性判断 bug 三者叠加。见 5.6。**别删 `~/we-mp-rss/`,现在在用。**
 
 ---
 
@@ -200,3 +271,29 @@ export TWITTER_COOKIES='auth_token=...; ct0=...'
 docker restart wewe-rss                    # 重启
 open http://localhost:4000/dash            # 控制台(AUTH_CODE 见 ~/wewe-rss/auth_code.txt)
 ```
+
+---
+
+## 5.6 we-mp-rss 打过的补丁(重建容器后必须重打)
+
+镜像 `ghcr.io/rachelos/we-mp-rss:latest` 的代码落后于 GitHub 源码,且新代码本身还有
+两个 bug。二维码能显示出来靠的是下面 4 处修复:
+
+| # | 问题 | 修法 | 来源 |
+|---|------|------|------|
+| 1 | 镜像里 `wx.py` 是旧版(733 行),`networkidle` 无超时,微信登录页有持续轮询 → 永久卡死 | 换成 GitHub 最新版(814 行) | [issue #436](https://github.com/rachelos/we-mp-rss/issues/436) |
+| 2 | 无头浏览器被微信识别,返回反爬页 | `HEADLESS=false` + `ENABLE_XVFB=true` | issue #436 |
+| 3 | `_wait_qrcode_ready` 用 `getComputedStyle(img)` 判断可见性,读的是 img 自身样式;二维码被**祖先容器**隐藏时它仍返回可见,于是跳过"切换到扫码登录"的点击,截图必然超时 | 改用 `getBoundingClientRect()`,祖先隐藏时返回 0×0 | **本地发现,上游未知** |
+| 4 | `framenavigated` 监听器对任意 frame(含快捷登录 iframe)都打印"登录成功",用户以为好了就停手,实际 `wait_for_url` 还在等,5 分钟后超时 | 改成如实报告跳转,成功只由 `wait_for_url` 判定 | **本地发现,上游未知** |
+
+重建容器后恢复补丁:
+
+```bash
+docker cp <备份的 wx.py> we-mp-rss:/app/driver/wx.py
+docker exec we-mp-rss sh -c 'rm -f /tmp/.X99-lock'
+docker restart we-mp-rss
+```
+
+> 上游还有两个未修的 issue 悬着:[#397](https://github.com/rachelos/we-mp-rss/issues/397)
+> (容器内账号信息获取失败)和 [#419](https://github.com/rachelos/we-mp-rss/issues/419)
+> (登录状态从不向微信校验,只看本地过期时间)。目前没影响到我们,但要心里有数。

@@ -163,6 +163,50 @@ def disabled_wechat_accounts():
     return [name for name, status in rows if status != 1]
 
 
+WEMP_TOKEN_PATH = Path.home() / "we-mp-rss" / "data" / "wx.lic"
+# The 公众平台 session lasts ~4 days, so a day's warning is enough to re-scan
+# without the feed ever going stale.
+WEMP_EXPIRY_WARN_HOURS = 24
+
+
+def check_wechat_wemp(base_url):
+    """we-mp-rss stores its session expiry, so the check can warn before it dies.
+
+    That is the opposite of the wewe-rss situation, where a session drops with
+    no notice and can only be caught after the fact.
+    """
+    try:
+        resp = httpx.get(f"{base_url}/rss/all", timeout=20)
+        resp.raise_for_status()
+        items = resp.text.count("<item>")
+    except Exception as exc:
+        return result(FAIL, "公众号", f"we-mp-rss 连不上({base_url}): {exc}",
+                      "docker start we-mp-rss")
+
+    if not WEMP_TOKEN_PATH.exists():
+        return result(FAIL, "公众号", "没有登录凭据(wx.lic 不存在)",
+                      f"打开 {base_url} 扫码登录公众平台")
+    try:
+        import yaml
+
+        data = yaml.safe_load(WEMP_TOKEN_PATH.read_text(encoding="utf-8")) or {}
+        token = data.get("token_data") or data
+        expiry = token.get("expiry") or {}
+        remaining = float(expiry.get("remaining_seconds") or 0)
+        expiry_time = expiry.get("expiry_time") or "?"
+    except Exception as exc:
+        return result(WARN, "公众号", f"凭据文件读不出来: {exc}", "")
+
+    hours = remaining / 3600
+    if hours <= 0:
+        return result(FAIL, "公众号", f"公众平台登录已过期({expiry_time})",
+                      f"打开 {base_url} 重新扫码")
+    if hours < WEMP_EXPIRY_WARN_HOURS:
+        return result(WARN, "公众号", f"登录还有 {hours:.1f} 小时到期({expiry_time})",
+                      f"抽空打开 {base_url} 重新扫码")
+    return result(OK, "公众号", f"{items} 篇文章,登录还有 {hours:.0f} 小时到期")
+
+
 def check_wechat():
     """wewe-rss keeps serving a stale feed after the 微信读书 session dies —
     the give-away is syncTime no longer advancing, not an HTTP error."""
@@ -176,6 +220,9 @@ def check_wechat():
         return result(OK, "公众号", "未启用,跳过")
 
     base_url = (cfg.get("base_url") or "").rstrip("/")
+    if (cfg.get("provider") or "wewe-rss").lower() == "we-mp-rss":
+        return check_wechat_wemp(base_url)
+
     try:
         resp = httpx.get(f"{base_url}/feeds", timeout=15)
         resp.raise_for_status()
@@ -484,8 +531,18 @@ def main():
 
     # The one failure with a self-service fix: ship the QR so the mail alone is
     # enough to recover, without opening a terminal or the dashboard.
+    # QR delivery is wewe-rss-only: we-mp-rss mints its code inside a browser
+    # session, so there is nothing to fetch and mail — its alert links to the
+    # dashboard instead.
     attachments = []
-    if any(c["title"] == "公众号" and c["status"] == FAIL for c in problems):
+    wechat_provider = ""
+    try:
+        wechat_provider = ((json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
+                            .get("wechat") or {}).get("provider") or "wewe-rss")
+    except Exception:
+        wechat_provider = "wewe-rss"
+    if wechat_provider.lower() != "we-mp-rss" and any(
+            c["title"] == "公众号" and c["status"] == FAIL for c in problems):
         qr = wechat_login_qr()
         if qr:
             png, scan_url = qr

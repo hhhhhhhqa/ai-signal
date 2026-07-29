@@ -461,7 +461,8 @@
   },
   "wechat": {
     "enabled": true,
-    "base_url": "http://127.0.0.1:4000",
+    "provider": "we-mp-rss",
+    "base_url": "http://127.0.0.1:8001",
     "lookback_hours": 72,
     "max_articles": 30,
     "max_per_account": 5,

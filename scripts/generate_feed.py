@@ -2017,6 +2017,99 @@ def fetch_blogs(sources):
 
 # ── WeChat official accounts (via self-hosted wewe-rss) ───────────────────────
 
+def fetch_wechat_wemp(wx_cfg, base_url, since, max_articles, max_per_account,
+                      summary_chars):
+    """Pull 公众号 posts from a self-hosted we-mp-rss instance.
+
+    Unlike wewe-rss, we-mp-rss serves plain RSS with no auth, and once
+    GATHER.CONTENT is on the body arrives inline in <content:encoded> — so one
+    request gets articles and text together, no second fulltext pass and none of
+    the 3MB-per-article page dumps.
+
+    The catch is that /rss/all omits the source account, carrying only an item
+    id like "3223096120-2647684711_1". The prefix is the feed id, so resolve
+    each one's name from its per-account feed, which does carry it in the
+    channel title.
+    """
+    ns = {"content": "http://purl.org/rss/1.0/modules/content/"}
+
+    def get_xml(path):
+        for attempt in range(3):
+            try:
+                resp = httpx.get(f"{base_url}{path}", timeout=60,
+                                 headers={"User-Agent": UA}, follow_redirects=True)
+                resp.raise_for_status()
+                return ET.fromstring(resp.text), None
+            except Exception as e:
+                last = e
+                time.sleep(2 * (attempt + 1))
+        return None, last
+
+    root, err = get_xml("/rss/all")
+    if root is None:
+        log(f"  ⚠️ we-mp-rss unreachable at {base_url}: {err}")
+        return {"articles": [], "errors": [f"we-mp-rss unreachable: {err}"]}
+
+    account_names = {}
+
+    def account_for(item_id):
+        prefix = (item_id or "").split("-", 1)[0].strip()
+        if not prefix:
+            return "公众号"
+        if prefix not in account_names:
+            feed_root, _ = get_xml(f"/rss/MP_WXS_{prefix}")
+            name = ""
+            if feed_root is not None:
+                name = (feed_root.findtext("./channel/title") or "").strip()
+            account_names[prefix] = name or "公众号"
+        return account_names[prefix]
+
+    per_account = {}
+    articles = []
+    with_body = 0
+    for item in root.findall("./channel/item"):
+        title = re.sub(r"\s+", " ", (item.findtext("title") or "")).strip()
+        link = (item.findtext("link") or item.findtext("guid") or "").strip()
+        if not title or not link:
+            continue
+        pub = None
+        raw_date = (item.findtext("pubDate") or "").strip()
+        if raw_date:
+            try:
+                pub = parsedate_to_datetime(raw_date)
+                if pub.tzinfo is None:
+                    pub = pub.replace(tzinfo=timezone.utc)
+            except (TypeError, ValueError):
+                pub = None
+        if pub and pub < since:
+            continue
+        account = account_for(item.findtext("id") or "")
+        seen = per_account.get(account, 0)
+        if seen >= max_per_account:
+            continue
+        per_account[account] = seen + 1
+
+        body = item.findtext("content:encoded", "", ns) or ""
+        summary = normalize_text(html_to_text(body))[:summary_chars] if body else ""
+        if summary:
+            with_body += 1
+        articles.append({
+            "id": link,
+            "source": "wechat",
+            "source_name": account,
+            "title": title,
+            "url": link,
+            "published": pub.isoformat() if pub else None,
+            "summary": summary,
+        })
+
+    articles.sort(key=lambda a: a.get("published") or "", reverse=True)
+    articles = articles[:max_articles]
+    log(f"  📄 正文 {with_body}/{len(articles)} 篇")
+    log(f"  ✅ {len(articles)} articles from {len(per_account)} 公众号")
+    return {"articles": articles, "errors": None}
+
+
 def fetch_wechat(sources):
     """Pull WeChat 公众号 posts from a self-hosted wewe-rss instance.
 
@@ -2042,6 +2135,10 @@ def fetch_wechat(sources):
     # this caps the worst case if a burst of posts lands inside the window.
     fulltext_limit = wx_cfg.get("max_fulltext_articles", 15)
     since = datetime.now(timezone.utc) - timedelta(hours=lookback)
+
+    if (wx_cfg.get("provider") or "wewe-rss").lower() == "we-mp-rss":
+        return fetch_wechat_wemp(wx_cfg, base_url, since, max_articles,
+                                 max_per_account, summary_chars)
 
     def refresh_wewe_rss():
         """Pull the newest posts before reading the feed instead of trusting
