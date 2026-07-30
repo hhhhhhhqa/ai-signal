@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-07-29T22:47:50.822067+00:00",
+  "generated_at": "2026-07-30T22:18:27.054438+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "05a4f44f-480e-45ae-9bfe-563dfb544a65",
+      "link": "https://a16z.simplecast.com/episodes/ai-for-americas-small-businesses-lassie-bwImYMRh",
+      "channel": "a16z",
+      "title": "AI for America's Small Businesses | Lassie",
+      "pub_date": "2026-07-30T10:00:00+00:00",
+      "transcript_path": "feeds/transcripts/141124937ac5f1cbf7bb71d9.txt",
+      "transcript_chars": 66771,
+      "transcript_source": "volc_asr_auc",
+      "cached_at": "2026-07-30T22:18:27.054438+00:00",
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ontologies-agentic-systems",
+      "link": "https://www.latent.space/p/ontologies-agentic-systems",
+      "channel": "Latent Space",
+      "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
+      "pub_date": "2026-07-30T11:17:55+00:00",
+      "transcript_path": "feeds/transcripts/dba7688fc4973fc1fce117a5.txt",
+      "transcript_chars": 7450,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-07-30T22:12:43.193276+00:00",
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
+      "link": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
+      "channel": "Latent Space",
+      "title": "[AINews] AI is eating Finance; AIE NYC now open",
+      "pub_date": "2026-07-29T23:32:12+00:00",
+      "transcript_path": "feeds/transcripts/2486ea5306aa9021c5620533.txt",
+      "transcript_chars": 14254,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-07-30T22:12:43.193276+00:00",
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+    },
+    {
+      "guid": "d5f4e3fd-91cf-414b-a0a1-e6fe9ab3931c",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--022---Market-Drawdown--Historic-Bubbles--Funding-The-Buildout--AI-Politics-Doug-is-Back-e3mngbv",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 022 - Market Drawdown, Historic Bubbles, Funding The Buildout, AI Politics (Doug is Back)",
+      "pub_date": "2026-07-29T20:59:20+00:00",
+      "transcript_path": "feeds/transcripts/7ed3fe456344ab347cb08e13.txt",
+      "transcript_chars": 30396,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-07-30T22:12:43.193276+00:00",
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+    },
     {
       "guid": "431ae0f7-c40c-4f00-a2ec-2123c3ca21d5",
       "link": "https://a16z.simplecast.com/episodes/ai-micro-dramas-generative-media-and-the-future-of-creativity-ZbK1xyzO",
@@ -12,8 +64,8 @@
       "transcript_chars": 49140,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-07-29T22:47:50.822067+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "a23359d3-8299-49b5-aada-ef230f27193b",
@@ -25,8 +77,8 @@
       "transcript_chars": 73894,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-07-29T22:47:50.822067+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
@@ -38,8 +90,8 @@
       "transcript_chars": 32980,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "yt:I4B37S1dyQQ",
@@ -51,8 +103,8 @@
       "transcript_chars": 45563,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "b91f7395-78d8-41ee-a9cb-bc54981da44a",
@@ -64,8 +116,8 @@
       "transcript_chars": 50081,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "232ed3ce-a135-4b1b-9725-7c7f4fb63a45",
@@ -77,8 +129,8 @@
       "transcript_chars": 51848,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "a72ae041-2497-479b-8393-b700a51b4486",
@@ -90,8 +142,8 @@
       "transcript_chars": 28861,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "97c097a4-9499-4b70-8cb0-bea7c8a40836",
@@ -116,8 +168,8 @@
       "transcript_chars": 41976,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-07-28T23:32:00.216726+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "aa5cce3c-879b-11f1-8b29-8bc127cc1ad0",
@@ -129,8 +181,8 @@
       "transcript_chars": 59512,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-07-28T23:32:00.216726+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=6474",
@@ -142,8 +194,8 @@
       "transcript_chars": 237906,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
@@ -155,8 +207,8 @@
       "transcript_chars": 13787,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "https://www.latent.space/p/chatgpt-work",
@@ -168,8 +220,8 @@
       "transcript_chars": 94929,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
@@ -181,8 +233,8 @@
       "transcript_chars": 17887,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "yt:XDB5beon4DY",
@@ -194,8 +246,8 @@
       "transcript_chars": 61705,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "yt:ZIaOBAjvc38",
@@ -207,8 +259,8 @@
       "transcript_chars": 37554,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
+      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
+      "expires_at": "2026-08-13T22:18:27.054438+00:00"
     },
     {
       "guid": "yt:fr1IQspixmM",
@@ -497,19 +549,6 @@
       "expires_at": "2026-07-30T22:53:21.164853+00:00"
     },
     {
-      "guid": "d43e7dda-045c-49e0-b7b7-2ffa841cbb8d",
-      "link": "https://allinchamathjason.libsyn.com/the-trillion-dollar-industries-ai-is-disrupting-voice-law-the-end-of-the-billable-hour",
-      "channel": "All-In Podcast",
-      "title": "The Trillion-Dollar Industries AI Is Disrupting: Voice, Law & the End of the Billable Hour",
-      "pub_date": "2026-07-13T22:07:00+00:00",
-      "transcript_path": "feeds/transcripts/c3a82347f62505bb2b9d6445.txt",
-      "transcript_chars": 50765,
-      "transcript_source": "volc_asr_auc",
-      "cached_at": "2026-07-14T23:01:01.668615+00:00",
-      "last_seen_at": "2026-07-15T22:54:47.218085+00:00",
-      "expires_at": "2026-07-29T22:54:47.218085+00:00"
-    },
-    {
       "guid": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
       "link": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
       "channel": "Latent Space",
@@ -521,32 +560,6 @@
       "cached_at": "2026-07-14T22:53:17.613350+00:00",
       "last_seen_at": "2026-07-16T22:53:21.164853+00:00",
       "expires_at": "2026-07-30T22:53:21.164853+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
-      "pub_date": "2026-07-13T15:02:17+00:00",
-      "transcript_path": "feeds/transcripts/6068b640836db0d7eb6f2e9b.txt",
-      "transcript_chars": 14329,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-13T22:51:33.171545+00:00",
-      "last_seen_at": "2026-07-15T22:54:47.218085+00:00",
-      "expires_at": "2026-07-29T22:54:47.218085+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
-      "link": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
-      "channel": "Lenny's Podcast",
-      "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
-      "pub_date": "2026-07-13T12:05:20+00:00",
-      "transcript_path": "feeds/transcripts/0ef3b7195e85578671d41902.txt",
-      "transcript_chars": 5800,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-13T22:51:33.171545+00:00",
-      "last_seen_at": "2026-07-15T22:54:47.218085+00:00",
-      "expires_at": "2026-07-29T22:54:47.218085+00:00"
     },
     {
       "guid": "https://nav.al/?p=28497007",
