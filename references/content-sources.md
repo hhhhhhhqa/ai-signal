@@ -61,7 +61,7 @@ Web3天空之城 (AI × crypto, capital and industry shifts behind the tech).
 A lot of first-hand Chinese AI content (model evals, engineering write-ups,
 industry analysis) is published only on WeChat 公众号 and never surfaces in the
 English sources. The central feed pulls subscribed 公众号 through a self-hosted
-[wewe-rss](https://github.com/cooderl/wewe-rss) instance and merges them in.
+[we-mp-rss](https://github.com/rachelos/we-mp-rss) instance and merges them in.
 72h window, up to 30 articles per day and 5 per account; every item carries the
 source 公众号 name and a body excerpt (first 1500 chars). Served as
 `feed-wechat.json`, and merged into the same `articles` stream as the official
