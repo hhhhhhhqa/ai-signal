@@ -169,6 +169,31 @@ WEMP_TOKEN_PATH = Path.home() / "we-mp-rss" / "data" / "wx.lic"
 WEMP_EXPIRY_WARN_HOURS = 24
 
 
+WEMP_DB_PATH = Path.home() / "we-mp-rss" / "data" / "db.db"
+# Across four accounts something publishes at least daily; two full days of
+# silence has meant rate-limiting every time, never a genuine lull.
+WEMP_STALE_ARTICLE_HOURS = 48
+
+
+def newest_wemp_article_age_hours():
+    """Hours since the newest article we-mp-rss holds, or None if unknown."""
+    if not WEMP_DB_PATH.exists():
+        return None
+    import sqlite3
+
+    try:
+        conn = sqlite3.connect(f"file:{WEMP_DB_PATH}?mode=ro", uri=True, timeout=10)
+        try:
+            newest = conn.execute("select max(publish_time) from articles").fetchone()[0]
+        finally:
+            conn.close()
+    except Exception:
+        return None
+    if not newest:
+        return None
+    return (datetime.now(timezone.utc).timestamp() - float(newest)) / 3600
+
+
 def check_wechat_wemp(base_url):
     """we-mp-rss stores its session expiry, so the check can warn before it dies.
 
@@ -192,8 +217,14 @@ def check_wechat_wemp(base_url):
         data = yaml.safe_load(WEMP_TOKEN_PATH.read_text(encoding="utf-8")) or {}
         token = data.get("token_data") or data
         expiry = token.get("expiry") or {}
-        remaining = float(expiry.get("remaining_seconds") or 0)
+        # remaining_seconds is frozen at login time — it read 96h two days after
+        # a 96h session started. Only expiry_timestamp moves with the clock.
+        stamp = expiry.get("expiry_timestamp")
         expiry_time = expiry.get("expiry_time") or "?"
+        if stamp:
+            remaining = float(stamp) - datetime.now(timezone.utc).timestamp()
+        else:
+            remaining = float(expiry.get("remaining_seconds") or 0)
     except Exception as exc:
         return result(WARN, "公众号", f"凭据文件读不出来: {exc}", "")
 
@@ -204,7 +235,21 @@ def check_wechat_wemp(base_url):
     if hours < WEMP_EXPIRY_WARN_HOURS:
         return result(WARN, "公众号", f"登录还有 {hours:.1f} 小时到期({expiry_time})",
                       f"抽空打开 {base_url} 重新扫码")
-    return result(OK, "公众号", f"{items} 篇文章,登录还有 {hours:.0f} 小时到期")
+
+    # A valid session still returns articles when 微信 rate-limits the account —
+    # the list simply comes back empty and everything looks healthy while the
+    # feed quietly ages. Judge on the newest article, not on the session alone.
+    stale = newest_wemp_article_age_hours()
+    if stale is not None and stale > WEMP_STALE_ARTICLE_HOURS:
+        return result(
+            FAIL, "公众号", f"最新文章已经是 {stale:.0f} 小时前的了,同步可能被微信限流",
+            "看 docker logs we-mp-rss | grep 'frequencey control';"
+            "命中就减少同步频率,等几小时自动解除",
+        )
+    return result(OK, "公众号",
+                  f"{items} 篇文章,最新 {stale:.0f} 小时前,登录还有 {hours:.0f} 小时到期"
+                  if stale is not None else
+                  f"{items} 篇文章,登录还有 {hours:.0f} 小时到期")
 
 
 def check_wechat():

@@ -145,8 +145,12 @@ docker logs we-mp-rss --since 5m | grep -E "已跳转到公众平台|已更新To
 `/api/v1/wx/mps/update/{mp_id}` 触发同步并**等它把正文采完**,再读 `/rss/all`。
 需要 `.env` 里的 `WEMP_USERNAME` / `WEMP_PASSWORD`。
 
-we-mp-rss 自己那个 05:57 的 cron 现在只是兜底 —— Mac 夜里休眠时它本来就不会跑
-(虚拟机整个挂起),这正是不能靠它的原因。
+**we-mp-rss 自己的定时任务已彻底关闭**(`ENABLE_JOB=False`)。它和我们的主动同步
+在 15 分钟内把每个号各拉一遍,2026-07-30 早上就是这么把账号打进微信频控的
+(`frequencey control`,错误码 200013),整整两天没有新文章进来。
+内容自动补抓也关了(`GATHER.CONTENT_AUTO_CHECK=False`)—— 正文本来就随同步内联采集。
+
+现在**全天只有一次**列表请求:06:00 主任务抓取前,每个公众号各一页。
 
 ---
 
