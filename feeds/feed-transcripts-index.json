@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-07-30T22:18:27.054438+00:00",
+  "generated_at": "2026-07-31T23:30:07.644221+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "36a8220e-1090-417d-8ba7-c483df5c4f5d",
+      "link": "https://a16z.simplecast.com/episodes/decagons-playbook-for-building-enterprise-ai-applications-VB3G3VC1",
+      "channel": "a16z",
+      "title": "How Enterprise AI Really Gets Deployed",
+      "pub_date": "2026-07-31T10:00:00+00:00",
+      "transcript_path": "feeds/transcripts/1ab83d2e173c32be5639edb8.txt",
+      "transcript_chars": 87780,
+      "transcript_source": "volc_asr_auc",
+      "cached_at": "2026-07-31T23:30:07.644221+00:00",
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
+      "link": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
+      "channel": "Latent Space",
+      "title": "[AINews] GPT 5.6 price cut by 20%-80%: Cost of GPT 5.4 Intelligence dropped 13x in 4 months due to GPT 5.6 recursive self-optimization",
+      "pub_date": "2026-07-31T04:40:54+00:00",
+      "transcript_path": "feeds/transcripts/afb5e0fc7fe1e48c12fcc306.txt",
+      "transcript_chars": 13558,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-07-31T22:33:16.836690+00:00",
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+    },
+    {
+      "guid": "42cf863d-6336-4119-a6d8-4063555b8eb5",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/What-250-Years-of-Market-Data-Actually-Tells-Us--Meb-Faber-e3mn48l",
+      "channel": "The Acquirers Podcast",
+      "title": "What 250 Years of Market Data Actually Tells Us | Meb Faber",
+      "pub_date": "2026-07-30T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/1fee8dafd95b9134d8c0dce1.txt",
+      "transcript_chars": 142506,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-07-31T22:33:16.836690+00:00",
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+    },
+    {
+      "guid": "yt:qyPCVqFUyDo",
+      "link": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
+      "channel": "Y Combinator",
+      "title": "Boris Cherny: We Cut 80% of Claude Code’s Prompt",
+      "pub_date": "2026-07-27T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/a4b713eacfe2b6ca1d84f244.txt",
+      "transcript_chars": 36043,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-07-31T22:33:16.836690+00:00",
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+    },
+    {
+      "guid": "yt:mhQ5_k7r8Tk",
+      "link": "https://www.youtube.com/watch?v=mhQ5_k7r8Tk",
+      "channel": "Bloomberg Podcasts",
+      "title": "Bloomberg This Weekend | Jensen Huang Exclusive Interview, White House Correspondents’ Dinner Redo",
+      "pub_date": "2026-07-25T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/773ef9ae7e1074be40d030d0.txt",
+      "transcript_chars": 123364,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-07-31T22:33:16.836690+00:00",
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+    },
+    {
+      "guid": "yt:HWEy91kb-8w",
+      "link": "https://www.youtube.com/watch?v=HWEy91kb-8w",
+      "channel": "The AI Automators",
+      "title": "Boris Cherny Just Explained How He Builds Long-Running Agents",
+      "pub_date": "",
+      "transcript_path": "feeds/transcripts/59dda874d206cafed00b3211.txt",
+      "transcript_chars": 18705,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-07-31T22:33:16.836690+00:00",
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+    },
     {
       "guid": "05a4f44f-480e-45ae-9bfe-563dfb544a65",
       "link": "https://a16z.simplecast.com/episodes/ai-for-americas-small-businesses-lassie-bwImYMRh",
@@ -12,8 +90,8 @@
       "transcript_chars": 66771,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-07-30T22:18:27.054438+00:00",
-      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
-      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ontologies-agentic-systems",
@@ -25,8 +103,8 @@
       "transcript_chars": 7450,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-30T22:12:43.193276+00:00",
-      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
-      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
@@ -38,8 +116,8 @@
       "transcript_chars": 14254,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-30T22:12:43.193276+00:00",
-      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
-      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
     },
     {
       "guid": "d5f4e3fd-91cf-414b-a0a1-e6fe9ab3931c",
@@ -51,8 +129,8 @@
       "transcript_chars": 30396,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-30T22:12:43.193276+00:00",
-      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
-      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
     },
     {
       "guid": "431ae0f7-c40c-4f00-a2ec-2123c3ca21d5",
@@ -64,8 +142,8 @@
       "transcript_chars": 49140,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-07-29T22:47:50.822067+00:00",
-      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
-      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
     },
     {
       "guid": "a23359d3-8299-49b5-aada-ef230f27193b",
@@ -90,8 +168,8 @@
       "transcript_chars": 32980,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
-      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
     },
     {
       "guid": "yt:I4B37S1dyQQ",
@@ -103,8 +181,8 @@
       "transcript_chars": 45563,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
-      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
     },
     {
       "guid": "b91f7395-78d8-41ee-a9cb-bc54981da44a",
@@ -116,8 +194,8 @@
       "transcript_chars": 50081,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
-      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
     },
     {
       "guid": "232ed3ce-a135-4b1b-9725-7c7f4fb63a45",
@@ -129,8 +207,8 @@
       "transcript_chars": 51848,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
-      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
     },
     {
       "guid": "a72ae041-2497-479b-8393-b700a51b4486",
@@ -142,8 +220,8 @@
       "transcript_chars": 28861,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
-      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
     },
     {
       "guid": "97c097a4-9499-4b70-8cb0-bea7c8a40836",
@@ -246,8 +324,8 @@
       "transcript_chars": 61705,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
-      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
     },
     {
       "guid": "yt:ZIaOBAjvc38",
@@ -259,8 +337,8 @@
       "transcript_chars": 37554,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-30T22:18:27.054438+00:00",
-      "expires_at": "2026-08-13T22:18:27.054438+00:00"
+      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
+      "expires_at": "2026-08-14T23:30:07.644221+00:00"
     },
     {
       "guid": "yt:fr1IQspixmM",
@@ -508,71 +586,6 @@
       "cached_at": "2026-07-16T22:53:21.164853+00:00",
       "last_seen_at": "2026-07-18T22:51:23.370757+00:00",
       "expires_at": "2026-08-01T22:51:23.370757+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
-      "link": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
-      "channel": "Latent Space",
-      "title": "[AINews] not much happened today",
-      "pub_date": "2026-07-14T23:54:07+00:00",
-      "transcript_path": "feeds/transcripts/8c69719170ff5e540f17fe26.txt",
-      "transcript_chars": 10719,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-15T22:54:47.218085+00:00",
-      "last_seen_at": "2026-07-17T22:43:26.409199+00:00",
-      "expires_at": "2026-07-31T22:43:26.409199+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/aiewf26trends",
-      "link": "https://www.latent.space/p/aiewf26trends",
-      "channel": "Latent Space",
-      "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
-      "pub_date": "2026-07-14T23:21:21+00:00",
-      "transcript_path": "feeds/transcripts/00c7fc67b46263be28dcd07c.txt",
-      "transcript_chars": 17585,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-15T22:54:47.218085+00:00",
-      "last_seen_at": "2026-07-17T22:43:26.409199+00:00",
-      "expires_at": "2026-07-31T22:43:26.409199+00:00"
-    },
-    {
-      "guid": "78e0a26e-7f00-11f1-b43d-f79b97e3a2f1",
-      "link": "https://colossus.com/episode/how-to-raise-a-few-billion-dollars/",
-      "channel": "Invest Like the Best",
-      "title": "John Kim - How to Raise a Few Billion Dollars - [Invest Like the Best, EP.482]",
-      "pub_date": "2026-07-14T08:00:00+00:00",
-      "transcript_path": "feeds/transcripts/825839a2f98390ff3ae43d88.txt",
-      "transcript_chars": 53240,
-      "transcript_source": "volc_asr_auc",
-      "cached_at": "2026-07-14T23:01:01.668615+00:00",
-      "last_seen_at": "2026-07-16T22:53:21.164853+00:00",
-      "expires_at": "2026-07-30T22:53:21.164853+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
-      "link": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
-      "channel": "Latent Space",
-      "title": "[AINews] Codex usage up >10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??",
-      "pub_date": "2026-07-14T01:22:27+00:00",
-      "transcript_path": "feeds/transcripts/3785284f552d357873900e99.txt",
-      "transcript_chars": 14378,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-14T22:53:17.613350+00:00",
-      "last_seen_at": "2026-07-16T22:53:21.164853+00:00",
-      "expires_at": "2026-07-30T22:53:21.164853+00:00"
-    },
-    {
-      "guid": "https://nav.al/?p=28497007",
-      "link": "https://nav.al/future",
-      "channel": "Naval",
-      "title": "Live in the Future",
-      "pub_date": "2026-07-03T00:05:22+00:00",
-      "transcript_path": "feeds/transcripts/c3170bb5b1165b09c59010cd.txt",
-      "transcript_chars": 84569,
-      "transcript_source": "volc_asr_auc",
-      "cached_at": "2026-07-11T09:16:42.810713+00:00",
-      "last_seen_at": "2026-07-16T22:53:21.164853+00:00",
-      "expires_at": "2026-07-30T22:53:21.164853+00:00"
     }
   ]
 }
