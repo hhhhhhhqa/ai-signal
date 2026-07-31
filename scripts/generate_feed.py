@@ -2065,7 +2065,7 @@ def rescue_stuck_wemp_articles(base_url, auth):
     time.sleep(min(20 + 15 * len(rows), 180))
 
 
-def trigger_wemp_sync(base_url):
+def trigger_wemp_sync(base_url, stagger=45):
     """Sync each 公众号 ourselves instead of waiting on we-mp-rss's own cron.
 
     That cron fires at a fixed hour, but this Mac is asleep for most of the
@@ -2101,11 +2101,16 @@ def trigger_wemp_sync(base_url):
 
     rescue_stuck_wemp_articles(base_url, auth)
 
+    # 微信 rate-limits the 公众号平台 account, not the request: syncing four
+    # 公众号 back to back reads as a burst and earned a 29-hour block. Spacing
+    # them out costs a couple of minutes on a job that already runs for several.
     failed = []
-    for account in accounts:
+    for index, account in enumerate(accounts):
         mp_id, name = account.get("id"), account.get("mp_name") or "?"
         if not mp_id:
             continue
+        if index and stagger:
+            time.sleep(stagger)
         try:
             # Generous timeout: this call also fetches each new article's body
             # through a real browser, which is the slow part.
@@ -2153,7 +2158,8 @@ def fetch_wechat_wemp(wx_cfg, base_url, since, max_articles, max_per_account,
                 time.sleep(2 * (attempt + 1))
         return None, last
 
-    sync_error = trigger_wemp_sync(base_url)
+    sync_error = trigger_wemp_sync(
+        base_url, wx_cfg.get("sync_stagger_seconds", 45))
 
     root, err = get_xml("/rss/all")
     if root is None:
