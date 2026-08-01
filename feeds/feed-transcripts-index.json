@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-07-31T23:30:07.644221+00:00",
+  "generated_at": "2026-08-01T23:08:21.213024+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "bcd869cb-a80e-475f-a044-7191309af9da",
+      "link": "https://a16z.simplecast.com/episodes/marc-andreessen-and-chris-dixon-whats-at-stake-in-crypto-regulation-2sleSszn",
+      "channel": "a16z",
+      "title": "Marc Andreessen and Chris Dixon: What’s at Stake in Crypto Regulation",
+      "pub_date": "2026-08-01T15:38:28+00:00",
+      "transcript_path": "feeds/transcripts/e07b2a3ef9e0e54e589187ce.txt",
+      "transcript_chars": 72465,
+      "transcript_source": "volc_asr_auc",
+      "cached_at": "2026-08-01T23:08:21.213024+00:00",
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
+    },
+    {
+      "guid": "3202bc1f-a7db-4549-a5d1-0632d58fa81d",
+      "link": "https://allinchamathjason.libsyn.com/chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores",
+      "channel": "All-In Podcast",
+      "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
+      "pub_date": "2026-07-31T22:23:00+00:00",
+      "transcript_path": "feeds/transcripts/63e563b8c8f1d5ee07619a10.txt",
+      "transcript_chars": 99445,
+      "transcript_source": "volc_asr_auc",
+      "cached_at": "2026-08-01T23:08:21.213024+00:00",
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-038",
+      "link": "https://www.latent.space/p/ainews-not-much-happened-today-038",
+      "channel": "Latent Space",
+      "title": "[AINews] not much happened today",
+      "pub_date": "2026-08-01T01:38:09+00:00",
+      "transcript_path": "feeds/transcripts/16d6222b2991e2a16989f670.txt",
+      "transcript_chars": 12309,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-01T22:27:57.324530+00:00",
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
+    },
     {
       "guid": "36a8220e-1090-417d-8ba7-c483df5c4f5d",
       "link": "https://a16z.simplecast.com/episodes/decagons-playbook-for-building-enterprise-ai-applications-VB3G3VC1",
@@ -12,8 +51,8 @@
       "transcript_chars": 87780,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-07-31T23:30:07.644221+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
@@ -25,8 +64,8 @@
       "transcript_chars": 13558,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-31T22:33:16.836690+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
     },
     {
       "guid": "42cf863d-6336-4119-a6d8-4063555b8eb5",
@@ -38,8 +77,8 @@
       "transcript_chars": 142506,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-31T22:33:16.836690+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
     },
     {
       "guid": "yt:qyPCVqFUyDo",
@@ -51,8 +90,8 @@
       "transcript_chars": 36043,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-31T22:33:16.836690+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
     },
     {
       "guid": "yt:mhQ5_k7r8Tk",
@@ -72,13 +111,13 @@
       "link": "https://www.youtube.com/watch?v=HWEy91kb-8w",
       "channel": "The AI Automators",
       "title": "Boris Cherny Just Explained How He Builds Long-Running Agents",
-      "pub_date": "",
+      "pub_date": "2026-07-30T15:36:39+00:00",
       "transcript_path": "feeds/transcripts/59dda874d206cafed00b3211.txt",
       "transcript_chars": 18705,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-31T22:33:16.836690+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
     },
     {
       "guid": "05a4f44f-480e-45ae-9bfe-563dfb544a65",
@@ -90,8 +129,8 @@
       "transcript_chars": 66771,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-07-30T22:18:27.054438+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ontologies-agentic-systems",
@@ -103,8 +142,8 @@
       "transcript_chars": 7450,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-30T22:12:43.193276+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
@@ -116,8 +155,8 @@
       "transcript_chars": 14254,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-30T22:12:43.193276+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
     },
     {
       "guid": "d5f4e3fd-91cf-414b-a0a1-e6fe9ab3931c",
@@ -129,8 +168,8 @@
       "transcript_chars": 30396,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-30T22:12:43.193276+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
     },
     {
       "guid": "431ae0f7-c40c-4f00-a2ec-2123c3ca21d5",
@@ -181,8 +220,8 @@
       "transcript_chars": 45563,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
     },
     {
       "guid": "b91f7395-78d8-41ee-a9cb-bc54981da44a",
@@ -194,8 +233,8 @@
       "transcript_chars": 50081,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
     },
     {
       "guid": "232ed3ce-a135-4b1b-9725-7c7f4fb63a45",
@@ -324,8 +363,8 @@
       "transcript_chars": 61705,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
     },
     {
       "guid": "yt:ZIaOBAjvc38",
@@ -337,8 +376,8 @@
       "transcript_chars": 37554,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
+      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
+      "expires_at": "2026-08-15T23:08:21.213024+00:00"
     },
     {
       "guid": "yt:fr1IQspixmM",
@@ -573,19 +612,6 @@
       "cached_at": "2026-07-17T22:43:26.409199+00:00",
       "last_seen_at": "2026-07-19T22:46:49.091071+00:00",
       "expires_at": "2026-08-02T22:46:49.091071+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
-      "link": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
-      "channel": "Latent Space",
-      "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
-      "pub_date": "2026-07-16T06:18:05+00:00",
-      "transcript_path": "feeds/transcripts/3d9ea26c92af95310a58b1c0.txt",
-      "transcript_chars": 16723,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-16T22:53:21.164853+00:00",
-      "last_seen_at": "2026-07-18T22:51:23.370757+00:00",
-      "expires_at": "2026-08-01T22:51:23.370757+00:00"
     }
   ]
 }

@@ -14,34 +14,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2083073422410821846",
-          "text": "protip:  if you can distil models, you can also distil agent harnesses",
-          "created_at": "2026-07-31T06:13:00+00:00",
-          "like_count": 291,
-          "retweet_count": 10,
-          "reply_count": 54,
-          "engagement_score": 365,
-          "url": "https://x.com/swyx/status/2083073422410821846"
+          "id": "2083610493793845429",
+          "text": "&gt; Google was too nervous to release it and DeepMind was blocked from shipping products that could disrupt Google.\n\nbookmark for the next vc that asks you \"what if &lt;incumbent&gt; builds this?\"",
+          "created_at": "2026-08-01T17:47:07+00:00",
+          "like_count": 258,
+          "retweet_count": 8,
+          "reply_count": 14,
+          "engagement_score": 288,
+          "url": "https://x.com/swyx/status/2083610493793845429"
         },
         {
-          "id": "2083016652032188669",
-          "text": "verbalizing one of those aha moments i had that seems retroactively pretty obvious:\n\nif you prioritize pretrain data quality enough that commoncrawl isn't good enough for you, you have to build a Whole Web scraper anyway, and if you wanna keep it current, you have to have indexing, and pretty soon you find yourself having built a total private low-frequency clone of Google as a SIDE PROJECT of pretraining, that you can then also reuse for the agent side inference.\n\nwe do know that the labs do use third party search providers, but clearly this is one of those things where developing more and more of your own 1P equivalents is both a competitive advantage and an adversarial target for AEO Batesian Mimicry* that you will not want to share.\n\n* https://t.co/Wa5fMP8bvO",
-          "created_at": "2026-07-31T02:27:25+00:00",
-          "like_count": 165,
-          "retweet_count": 12,
-          "reply_count": 26,
-          "engagement_score": 215,
-          "url": "https://x.com/swyx/status/2083016652032188669"
+          "id": "2083439562437673053",
+          "text": "among ai leaders i seem to be in the minority in that i am STILL actively using /loop and /goal....\n\n... and i think all of u guys who stopped using it are wrong - not wrong forever, just giving up on it too early in the g5.6/c5 era\n\nnow you use it when:\n1) you want the right mix of steerability and autonomy\n2) you want open ended \"loop that generates loops\" type end state without deeply specifying path to get there\n\nheres an example of when having a goal on saved my ass in a very long action-reasonining turn",
+          "created_at": "2026-08-01T06:27:54+00:00",
+          "like_count": 73,
+          "retweet_count": 3,
+          "reply_count": 39,
+          "engagement_score": 118,
+          "url": "https://x.com/swyx/status/2083439562437673053"
         },
         {
-          "id": "2082982458774200481",
-          "text": "btw as a huge music person i moved from Spotify to YouTube Music 2 years ago and never looked back \n\n1 - comes with youtube premium\n2 - much friendlier to both big and small artists\n3 - MUCH bigger selection of indie/long tail/concert/acoustic/podcast music\n4 - ui doesnt piss me off every single time i open the app\n\nbonus:\n- didnt have a failed takeover attempt putting paywalls on the open podcast ecosystem \n- doesnt have overfamiliar ai dj telling u dumb things you already knew\n\ncons:\n- spotify wrapped is better than youtube wrapped",
-          "created_at": "2026-07-31T00:11:32+00:00",
-          "like_count": 148,
-          "retweet_count": 6,
-          "reply_count": 30,
-          "engagement_score": 190,
-          "url": "https://x.com/swyx/status/2082982458774200481"
+          "id": "2083654369095156219",
+          "text": "started work on forge agents today https://t.co/u3nBCzF7sM",
+          "created_at": "2026-08-01T20:41:28+00:00",
+          "like_count": 16,
+          "retweet_count": 0,
+          "reply_count": 9,
+          "engagement_score": 25,
+          "url": "https://x.com/swyx/status/2083654369095156219"
         }
       ]
     },
@@ -57,18 +57,7 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2082851411407298994",
-          "text": "I honestly cant beleive CNBC reporting that SALP got force liquidated and sold all public/liquid assets to one buyer.\n\nSet aside your opinion of Leopold. Several of the people at his firm are really smart. They also had Claude helping with risk management.",
-          "created_at": "2026-07-30T15:30:48+00:00",
-          "like_count": 442,
-          "retweet_count": 2,
-          "reply_count": 40,
-          "engagement_score": 486,
-          "url": "https://x.com/insane_analyst/status/2082851411407298994"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "ArtificialAnlys",
@@ -80,40 +69,40 @@
           "id": "2083123180869496865",
           "text": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index, a 10-point jump over DeepSeek V4 Flash (released April 2026) that puts it 6 points ahead of DeepSeek V4 Pro. It shares identical architecture and pricing with the earlier DeepSeek V4 Flash, and lands on our Pareto frontier for Intelligence vs Cost per Task\n\n@deepseek_ai’s DeepSeek V4 Flash 0731 is one Intelligence Index point behind GPT-5.6 Luna (max, 51). Even after OpenAI’s 80% price cut on GPT-5.6 Luna today, DeepSeek V4 Flash 0731’s Cost per Task on DeepSeek’s first-party API comes in at ~60% lower than GPT-5.6 Luna (max), a model with comparable intelligence. A key driver of this is DeepSeek’s ~98% cache hit discount on its first-party API, a significantly more aggressive discount than the 90% cache hit discount offered by most of the industry\n\nThe new model is a significant step up from the previous generation, DeepSeek V4 Flash (40), and places the model within 1 point of GLM-5.2 (max, 51). It remains 7 points behind the open weights frontier set by Kimi K3 (max, 57). For additional context, this places the model in line with recently released Gemini 3.6 Flash (50) and 1 point behind Muse Spark 1.1 (xhigh, 51). DeepSeek is expected to release the model’s full weights in the coming weeks\n\nDeepSeek V4 Flash 0731 retains a 1M token context window, and its size remains unchanged from DeepSeek V4 Flash at 284B total parameters and 13B active at inference time\n\nKey results:\n\n➤ Improvements in agentic performance: DeepSeek V4 Flash 0731 achieves an Elo rating of 1559 on GDPval-AA v2, our evaluation focused on agentic real-world work tasks, up from 1189 for the previous DeepSeek V4 Flash. Once weights are released this will be the second highest open weights score, behind Kimi K3 (max, 1687) and ahead of GLM-5.2 (max, 1510). Terminal-Bench 2.1 rises 17 points to 79% and τ³-Bench Banking 8 points to 31%\n\n➤ Token usage falls 12% against the predecessor: DeepSeek V4 Flash 0731 used ~206M output tokens to run the Intelligence Index, against ~234M for the previous DeepSeek V4 Flash. The new variant is more token efficient, achieving a higher Intelligence Index with a lower number of total output tokens\n\n➤ DeepSeek V4 Flash 0731 improves over its predecessor on every evaluation in the Intelligence Index: Alongside the agentic gains, CritPt gains 9 points to 17%, SciCode 5 points to 50%, Humanity's Last Exam 5 points to 37%, AA-LCR 3 points to 66% and GPQA Diamond 1 point to 91%\n\n➤ AA-Omniscience improvements are driven by fewer hallucinations, rather than higher accuracy: DeepSeek V4 Flash 0731 achieves an AA-Omniscience Index of -16, a +7 improvement from its predecessor. This improvement is purely driven by a reduced hallucination rate, with overall accuracy (percentage correct) unchanged. Its AA-Omniscience Hallucination Rate is 84%, a 12 point decrease from its predecessor, and comparable to models such as GPT-5.6 Terra (max, 85%) and Mistral Medium 3.5 (82%)\n\nAdditional model details:\n\n➤ Context window: 1M tokens (equivalent to DeepSeek V4 Flash)\n\n➤ Size: 284B total parameters (13B active)\n\n➤ Input modalities: Text input and output only\n\n➤ Accessibility: Available through DeepSeek’s first-party API\n\n➤ Pricing: $0.14/$0.28 per 1M input/output tokens, unchanged from DeepSeek V4 Flash. Cache hit price of $0.0028 per 1M tokens, a 98% discount",
           "created_at": "2026-07-31T09:30:43+00:00",
-          "like_count": 2341,
-          "retweet_count": 215,
-          "reply_count": 107,
-          "engagement_score": 2878,
+          "like_count": 2685,
+          "retweet_count": 263,
+          "reply_count": 120,
+          "engagement_score": 3331,
           "url": "https://x.com/ArtificialAnlys/status/2083123180869496865"
-        },
-        {
-          "id": "2083042088338538594",
-          "text": "MiniMax H3 is #1 in Video Editing and ranks top 3 in both Text to Video and Image to Video on Artificial Analysis. MiniMax plans to release its weights under the MiniMax Community License, which would make it the leading open weights model by far\n\nMiniMax H3 is the latest video model from MiniMax and the successor to their Hailuo family. The model has a multimodal architecture, accepting text, images, videos, and audio clips as input to generate 5-15s clips at 24fps with native audio generation. Video input support also makes MiniMax H3 one of the few models capable of instruction-based video editing, where it takes the #1 spot in our Video Editing Leaderboard. The model is also #2 in Text to Video, and #3 in Image to Video.\n\nMiniMax H3 is available now in the Hailuo AI app and via the MiniMax API. MiniMax lists MiniMax H3 at $0.13 per second of 2K video ($7.80 per minute), with a 768p tier at $0.09 per second ($5.40 per minute) marked as coming soon in their documentation. The first five reference images are free, with each additional image at $0.04 and reference audio free. Our evaluation was conducted on the 2K tier.\n\nAt $7.80 per minute with audio, MiniMax H3 at 2K ($7.80/min) undercuts Dreamina Seedance 2.0 1080p ($22.45/min), HappyHorse-1.1 ($9.90/min), and Kling 3.0 1080p ($20.16/min), but is still at a premium over Google’s Gemini Omni Flash at $6.00/min.\n\nMiniMax plans to release the weights under the MiniMax Community License, which permits commercial use for organizations under $20M in revenue, subject to prominent attribution requirements. If released, MiniMax H3 would become the strongest open weights video model, well ahead of the previous open weights leader LTX-2.3.\n\nWe’ll be sharing more insights into our evaluation soon - congratulations to @Hailuo_AI on the release!\n\nSee below for comparisons between MiniMax H3 and other leading models in the Artificial Analysis Video Editing Arena 🧵",
-          "created_at": "2026-07-31T04:08:29+00:00",
-          "like_count": 776,
-          "retweet_count": 73,
-          "reply_count": 23,
-          "engagement_score": 945,
-          "url": "https://x.com/ArtificialAnlys/status/2083042088338538594"
         },
         {
           "id": "2083306229074739285",
           "text": "DeepSeek V4 Flash 0731 is now open weights!\n\n@deepseek_ai has just released the weights for its new flash tier model, DeepSeek V4 Flash 0731. With a score of 50 on the Artificial Analysis Intelligence Index, it lands among the top 3 open weights models on the leaderboard. The weights are released under the MIT license, allowing unrestricted commercial use and modification.\n\nDeepSeek V4 Flash 0731 shares identical architecture and pricing with the earlier DeepSeek V4 Flash. At a size of 284B total parameters (13B active), released in mixed FP4/FP8 precision at ~167GB total file size, it lands on our Pareto frontier for Intelligence Index vs. Total Parameters. Among open weights models, DeepSeek V4 Flash 0731 delivers a significant leap in intelligence for its size class. DeepSeek V4 Flash 0731 is also available now through DeepSeek's first-party API.\n\nCheck out Artificial Analysis to compare DeepSeek V4 Flash 0731 with other leading open weights and proprietary models: https://t.co/zeUIrzHIOC",
           "created_at": "2026-07-31T21:38:05+00:00",
-          "like_count": 110,
-          "retweet_count": 7,
-          "reply_count": 7,
-          "engagement_score": 131,
+          "like_count": 891,
+          "retweet_count": 75,
+          "reply_count": 29,
+          "engagement_score": 1070,
           "url": "https://x.com/ArtificialAnlys/status/2083306229074739285"
+        },
+        {
+          "id": "2083042088338538594",
+          "text": "MiniMax H3 is #1 in Video Editing and ranks top 3 in both Text to Video and Image to Video on Artificial Analysis. MiniMax plans to release its weights under the MiniMax Community License, which would make it the leading open weights model by far\n\nMiniMax H3 is the latest video model from MiniMax and the successor to their Hailuo family. The model has a multimodal architecture, accepting text, images, videos, and audio clips as input to generate 5-15s clips at 24fps with native audio generation. Video input support also makes MiniMax H3 one of the few models capable of instruction-based video editing, where it takes the #1 spot in our Video Editing Leaderboard. The model is also #2 in Text to Video, and #3 in Image to Video.\n\nMiniMax H3 is available now in the Hailuo AI app and via the MiniMax API. MiniMax lists MiniMax H3 at $0.13 per second of 2K video ($7.80 per minute), with a 768p tier at $0.09 per second ($5.40 per minute) marked as coming soon in their documentation. The first five reference images are free, with each additional image at $0.04 and reference audio free. Our evaluation was conducted on the 2K tier.\n\nAt $7.80 per minute with audio, MiniMax H3 at 2K ($7.80/min) undercuts Dreamina Seedance 2.0 1080p ($22.45/min), HappyHorse-1.1 ($9.90/min), and Kling 3.0 1080p ($20.16/min), but is still at a premium over Google’s Gemini Omni Flash at $6.00/min.\n\nMiniMax plans to release the weights under the MiniMax Community License, which permits commercial use for organizations under $20M in revenue, subject to prominent attribution requirements. If released, MiniMax H3 would become the strongest open weights video model, well ahead of the previous open weights leader LTX-2.3.\n\nWe’ll be sharing more insights into our evaluation soon - congratulations to @Hailuo_AI on the release!\n\nSee below for comparisons between MiniMax H3 and other leading models in the Artificial Analysis Video Editing Arena 🧵",
+          "created_at": "2026-07-31T04:08:29+00:00",
+          "like_count": 859,
+          "retweet_count": 81,
+          "reply_count": 27,
+          "engagement_score": 1048,
+          "url": "https://x.com/ArtificialAnlys/status/2083042088338538594"
         },
         {
           "id": "2083289538068357403",
           "text": "Mureka V9 debuts at #2 on both Artificial Analysis Music Leaderboards, within 1 Elo point of the #1 spot in Instrumental only music\n\nMureka V9 is the latest flagship music generation model from Mureka, the music AI platform from Skywork AI. It generates full songs of typically 2 to 4 minutes with vocals or as instrumentals, supports lyrics in multiple languages including English, Chinese, Japanese, Korean, and Spanish, and can split tracks into up to 12 stems with audio or MIDI export. Mureka positions V9 around more natural vocal delivery and stronger prompt control, including section-by-section direction of emotion, instrumentation, and BPM.\n\nIn the Artificial Analysis Music Arena, Mureka V9 debuts at #2 on both leaderboards: in Instrumental it sits within 1 Elo of Suno V5.5's #1 spot, and in Vocals it ranks #2 behind Suno V5.5.\n\nMureka V9 is available now in the Mureka app, and via the Mureka API.\n\nCongratulations to @Mureka_AI on the release!\n\nSee below for comparisons between Mureka V9 and other leading models in the Artificial Analysis Music Arena 🧵",
           "created_at": "2026-07-31T20:31:46+00:00",
-          "like_count": 46,
-          "retweet_count": 0,
-          "reply_count": 5,
-          "engagement_score": 51,
+          "like_count": 113,
+          "retweet_count": 5,
+          "reply_count": 10,
+          "engagement_score": 133,
           "url": "https://x.com/ArtificialAnlys/status/2083289538068357403"
         }
       ]
@@ -144,28 +133,7 @@
       "name": "Sam Altman",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2082880720989532597",
-          "text": "major price cuts today:\n\n*80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output\n*20% drop for GPT-5.6 Terra, to $2/$12\n*GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence https://t.co/erC6u4VoDR",
-          "created_at": "2026-07-30T17:27:16+00:00",
-          "like_count": 18080,
-          "retweet_count": 1137,
-          "reply_count": 1232,
-          "engagement_score": 21586,
-          "url": "https://x.com/sama/status/2082880720989532597"
-        },
-        {
-          "id": "2082628413769003269",
-          "text": "so excited for this.\n\nvery close to models that will significantly accelerate scientific discovery; the best way to do this is for us to empower scientists, not to try to figure out everything ourselves.\n\nwe all deserve the benefits.",
-          "created_at": "2026-07-30T00:44:41+00:00",
-          "like_count": 6470,
-          "retweet_count": 405,
-          "reply_count": 710,
-          "engagement_score": 7990,
-          "url": "https://x.com/sama/status/2082628413769003269"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "DarioAmodei",
@@ -179,18 +147,7 @@
       "name": "Demis Hassabis (Google DeepMind)",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2082883806323728416",
-          "text": "Gemini Robotics 2 is here, with our new suite of models, robots can now reason through every movement to manage tasks that weren’t possible before, like tying delicate knots - and even team up to solve complex workflows. Huge congrats to the robotics team on this great milestone!",
-          "created_at": "2026-07-30T17:39:32+00:00",
-          "like_count": 4129,
-          "retweet_count": 444,
-          "reply_count": 185,
-          "engagement_score": 5202,
-          "url": "https://x.com/demishassabis/status/2082883806323728416"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "jietang",
@@ -206,23 +163,13 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2082934294180221043",
-          "text": "Physical AI is here—the next wave of AI and the foundation of the next industrial revolution.\n\nNVIDIA founder and CEO Jensen Huang outlines the full stack making it possible: Cosmos and Omniverse to develop physical AI in virtual worlds, Isaac and Newton where robots learn skills in physics-simulated gyms, and Jetson robotics computers where their intelligence runs.\n\nTogether with Japan’s robotics and manufacturing leaders, NVIDIA is creating a new era of industrial automation.",
-          "created_at": "2026-07-30T21:00:09+00:00",
-          "like_count": 1194,
-          "retweet_count": 184,
-          "reply_count": 114,
-          "engagement_score": 1676,
-          "url": "https://x.com/nvidia/status/2082934294180221043"
-        },
-        {
           "id": "2083289093731934424",
           "text": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices.\n\nThe gains support voice tutoring, real-time personalization and a new agentic learning platform. https://t.co/8sOL8QMkFz",
           "created_at": "2026-07-31T20:30:00+00:00",
-          "like_count": 56,
-          "retweet_count": 7,
-          "reply_count": 16,
-          "engagement_score": 86,
+          "like_count": 173,
+          "retweet_count": 19,
+          "reply_count": 27,
+          "engagement_score": 238,
           "url": "https://x.com/nvidia/status/2083289093731934424"
         }
       ]
@@ -265,21 +212,21 @@
           "id": "2083208578526314513",
           "text": "This will be the norm as software projects transition to agentic software factories.\n\nIssue → Agent → PR → Release 🔁\n\nThe job of the author / maintainer is to work on the loop that yields the highest quality product and sets the criteria for what should be worked on.",
           "created_at": "2026-07-31T15:10:03+00:00",
-          "like_count": 776,
-          "retweet_count": 36,
-          "reply_count": 48,
-          "engagement_score": 896,
+          "like_count": 1412,
+          "retweet_count": 72,
+          "reply_count": 71,
+          "engagement_score": 1627,
           "url": "https://x.com/rauchg/status/2083208578526314513"
         },
         {
-          "id": "2082876367629381719",
-          "text": "We just shaved off up to ~𝟽𝚜 of the end-to-end CLI → Live URL deploy process for many apps.\n\nThis is specially cool when you consider you can integrate all of Vercel's infra via CLI/MCP/API and build your own custom software factory on top.\n\nMy DMs are open if you're building an agent or platform that builds and deploys software autonomously.",
-          "created_at": "2026-07-30T17:09:58+00:00",
-          "like_count": 250,
-          "retweet_count": 14,
-          "reply_count": 37,
-          "engagement_score": 315,
-          "url": "https://x.com/rauchg/status/2082876367629381719"
+          "id": "2083319868766699699",
+          "text": "AI Gateway gives companies the critical infra to make AI a productive investment:\n🆕 Budgets per key/team/project\n◾ Failover for maximum uptime\n◾ Model and provider choice\n◾ Realtime observability\n\nIf you're still in a 'token-maxing' fever dream, it's time to wake up 😁",
+          "created_at": "2026-07-31T22:32:17+00:00",
+          "like_count": 167,
+          "retweet_count": 9,
+          "reply_count": 31,
+          "engagement_score": 216,
+          "url": "https://x.com/rauchg/status/2083319868766699699"
         }
       ]
     },
@@ -290,24 +237,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2082856252888211851",
-          "text": "If Situational Awareness was blindsided, the AI naming curse strikes again.",
-          "created_at": "2026-07-30T15:50:02+00:00",
-          "like_count": 684,
-          "retweet_count": 17,
-          "reply_count": 35,
-          "engagement_score": 753,
-          "url": "https://x.com/amasad/status/2082856252888211851"
-        },
-        {
           "id": "2083034412598579403",
           "text": "Sandboxes are hard.\n\nWith all the “AI escaping  sandbox” it’s easy to think “wow AI so scary,” but most AI companies, and recent “sandbox providers” are making very basic mistakes.\n\nAt Replit we’ve been running sandboxes since 2016 and targeted by every hacker and state actor under the sun. So we learned a thing or two. \n\nMain advice: Assume zero-days exist — because they do — and think in layers of protection in a zero-trust framework.\n\nMore here: https://t.co/3XGY0a1p3P",
           "created_at": "2026-07-31T03:37:59+00:00",
-          "like_count": 460,
-          "retweet_count": 48,
-          "reply_count": 67,
-          "engagement_score": 623,
+          "like_count": 513,
+          "retweet_count": 58,
+          "reply_count": 71,
+          "engagement_score": 700,
           "url": "https://x.com/amasad/status/2083034412598579403"
+        },
+        {
+          "id": "2083424608993300824",
+          "text": "~1500 Elo!\n\nConsistently beats frontier models and Stockfish level 0.\n\nFun seeing an 8b model mogging GPT 5.6 with high reasoning and response chaining. Spends 1-2 seconds per move vs 30 seconds.\n\nPlay it: https://t.co/qRg0HNwgC4 https://t.co/w6H0MWOmPx",
+          "created_at": "2026-08-01T05:28:29+00:00",
+          "like_count": 280,
+          "retweet_count": 10,
+          "reply_count": 33,
+          "engagement_score": 333,
+          "url": "https://x.com/amasad/status/2083424608993300824"
         }
       ]
     },
@@ -316,18 +263,7 @@
       "name": "Josh Woodward (Google Labs)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2082926031543967896",
-          "text": "My new favorite:\n\nGemini Mac app ➔ Hold Fn ➔ Speak ➔ Clean, polished text directly at your cursor\n\nZero editing or copy-pasting required\n\nGet it for free: https://t.co/Gr3KIsVhrc https://t.co/rXLLysJME5",
-          "created_at": "2026-07-30T20:27:19+00:00",
-          "like_count": 512,
-          "retweet_count": 41,
-          "reply_count": 54,
-          "engagement_score": 648,
-          "url": "https://x.com/joshwoodward/status/2082926031543967896"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "paulgauthier",
@@ -338,5 +274,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-07-31T22:15:03.627381+00:00"
+  "generated_at": "2026-08-01T22:10:37.391457+00:00"
 }
