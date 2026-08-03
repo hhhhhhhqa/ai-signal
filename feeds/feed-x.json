@@ -5,7 +5,18 @@
       "name": "Andrej Karpathy",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2083749667410727319",
+          "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all.\n\nI also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand.\n\nLast thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.",
+          "created_at": "2026-08-02T03:00:09+00:00",
+          "like_count": 22621,
+          "retweet_count": 1705,
+          "reply_count": 1175,
+          "engagement_score": 27206,
+          "url": "https://x.com/karpathy/status/2083749667410727319"
+        }
+      ]
     },
     {
       "handle": "swyx",
@@ -17,31 +28,41 @@
           "id": "2083610493793845429",
           "text": "&gt; Google was too nervous to release it and DeepMind was blocked from shipping products that could disrupt Google.\n\nbookmark for the next vc that asks you \"what if &lt;incumbent&gt; builds this?\"",
           "created_at": "2026-08-01T17:47:07+00:00",
-          "like_count": 258,
-          "retweet_count": 8,
-          "reply_count": 14,
-          "engagement_score": 288,
+          "like_count": 1135,
+          "retweet_count": 33,
+          "reply_count": 25,
+          "engagement_score": 1226,
           "url": "https://x.com/swyx/status/2083610493793845429"
         },
         {
-          "id": "2083439562437673053",
-          "text": "among ai leaders i seem to be in the minority in that i am STILL actively using /loop and /goal....\n\n... and i think all of u guys who stopped using it are wrong - not wrong forever, just giving up on it too early in the g5.6/c5 era\n\nnow you use it when:\n1) you want the right mix of steerability and autonomy\n2) you want open ended \"loop that generates loops\" type end state without deeply specifying path to get there\n\nheres an example of when having a goal on saved my ass in a very long action-reasonining turn",
-          "created_at": "2026-08-01T06:27:54+00:00",
-          "like_count": 73,
-          "retweet_count": 3,
-          "reply_count": 39,
-          "engagement_score": 118,
-          "url": "https://x.com/swyx/status/2083439562437673053"
+          "id": "2083753582160191988",
+          "text": "one of my curses as organizer is i rarely get to attend the conference i run. so i basically 24/7 watch back talks with everyone else after the show\n\nthis one was VERY well paced and argued: fighting slop with slop — @vaibcode, Boundary https://t.co/vRckyyntm6 \n\n@btaylor asked for an ai native programming language on our pod. as a PL fan I’m really glad someone is rethinking how code runs from first principles. Being slop-tolerant is 100x more valuable than being anti- slop",
+          "created_at": "2026-08-02T03:15:42+00:00",
+          "like_count": 190,
+          "retweet_count": 7,
+          "reply_count": 21,
+          "engagement_score": 225,
+          "url": "https://x.com/swyx/status/2083753582160191988"
         },
         {
           "id": "2083654369095156219",
           "text": "started work on forge agents today https://t.co/u3nBCzF7sM",
           "created_at": "2026-08-01T20:41:28+00:00",
-          "like_count": 16,
-          "retweet_count": 0,
-          "reply_count": 9,
-          "engagement_score": 25,
+          "like_count": 49,
+          "retweet_count": 2,
+          "reply_count": 18,
+          "engagement_score": 71,
           "url": "https://x.com/swyx/status/2083654369095156219"
+        },
+        {
+          "id": "2083993378258288976",
+          "text": "one way i'm developing Forge (https://t.co/2x9e0oRjxQ) is to use it to host all my projects going forward. so I often find myself having to bounce back and forth between platform and product.\n\nsharing neat trick - in @openai codex you can @ a thread + queue up the @, so if your project is blocked on a platform feature, you can actually premove your project to proceed once the platform is unblocked.\n\nnow of course.. i wasnt actually strictly necessary in this whole process, so an even better multiagent harness would seamlessly orchestrate work back and forth between platform and project... it's just not a very common usecase unless you're building a real platform (which most people dont - most people just build applications on top of platforms, or a small platform with only 1 proudct/application tenant)",
+          "created_at": "2026-08-02T19:08:34+00:00",
+          "like_count": 13,
+          "retweet_count": 0,
+          "reply_count": 17,
+          "engagement_score": 30,
+          "url": "https://x.com/swyx/status/2083993378258288976"
         }
       ]
     },
@@ -57,55 +78,25 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2083716949205500403",
+          "text": "Getting din with finance frnd. Combining rumors and some rough math, SALP...\n\n1. Presently has $6-7B in private equities?(Anthropic, Fluidstack, MatX)\n2. $3-4B in public equities.\n3. Likely raised $15B in new LP capital 2-3 months ago.\n4. Was $100B long, $60B short recently?",
+          "created_at": "2026-08-02T00:50:08+00:00",
+          "like_count": 264,
+          "retweet_count": 6,
+          "reply_count": 8,
+          "engagement_score": 284,
+          "url": "https://x.com/insane_analyst/status/2083716949205500403"
+        }
+      ]
     },
     {
       "handle": "ArtificialAnlys",
       "name": "Artificial Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2083123180869496865",
-          "text": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index, a 10-point jump over DeepSeek V4 Flash (released April 2026) that puts it 6 points ahead of DeepSeek V4 Pro. It shares identical architecture and pricing with the earlier DeepSeek V4 Flash, and lands on our Pareto frontier for Intelligence vs Cost per Task\n\n@deepseek_ai’s DeepSeek V4 Flash 0731 is one Intelligence Index point behind GPT-5.6 Luna (max, 51). Even after OpenAI’s 80% price cut on GPT-5.6 Luna today, DeepSeek V4 Flash 0731’s Cost per Task on DeepSeek’s first-party API comes in at ~60% lower than GPT-5.6 Luna (max), a model with comparable intelligence. A key driver of this is DeepSeek’s ~98% cache hit discount on its first-party API, a significantly more aggressive discount than the 90% cache hit discount offered by most of the industry\n\nThe new model is a significant step up from the previous generation, DeepSeek V4 Flash (40), and places the model within 1 point of GLM-5.2 (max, 51). It remains 7 points behind the open weights frontier set by Kimi K3 (max, 57). For additional context, this places the model in line with recently released Gemini 3.6 Flash (50) and 1 point behind Muse Spark 1.1 (xhigh, 51). DeepSeek is expected to release the model’s full weights in the coming weeks\n\nDeepSeek V4 Flash 0731 retains a 1M token context window, and its size remains unchanged from DeepSeek V4 Flash at 284B total parameters and 13B active at inference time\n\nKey results:\n\n➤ Improvements in agentic performance: DeepSeek V4 Flash 0731 achieves an Elo rating of 1559 on GDPval-AA v2, our evaluation focused on agentic real-world work tasks, up from 1189 for the previous DeepSeek V4 Flash. Once weights are released this will be the second highest open weights score, behind Kimi K3 (max, 1687) and ahead of GLM-5.2 (max, 1510). Terminal-Bench 2.1 rises 17 points to 79% and τ³-Bench Banking 8 points to 31%\n\n➤ Token usage falls 12% against the predecessor: DeepSeek V4 Flash 0731 used ~206M output tokens to run the Intelligence Index, against ~234M for the previous DeepSeek V4 Flash. The new variant is more token efficient, achieving a higher Intelligence Index with a lower number of total output tokens\n\n➤ DeepSeek V4 Flash 0731 improves over its predecessor on every evaluation in the Intelligence Index: Alongside the agentic gains, CritPt gains 9 points to 17%, SciCode 5 points to 50%, Humanity's Last Exam 5 points to 37%, AA-LCR 3 points to 66% and GPQA Diamond 1 point to 91%\n\n➤ AA-Omniscience improvements are driven by fewer hallucinations, rather than higher accuracy: DeepSeek V4 Flash 0731 achieves an AA-Omniscience Index of -16, a +7 improvement from its predecessor. This improvement is purely driven by a reduced hallucination rate, with overall accuracy (percentage correct) unchanged. Its AA-Omniscience Hallucination Rate is 84%, a 12 point decrease from its predecessor, and comparable to models such as GPT-5.6 Terra (max, 85%) and Mistral Medium 3.5 (82%)\n\nAdditional model details:\n\n➤ Context window: 1M tokens (equivalent to DeepSeek V4 Flash)\n\n➤ Size: 284B total parameters (13B active)\n\n➤ Input modalities: Text input and output only\n\n➤ Accessibility: Available through DeepSeek’s first-party API\n\n➤ Pricing: $0.14/$0.28 per 1M input/output tokens, unchanged from DeepSeek V4 Flash. Cache hit price of $0.0028 per 1M tokens, a 98% discount",
-          "created_at": "2026-07-31T09:30:43+00:00",
-          "like_count": 2685,
-          "retweet_count": 263,
-          "reply_count": 120,
-          "engagement_score": 3331,
-          "url": "https://x.com/ArtificialAnlys/status/2083123180869496865"
-        },
-        {
-          "id": "2083306229074739285",
-          "text": "DeepSeek V4 Flash 0731 is now open weights!\n\n@deepseek_ai has just released the weights for its new flash tier model, DeepSeek V4 Flash 0731. With a score of 50 on the Artificial Analysis Intelligence Index, it lands among the top 3 open weights models on the leaderboard. The weights are released under the MIT license, allowing unrestricted commercial use and modification.\n\nDeepSeek V4 Flash 0731 shares identical architecture and pricing with the earlier DeepSeek V4 Flash. At a size of 284B total parameters (13B active), released in mixed FP4/FP8 precision at ~167GB total file size, it lands on our Pareto frontier for Intelligence Index vs. Total Parameters. Among open weights models, DeepSeek V4 Flash 0731 delivers a significant leap in intelligence for its size class. DeepSeek V4 Flash 0731 is also available now through DeepSeek's first-party API.\n\nCheck out Artificial Analysis to compare DeepSeek V4 Flash 0731 with other leading open weights and proprietary models: https://t.co/zeUIrzHIOC",
-          "created_at": "2026-07-31T21:38:05+00:00",
-          "like_count": 891,
-          "retweet_count": 75,
-          "reply_count": 29,
-          "engagement_score": 1070,
-          "url": "https://x.com/ArtificialAnlys/status/2083306229074739285"
-        },
-        {
-          "id": "2083042088338538594",
-          "text": "MiniMax H3 is #1 in Video Editing and ranks top 3 in both Text to Video and Image to Video on Artificial Analysis. MiniMax plans to release its weights under the MiniMax Community License, which would make it the leading open weights model by far\n\nMiniMax H3 is the latest video model from MiniMax and the successor to their Hailuo family. The model has a multimodal architecture, accepting text, images, videos, and audio clips as input to generate 5-15s clips at 24fps with native audio generation. Video input support also makes MiniMax H3 one of the few models capable of instruction-based video editing, where it takes the #1 spot in our Video Editing Leaderboard. The model is also #2 in Text to Video, and #3 in Image to Video.\n\nMiniMax H3 is available now in the Hailuo AI app and via the MiniMax API. MiniMax lists MiniMax H3 at $0.13 per second of 2K video ($7.80 per minute), with a 768p tier at $0.09 per second ($5.40 per minute) marked as coming soon in their documentation. The first five reference images are free, with each additional image at $0.04 and reference audio free. Our evaluation was conducted on the 2K tier.\n\nAt $7.80 per minute with audio, MiniMax H3 at 2K ($7.80/min) undercuts Dreamina Seedance 2.0 1080p ($22.45/min), HappyHorse-1.1 ($9.90/min), and Kling 3.0 1080p ($20.16/min), but is still at a premium over Google’s Gemini Omni Flash at $6.00/min.\n\nMiniMax plans to release the weights under the MiniMax Community License, which permits commercial use for organizations under $20M in revenue, subject to prominent attribution requirements. If released, MiniMax H3 would become the strongest open weights video model, well ahead of the previous open weights leader LTX-2.3.\n\nWe’ll be sharing more insights into our evaluation soon - congratulations to @Hailuo_AI on the release!\n\nSee below for comparisons between MiniMax H3 and other leading models in the Artificial Analysis Video Editing Arena 🧵",
-          "created_at": "2026-07-31T04:08:29+00:00",
-          "like_count": 859,
-          "retweet_count": 81,
-          "reply_count": 27,
-          "engagement_score": 1048,
-          "url": "https://x.com/ArtificialAnlys/status/2083042088338538594"
-        },
-        {
-          "id": "2083289538068357403",
-          "text": "Mureka V9 debuts at #2 on both Artificial Analysis Music Leaderboards, within 1 Elo point of the #1 spot in Instrumental only music\n\nMureka V9 is the latest flagship music generation model from Mureka, the music AI platform from Skywork AI. It generates full songs of typically 2 to 4 minutes with vocals or as instrumentals, supports lyrics in multiple languages including English, Chinese, Japanese, Korean, and Spanish, and can split tracks into up to 12 stems with audio or MIDI export. Mureka positions V9 around more natural vocal delivery and stronger prompt control, including section-by-section direction of emotion, instrumentation, and BPM.\n\nIn the Artificial Analysis Music Arena, Mureka V9 debuts at #2 on both leaderboards: in Instrumental it sits within 1 Elo of Suno V5.5's #1 spot, and in Vocals it ranks #2 behind Suno V5.5.\n\nMureka V9 is available now in the Mureka app, and via the Mureka API.\n\nCongratulations to @Mureka_AI on the release!\n\nSee below for comparisons between Mureka V9 and other leading models in the Artificial Analysis Music Arena 🧵",
-          "created_at": "2026-07-31T20:31:46+00:00",
-          "like_count": 113,
-          "retweet_count": 5,
-          "reply_count": 10,
-          "engagement_score": 133,
-          "url": "https://x.com/ArtificialAnlys/status/2083289538068357403"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "naval",
@@ -161,18 +152,7 @@
       "name": "NVIDIA (Jensen Huang / AI infrastructure)",
       "domain": "ai",
       "tier": "infra",
-      "tweets": [
-        {
-          "id": "2083289093731934424",
-          "text": "🎙️ @StudyFetch made its largest AI inference workload nearly 10x less expensive with NVIDIA Riva, Parakeet ASR and NVIDIA NIM microservices.\n\nThe gains support voice tutoring, real-time personalization and a new agentic learning platform. https://t.co/8sOL8QMkFz",
-          "created_at": "2026-07-31T20:30:00+00:00",
-          "like_count": 173,
-          "retweet_count": 19,
-          "reply_count": 27,
-          "engagement_score": 238,
-          "url": "https://x.com/nvidia/status/2083289093731934424"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "AmandaAskell",
@@ -209,24 +189,34 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2083208578526314513",
-          "text": "This will be the norm as software projects transition to agentic software factories.\n\nIssue → Agent → PR → Release 🔁\n\nThe job of the author / maintainer is to work on the loop that yields the highest quality product and sets the criteria for what should be worked on.",
-          "created_at": "2026-07-31T15:10:03+00:00",
-          "like_count": 1412,
-          "retweet_count": 72,
-          "reply_count": 71,
-          "engagement_score": 1627,
-          "url": "https://x.com/rauchg/status/2083208578526314513"
+          "id": "2083969120270450911",
+          "text": "AI alone is cool. But mastery + creativity + AI hits on a whole different level. Don't let anyone discourage you from pursuing excellence and craft. Keep studying the blade.",
+          "created_at": "2026-08-02T17:32:11+00:00",
+          "like_count": 2575,
+          "retweet_count": 270,
+          "reply_count": 145,
+          "engagement_score": 3260,
+          "url": "https://x.com/rauchg/status/2083969120270450911"
         },
         {
-          "id": "2083319868766699699",
-          "text": "AI Gateway gives companies the critical infra to make AI a productive investment:\n🆕 Budgets per key/team/project\n◾ Failover for maximum uptime\n◾ Model and provider choice\n◾ Realtime observability\n\nIf you're still in a 'token-maxing' fever dream, it's time to wake up 😁",
-          "created_at": "2026-07-31T22:32:17+00:00",
-          "like_count": 167,
-          "retweet_count": 9,
-          "reply_count": 31,
-          "engagement_score": 216,
-          "url": "https://x.com/rauchg/status/2083319868766699699"
+          "id": "2083684679362965605",
+          "text": "Open source agentic CRM built on https://t.co/99eEa13mZ3 and @nextjs.\n\nModel-agnostic, self-hostable or serverlessly-deployed, multi-channel, and headless. \n\nThis is the way.",
+          "created_at": "2026-08-01T22:41:55+00:00",
+          "like_count": 1445,
+          "retweet_count": 88,
+          "reply_count": 40,
+          "engagement_score": 1661,
+          "url": "https://x.com/rauchg/status/2083684679362965605"
+        },
+        {
+          "id": "2084042561690456157",
+          "text": "We built an agent that powers our company's internal operations called @𝚟.\n\nEvery day-to-day job at Vercel now involves @𝚟. It's growing exponentially both in daily interactions and token use.\n\nOne can extrapolate to the day AI agents run entire companies from here. It's an expert in finance, comms, docs, marketing, engineering, business analytics. It's seeded by the skills we gave it and we update, but it's also constantly improving.\n\nIt already keeps memories and personalized workflows and schedules on a per-user basis. For example, I knew skills⁠.sh hit 1M skills and I shared this on these forums because I asked @𝚟 to periodically check and remind me.\n\nIt's powered by and is also the basis for the design of @evedev_. We built this, it works fantastically well, we think every company should have it.\n\nBefore you @ me, I know you could also do this by picking your 'BigAI slack integration' du jour. But that's not your agent, that's their agent. If agents become the foundation of (and even synonymous with) modern companies, you being in complete control, from source → runtime → data → token, seems like a pretty big deal to me.",
+          "created_at": "2026-08-02T22:24:01+00:00",
+          "like_count": 295,
+          "retweet_count": 11,
+          "reply_count": 46,
+          "engagement_score": 363,
+          "url": "https://x.com/rauchg/status/2084042561690456157"
         }
       ]
     },
@@ -237,24 +227,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2083034412598579403",
-          "text": "Sandboxes are hard.\n\nWith all the “AI escaping  sandbox” it’s easy to think “wow AI so scary,” but most AI companies, and recent “sandbox providers” are making very basic mistakes.\n\nAt Replit we’ve been running sandboxes since 2016 and targeted by every hacker and state actor under the sun. So we learned a thing or two. \n\nMain advice: Assume zero-days exist — because they do — and think in layers of protection in a zero-trust framework.\n\nMore here: https://t.co/3XGY0a1p3P",
-          "created_at": "2026-07-31T03:37:59+00:00",
-          "like_count": 513,
-          "retweet_count": 58,
-          "reply_count": 71,
-          "engagement_score": 700,
-          "url": "https://x.com/amasad/status/2083034412598579403"
-        },
-        {
           "id": "2083424608993300824",
           "text": "~1500 Elo!\n\nConsistently beats frontier models and Stockfish level 0.\n\nFun seeing an 8b model mogging GPT 5.6 with high reasoning and response chaining. Spends 1-2 seconds per move vs 30 seconds.\n\nPlay it: https://t.co/qRg0HNwgC4 https://t.co/w6H0MWOmPx",
           "created_at": "2026-08-01T05:28:29+00:00",
-          "like_count": 280,
-          "retweet_count": 10,
-          "reply_count": 33,
-          "engagement_score": 333,
+          "like_count": 317,
+          "retweet_count": 15,
+          "reply_count": 40,
+          "engagement_score": 387,
           "url": "https://x.com/amasad/status/2083424608993300824"
+        },
+        {
+          "id": "2083926395403821427",
+          "text": "My LLM chess engine is now on LiChess autonomously playing real games against people and bots. \n\n1253 Elo: https://t.co/W3qp1Z1i7I",
+          "created_at": "2026-08-02T14:42:24+00:00",
+          "like_count": 191,
+          "retweet_count": 9,
+          "reply_count": 36,
+          "engagement_score": 245,
+          "url": "https://x.com/amasad/status/2083926395403821427"
         }
       ]
     },
@@ -274,5 +264,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-08-01T22:10:37.391457+00:00"
+  "generated_at": "2026-08-02T22:12:50.078377+00:00"
 }
