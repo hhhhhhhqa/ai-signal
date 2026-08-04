@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-08-03T00:38:56.440058+00:00",
+  "generated_at": "2026-08-04T00:38:37.665283+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/inference-eng",
+      "link": "https://www.latent.space/p/inference-eng",
+      "channel": "Latent Space",
+      "title": "The Inference Engineering Masterclass — Philip Kiely & Ali Taha, Baseten",
+      "pub_date": "2026-08-03T21:44:03+00:00",
+      "transcript_path": "feeds/transcripts/7a8e00e39b3221f0092013fd.txt",
+      "transcript_chars": 131402,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-04T00:38:37.665283+00:00",
+      "last_seen_at": "2026-08-04T00:38:37.665283+00:00",
+      "expires_at": "2026-08-18T00:38:37.665283+00:00"
+    },
+    {
+      "guid": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video",
+      "link": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive-video",
+      "channel": "Dwarkesh Patel",
+      "title": "Why smarter AI models could drive up compute prices 10x",
+      "pub_date": "2026-08-03T17:32:13+00:00",
+      "transcript_path": "feeds/transcripts/4f9f6f64780dbf676232b88a.txt",
+      "transcript_chars": 1771,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-04T00:38:37.665283+00:00",
+      "last_seen_at": "2026-08-04T00:38:37.665283+00:00",
+      "expires_at": "2026-08-18T00:38:37.665283+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "pub_date": "2026-08-03T15:02:21+00:00",
+      "transcript_path": "feeds/transcripts/6b71c06681c029be3a1278ff.txt",
+      "transcript_chars": 4872,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-04T00:38:37.665283+00:00",
+      "last_seen_at": "2026-08-04T00:38:37.665283+00:00",
+      "expires_at": "2026-08-18T00:38:37.665283+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
+      "link": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
+      "channel": "Lenny's Podcast",
+      "title": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "pub_date": "2026-08-03T12:04:26+00:00",
+      "transcript_path": "feeds/transcripts/9c60e37f8c9c4a3795d97fe6.txt",
+      "transcript_chars": 4471,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-04T00:38:37.665283+00:00",
+      "last_seen_at": "2026-08-04T00:38:37.665283+00:00",
+      "expires_at": "2026-08-18T00:38:37.665283+00:00"
+    },
     {
       "guid": "bcd869cb-a80e-475f-a044-7191309af9da",
       "link": "https://a16z.simplecast.com/episodes/marc-andreessen-and-chris-dixon-whats-at-stake-in-crypto-regulation-2sleSszn",
@@ -12,8 +64,8 @@
       "transcript_chars": 72465,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-08-01T23:08:21.213024+00:00",
-      "last_seen_at": "2026-08-03T00:38:56.440058+00:00",
-      "expires_at": "2026-08-17T00:38:56.440058+00:00"
+      "last_seen_at": "2026-08-04T00:38:37.665283+00:00",
+      "expires_at": "2026-08-18T00:38:37.665283+00:00"
     },
     {
       "guid": "3202bc1f-a7db-4549-a5d1-0632d58fa81d",
@@ -38,8 +90,8 @@
       "transcript_chars": 12309,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-01T22:27:57.324530+00:00",
-      "last_seen_at": "2026-08-03T00:38:56.440058+00:00",
-      "expires_at": "2026-08-17T00:38:56.440058+00:00"
+      "last_seen_at": "2026-08-04T00:38:37.665283+00:00",
+      "expires_at": "2026-08-18T00:38:37.665283+00:00"
     },
     {
       "guid": "36a8220e-1090-417d-8ba7-c483df5c4f5d",
@@ -116,8 +168,8 @@
       "transcript_chars": 18705,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-07-31T22:33:16.836690+00:00",
-      "last_seen_at": "2026-08-03T00:38:56.440058+00:00",
-      "expires_at": "2026-08-17T00:38:56.440058+00:00"
+      "last_seen_at": "2026-08-04T00:38:37.665283+00:00",
+      "expires_at": "2026-08-18T00:38:37.665283+00:00"
     },
     {
       "guid": "05a4f44f-480e-45ae-9bfe-563dfb544a65",
@@ -168,8 +220,8 @@
       "transcript_chars": 30396,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-30T22:12:43.193276+00:00",
-      "last_seen_at": "2026-08-03T00:38:56.440058+00:00",
-      "expires_at": "2026-08-17T00:38:56.440058+00:00"
+      "last_seen_at": "2026-08-04T00:38:37.665283+00:00",
+      "expires_at": "2026-08-18T00:38:37.665283+00:00"
     },
     {
       "guid": "431ae0f7-c40c-4f00-a2ec-2123c3ca21d5",
@@ -233,8 +285,8 @@
       "transcript_chars": 50081,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-08-03T00:38:56.440058+00:00",
-      "expires_at": "2026-08-17T00:38:56.440058+00:00"
+      "last_seen_at": "2026-08-04T00:38:37.665283+00:00",
+      "expires_at": "2026-08-18T00:38:37.665283+00:00"
     },
     {
       "guid": "232ed3ce-a135-4b1b-9725-7c7f4fb63a45",
@@ -573,19 +625,6 @@
       "cached_at": "2026-07-20T22:56:27.429987+00:00",
       "last_seen_at": "2026-07-22T22:57:24.164029+00:00",
       "expires_at": "2026-08-05T22:57:24.164029+00:00"
-    },
-    {
-      "guid": "643dd7f8-9888-4093-bc89-acfdd4362fce",
-      "link": "https://allinchamathjason.libsyn.com/can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters",
-      "channel": "All-In Podcast",
-      "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
-      "pub_date": "2026-07-18T00:36:00+00:00",
-      "transcript_path": "feeds/transcripts/c165f266a02168c4a98b9e46.txt",
-      "transcript_chars": 93416,
-      "transcript_source": "volc_asr_auc",
-      "cached_at": "2026-07-18T22:51:23.370757+00:00",
-      "last_seen_at": "2026-07-20T22:56:27.429987+00:00",
-      "expires_at": "2026-08-03T22:56:27.429987+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-830",
