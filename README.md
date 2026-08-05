@@ -21,6 +21,7 @@
 
 ## 最近更新
 
+- `2026-08-05`：播客新增「晚点聊 LateTalk」（中文 AI 深度访谈），共 15 个频道；该源没有公开文字稿，改由 ASR 转录，从 8-05 起的新节目开始转，不补转历史
 - `2026-07-28`：X 新增 [@ArtificialAnlys](https://x.com/ArtificialAnlys)（独立模型评测跑分）和 [@paulgauthier](https://x.com/paulgauthier)（Aider 作者），共 21 个账号；公众号新增「Web3天空之城」，共 2 个
 - `2026-07-31`：公众号来源迁移到 we-mp-rss（此前用 wewe-rss，微信读书接口配额太紧、登录频繁失效）；正文随文章一起采集，不用二次拉取
 - `2026-07-28`：新增微信公众号来源——中文 AI 生态里很多一手内容只发在公众号，和官方博客并入同一条 articles 流进日报（编号 B1/B2，可展开）
@@ -70,7 +71,7 @@
 
 ## 信息源
 
-### 播客（14 个频道）
+### 播客（15 个频道）
 
 | 频道 | 为什么选 |
 |------|----------|
@@ -88,6 +89,7 @@
 | [Invest Like the Best](https://www.joincolossus.com/episodes) | 顶级投资人的思维框架 |
 | [Capital Allocators](https://capitalallocators.com/podcast/) | 机构投资者视角 |
 | [The Acquirers Podcast](https://acquirersmultiple.com/podcast/) | 价值投资方法论 |
+| [晚点聊 LateTalk](https://podcast.latepost.com/) | 中文 AI 深度访谈，晚点 LatePost 出品，嘉宾多是国内一线从业者 |
 
 ### 人物追踪（28 人，全网搜索）
 

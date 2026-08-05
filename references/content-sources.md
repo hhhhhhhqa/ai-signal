@@ -7,10 +7,11 @@ subscribers simply keep reading the last successfully published feed.
 
 Sources:
 
-### Podcasts (14 channels)
+### Podcasts (15 channels)
 Dwarkesh Patel, Lex Fridman, Latent Space, All-In Podcast, a16z, Naval, No Priors,
 SemiAnalysis (Dylan Patel), Google DeepMind, Lightcone (YC), Lenny's Podcast,
-Invest Like the Best, Capital Allocators, The Acquirers Podcast
+Invest Like the Best, Capital Allocators, The Acquirers Podcast,
+晚点聊 LateTalk (Chinese-language AI interviews from 晚点 LatePost)
 
 ### People tracking (28 people, YouTube-wide guest search)
 Beyond the fixed channels, the central feed searches YouTube daily for these
