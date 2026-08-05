@@ -219,6 +219,7 @@ def should_transcribe(item, policy, keywords, cutoff=None):
         item.get("transcript_available") and item.get("transcript_path")
     ):
         return False, "already has transcript"
+    cutoff = effective_cutoff(policy, cutoff)
     if published_before(item, cutoff):
         return False, f"published before {cutoff.date()} (不补转历史)"
     if is_youtube_url(item.get("link")):
@@ -354,17 +355,37 @@ def query_task(client, api_key, request_id, poll_interval, max_wait):
     raise TimeoutError(f"transcription timed out after {max_wait}s; last body: {last_body[:500]}")
 
 
-def transcription_cutoff(sources):
-    raw = (sources.get("podcasts", {}).get("transcription", {})
-           .get("min_publish_date") or "").strip()
+def parse_cutoff(raw, label="min_publish_date"):
+    raw = (raw or "").strip()
     if not raw:
         return None
     try:
         cutoff = datetime.fromisoformat(raw)
     except ValueError:
-        log(f"⚠️ min_publish_date 无法解析: {raw!r},忽略该限制")
+        log(f"⚠️ {label} 无法解析: {raw!r},忽略该限制")
         return None
     return cutoff.replace(tzinfo=timezone.utc) if cutoff.tzinfo is None else cutoff
+
+
+def transcription_cutoff(sources):
+    return parse_cutoff((sources.get("podcasts", {}).get("transcription", {})
+                         .get("min_publish_date")))
+
+
+def effective_cutoff(policy, cutoff):
+    """A channel can start transcribing later than the global cutoff.
+
+    Added for a show whose back catalogue runs to two hours an episode: the
+    feed is worth having from day one, but paying to transcribe what was
+    published before we subscribed is not. The later of the two dates wins, so
+    a per-channel value can only narrow the window, never widen it past the
+    global floor.
+    """
+    channel_cutoff = parse_cutoff(policy.get("min_publish_date"),
+                                  f"{policy.get('name', '?')}.min_publish_date")
+    if channel_cutoff and cutoff:
+        return max(channel_cutoff, cutoff)
+    return channel_cutoff or cutoff
 
 
 def candidate_items(feed, sources):
