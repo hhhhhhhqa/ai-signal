@@ -30,6 +30,12 @@
         "tier": "analyst"
       },
       {
+        "handle": "simonw",
+        "name": "Simon Willison",
+        "domain": "ai",
+        "tier": "analyst"
+      },
+      {
         "handle": "ArtificialAnlys",
         "name": "Artificial Analysis",
         "domain": "ai",

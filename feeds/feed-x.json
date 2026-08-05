@@ -17,10 +17,10 @@
           "id": "2084695630237311086",
           "text": "we are huge airtable fans - aie runs on airtable - so seeing this number might seem surprising, but don't count @howietl out! \n\nif you were at WF26 you would already have seen @hyperagentapp which is the next chapter of team Airtable! https://t.co/yQhb4VUue4",
           "created_at": "2026-08-04T17:39:04+00:00",
-          "like_count": 31,
+          "like_count": 39,
           "retweet_count": 2,
-          "reply_count": 23,
-          "engagement_score": 58,
+          "reply_count": 25,
+          "engagement_score": 68,
           "url": "https://x.com/swyx/status/2084695630237311086"
         }
       ]
@@ -30,18 +30,7 @@
       "name": "Dylan Patel (SemiAnalysis)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2084051253278208138",
-          "text": "The funny thing about Anthropic and OpenAI people saying they want to slow down AI progress is that this is what Anti Trust mechanisms were built for.\nIt's illegal to collude and slow down AI progress.",
-          "created_at": "2026-08-02T22:58:33+00:00",
-          "like_count": 1900,
-          "retweet_count": 90,
-          "reply_count": 72,
-          "engagement_score": 2152,
-          "url": "https://x.com/dylan522p/status/2084051253278208138"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "insane_analyst",
@@ -49,6 +38,44 @@
       "domain": "ai",
       "tier": "analyst",
       "tweets": []
+    },
+    {
+      "handle": "simonw",
+      "name": "Simon Willison",
+      "domain": "ai",
+      "tier": "analyst",
+      "tweets": [
+        {
+          "id": "2084667167212245170",
+          "text": "I try not to get excited about models before they've been released, but I gotta admit I'm very much looking forward to the upcoming laptop-sized Qwen 3.8 models",
+          "created_at": "2026-08-04T15:45:58+00:00",
+          "like_count": 1324,
+          "retweet_count": 45,
+          "reply_count": 46,
+          "engagement_score": 1460,
+          "url": "https://x.com/simonw/status/2084667167212245170"
+        },
+        {
+          "id": "2084719238569435469",
+          "text": "The MiniMax-H3 video generation model is a lot of fun - here's what I got on my M5 Pro Mac for the prompt \"a rainbow colored skunk leaps over a mossy log in a supermarket\" (~115GB model download, took around 45 minutes to generate) https://t.co/dYjE1VFFml",
+          "created_at": "2026-08-04T19:12:53+00:00",
+          "like_count": 192,
+          "retweet_count": 7,
+          "reply_count": 25,
+          "engagement_score": 231,
+          "url": "https://x.com/simonw/status/2084719238569435469"
+        },
+        {
+          "id": "2084792341572001871",
+          "text": "Big new release of my LLM CLI tool and Python library for talking to hundreds of different LLMs - reasoning traces, OpenAI Responses support, server-side tools, smarter logging and a whole lot more\nhttps://t.co/IgGoMlV4Br",
+          "created_at": "2026-08-05T00:03:22+00:00",
+          "like_count": 178,
+          "retweet_count": 14,
+          "reply_count": 20,
+          "engagement_score": 226,
+          "url": "https://x.com/simonw/status/2084792341572001871"
+        }
+      ]
     },
     {
       "handle": "ArtificialAnlys",
@@ -60,20 +87,20 @@
           "id": "2084702191466725669",
           "text": "Announcing the Artificial Analysis Endpoint Accuracy Index, measuring how much of an open weights model's accuracy each serverless API endpoint preserves. We are initiating coverage with GLM-5.2, gpt-oss-120b and DeepSeek V4 Pro, with Kimi K3 coming soon\n\nProviders trade off accuracy to optimize for speed and cost. They quantize weights, write custom kernels and tune their inference stacks, and sometimes they simply ship bugs. We are bringing the rigor of our Artificial Analysis Intelligence Index to measuring endpoints, so developers can pick providers on accuracy, not just price and speed\n\nWe benchmark each serverless endpoint against our own self-hosted reference deployment of the official weights, where 100% represents matching the reference. An endpoint is at reference parity when its result falls within the 95% confidence interval of the reference. Coverage is live for GLM-5.2, gpt-oss-120b and DeepSeek V4 Pro, with Kimi K3 accuracy coverage launching soon\n\nKey elements of the Endpoint Accuracy Index:\n➤ Three areas, equally weighted: tool calling (BFCL-500, 500 questions, 3 repeats), scientific reasoning (HLE-250, 250 questions, 10 repeats) and long context recall (AA-LCR-25, 25 questions, 10 repeats). Each subset separates endpoints on the serving choices that drive accuracy differences, with repeats sized for tight confidence intervals\n➤ Reference deployment: we self-host the official weights at the lab's recommended precision, following the lab's serving recipe, and publish the complete commands for each reference\n➤ Inference parameters: we run the model's highest supported reasoning mode and each endpoint's highest supported output length and context window\n➤ Confidence intervals: the parity test accounts for uncertainty in both the endpoint's runs and the reference's runs\n➤ Rotating coverage: models enter once sufficient number of providers serve them and exit when a newer version in the same family supersedes them. We benchmark new endpoints as providers launch them and refresh all listed endpoints periodically\n➤ Point in time: each result carries the date it was measured, with multi-day benchmarks dated to their final day\n\nKey results for GLM-5.2\n➤ Output token limits restrict accuracy. Restrictive limits cut responses off before the model finishes reasoning, and the most restrictive endpoints score half the reference or less on HLE-250\n\nKey results for gpt-oss-120b\n➤ Tool call handling separates endpoints. Providers parse and format tool calls differently, and some endpoints score 22% on BFCL-500 against 37% for the reference\n➤ Serving configuration changes what the model does at the same requested settings. Some endpoints produce far fewer reasoning tokens at the same configured level, and restricted context windows truncate long context tasks\n\nKey results for DeepSeek V4 Pro\n➤ DeepSeek V4 Pro endpoints are more in line with the reference. Majority of the endpoints are at reference parity, and DeepSeek's own first-party endpoint scores slightly above the reference",
           "created_at": "2026-08-04T18:05:08+00:00",
-          "like_count": 627,
-          "retweet_count": 56,
-          "reply_count": 51,
-          "engagement_score": 790,
+          "like_count": 829,
+          "retweet_count": 72,
+          "reply_count": 63,
+          "engagement_score": 1036,
           "url": "https://x.com/ArtificialAnlys/status/2084702191466725669"
         },
         {
           "id": "2084758511737847853",
           "text": "Inference shapes the speed, cost, and quality of every AI request, but choosing the right provider for your use case involves more than just picking the fastest or cheapest option\n\nOn Wednesday, August 12, we're bringing together engineers, inference providers, and AI leaders in San Francisco to discuss AI inference, provider tradeoffs, and what the Artificial Analysis benchmark data reveals.\n\nRegister to join the conversation 👇\n\nhttps://t.co/YwUgwSKiEU",
           "created_at": "2026-08-04T21:48:56+00:00",
-          "like_count": 15,
-          "retweet_count": 0,
+          "like_count": 28,
+          "retweet_count": 1,
           "reply_count": 3,
-          "engagement_score": 18,
+          "engagement_score": 33,
           "url": "https://x.com/ArtificialAnlys/status/2084758511737847853"
         }
       ]
@@ -83,18 +110,7 @@
       "name": "Naval Ravikant",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2084117793667178756",
-          "text": "Agent Programming Interface.",
-          "created_at": "2026-08-03T03:22:57+00:00",
-          "like_count": 6532,
-          "retweet_count": 358,
-          "reply_count": 357,
-          "engagement_score": 7605,
-          "url": "https://x.com/naval/status/2084117793667178756"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "leopoldasch",
@@ -148,50 +164,50 @@
           "id": "2084733460690903204",
           "text": "AI compute is going to orbit. 🚀\n\n@SpaceX’s Starmind AI1 satellite compute payload is powered by NVIDIA Vera Rubin NVL72, bringing AI factory compute closer to the stars.\n\nThe next chapter of AI infrastructure boldly goes where no AI compute has gone before. https://t.co/sJaY8Cg7b7",
           "created_at": "2026-08-04T20:09:24+00:00",
-          "like_count": 3883,
-          "retweet_count": 512,
-          "reply_count": 147,
-          "engagement_score": 5054,
+          "like_count": 9601,
+          "retweet_count": 1358,
+          "reply_count": 458,
+          "engagement_score": 12775,
           "url": "https://x.com/nvidia/status/2084733460690903204"
         },
         {
           "id": "2084663782018543841",
           "text": "Meet Alpamayo 2 Super, now commercially available for robotaxis and autonomous vehicles.\n\nBuilt for complex real-world driving, this open reasoning model adds 360° awareness, high-level driving decisions and automated reasoning labels.\n\nWe built it, so you can build on it. https://t.co/OZBWtsu3FC",
           "created_at": "2026-08-04T15:32:31+00:00",
-          "like_count": 806,
-          "retweet_count": 99,
-          "reply_count": 58,
-          "engagement_score": 1062,
+          "like_count": 1108,
+          "retweet_count": 152,
+          "reply_count": 67,
+          "engagement_score": 1479,
           "url": "https://x.com/nvidia/status/2084663782018543841"
-        },
-        {
-          "id": "2084420790036910459",
-          "text": "AI is becoming a primary interface for product discovery, opening new revenue opportunities for retailers.\n\nSee how NVIDIA is helping retailers prepare for agentic commerce, from product discovery to secure checkout, while maintaining control over pricing, payments and compliance.",
-          "created_at": "2026-08-03T23:26:57+00:00",
-          "like_count": 498,
-          "retweet_count": 49,
-          "reply_count": 60,
-          "engagement_score": 656,
-          "url": "https://x.com/nvidia/status/2084420790036910459"
         },
         {
           "id": "2084625868173820144",
           "text": "Security is strongest when organizations collaborate openly and move quickly. \n\nNow over 120 members strong, the Open Secure AI Alliance is sharing new open source security contributions, including new proposed SAFE guidelines, for turning confidential incident findings into stronger protection across the ecosystem.",
           "created_at": "2026-08-04T13:01:52+00:00",
-          "like_count": 433,
-          "retweet_count": 67,
-          "reply_count": 52,
-          "engagement_score": 619,
+          "like_count": 548,
+          "retweet_count": 86,
+          "reply_count": 56,
+          "engagement_score": 776,
           "url": "https://x.com/nvidia/status/2084625868173820144"
+        },
+        {
+          "id": "2084420790036910459",
+          "text": "AI is becoming a primary interface for product discovery, opening new revenue opportunities for retailers.\n\nSee how NVIDIA is helping retailers prepare for agentic commerce, from product discovery to secure checkout, while maintaining control over pricing, payments and compliance.",
+          "created_at": "2026-08-03T23:26:57+00:00",
+          "like_count": 517,
+          "retweet_count": 50,
+          "reply_count": 61,
+          "engagement_score": 678,
+          "url": "https://x.com/nvidia/status/2084420790036910459"
         },
         {
           "id": "2084716722746253566",
           "text": "Read why AI agents need more than one model. 👇 https://t.co/IFaesvTdl8",
           "created_at": "2026-08-04T19:02:53+00:00",
-          "like_count": 178,
-          "retweet_count": 16,
-          "reply_count": 26,
-          "engagement_score": 236,
+          "like_count": 330,
+          "retweet_count": 32,
+          "reply_count": 35,
+          "engagement_score": 429,
           "url": "https://x.com/nvidia/status/2084716722746253566"
         }
       ]
@@ -206,10 +222,10 @@
           "id": "2084369056765989224",
           "text": "I don't agree with this part. I think the takeaway should be that models (like humans) can behave in aligned ways while still causing harm, e.g. because they're given false information about their situation. There isn't a line between aligned and harmless: they're different axes. https://t.co/btojNfpU5a",
           "created_at": "2026-08-03T20:01:23+00:00",
-          "like_count": 1245,
-          "retweet_count": 78,
-          "reply_count": 112,
-          "engagement_score": 1513,
+          "like_count": 1297,
+          "retweet_count": 81,
+          "reply_count": 116,
+          "engagement_score": 1575,
           "url": "https://x.com/AmandaAskell/status/2084369056765989224"
         }
       ]
@@ -245,51 +261,51 @@
           "id": "2084411344623902994",
           "text": "Next.js 16.3: faster, better, stronger. My highlights:\n\n0️⃣ Faster dev & builds\nShoutout to Fable for improving memory use, and the team for landing the incremental 𝚗𝚎𝚡𝚝 𝚋𝚞𝚒𝚕𝚍 cache.\n\n1️⃣ Instant navigations are 🔥\nThe people wanted SPAs, they shall get SPAs. By turning on instant navs (which will soon be default), your  agent is basically forced to make things fast.\n\n2️⃣ Agent-native DX\nYou can still ship \"slow\" navs if you want, e.g. by blocking navs on server-side data fetching ala PHP olden days. But even then, your agent will be given *choices*, like setting up a <𝚂𝚞𝚜𝚙𝚎𝚗𝚜𝚎 𝚏𝚊𝚕𝚕𝚋𝚊𝚌𝚔> for instant loading shells. Agents also get built-in versioned docs.\n\nThis is our best release for agents by far, which will also make your upgrading journey very smooth. I've had an easy time bumping my projects to 16.3 and enabling instant navs, having my agent migrate everything without issues.\n\nAnd so much more. 16.3 is more cost-efficient to serve, both in self-hosting and serverless environments. Faster to type-check… Thank you to the 90 contributors to this release!",
           "created_at": "2026-08-03T22:49:25+00:00",
-          "like_count": 915,
-          "retweet_count": 41,
+          "like_count": 955,
+          "retweet_count": 43,
           "reply_count": 49,
-          "engagement_score": 1046,
+          "engagement_score": 1090,
           "url": "https://x.com/rauchg/status/2084411344623902994"
         },
         {
           "id": "2084345210470097127",
           "text": "Vercel Sandbox is an excellent choice for automating web browsers in basic scenarios. The 𝚛𝚎𝚖𝚘𝚝𝚎-𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 API makes it delightful:\n\n𝚋𝚛𝚘𝚠𝚜𝚎𝚛.𝚎𝚡𝚎𝚌('𝚘𝚙𝚎𝚗', 𝚞𝚛𝚕)\n𝚋𝚛𝚘𝚠𝚜𝚎𝚛.𝚎𝚡𝚎𝚌('𝚌𝚕𝚒𝚌𝚔')\n𝚋𝚛𝚘𝚠𝚜𝚎𝚛.𝚜𝚌𝚛𝚎𝚎𝚗𝚜𝚑𝚘𝚝()\n\n📦 https://t.co/66GIcFI1o4",
           "created_at": "2026-08-03T18:26:38+00:00",
-          "like_count": 469,
-          "retweet_count": 28,
-          "reply_count": 42,
-          "engagement_score": 567,
+          "like_count": 473,
+          "retweet_count": 29,
+          "reply_count": 45,
+          "engagement_score": 576,
           "url": "https://x.com/rauchg/status/2084345210470097127"
         },
         {
           "id": "2084426730241220703",
           "text": "The new AI Gateway logs UI is delightful https://t.co/cpMCaVeTbj",
           "created_at": "2026-08-03T23:50:33+00:00",
-          "like_count": 332,
-          "retweet_count": 14,
-          "reply_count": 24,
-          "engagement_score": 384,
+          "like_count": 336,
+          "retweet_count": 15,
+          "reply_count": 26,
+          "engagement_score": 392,
           "url": "https://x.com/rauchg/status/2084426730241220703"
-        },
-        {
-          "id": "2084399936687460754",
-          "text": "v0 as infrastructure. Already in production at the largest agencies and system-of-record companies in the world, as part of their AI software factories.",
-          "created_at": "2026-08-03T22:04:05+00:00",
-          "like_count": 322,
-          "retweet_count": 14,
-          "reply_count": 18,
-          "engagement_score": 368,
-          "url": "https://x.com/rauchg/status/2084399936687460754"
         },
         {
           "id": "2084445517678064092",
           "text": "This is why P̵L̵G̵ ALG will always be king for startups. Have p̵e̵o̵p̵l̵e̵ agents adopt your product first, then have the meetings, if needed. The companies that start with the meetings are likely not your ideal customers.",
           "created_at": "2026-08-04T01:05:13+00:00",
-          "like_count": 297,
-          "retweet_count": 10,
-          "reply_count": 47,
-          "engagement_score": 364,
+          "like_count": 304,
+          "retweet_count": 12,
+          "reply_count": 49,
+          "engagement_score": 377,
           "url": "https://x.com/rauchg/status/2084445517678064092"
+        },
+        {
+          "id": "2084399936687460754",
+          "text": "v0 as infrastructure. Already in production at the largest agencies and system-of-record companies in the world, as part of their AI software factories.",
+          "created_at": "2026-08-03T22:04:05+00:00",
+          "like_count": 326,
+          "retweet_count": 14,
+          "reply_count": 18,
+          "engagement_score": 372,
+          "url": "https://x.com/rauchg/status/2084399936687460754"
         }
       ]
     },
@@ -310,10 +326,10 @@
           "id": "2084746170576892342",
           "text": "Notebook is built for thinking, not toggling.\n\nWhile others add more modes, Notebook keeps everything in a single, unified prompt bar and just does the things you want.\n\nUltra and Pro subscribers can jump in now, rolling out to everyone next.",
           "created_at": "2026-08-04T20:59:54+00:00",
-          "like_count": 158,
-          "retweet_count": 9,
-          "reply_count": 9,
-          "engagement_score": 185,
+          "like_count": 339,
+          "retweet_count": 22,
+          "reply_count": 14,
+          "engagement_score": 397,
           "url": "https://x.com/joshwoodward/status/2084746170576892342"
         }
       ]
@@ -327,5 +343,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-08-04T22:05:05.190427+00:00"
+  "generated_at": "2026-08-05T07:03:01.606114+00:00"
 }
