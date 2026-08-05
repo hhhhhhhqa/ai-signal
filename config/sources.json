@@ -36,6 +36,24 @@
         "tier": "analyst"
       },
       {
+        "handle": "levie",
+        "name": "Aaron Levie (Box CEO)",
+        "domain": "ai",
+        "tier": "analyst"
+      },
+      {
+        "handle": "RyanPGreenblatt",
+        "name": "Ryan Greenblatt (Redwood Research)",
+        "domain": "ai",
+        "tier": "analyst"
+      },
+      {
+        "handle": "mweinbach",
+        "name": "Max Weinbach (Creative Strategies)",
+        "domain": "ai",
+        "tier": "analyst"
+      },
+      {
         "handle": "ArtificialAnlys",
         "name": "Artificial Analysis",
         "domain": "ai",
@@ -134,6 +152,24 @@
       {
         "handle": "paulgauthier",
         "name": "Paul Gauthier (Aider)",
+        "domain": "ai",
+        "tier": "builder"
+      },
+      {
+        "handle": "ivanfioravanti",
+        "name": "Ivan Fioravanti (Apple MLX / open source)",
+        "domain": "ai",
+        "tier": "builder"
+      },
+      {
+        "handle": "deanwball",
+        "name": "Dean Ball (OpenAI Head of Strategic Futures)",
+        "domain": "ai",
+        "tier": "builder"
+      },
+      {
+        "handle": "kunchenguid",
+        "name": "Kun Chen (FirstMate / ex-Meta L8)",
         "domain": "ai",
         "tier": "builder"
       }

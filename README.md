@@ -21,7 +21,7 @@
 
 ## 最近更新
 
-- `2026-08-06`：X 新增 [@simonw](https://x.com/simonw)（Simon Willison，LLM 工具与开源作者），共 22 个账号
+- `2026-08-06`：X 新增 [@simonw](https://x.com/simonw)（Simon Willison）、[@levie](https://x.com/levie)（Aaron Levie）、[@ivanfioravanti](https://x.com/ivanfioravanti)（Ivan Fioravanti）、[@RyanPGreenblatt](https://x.com/RyanPGreenblatt)（Ryan Greenblatt）、[@deanwball](https://x.com/deanwball)（Dean Ball）、[@mweinbach](https://x.com/mweinbach)（Max Weinbach）、[@kunchenguid](https://x.com/kunchenguid)（Kun Chen），共 28 个账号
 - `2026-08-05`：播客新增「晚点聊 LateTalk」（中文 AI 深度访谈），共 15 个频道；该源没有公开文字稿，改由 ASR 转录，从 8-05 起的新节目开始转，不补转历史
 - `2026-07-28`：X 新增 [@ArtificialAnlys](https://x.com/ArtificialAnlys)（独立模型评测跑分）和 [@paulgauthier](https://x.com/paulgauthier)（Aider 作者），共 21 个账号；公众号新增「Web3天空之城」，共 2 个
 - `2026-07-31`：公众号来源迁移到 we-mp-rss（此前用 wewe-rss，微信读书接口配额太紧、登录频繁失效）；正文随文章一起采集，不用二次拉取
@@ -102,15 +102,15 @@
 
 > 过滤规则：只收本周上传（YouTube 服务端过滤）、标题必须含人名（去同名假阳性）、时长 ≥ 15 分钟（去切片/shorts）、频道订阅数 ≥ 5 万（去小搬运号）、海外人物剔除非拉丁文字频道名/标题（去大号外语搬运/二创，如中文配音、印地语二创、韩语搬运）、海外人物要求视频有英文字幕轨（挡住英文标题的外语综艺，如韩综 You Quiz 上的 Jensen Huang 只有韩语字幕；只要英文原版）、剔除例行盘面播报和影视剧合集噪音；与频道订阅命中的同一期节目自动去重；每天最多新收 5 条，日报不会被人物命中刷屏。名单在 `config/sources.json` 的 `podcasts.people`。
 
-### Twitter/X（22 个账号）
+### Twitter/X（28 个账号）
 
-**分析师/研究者**：[@karpathy](https://x.com/karpathy)、[@swyx](https://x.com/swyx)、[@dylan522p](https://x.com/dylan522p)（SemiAnalysis）、[@insane_analyst](https://x.com/insane_analyst)（Irrational Analysis，半导体投资）、[@simonw](https://x.com/simonw)（Simon Willison，LLM 工具与开源作者）、[@ArtificialAnlys](https://x.com/ArtificialAnlys)（Artificial Analysis，独立模型评测与跑分）、[@naval](https://x.com/naval)（Naval Ravikant）、[@leopoldasch](https://x.com/leopoldasch)、[@jimkxa](https://x.com/jimkxa)（Jim Keller）
+**分析师/研究者**：[@karpathy](https://x.com/karpathy)、[@swyx](https://x.com/swyx)、[@dylan522p](https://x.com/dylan522p)（SemiAnalysis）、[@insane_analyst](https://x.com/insane_analyst)（Irrational Analysis，半导体投资）、[@simonw](https://x.com/simonw)（Simon Willison，LLM 工具与开源作者）、[@levie](https://x.com/levie)（Aaron Levie，Box CEO）、[@RyanPGreenblatt](https://x.com/RyanPGreenblatt)（Ryan Greenblatt，AI 安全研究者）、[@mweinbach](https://x.com/mweinbach)（Max Weinbach，Creative Strategies）、[@ArtificialAnlys](https://x.com/ArtificialAnlys)（Artificial Analysis，独立模型评测与跑分）、[@naval](https://x.com/naval)（Naval Ravikant）、[@leopoldasch](https://x.com/leopoldasch)、[@jimkxa](https://x.com/jimkxa)（Jim Keller）
 
 **决策者**：[@sama](https://x.com/sama)、[@DarioAmodei](https://x.com/DarioAmodei)、[@demishassabis](https://x.com/demishassabis)（Google DeepMind）、[@jietang](https://x.com/jietang)（Z.ai / Tsinghua）
 
 **基础设施**：[@nvidia](https://x.com/nvidia)（Jensen Huang / NVIDIA AI 基础设施信号）
 
-**建造者**：[@AmandaAskell](https://x.com/AmandaAskell)、[@bcherny](https://x.com/bcherny)（Claude Code）、[@_catwu](https://x.com/_catwu)、[@alexalbert__](https://x.com/alexalbert__)、[@rauchg](https://x.com/rauchg)（Vercel）、[@amasad](https://x.com/amasad)（Replit）、[@joshwoodward](https://x.com/joshwoodward)（Google Labs）、[@paulgauthier](https://x.com/paulgauthier)（Aider 作者）
+**建造者**：[@AmandaAskell](https://x.com/AmandaAskell)、[@bcherny](https://x.com/bcherny)（Claude Code）、[@_catwu](https://x.com/_catwu)、[@alexalbert__](https://x.com/alexalbert__)、[@rauchg](https://x.com/rauchg)（Vercel）、[@amasad](https://x.com/amasad)（Replit）、[@joshwoodward](https://x.com/joshwoodward)（Google Labs）、[@paulgauthier](https://x.com/paulgauthier)（Aider 作者）、[@ivanfioravanti](https://x.com/ivanfioravanti)（Apple MLX / 开源）、[@deanwball](https://x.com/deanwball)（OpenAI Strategic Futures）、[@kunchenguid](https://x.com/kunchenguid)（FirstMate / 前 Meta L8）
 
 > 选人标准：在一线做事 / 有独立判断 / 用真金白银下注。不选搬运号、评论员、流量账号。
 
