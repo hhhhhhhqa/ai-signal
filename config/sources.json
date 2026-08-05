@@ -409,6 +409,12 @@
         "name": "The Acquirers Podcast",
         "domain": "invest",
         "rss_url": "https://anchor.fm/s/9603714/podcast/rss"
+      },
+      {
+        "name": "晚点聊 LateTalk",
+        "domain": "ai",
+        "rss_url": "https://feeds.fireside.fm/latetalk/rss",
+        "transcribe_missing": true
       }
     ]
   },
