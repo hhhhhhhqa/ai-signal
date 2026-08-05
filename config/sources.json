@@ -414,7 +414,7 @@
         "name": "晚点聊 LateTalk",
         "domain": "ai",
         "rss_url": "https://feeds.fireside.fm/latetalk/rss",
-        "transcribe_missing": true
+        "transcribe_missing": false
       }
     ]
   },
