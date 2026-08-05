@@ -54,6 +54,18 @@
         "tier": "analyst"
       },
       {
+        "handle": "ValsAI",
+        "name": "Vals AI (independent model evaluations)",
+        "domain": "ai",
+        "tier": "analyst"
+      },
+      {
+        "handle": "arena",
+        "name": "Arena (formerly LMArena / human preference benchmark)",
+        "domain": "ai",
+        "tier": "analyst"
+      },
+      {
         "handle": "ArtificialAnlys",
         "name": "Artificial Analysis",
         "domain": "ai",

@@ -40,11 +40,13 @@ Naval Ravikant
 **China AI:** 闫俊杰 (MiniMax), 杨植麟 (Moonshot), 梁文锋 (DeepSeek), 唐杰 (智谱),
 罗福莉, 李广密 (拾象), 肖弘 (Manus)
 
-### Twitter/X (28 accounts)
+### Twitter/X (30 accounts)
 **Analysts:** Karpathy, Swyx, Dylan Patel (SemiAnalysis), Irrational Analysis,
 Simon Willison (LLM tooling, open source), Aaron Levie (Box CEO), Ryan Greenblatt
-(AI safety researcher), Max Weinbach (Creative Strategies), Artificial Analysis
-(independent model benchmarks), Naval Ravikant, Leopold Aschenbrenner, Jim Keller
+(AI safety researcher), Max Weinbach (Creative Strategies), Vals AI (independent
+model evaluations), Arena (formerly LMArena; human preference benchmark),
+Artificial Analysis (independent model benchmarks), Naval Ravikant,
+Leopold Aschenbrenner, Jim Keller
 **Executives:** Sam Altman, Dario Amodei, Demis Hassabis (Google DeepMind), Tang Jie (Z.ai)
 **Infrastructure:** NVIDIA (Jensen Huang / AI infrastructure signal)
 **Builders:** Amanda Askell, Boris Cherny (Claude Code), Cat Wu, Alex Albert,
