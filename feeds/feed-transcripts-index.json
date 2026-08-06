@@ -1,7 +1,98 @@
 {
-  "generated_at": "2026-08-06T02:02:09.154064+00:00",
+  "generated_at": "2026-08-06T23:20:54.739515+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "f31b896b-86e1-4295-982a-a899b2d0160d",
+      "link": "https://a16z.simplecast.com/episodes/how-open-source-ai-became-critical-infrastructure-3yYJbsEz",
+      "channel": "a16z",
+      "title": "The Engine Powering Open-Source AI",
+      "pub_date": "2026-08-06T10:00:00+00:00",
+      "transcript_path": "feeds/transcripts/719c6842823e37e315b04f4c.txt",
+      "transcript_chars": 47767,
+      "transcript_source": "volc_asr_auc",
+      "cached_at": "2026-08-06T23:20:54.739515+00:00",
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
+    },
+    {
+      "guid": "8bbdfcd5-e2f4-4220-b5da-a84ddd1402e6",
+      "link": "https://allinchamathjason.libsyn.com/saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships",
+      "channel": "All-In Podcast",
+      "title": "Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships",
+      "pub_date": "2026-08-05T20:19:00+00:00",
+      "transcript_path": "feeds/transcripts/d3d45b9a81f82f8cbb542e3a.txt",
+      "transcript_chars": 50988,
+      "transcript_source": "volc_asr_auc",
+      "cached_at": "2026-08-06T23:20:54.739515+00:00",
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
+    },
+    {
+      "guid": "68c9f676-fdf7-4864-97ae-c6eb2a3b5e35",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/How-I-Force-Change-at-Companies-Wall-Street-Ignores-e3n1272",
+      "channel": "The Acquirers Podcast",
+      "title": "How I Force Change at Companies Wall Street Ignores",
+      "pub_date": "2026-08-06T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/3063ab77d20785e687cb7394.txt",
+      "transcript_chars": 142931,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-06T22:35:04.649479+00:00",
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+      "link": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+      "channel": "Latent Space",
+      "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+      "pub_date": "2026-08-06T04:34:11+00:00",
+      "transcript_path": "feeds/transcripts/673402e04aa29dbc7d1416b1.txt",
+      "transcript_chars": 5583,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-06T22:35:04.649479+00:00",
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
+    },
+    {
+      "guid": "yt:FU1xTyqvBhU",
+      "link": "https://www.youtube.com/watch?v=FU1xTyqvBhU",
+      "channel": "Metis Strategy",
+      "title": "The Infinity Machine: The Untold Story of Demis Hassabis and DeepMind | Technovation 1104",
+      "pub_date": "2026-08-06T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/1ee9257873f6710dbf624a38.txt",
+      "transcript_chars": 66219,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-08-06T22:35:04.649479+00:00",
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
+      "link": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
+      "channel": "Latent Space",
+      "title": "[AINews] Megakernels are so dead and so back",
+      "pub_date": "2026-08-05T01:21:47+00:00",
+      "transcript_path": "feeds/transcripts/786ff87d998578032094d52f.txt",
+      "transcript_chars": 20651,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-06T22:35:04.649479+00:00",
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
+    },
+    {
+      "guid": "yt:NGsi2PC4y68",
+      "link": "https://www.youtube.com/watch?v=NGsi2PC4y68",
+      "channel": "Invest Like The Best",
+      "title": "Why the Markets Are Pricing AI Wrong | Gavin Baker",
+      "pub_date": "2026-08-04T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/fd4e5c4e13a3292220e1c159.txt",
+      "transcript_chars": 72418,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-08-06T22:35:04.649479+00:00",
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
+    },
     {
       "guid": "6ca3b211-07cb-478b-8ae6-95e3c06d26ef",
       "link": "https://a16z.simplecast.com/episodes/three-startups-reinventing-critical-infrastructure-FkRDwjit",
@@ -12,8 +103,8 @@
       "transcript_chars": 85572,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-08-06T02:02:09.154064+00:00",
-      "last_seen_at": "2026-08-06T02:02:09.154064+00:00",
-      "expires_at": "2026-08-20T02:02:09.154064+00:00"
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
@@ -25,8 +116,8 @@
       "transcript_chars": 5310,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-06T00:34:59.628018+00:00",
-      "last_seen_at": "2026-08-06T02:02:09.154064+00:00",
-      "expires_at": "2026-08-20T02:02:09.154064+00:00"
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
     },
     {
       "guid": "87204ae8-77e7-4f6b-884a-cb9e2e93765a",
@@ -38,8 +129,8 @@
       "transcript_chars": 2036,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-06T00:34:59.628018+00:00",
-      "last_seen_at": "2026-08-06T02:02:09.154064+00:00",
-      "expires_at": "2026-08-20T02:02:09.154064+00:00"
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
     },
     {
       "guid": "https://www.latent.space/p/unpacking-chatgpt-work",
@@ -51,8 +142,8 @@
       "transcript_chars": 19215,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-06T00:34:59.628018+00:00",
-      "last_seen_at": "2026-08-06T02:02:09.154064+00:00",
-      "expires_at": "2026-08-20T02:02:09.154064+00:00"
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
     },
     {
       "guid": "yt:RyHpcxmW66g",
@@ -64,8 +155,8 @@
       "transcript_chars": 21086,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-06T00:34:59.628018+00:00",
-      "last_seen_at": "2026-08-06T02:02:09.154064+00:00",
-      "expires_at": "2026-08-20T02:02:09.154064+00:00"
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
     },
     {
       "guid": "e4ebaa91-7ab6-4995-ba37-8a1dccf036d1",
@@ -77,8 +168,8 @@
       "transcript_chars": 32315,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-08-05T02:14:11.775934+00:00",
-      "last_seen_at": "2026-08-06T02:02:09.154064+00:00",
-      "expires_at": "2026-08-20T02:02:09.154064+00:00"
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
     },
     {
       "guid": "c8fca7de-8f77-11f1-ae96-ab857574605f",
@@ -90,8 +181,8 @@
       "transcript_chars": 64211,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-08-05T02:14:11.775934+00:00",
-      "last_seen_at": "2026-08-06T02:02:09.154064+00:00",
-      "expires_at": "2026-08-20T02:02:09.154064+00:00"
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/what-if-youre-not-supposed-to-have",
@@ -103,8 +194,8 @@
       "transcript_chars": 18547,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-05T00:23:46.365260+00:00",
-      "last_seen_at": "2026-08-06T02:02:09.154064+00:00",
-      "expires_at": "2026-08-20T02:02:09.154064+00:00"
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
@@ -116,8 +207,8 @@
       "transcript_chars": 38062,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-05T00:23:46.365260+00:00",
-      "last_seen_at": "2026-08-06T02:02:09.154064+00:00",
-      "expires_at": "2026-08-20T02:02:09.154064+00:00"
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
     },
     {
       "guid": "yt:O70Ff5xBnYo",
@@ -350,8 +441,8 @@
       "transcript_chars": 30396,
       "transcript_source": "episode_page",
       "cached_at": "2026-07-30T22:12:43.193276+00:00",
-      "last_seen_at": "2026-08-06T02:02:09.154064+00:00",
-      "expires_at": "2026-08-20T02:02:09.154064+00:00"
+      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
+      "expires_at": "2026-08-20T23:20:54.739515+00:00"
     },
     {
       "guid": "431ae0f7-c40c-4f00-a2ec-2123c3ca21d5",
@@ -612,110 +703,6 @@
       "cached_at": "2026-07-28T02:08:47.383906+00:00",
       "last_seen_at": "2026-07-28T02:57:57.571287+00:00",
       "expires_at": "2026-08-11T02:57:57.571287+00:00"
-    },
-    {
-      "guid": "be04f071-24a5-461c-aded-2116b687cb81",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Inside-Artisans-International-Value-Fund-with-Portfolio-Manager-David-Samra-e3mdl34",
-      "channel": "The Acquirers Podcast",
-      "title": "Inside Artisan's International Value Fund with Portfolio Manager David Samra",
-      "pub_date": "2026-07-23T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/895e482bf16f467a9e810313.txt",
-      "transcript_chars": 142008,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-23T22:52:00.865589+00:00",
-      "last_seen_at": "2026-07-23T22:52:00.865589+00:00",
-      "expires_at": "2026-08-06T22:52:00.865589+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
-      "link": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
-      "channel": "Latent Space",
-      "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
-      "pub_date": "2026-07-23T05:18:47+00:00",
-      "transcript_path": "feeds/transcripts/be5d7ddcba7c7f37756d1aec.txt",
-      "transcript_chars": 27229,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-23T22:52:00.865589+00:00",
-      "last_seen_at": "2026-07-23T22:52:00.865589+00:00",
-      "expires_at": "2026-08-06T22:52:00.865589+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/poolside",
-      "link": "https://www.latent.space/p/poolside",
-      "channel": "Latent Space",
-      "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
-      "pub_date": "2026-07-23T05:09:14+00:00",
-      "transcript_path": "feeds/transcripts/f964ab542441809afe574bec.txt",
-      "transcript_chars": 141023,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-23T22:52:00.865589+00:00",
-      "last_seen_at": "2026-07-23T22:52:00.865589+00:00",
-      "expires_at": "2026-08-06T22:52:00.865589+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/computer-and-browser-use-in-codex",
-      "link": "https://www.lennysnewsletter.com/p/computer-and-browser-use-in-codex",
-      "channel": "Lenny's Podcast",
-      "title": "Computer and browser use in Codex (5 real examples)",
-      "pub_date": "2026-07-22T12:03:38+00:00",
-      "transcript_path": "feeds/transcripts/44f2e5f3fe12fbd57c4444cd.txt",
-      "transcript_chars": 5233,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-22T22:57:24.164029+00:00",
-      "last_seen_at": "2026-07-23T22:52:00.865589+00:00",
-      "expires_at": "2026-08-06T22:52:00.865589+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
-      "link": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
-      "channel": "Latent Space",
-      "title": "[AINews] AI Cybersecurity becomes top of mind",
-      "pub_date": "2026-07-22T03:27:29+00:00",
-      "transcript_path": "feeds/transcripts/0b23273235bd3d048e38d2e2.txt",
-      "transcript_chars": 20884,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-22T22:57:24.164029+00:00",
-      "last_seen_at": "2026-07-23T22:52:00.865589+00:00",
-      "expires_at": "2026-08-06T22:52:00.865589+00:00"
-    },
-    {
-      "guid": "28a024d4-849e-11f1-a2f7-af48456aa9fb",
-      "link": "https://colossus.com/episode/americas-next-energy-crisis/",
-      "channel": "Invest Like the Best",
-      "title": "Matthew Smith — Natural Gas: The Next Bottleneck - [Invest Like the Best, EP.483]",
-      "pub_date": "2026-07-21T08:00:00+00:00",
-      "transcript_path": "feeds/transcripts/3491829773ad5b3682501329.txt",
-      "transcript_chars": 57724,
-      "transcript_source": "volc_asr_auc",
-      "cached_at": "2026-07-21T22:59:17.628278+00:00",
-      "last_seen_at": "2026-07-23T22:52:00.865589+00:00",
-      "expires_at": "2026-08-06T22:52:00.865589+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
-      "link": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
-      "channel": "Lenny's Podcast",
-      "title": "Why a sabbatical can change everything",
-      "pub_date": "2026-07-21T12:45:10+00:00",
-      "transcript_path": "feeds/transcripts/0a560dca250304f5163c9ae3.txt",
-      "transcript_chars": 22859,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-21T22:50:43.417456+00:00",
-      "last_seen_at": "2026-07-23T22:52:00.865589+00:00",
-      "expires_at": "2026-08-06T22:52:00.865589+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-173",
-      "link": "https://www.latent.space/p/ainews-not-much-happened-today-173",
-      "channel": "Latent Space",
-      "title": "[AINews] not much happened today",
-      "pub_date": "2026-07-21T03:58:00+00:00",
-      "transcript_path": "feeds/transcripts/eb02d14f383f8c77804bf353.txt",
-      "transcript_chars": 10290,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-21T22:50:43.417456+00:00",
-      "last_seen_at": "2026-07-23T22:52:00.865589+00:00",
-      "expires_at": "2026-08-06T22:52:00.865589+00:00"
     }
   ]
 }
