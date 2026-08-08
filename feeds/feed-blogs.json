@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "published": "2026-08-07T15:20:00+00:00",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
+    },
+    {
+      "id": "https://openai.com/index/hsp-gruppe",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "published": "2026-08-07T09:00:00+00:00",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
+    },
+    {
+      "id": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Improving Fable 5 Safeguards",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "published": "2026-08-07T00:00:00+00:00",
+      "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces fallbacks."
+    },
+    {
       "id": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "source": "deepmind",
       "source_name": "Google DeepMind",
@@ -26,17 +53,8 @@
       "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
       "published": "2026-08-06T06:00:00+00:00",
       "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
-    },
-    {
-      "id": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "published": "2026-08-06T00:00:00+00:00",
-      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
     }
   ],
   "errors": null,
-  "generated_at": "2026-08-06T22:12:31.029756+00:00"
+  "generated_at": "2026-08-07T22:27:17.085803+00:00"
 }
