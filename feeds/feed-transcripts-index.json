@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-08-08T03:45:26.401763+00:00",
+  "generated_at": "2026-08-09T04:10:45.377437+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "38fb4a6b-3eab-4c3e-b93c-7176ef17c668",
+      "link": "https://podcast.latepost.com/178",
+      "channel": "晚点聊 LateTalk",
+      "title": "178: 与田渊栋聊 RSI：模型自进化如何到来？",
+      "pub_date": "2026-08-07T08:30:00+08:00",
+      "transcript_path": "feeds/transcripts/a072f1b7aaf8d50ca396c755.txt",
+      "transcript_chars": 37842,
+      "transcript_source": "volc_asr_auc",
+      "cached_at": "2026-08-09T04:10:45.377437+00:00",
+      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
+      "expires_at": "2026-08-23T04:10:45.377437+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+      "link": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+      "channel": "Latent Space",
+      "title": "[AINews] Zawinski's Law of MultiAgents",
+      "pub_date": "2026-08-08T01:12:07+00:00",
+      "transcript_path": "feeds/transcripts/f37e9d7768388259a71e3b61.txt",
+      "transcript_chars": 17841,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-08T23:55:30.608211+00:00",
+      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
+      "expires_at": "2026-08-23T04:10:45.377437+00:00"
+    },
+    {
+      "guid": "yt:Ap2_e7DG_o0",
+      "link": "https://www.youtube.com/watch?v=Ap2_e7DG_o0",
+      "channel": "Eli the Computer Guy",
+      "title": "Satya Nadella Warns OpenAI is Dangerous - Microsoft Says Don't Trust AI Companies",
+      "pub_date": "2026-08-02T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/a8ed88492c77d86fcf5ca69e.txt",
+      "transcript_chars": 19625,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-08-08T23:55:30.608211+00:00",
+      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
+      "expires_at": "2026-08-23T04:10:45.377437+00:00"
+    },
     {
       "guid": "90707990-5bff-46f5-a7eb-bf041ec1b5f3",
       "link": "https://a16z.simplecast.com/episodes/the-reality-of-ai-powered-cyberattacks-truffle-security-socket-vbyiWFXA",
@@ -12,8 +51,8 @@
       "transcript_chars": 30113,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-08-08T03:45:26.401763+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
+      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
+      "expires_at": "2026-08-23T04:10:45.377437+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/era-of-continual-learning",
@@ -25,8 +64,8 @@
       "transcript_chars": 9251,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-08T00:22:29.667823+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
+      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
+      "expires_at": "2026-08-23T04:10:45.377437+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-amd-buys-taalas",
@@ -38,8 +77,8 @@
       "transcript_chars": 26832,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-08T00:22:29.667823+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
+      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
+      "expires_at": "2026-08-23T04:10:45.377437+00:00"
     },
     {
       "guid": "f31b896b-86e1-4295-982a-a899b2d0160d",
@@ -51,8 +90,8 @@
       "transcript_chars": 47767,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-08-06T23:20:54.739515+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
+      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
+      "expires_at": "2026-08-23T04:10:45.377437+00:00"
     },
     {
       "guid": "8bbdfcd5-e2f4-4220-b5da-a84ddd1402e6",
@@ -77,8 +116,8 @@
       "transcript_chars": 142931,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-06T22:35:04.649479+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
+      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
+      "expires_at": "2026-08-23T04:10:45.377437+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
@@ -90,8 +129,8 @@
       "transcript_chars": 5583,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-06T22:35:04.649479+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
+      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
+      "expires_at": "2026-08-23T04:10:45.377437+00:00"
     },
     {
       "guid": "yt:FU1xTyqvBhU",
@@ -103,8 +142,8 @@
       "transcript_chars": 66219,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-06T22:35:04.649479+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
+      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
+      "expires_at": "2026-08-23T04:10:45.377437+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
@@ -129,8 +168,8 @@
       "transcript_chars": 72418,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-06T22:35:04.649479+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
+      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
+      "expires_at": "2026-08-23T04:10:45.377437+00:00"
     },
     {
       "guid": "6ca3b211-07cb-478b-8ae6-95e3c06d26ef",
@@ -194,8 +233,8 @@
       "transcript_chars": 21086,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-06T00:34:59.628018+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
+      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
+      "expires_at": "2026-08-23T04:10:45.377437+00:00"
     },
     {
       "guid": "e4ebaa91-7ab6-4995-ba37-8a1dccf036d1",
@@ -477,11 +516,11 @@
       "title": "Ep. 022 - Market Drawdown, Historic Bubbles, Funding The Buildout, AI Politics (Doug is Back)",
       "pub_date": "2026-07-29T20:59:20+00:00",
       "transcript_path": "feeds/transcripts/7ed3fe456344ab347cb08e13.txt",
-      "transcript_chars": 30396,
-      "transcript_source": "episode_page",
+      "transcript_chars": 53964,
+      "transcript_source": "companion_youtube",
       "cached_at": "2026-07-30T22:12:43.193276+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
+      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
+      "expires_at": "2026-08-23T04:10:45.377437+00:00"
     },
     {
       "guid": "431ae0f7-c40c-4f00-a2ec-2123c3ca21d5",
