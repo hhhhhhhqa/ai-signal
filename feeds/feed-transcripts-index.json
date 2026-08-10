@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-09T04:10:45.377437+00:00",
+  "generated_at": "2026-08-09T22:47:41.730871+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "4d59eed8-de80-4c59-8417-cfffb5f75779",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--024---SpaceXs-10GW-Plan-Drives-300B-ARR-by-2027-Datacenter--Energy--Reyk-Knuhtsen--Jeremie-Eliahou-Ontiveros--Jordan-Nanos-e3n5srq",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 024 - SpaceX's 10GW Plan Drives $300B ARR by 2027 (Datacenter, Energy) | Reyk Knuhtsen, Jeremie Eliahou Ontiveros, Jordan Nanos",
+      "pub_date": "2026-08-09T14:00:00+00:00",
+      "transcript_path": "feeds/transcripts/48c2082a55c8e41df79c4839.txt",
+      "transcript_chars": 52127,
+      "transcript_source": "companion_youtube",
+      "cached_at": "2026-08-09T22:47:41.730871+00:00",
+      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
+      "expires_at": "2026-08-23T22:47:41.730871+00:00"
+    },
+    {
+      "guid": "77823dc9-e8e5-4d2b-831f-c61dbd956f97",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--023---Everyone-Leaves-Google--Elon-Forecasts-1T-ARR--Reflecting-On-GPT-5--Building-Personalized-Software-Roundtable--Jon-Y--Doug-OLaughlin--Jordan-Nanos-e3n42p8",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 023 - Everyone Leaves Google, Elon Forecasts 1T ARR, Reflecting On GPT-5, Building Personalized Software (Roundtable) | Jon Y, Doug O'Laughlin, Jordan Nanos",
+      "pub_date": "2026-08-07T22:00:00+00:00",
+      "transcript_path": "feeds/transcripts/85414b790fb5605cdb52c494.txt",
+      "transcript_chars": 41270,
+      "transcript_source": "companion_youtube",
+      "cached_at": "2026-08-09T22:47:41.730871+00:00",
+      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
+      "expires_at": "2026-08-23T22:47:41.730871+00:00"
+    },
     {
       "guid": "38fb4a6b-3eab-4c3e-b93c-7176ef17c668",
       "link": "https://podcast.latepost.com/178",
@@ -12,8 +38,8 @@
       "transcript_chars": 37842,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-08-09T04:10:45.377437+00:00",
-      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
-      "expires_at": "2026-08-23T04:10:45.377437+00:00"
+      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
+      "expires_at": "2026-08-23T22:47:41.730871+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
@@ -25,8 +51,8 @@
       "transcript_chars": 17841,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-08T23:55:30.608211+00:00",
-      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
-      "expires_at": "2026-08-23T04:10:45.377437+00:00"
+      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
+      "expires_at": "2026-08-23T22:47:41.730871+00:00"
     },
     {
       "guid": "yt:Ap2_e7DG_o0",
@@ -51,8 +77,8 @@
       "transcript_chars": 30113,
       "transcript_source": "volc_asr_auc",
       "cached_at": "2026-08-08T03:45:26.401763+00:00",
-      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
-      "expires_at": "2026-08-23T04:10:45.377437+00:00"
+      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
+      "expires_at": "2026-08-23T22:47:41.730871+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/era-of-continual-learning",
@@ -64,8 +90,8 @@
       "transcript_chars": 9251,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-08T00:22:29.667823+00:00",
-      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
-      "expires_at": "2026-08-23T04:10:45.377437+00:00"
+      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
+      "expires_at": "2026-08-23T22:47:41.730871+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-amd-buys-taalas",
@@ -77,8 +103,8 @@
       "transcript_chars": 26832,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-08T00:22:29.667823+00:00",
-      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
-      "expires_at": "2026-08-23T04:10:45.377437+00:00"
+      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
+      "expires_at": "2026-08-23T22:47:41.730871+00:00"
     },
     {
       "guid": "f31b896b-86e1-4295-982a-a899b2d0160d",
@@ -142,8 +168,8 @@
       "transcript_chars": 66219,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-06T22:35:04.649479+00:00",
-      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
-      "expires_at": "2026-08-23T04:10:45.377437+00:00"
+      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
+      "expires_at": "2026-08-23T22:47:41.730871+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
@@ -168,8 +194,8 @@
       "transcript_chars": 72418,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-06T22:35:04.649479+00:00",
-      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
-      "expires_at": "2026-08-23T04:10:45.377437+00:00"
+      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
+      "expires_at": "2026-08-23T22:47:41.730871+00:00"
     },
     {
       "guid": "6ca3b211-07cb-478b-8ae6-95e3c06d26ef",
@@ -519,8 +545,8 @@
       "transcript_chars": 53964,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-07-30T22:12:43.193276+00:00",
-      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
-      "expires_at": "2026-08-23T04:10:45.377437+00:00"
+      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
+      "expires_at": "2026-08-23T22:47:41.730871+00:00"
     },
     {
       "guid": "431ae0f7-c40c-4f00-a2ec-2123c3ca21d5",
