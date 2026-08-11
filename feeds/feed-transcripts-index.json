@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-08-11T00:36:06.915616+00:00",
+  "generated_at": "2026-08-11T23:10:39.133501+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/ryan-greenblatt",
+      "link": "https://www.dwarkesh.com/p/ryan-greenblatt",
+      "channel": "Dwarkesh Patel",
+      "title": "Ryan Greenblatt – Human level AIs might build runaway superintelligences by 2032",
+      "pub_date": "2026-08-11T16:31:23+00:00",
+      "transcript_path": "feeds/transcripts/fe281483ffa9e4629e80be8d.txt",
+      "transcript_chars": 144899,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-11T23:10:39.133501+00:00",
+      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
+      "expires_at": "2026-08-25T23:10:39.133501+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
+      "link": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
+      "channel": "Lenny's Podcast",
+      "title": "How to make people care about your startup",
+      "pub_date": "2026-08-11T13:31:07+00:00",
+      "transcript_path": "feeds/transcripts/cd4d27815452c8ba55ccd4e7.txt",
+      "transcript_chars": 26795,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-11T23:10:39.133501+00:00",
+      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
+      "expires_at": "2026-08-25T23:10:39.133501+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+      "link": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
+      "channel": "Latent Space",
+      "title": "[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
+      "pub_date": "2026-08-11T05:16:41+00:00",
+      "transcript_path": "feeds/transcripts/c99e348f929bd9a70f664409.txt",
+      "transcript_chars": 16993,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-11T23:10:39.133501+00:00",
+      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
+      "expires_at": "2026-08-25T23:10:39.133501+00:00"
+    },
+    {
+      "guid": "yt:LWlt43M3tRM",
+      "link": "https://www.youtube.com/watch?v=LWlt43M3tRM",
+      "channel": "The Information",
+      "title": "Inside the World of Dario Amodei",
+      "pub_date": "2026-08-07T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/a35802da3462d27975a47595.txt",
+      "transcript_chars": 16034,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-08-11T23:10:39.133501+00:00",
+      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
+      "expires_at": "2026-08-25T23:10:39.133501+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
       "link": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
@@ -12,8 +64,8 @@
       "transcript_chars": 10401,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-11T00:36:06.915616+00:00",
-      "last_seen_at": "2026-08-11T00:36:06.915616+00:00",
-      "expires_at": "2026-08-25T00:36:06.915616+00:00"
+      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
+      "expires_at": "2026-08-25T23:10:39.133501+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
@@ -25,8 +77,8 @@
       "transcript_chars": 5273,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-11T00:36:06.915616+00:00",
-      "last_seen_at": "2026-08-11T00:36:06.915616+00:00",
-      "expires_at": "2026-08-25T00:36:06.915616+00:00"
+      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
+      "expires_at": "2026-08-25T23:10:39.133501+00:00"
     },
     {
       "guid": "4d59eed8-de80-4c59-8417-cfffb5f75779",
@@ -38,8 +90,8 @@
       "transcript_chars": 52127,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-09T22:47:41.730871+00:00",
-      "last_seen_at": "2026-08-11T00:36:06.915616+00:00",
-      "expires_at": "2026-08-25T00:36:06.915616+00:00"
+      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
+      "expires_at": "2026-08-25T23:10:39.133501+00:00"
     },
     {
       "guid": "77823dc9-e8e5-4d2b-831f-c61dbd956f97",
@@ -51,8 +103,8 @@
       "transcript_chars": 41270,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-09T22:47:41.730871+00:00",
-      "last_seen_at": "2026-08-11T00:36:06.915616+00:00",
-      "expires_at": "2026-08-25T00:36:06.915616+00:00"
+      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
+      "expires_at": "2026-08-25T23:10:39.133501+00:00"
     },
     {
       "guid": "38fb4a6b-3eab-4c3e-b93c-7176ef17c668",
@@ -194,8 +246,8 @@
       "transcript_chars": 66219,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-06T22:35:04.649479+00:00",
-      "last_seen_at": "2026-08-11T00:36:06.915616+00:00",
-      "expires_at": "2026-08-25T00:36:06.915616+00:00"
+      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
+      "expires_at": "2026-08-25T23:10:39.133501+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
@@ -571,8 +623,8 @@
       "transcript_chars": 53964,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-07-30T22:12:43.193276+00:00",
-      "last_seen_at": "2026-08-11T00:36:06.915616+00:00",
-      "expires_at": "2026-08-25T00:36:06.915616+00:00"
+      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
+      "expires_at": "2026-08-25T23:10:39.133501+00:00"
     },
     {
       "guid": "431ae0f7-c40c-4f00-a2ec-2123c3ca21d5",
@@ -820,19 +872,6 @@
       "cached_at": "2026-07-28T02:08:47.383906+00:00",
       "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
       "expires_at": "2026-08-12T22:47:50.822067+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
-      "link": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
-      "channel": "Latent Space",
-      "title": "[AINews] Claude Opus 5: Fable-level performance at Opus price (half Fable)",
-      "pub_date": "2026-07-25T07:25:38+00:00",
-      "transcript_path": "feeds/transcripts/e708e4e0d68b671ee4fda188.txt",
-      "transcript_chars": 16665,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-28T02:08:47.383906+00:00",
-      "last_seen_at": "2026-07-28T02:57:57.571287+00:00",
-      "expires_at": "2026-08-11T02:57:57.571287+00:00"
     }
   ]
 }

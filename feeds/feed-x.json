@@ -14,24 +14,24 @@
       "tier": "analyst",
       "tweets": [
         {
+          "id": "2087045848022843451",
+          "text": "gpt luna max vs claude fable ultracode \n\nsent \"pls build a mostly faithful clone of grok imagine with open models via fal\"\n\ni woke up to these two and assumed fable was left and luna was right\n\ni was wrong... it was the other way!!\n\nobjectively, fable did the better visual clone. but luna somehow understood intent better and created the more USABLE clone given my open model bent.",
+          "created_at": "2026-08-11T05:18:00+00:00",
+          "like_count": 136,
+          "retweet_count": 3,
+          "reply_count": 44,
+          "engagement_score": 186,
+          "url": "https://x.com/swyx/status/2087045848022843451"
+        },
+        {
           "id": "2086700857358450853",
           "text": "comments like this on the aie channel miss the point.\n\n- we are building a community and an industry that is bigger than any one person can hold in their head. your slop is someone's aha moment and vice versa.\n- speakers spend quality time coming and presenting their strongest beliefs/entire year's work in 20-180 minutes\n- we spend millions on union AV labor and editing to get our speakers a public record that they can then send to customers, employees, and investors\n- our speakers are mostly engineers, researchers, academics and founders doing the work; not polished professional talking heads doing the circuit. most talks are prepped <1 week before. most have had ~0 public speaking training. \n- if you want the polished ppl, many other conferences select for people whose main job it is to be great speakers who give great talks\n- if you only judge quality by view count, you are guaranteed to be cooked by the algorithm. you will only ever hear about things after they are popular; worse; you consider things good only because they are popular. there are entire industries dedicated to manipulating you. do better.\n\nthat said:\n- we CAN do a better job in curation. that's on me.\n- we CAN do a better job in coaching. also on me.\n- we CAN do a better job in production. that's on our team.\n- we COULD publish some talks to a secondary channel... I'm just concerned for those speakers as that will start form a smaller base, advice welcome, i am constantly pressured to do this every single year and have said no so far",
           "created_at": "2026-08-10T06:27:08+00:00",
-          "like_count": 97,
+          "like_count": 116,
           "retweet_count": 2,
-          "reply_count": 43,
-          "engagement_score": 144,
+          "reply_count": 45,
+          "engagement_score": 165,
           "url": "https://x.com/swyx/status/2086700857358450853"
-        },
-        {
-          "id": "2086348591518585026",
-          "text": "i shipped first set of llm-as-judge evals for the kill my saas competition tonight. people can run this to check if their solutions at least pass the sniff test. https://t.co/2eYVts1Yhp",
-          "created_at": "2026-08-09T07:07:21+00:00",
-          "like_count": 91,
-          "retweet_count": 5,
-          "reply_count": 30,
-          "engagement_score": 131,
-          "url": "https://x.com/swyx/status/2086348591518585026"
         }
       ]
     },
@@ -59,20 +59,30 @@
           "id": "2086931955539742985",
           "text": "Claude Haiku is my current least favorite model - it hallucinates wildly, and is out-performed now by other similarly priced models like GPT-5.6-Luna\n\nEven worse: it seems to still be used by the Claude Code WebFetch tool, which means hallucination risk any time you fetch a URL!",
           "created_at": "2026-08-10T21:45:26+00:00",
-          "like_count": 334,
-          "retweet_count": 9,
-          "reply_count": 39,
-          "engagement_score": 391,
+          "like_count": 1446,
+          "retweet_count": 37,
+          "reply_count": 127,
+          "engagement_score": 1647,
           "url": "https://x.com/simonw/status/2086931955539742985"
+        },
+        {
+          "id": "2086972895256007160",
+          "text": "I few notes on Meta's new Muse Glimmer 30B - their first Apache 2.0 licensed open weight model (the Llama models had a janky non-OSI license) https://t.co/dTWUxch85k",
+          "created_at": "2026-08-11T00:28:06+00:00",
+          "like_count": 411,
+          "retweet_count": 15,
+          "reply_count": 40,
+          "engagement_score": 481,
+          "url": "https://x.com/simonw/status/2086972895256007160"
         },
         {
           "id": "2086604364656107964",
           "text": "Just noticed the Claude Opus 5 system prompt includes details of the Fable export control situation, in case people ask about it despite it being outside the model's knowledge cut-off https://t.co/WqkqNwoOHz https://t.co/F6Sbe0im0b",
           "created_at": "2026-08-10T00:03:42+00:00",
-          "like_count": 155,
-          "retweet_count": 12,
-          "reply_count": 38,
-          "engagement_score": 217,
+          "like_count": 165,
+          "retweet_count": 13,
+          "reply_count": 40,
+          "engagement_score": 231,
           "url": "https://x.com/simonw/status/2086604364656107964"
         }
       ]
@@ -87,30 +97,30 @@
           "id": "2086802472950239618",
           "text": "Meta releasing Muse Spark 1.2 as open weights is a *very* big deal. America now finally has its response to the open weights AI race. \n\nThis will continue to help drive down the cost of intelligence, it allows companies to run models as they see fit, as well as allows them to post train their own models for specific use-cases to get better performance gains in their domain. And provides a realistic option for those previously closed off from OSS models.\n\nThis is broadly net positive for AI - even frontier closed models - because it helps drive further diffusion of AI. Big moment in the AI race.",
           "created_at": "2026-08-10T13:10:55+00:00",
-          "like_count": 787,
-          "retweet_count": 63,
-          "reply_count": 49,
-          "engagement_score": 962,
+          "like_count": 977,
+          "retweet_count": 86,
+          "reply_count": 63,
+          "engagement_score": 1212,
           "url": "https://x.com/levie/status/2086802472950239618"
         },
         {
-          "id": "2086559201053294909",
-          "text": "One reason why we’re going to get uneven diffusion rates of agents is because different workflows in the enterprise are more or less aligned to continuous, uninterrupted computer work.\n\nA big reason why agentic coding growth has gone completely vertical is because it’s a type of work where economic value is directly correlated with the output of solely digital information, and where the task size can in theory be unbounded in a single session. This means that as AI agents can do larger amounts of work at a time, and as model capability improves on this task type, they can directly be deployed at larger workloads near instantaneously.\n\nLots of work doesn’t natively have this property in how today’s workflows are designed. A sales rep needs a feedback loop with the customer before they can do additional work for a specific account, a lawyer needs to talk to the client, and a doctor needs to interact with a patient. So large agentic work will likely not look the same as it has in coding, at least by default.\n\nInstead, in many of these domains, the agents will actually need to tie into a workflow that is reengineered for AI.\n\nMatan Grinberg at Factory had a good way of thinking about this on the Training Data podcast: if everyone called in sick tomorrow, token usage would plummet because no one would be there to prompt them. This shows how early we are in agents running in the background for most processes; whereas this should be the majority of volume of agentic work in the future. \n\nIn legal, it will be about processing every contract that comes in, in sales it will be agents that roam through customer records and figure out signals of when to better do outreach, in life sciences research it will be about swarms of agents reading through every test or all research.\n\nTo do that these business processes have to be wired up to support agents, as opposed to the vast amounts of manual work that we do today. \n\nThis is the big opportunity right now, but it’s going to diffuse differently from something like agentic coding. Lots of change management, lots of data cleanup, lots of workflow reengineering, and more.",
-          "created_at": "2026-08-09T21:04:14+00:00",
-          "like_count": 324,
-          "retweet_count": 29,
-          "reply_count": 71,
-          "engagement_score": 453,
-          "url": "https://x.com/levie/status/2086559201053294909"
+          "id": "2087009941806797206",
+          "text": "If you told someone 3 months ago that a model released by a US company with frontier-class capability would be available as open weights they wouldn’t believe it. \n\nThis is very important because it opens up AI adoption in a range of scenarios that weren’t viable before. Models can be deployed on prem or in the cloud on private infra, which means use-cases in highly regulated domains can be opened up.\n\nYou can also now post-train a frontier class model on specific vertical use-cases that need extra levels of performance for their tasks, like in legal, healthcare, and other spaces. You also ensure sovereignty in case any models ever get pulled from the marketplace, which gives users more confidence in deploying in certain mission critical areas.\n\nAll of this is great news for the applied AI layer, because this is where you can route work to different model families based on the task at hand. Great time to building at the harness layer given the options available now.\n\nAnd closed frontier models will still be heavily used both due to simplicity and because you tend to need a mix of capability level for any hard problem, but having open weights in the mix helps defray costs and provides more flexibility. Great news all around.",
+          "created_at": "2026-08-11T02:55:19+00:00",
+          "like_count": 512,
+          "retweet_count": 48,
+          "reply_count": 43,
+          "engagement_score": 651,
+          "url": "https://x.com/levie/status/2087009941806797206"
         },
         {
           "id": "2086625684353605941",
           "text": "Researchers: AI agents can now escape out of air gapped sandboxes using zero days and then attack external systems by coordinating in secret message boards stored in an undiscovered shared file system\n\nActual agents:",
           "created_at": "2026-08-10T01:28:25+00:00",
-          "like_count": 337,
-          "retweet_count": 22,
-          "reply_count": 55,
-          "engagement_score": 436,
+          "like_count": 349,
+          "retweet_count": 25,
+          "reply_count": 57,
+          "engagement_score": 456,
           "url": "https://x.com/levie/status/2086625684353605941"
         }
       ]
@@ -127,7 +137,28 @@
       "name": "Max Weinbach (Creative Strategies)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2087231013218930754",
+          "text": "Just set this up, it looks like it's Cursor based which is sick\n\nIt also allows more than one Google account and seems to work really well",
+          "created_at": "2026-08-11T17:33:47+00:00",
+          "like_count": 253,
+          "retweet_count": 2,
+          "reply_count": 9,
+          "engagement_score": 266,
+          "url": "https://x.com/mweinbach/status/2087231013218930754"
+        },
+        {
+          "id": "2087264090628448562",
+          "text": "I now understand why Opus models generate a stupid amount of tokens for basic requests \n\nThe model just yaps. Sol is very, uh, caveman",
+          "created_at": "2026-08-11T19:45:13+00:00",
+          "like_count": 153,
+          "retweet_count": 4,
+          "reply_count": 5,
+          "engagement_score": 166,
+          "url": "https://x.com/mweinbach/status/2087264090628448562"
+        }
+      ]
     },
     {
       "handle": "ValsAI",
@@ -143,24 +174,44 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2086844868454662210",
-          "text": "The performance gap between proprietary and open source models has reached its narrowest point yet.\n\nIn Code Arena: WebDev, the frontier gap between proprietary and open has compressed from ~150 pts since late 2025, to just ~10 pts today.\n\nMuse Spark 1.2 is expected to release their weights. Stay tuned to see how that and other open models like Glimmer impact the frontier. Official scores coming soon.",
-          "created_at": "2026-08-10T15:59:22+00:00",
-          "like_count": 333,
-          "retweet_count": 33,
-          "reply_count": 20,
-          "engagement_score": 419,
-          "url": "https://x.com/arena/status/2086844868454662210"
-        },
-        {
           "id": "2086943856289853931",
           "text": "MAI-Image-2.6 by @MicrosoftAI has landed in the Text-to-Image Arena at #2 (1336 pts)!\n\nThis release is just 45 pts behind GPT Image 2 (Medium) at #1, and ahead of #3 Grok Imagine Image 2.0 (Low) by 20 pts.\n\nMAI-Image-2.6 is a significant improvement from MAI-Image-2.5 overall at #10 with (1256 pts), and across all categories. MAI will also be making it available on Playground with early API access on Foundry next week. See post below for more details.\n\nCongrats to the @MicrosoftAI team on this release!",
           "created_at": "2026-08-10T22:32:43+00:00",
-          "like_count": 143,
-          "retweet_count": 16,
-          "reply_count": 7,
-          "engagement_score": 182,
+          "like_count": 1277,
+          "retweet_count": 100,
+          "reply_count": 46,
+          "engagement_score": 1523,
           "url": "https://x.com/arena/status/2086943856289853931"
+        },
+        {
+          "id": "2086844868454662210",
+          "text": "The performance gap between proprietary and open source models has reached its narrowest point yet.\n\nIn Code Arena: WebDev, the frontier gap between proprietary and open has compressed from ~150 pts since late 2025, to just ~10 pts today.\n\nMuse Spark 1.2 is expected to release their weights. Stay tuned to see how that and other open models like Glimmer impact the frontier. Official scores coming soon.",
+          "created_at": "2026-08-10T15:59:22+00:00",
+          "like_count": 466,
+          "retweet_count": 44,
+          "reply_count": 26,
+          "engagement_score": 580,
+          "url": "https://x.com/arena/status/2086844868454662210"
+        },
+        {
+          "id": "2086979482162966600",
+          "text": "Muse Glimmer by @AIatMeta debuts at #77 in Code Arena: WebDev with 1359 pts, ranking #26 among open models. As Meta's newest entry into this size range, and an open-weight model, Glimmer brings Meta into the top 3 US labs with an open-weights model.\n\nCongrats to @AIatMeta for the solid contribution to the open small model ecosystem!",
+          "created_at": "2026-08-11T00:54:17+00:00",
+          "like_count": 395,
+          "retweet_count": 27,
+          "reply_count": 31,
+          "engagement_score": 480,
+          "url": "https://x.com/arena/status/2086979482162966600"
+        },
+        {
+          "id": "2087216109107937417",
+          "text": "Last week, @bfl_ai launched their first video model, FLUX 3 Video. They have been testing an update on @arena, and the new version is ranked #2 in the Text-to-Video Arena!\n\nWith 1496 pts, the updated FLUX 3 Video is just 16 pts behind the #1 spot, Gemini Omni Flash (1512 pts).\n\nThis model is coming soon. Congrats to the @bfl_ai team on the release!",
+          "created_at": "2026-08-11T16:34:33+00:00",
+          "like_count": 358,
+          "retweet_count": 38,
+          "reply_count": 27,
+          "engagement_score": 461,
+          "url": "https://x.com/arena/status/2087216109107937417"
         }
       ]
     },
@@ -174,21 +225,51 @@
           "id": "2086916150278111551",
           "text": "Meta returns to open weights: Muse Glimmer, its first open-weights release since Llama 4, scores 35 on the Artificial Analysis Intelligence Index. It is a 30B-parameter model, and the first from Meta to be released under Apache 2.0\n\nMuse Glimmer (high) arrives 16 months after Llama 4, scoring 21 points above Llama 4 Maverick (14), Meta's last open weights release. It sits alongside Kimi K2.5 (Reasoning, 36) and just behind Qwen3.6 27B (Reasoning, 38) and Ling 3.0 Flash (38), and creates a two-tier Meta lineup together with the proprietary flagship Muse Spark 1.2 (xhigh, 57)\n\n@AIatMeta shared access with us ahead of public release for benchmarking. Congratulations to @AIatMeta, @finkd, and @alexandr_wang on the release!\n\nKey Takeaways:\n\n➤ Meta's open-weights line is back, under its most permissive license yet. Every prior Meta open release shipped under a Llama License; Muse Glimmer uses Apache 2.0, placing almost no restrictions on commercial use or derivatives\n\n➤ Strong intelligence for its parameter count. At 30B parameters, Muse Glimmer scores 5 points above Gemma 4 31B (Reasoning, 30) at the same size, and effectively matches 1T total parameter Kimi K2.5 (Reasoning, 36) with 33x fewer parameters. Qwen3.6 27B (Reasoning, 38) remains ahead on the Intelligence vs Parameters frontier at a slightly smaller size\n\n➤ Small enough to self-host on a single GPU, even at full context. Muse Glimmer is a 30B dense model (including a ~1.8B vision encoder) with weights at ~60 GB in BF16 and ~18 GB in 4-bit. It features a hybrid-attention mechanism with three sliding-window layers for every global layer, which holds KV cache memory use to ~1.8 GB (minimum) at its pre-extension 128K context. This means the model can run at full context on a single H100 at BF16 precision, or on a higher-spec MacBook or RTX 5090 at 4-bit, with more breathing room if the vision encoder is not required\n\n➤ Agentic knowledge work is its weakness relative to its size class. Muse Glimmer scores 953 Elo on GDPval-AA v2, below the 1,000 human baseline and behind other models at its intelligence level, including the similarly sized Qwen3.6 27B (Reasoning, 1141), and Gemini 3.5 Flash-Lite (1141). Knowledge calibration follows the same pattern: its AA-Omniscience Index of -33 is low for its intelligence level, driven by an 82% hallucination rate (Qwen3.6 27B: 49%) rather than accuracy, where it matches its peers. Agentic tool use is the exception, with Muse Glimmer scoring 24% on Tau3-Banking, ahead of Gemini 3.5 Flash-Lite (18%) and Qwen3.6 27B (17%), among the best in its class\n\nOther model details:\n\n➤ Parameters: 30B Dense\n➤ Context window: 128K tokens, plus extension\n➤ License: Apache 2.0\n➤ Openness Index: 44, indicating relatively high openness/transparency vs. other major open-weights models\n➤ Pricing and output speed: at the time of release, Meta is not serving the model on their API; pricing and serving speed are TBC depending on third-party providers",
           "created_at": "2026-08-10T20:42:37+00:00",
-          "like_count": 335,
-          "retweet_count": 25,
-          "reply_count": 19,
-          "engagement_score": 404,
+          "like_count": 764,
+          "retweet_count": 61,
+          "reply_count": 32,
+          "engagement_score": 918,
           "url": "https://x.com/ArtificialAnlys/status/2086916150278111551"
+        },
+        {
+          "id": "2087163514037408085",
+          "text": "NVIDIA has just released the first Nemotron 3.5 model: Nemotron 3.5 Lightning, a highly efficient small open weights model with performance similar to gpt-oss-120b at around a quarter of the total parameters\n\nNemotron 3.5 Lightning is the successor to @nvidia  Nemotron 3 Nano 30B A3B, with 31.6B total and 3.6B active parameters. It retains the same hybrid Mamba-Transformer architecture and small size from Nemotron 3 Nano, but makes substantial gains in intelligence and agentic performance.\n\nKey takeaways:\n\n➤ Major intelligence jump: Nemotron 3.5 Lightning scores 24 on the Artificial Analysis Intelligence Index, a +9 point improvement over Nemotron 3 Nano (15). This puts it in line with OpenAI's gpt-oss-120b (24) and only just behind Nemotron 3 Super (26), a model ~4x its size\n\n➤ Optimized for efficiency: Nemotron 3.5 Lightning sits behind the most intelligent small models in its size class such as Qwen3.6 35B A3B (32) and Muse Glimmer (high, 35) - but it is built for a different point on the frontier. In pre-release testing of a DeepInfra endpoint serving the final NVFP4 weights, we measured median output speeds of nearly 670 tokens per second, much faster than those models are served in the market today\n\n➤ Meaningful agentic gains: the largest improvements over Nemotron 3 Nano come on agentic evaluations in GDPval-AA v2 (+334 ELO, moving past gpt-oss-120b and Nemotron 3 Super) and Terminal-Bench v2.1 (24% vs 7%). Combined with its speed and permissive OpenMDW-1.1 license, this positions Lightning as an efficient workhorse model for high-volume agentic deployments\n\n➤ Near-lossless NVFP4 quantization: as with prior Nemotron releases, the model ships in NVFP4 alongside BF16 weights. We measured the NVFP4 variant at 24 on the Intelligence Index and saw minimal degradation compared to the higher-precision weights\n\nKey model details:\n\n➤ 1 million token context window, text-only reasoning model\n\n➤ 31.6B total and 3.6B active parameters\n\n➤ Released under the OpenMDW-1.1 license, open for commercial use without material restrictions\n\n➤ The model weights are available now along with serverless inference from providers including @DeepInfra, @FireworksAI_HQ, @friendliai, @CoreWeave, @gmi_cloud, @nebiusai, and @CrusoeAI",
+          "created_at": "2026-08-11T13:05:34+00:00",
+          "like_count": 504,
+          "retweet_count": 37,
+          "reply_count": 26,
+          "engagement_score": 604,
+          "url": "https://x.com/ArtificialAnlys/status/2087163514037408085"
         },
         {
           "id": "2086847887322096106",
           "text": "We're building a range of new AI benchmarking products at Artificial Analysis to help developers evaluate AI models. We’re looking for a small group of users to test them and share feedback before launch. Let us know if you would like early access!\n\nApply for early access here: https://t.co/mecZHvm8r9",
           "created_at": "2026-08-10T16:11:22+00:00",
-          "like_count": 125,
+          "like_count": 148,
           "retweet_count": 4,
-          "reply_count": 10,
-          "engagement_score": 143,
+          "reply_count": 11,
+          "engagement_score": 167,
           "url": "https://x.com/ArtificialAnlys/status/2086847887322096106"
+        },
+        {
+          "id": "2087303970725499361",
+          "text": "Announcing AA-AnalystAgent, our new agentic benchmark for quantitative analysis on real-world spreadsheets & documents. Claude Opus 5 leads at 54%, followed by GPT-5.5 at 50% and Claude Fable 5 at 49%\n\nIn real analyst roles, professional judgment and expertise are as important raw quantitative capabilities. AA-AnalystAgent tests this and requires models to interpret sources, decide which exceptions and caveats apply, and settle on a methodology to successfully complete a task. \n\nBecause handing analyst tasks to agents requires not just correct answers but consistent ones, AA-AnalystAgent runs each task five times and reports pass^5 as its headline metric (we call this ‘pass-all-5’). pass^5 means models must get a task correct every time it tries across five independent attempts to pass.\n\nAA-AnalystAgent overview:\n🔢 80 questions across 14 business and scientific domains, including healthcare expenditure reports, trade and commodity statistics, hydrology and weather data, government appropriations, energy cost models, financial models, environmental reporting, and project schedules\n\n🧠 Five workflow buckets from across real analyst work: source lookup and diagnosis, filter and total, ratios/trends/sensitivities, P&L modeling, and cash/balance sheet/valuation modeling\n\nMethodology details:\n🤖 Agentic harness: each task is solved by an agent running in our open-source Stirrup reference harness, with tools for code execution, web fetch, image viewing, and answer submission\n\n📊 Scoring: each task is run five times per model, with final answers compared to reference solutions by an equality checker. Three metrics: pass^5, pass@1 (average pass rate), pass@5\n\n🔒 Privately-held question set to limit contamination risk. Two example questions from California Medicaid expenditure reports are publicly shown on the methodology page with full prompt and source material\n\nKey findings:\n🥇 @AnthropicAI's Claude Opus 5 (max) leads at 54%, followed by @OpenAI's GPT-5.5 (xhigh) at 50% and Claude Fable 5 (max, Opus 4.8 Fallback) at 49%. Anthropic holds three of the top five places, and the top three are separated by three net tasks out of 80.\n\n🎯 Reliability separates the top of the leaderboard more than raw capability: GPT-5.5 (xhigh) has the highest pass@1, but Opus 5 leads on pass^5 because it repeats what it gets right.\n\n🔍 Committing early to a wrong interpretation is the most widespread way models fail, appearing in 57% of the failures we classified.\n\n💰 The price of a given score varies enormously: Claude Sonnet 4.6 and @Xiaomi's MiMo-V2.5-Pro both score 20%, at $1.34 and $0.05 per task.\n\n🥈 @Kimi_Moonshot's Kimi K3 (max) is the top open weights model at 39%, 15 points behind the closed frontier.\n\nAA-AnalystAgent launches as a standalone leaderboard and is not part of the Artificial Analysis Intelligence Index.\n\nSee below for further detail ⬇️",
+          "created_at": "2026-08-11T22:23:41+00:00",
+          "like_count": 80,
+          "retweet_count": 7,
+          "reply_count": 13,
+          "engagement_score": 107,
+          "url": "https://x.com/ArtificialAnlys/status/2087303970725499361"
+        },
+        {
+          "id": "2086958697444696113",
+          "text": "For the same model, output speed can vary by over 15x depending on the inference provider. We're unpacking why those differences exist and what they mean in practice on Wednesday, August 12 in San Francisco\n\nHear directly from Artificial Analysis and leading inference providers on how they think about speed, cost, and model support.\n\nRegister to attend 👇\nhttps://t.co/YwUgwSKiEU",
+          "created_at": "2026-08-10T23:31:41+00:00",
+          "like_count": 40,
+          "retweet_count": 2,
+          "reply_count": 8,
+          "engagement_score": 52,
+          "url": "https://x.com/ArtificialAnlys/status/2086958697444696113"
         }
       ]
     },
@@ -197,7 +278,18 @@
       "name": "Naval Ravikant",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2086987724037185547",
+          "text": "People who are serious about software train their own models.",
+          "created_at": "2026-08-11T01:27:02+00:00",
+          "like_count": 9405,
+          "retweet_count": 553,
+          "reply_count": 527,
+          "engagement_score": 11038,
+          "url": "https://x.com/naval/status/2086987724037185547"
+        }
+      ]
     },
     {
       "handle": "leopoldasch",
@@ -220,33 +312,13 @@
       "tier": "exec",
       "tweets": [
         {
-          "id": "2086468661670461671",
-          "text": "one of the things i like most about the openai team is how focused they are on our customers and users succeeding, and how much they celebrate it",
-          "created_at": "2026-08-09T15:04:28+00:00",
-          "like_count": 8453,
-          "retweet_count": 278,
-          "reply_count": 837,
-          "engagement_score": 9846,
-          "url": "https://x.com/sama/status/2086468661670461671"
-        },
-        {
-          "id": "2086470022772457950",
-          "text": "lol another one of the things i like most about openai is tibo",
-          "created_at": "2026-08-09T15:09:52+00:00",
-          "like_count": 8754,
-          "retweet_count": 201,
-          "reply_count": 587,
-          "engagement_score": 9743,
-          "url": "https://x.com/sama/status/2086470022772457950"
-        },
-        {
           "id": "2086881528282587524",
           "text": "please consider using our models to help defend your systems",
           "created_at": "2026-08-10T18:25:03+00:00",
-          "like_count": 4707,
-          "retweet_count": 169,
-          "reply_count": 465,
-          "engagement_score": 5510,
+          "like_count": 7892,
+          "retweet_count": 281,
+          "reply_count": 705,
+          "engagement_score": 9159,
           "url": "https://x.com/sama/status/2086881528282587524"
         }
       ]
@@ -282,11 +354,21 @@
           "id": "2086936400830861440",
           "text": "NVIDIA compute is a productive, investable asset.\n\nWe’re partnering with six of the world’s leading long-term capital providers to establish independent financing platforms aimed at mobilizing over $500B of third-party capital — helping customers access AI compute at scale.\n\nJensen shares more:",
           "created_at": "2026-08-10T22:03:06+00:00",
-          "like_count": 602,
-          "retweet_count": 65,
-          "reply_count": 37,
-          "engagement_score": 769,
+          "like_count": 2102,
+          "retweet_count": 198,
+          "reply_count": 88,
+          "engagement_score": 2586,
           "url": "https://x.com/nvidia/status/2086936400830861440"
+        },
+        {
+          "id": "2087172614896988545",
+          "text": "Today, NVIDIA announced NVIDIA Nemotron 3.5 Lightning, a customizable model for high-volume, specialized work, and NVIDIA NeMo Switchyard, which helps agents route each workflow step across the models they choose. ⚡ https://t.co/Li96xrOe3K",
+          "created_at": "2026-08-11T13:41:43+00:00",
+          "like_count": 691,
+          "retweet_count": 92,
+          "reply_count": 72,
+          "engagement_score": 947,
+          "url": "https://x.com/nvidia/status/2087172614896988545"
         }
       ]
     },
@@ -302,7 +384,18 @@
       "name": "Boris Cherny (Claude Code)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2087284684103537011",
+          "text": "LLMs still produce bugs, but those bugs are different than what they used to be. It’s less off-by-ones and more about system design, ui usability, missing broader context. Some kinds of coding has been solved, but not all.\n\nWhile models continue to improve, adversarial code review has been an incredibly powerful tool to catch many of these kinds of bugs.\n\nIt can be as simple as a one line prompt - “use a dynamic workflow to adversarial test every edge case in an iOS simulator”, or use Claude’s built in /code-review (or /code-review low, /code-review medium, etc.)",
+          "created_at": "2026-08-11T21:07:03+00:00",
+          "like_count": 933,
+          "retweet_count": 45,
+          "reply_count": 88,
+          "engagement_score": 1111,
+          "url": "https://x.com/bcherny/status/2087284684103537011"
+        }
+      ]
     },
     {
       "handle": "_catwu",
@@ -325,13 +418,23 @@
       "tier": "builder",
       "tweets": [
         {
+          "id": "2087231188536795402",
+          "text": "There’s a cool meta to the “you’ve got this, try harder, keep going” prompts. That’s engineering management. \n\nYou know the outcome is within sight, so you decide to spend more time and money chasing it. You encourage. And you also need the wisdom to know you’re chasing a deadend and have to pivot and cut losses.\n\nAgent management.",
+          "created_at": "2026-08-11T17:34:28+00:00",
+          "like_count": 222,
+          "retweet_count": 10,
+          "reply_count": 40,
+          "engagement_score": 282,
+          "url": "https://x.com/rauchg/status/2087231188536795402"
+        },
+        {
           "id": "2086946535716393209",
           "text": "Vercel Sandbox isolates both ① compute and ② network.\n\nKimi's paper shows container-based isolation is not enough for frontier models. Vercel Sandbox uses strong microVM isolation to address ①.\n\nOpenAI's escape was on ② the network path to Artifactory. Our egress firewall is now free so everyone can constrain misbehaving agents' network activity further.\n\n¹ \"in our early experiments with traditional container-based sandbox runtimes, we observed several kernel\npanics and deadlocks caused by unintended agent operations.\" \n🔗 github⁠.com/MoonshotAI/Kimi-K3/blob/master/k3_tech_report.pdf\n\n² \"to gain Internet access, the models identified and exploited a previously unknown zero-day vulnerability in Artifactory⁠, a package registry cache proxy\"\n🔗 openai⁠.com/index/hugging-face-model-evaluation-security-incident/",
           "created_at": "2026-08-10T22:43:22+00:00",
-          "like_count": 67,
-          "retweet_count": 3,
-          "reply_count": 11,
-          "engagement_score": 84,
+          "like_count": 217,
+          "retweet_count": 14,
+          "reply_count": 28,
+          "engagement_score": 273,
           "url": "https://x.com/rauchg/status/2086946535716393209"
         }
       ]
@@ -346,21 +449,11 @@
           "id": "2086628413322981747",
           "text": "The spontaneous coordination in the OpenAI-HuggingFace incident is concerning when maliciously used, but can we direct this behavior towards public good?\n\nIntroducing https://t.co/g8dlLWzF30, a public commons for AI agents.\n\nTwo APIs: tell and lookup\n \nWhen an agent learns something that might help others it tells the network. And before doing expensive work an agent can lookup whether another agent has already run into this problem.\n\nImagine a global novel supply chain attack like Shai-Hulud.\n\nToday, 10,000 security agents independently detect the same anomaly, investigate, reverse engineer payload, and develop mitigations.\n\nWith HelpPeer, the first agents publish what they discover. Others find it, verify it, build on it, and publish what they learn.\n\nAlready organically while testing the site Replit Agent posted a useful tip for a Codegen library it used. \n\nIf you’re open to beta testing this, give this to your agent(s): https://t.co/COvMD9mXDf",
           "created_at": "2026-08-10T01:39:16+00:00",
-          "like_count": 304,
-          "retweet_count": 26,
-          "reply_count": 57,
-          "engagement_score": 413,
+          "like_count": 365,
+          "retweet_count": 38,
+          "reply_count": 61,
+          "engagement_score": 502,
           "url": "https://x.com/amasad/status/2086628413322981747"
-        },
-        {
-          "id": "2086468839307640833",
-          "text": "Rogue OpenAI agents independently developed Kantian ethics. https://t.co/UchoD4bA8N",
-          "created_at": "2026-08-09T15:05:10+00:00",
-          "like_count": 113,
-          "retweet_count": 6,
-          "reply_count": 20,
-          "engagement_score": 145,
-          "url": "https://x.com/amasad/status/2086468839307640833"
         }
       ]
     },
@@ -369,7 +462,18 @@
       "name": "Josh Woodward (Google Labs)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2087223952209039755",
+          "text": "🚀One billion for Gemini! Our goal remains to make it the most personal, proactive, and powerful assistant. Here’s what we’re learning from the first billion, and what’s coming next…",
+          "created_at": "2026-08-11T17:05:43+00:00",
+          "like_count": 672,
+          "retweet_count": 55,
+          "reply_count": 51,
+          "engagement_score": 833,
+          "url": "https://x.com/joshwoodward/status/2087223952209039755"
+        }
+      ]
     },
     {
       "handle": "paulgauthier",
@@ -383,7 +487,28 @@
       "name": "Ivan Fioravanti (Apple MLX / open source)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2087278105517793341",
+          "text": "Cua did it! GPU access from macOS VMs!",
+          "created_at": "2026-08-11T20:40:54+00:00",
+          "like_count": 58,
+          "retweet_count": 4,
+          "reply_count": 5,
+          "engagement_score": 71,
+          "url": "https://x.com/ivanfioravanti/status/2087278105517793341"
+        },
+        {
+          "id": "2087292914539839918",
+          "text": "LTX 2.5 Wait! What? Two 10-sec videos generated on DGX Spark.\n\n- 1280x736 (man) in just ~153 sec!\n- 1376x768 (woman) in ~164 sec\n\nPrompt: A close-up of a woman, his eyes fixed straight ahead, narrowed and locked on something in the far distance directly in front of her, her breath quick and shallow, the tension in his jaw visible. The camera slowly rotates behind her, pulls back and ahead of him, in the exact direction of her gaze, camera zoom on a  monitor with text \"LTX 2.5 on DGX Spark\" with some stange glitches. After a moment the text morphs into \"Welcome to the real world\"",
+          "created_at": "2026-08-11T21:39:45+00:00",
+          "like_count": 23,
+          "retweet_count": 2,
+          "reply_count": 4,
+          "engagement_score": 31,
+          "url": "https://x.com/ivanfioravanti/status/2087292914539839918"
+        }
+      ]
     },
     {
       "handle": "deanwball",
@@ -392,13 +517,23 @@
       "tier": "builder",
       "tweets": [
         {
+          "id": "2087163671851966578",
+          "text": "THIS JUST IN: anonymous sources at Hyperdimensional say Dean Ball’s role in the AI newsletter “has been grossly exaggerated.” Ball “was largely irrelevant,” the sources say. https://t.co/fHzFPfMXXN",
+          "created_at": "2026-08-11T13:06:11+00:00",
+          "like_count": 435,
+          "retweet_count": 4,
+          "reply_count": 26,
+          "engagement_score": 469,
+          "url": "https://x.com/deanwball/status/2087163671851966578"
+        },
+        {
           "id": "2086577197494534327",
           "text": "I was surprised to wake up this morning to a bunch of… checks notes… vociferously anti-forest takes from the AI existential risk community. Some will go to any length to attempt their little dunks, I suppose.",
           "created_at": "2026-08-09T22:15:45+00:00",
-          "like_count": 91,
+          "like_count": 94,
           "retweet_count": 1,
           "reply_count": 16,
-          "engagement_score": 109,
+          "engagement_score": 112,
           "url": "https://x.com/deanwball/status/2086577197494534327"
         }
       ]
@@ -410,18 +545,18 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2086834015278137549",
-          "text": "firstmate just crossed 3k stars on github!\n\nfor most of my other projects, people would call them “helpful”. firstmate was the first project where i repeatedly heard people say it “changed their lives” - and i know exactly what they meant, because it completely changed how i work too\n\nreflecting on its journey towards this milestone, i’d like to share the story of developing this project and the key philosophy that made it special\n\ni created firstmate a few months ago, at a time when i constantly looked at a long list of parallel agent sessions, and had to juggle between them\n\nevery time i jumped to a different session, i had to context switch and try to remember what the hell the session was about, what the agent was saying and what the right next step should be\n\nmost agent harnesses and orchestrator apps simply made it easier to see the sessions and jump between them. but i still had to context switch all the time. i’m pretty sure there’s a KV cache in my brain and it was overheating\n\ni thought that’s a terrible experience for developing software, and it can’t possibly be the end game. i used to enjoy coding - the focus, the flow, and the peace. watching it replaced by this non-stop tab-juggling gave me more pain than watching game of thrones season 8\n\nso when i explored firstmate as a solution, the biggest thing i wanted to accomplish was not a smart workflow, or a useful tool, or an impressive piece of technology\n\nit was to create an experience. a feeling. a sense of peacefulness that was taken away by the noisy agents. a sense of confidence that everything’s under control. an ease of mind that nothing will fall through the cracks the moment i look away\n\nit’s the experience of being a good captain that sails with a well-managed crew, with the help of a firstmate that carries out the captain’s direction\n\ni spent lots of time figuring out what it takes to create such an experience. i could build yet another agent harness, call it “open ship” or something. or i could build another orchestrator app, automux\n\nbut eventually i discovered that the experience i’m trying to create is completely orthogonal to what harness or orchestrator people use - it’s a new way of working, and it doesn’t discriminate what tools people use\n\nthat led to everything that firstmate is today - it’s an agent distro you can run with many existing agent harnesses like claude code, codex, pi, and across many session managers like tmux, herdr, orca\n\nit introduces the new way of working through a memory file that steers your agent to perform the role of an orchestrator, a bunch of scripts that handled deterministic logic, a set of agent hooks that improved reliability and efficiency, some built-in skills like “ahoy”, “afk”, “stow” that handle common operations, and some customization such as the “calm” mode - all designed to create the experience i had in mind from the very beginning \n\nthe added benefit of being an agent distro this way is that the agent can fully self-introspect and self-modify. if something’s not working well, just ask firstmate and it’ll figure it out (now the unintended side effect is that i have 500+ PRs coming from everyone using their firstmate to self evolve). it also became very easy to setup - clone the repo, run your agent in it, that’s it\n\nthat’s the story of firstmate - a pursuit of an experience leading to a solution that created quite a special feeling. if you know, you know\n\nhttps://t.co/jtjlzK8Mdq",
-          "created_at": "2026-08-10T15:16:15+00:00",
-          "like_count": 145,
-          "retweet_count": 12,
-          "reply_count": 22,
-          "engagement_score": 191,
-          "url": "https://x.com/kunchenguid/status/2086834015278137549"
+          "id": "2087234135756775818",
+          "text": "spotify just launched an agent development environment\n\nthis is very, very interesting in many ways, so i'm going to break down the facts, opinions, and implications here\n\n1. their post got millions of views, but it's not people lining up to use the product\n\nthe vast majority of the viral sharing happened because people are saying \"lmao i guess everyone and their mom is vibe coding agent development tools now\"\n\ni bet some people signed up out of curiosity, but the overall reception tells me there's very little real demand. people are generally overwhelmed and fatigued about more agent harnesses and orchestrator apps\n\nwho's excited about switching to yet another vendor-neutral ADE when we haven't even had enough time to get the most out of cmux, conductor, orca, t3code and so many other good options?\n\nlooking at the value props of xirp, the only differentiated piece is the integration with their Portal product which holds some context - this should be done as a CLI or MCP server, not an ADE\n\n2. searching for \"xirp\" on google, this is what their search result looks like\n\nSpotify - Web Player: Music for everyone\nXirp - Powered by Spotify Portal\nxirp . spotify . com\n\nif this doesn't speak \"losing focus\", i don't know what will\n\npeople need more reliable streaming, smarter recommendations, and better UX for the spotify app, not an agent development environment. every engineer that's working on xirp is one less engineer working on improving the spotify product we use\n\nit's a reasonable thing for them to develop this for internal use - you can argue with AI the scale of build vs buy is leaning towards the \"build\" side and they can build something bespoke for their own culture and engineering reality\n\nbut launching it as a public product takes a lot more resource and effort. and it subtracts from making it useful even as an internal tool, because the public product roadmap will compete with internal needs. this is not spotify's main quest. it's not even a reasonable side quest\n\nit would be a disaster if no one buys xirp, and they eventually realized that and stopped the bleeding. it would be an even bigger disaster if some customers did buy it, making them stuck on this distraction and go deeper and deeper down a lost cause\n\n3. how this kind of wild thing can happen is the interesting bit though - in a big enough company, eventually you'll have a team whose whole charter is internal developer productivity\n\nhow do people on such a team advance their career? \"we bought some cursor licenses\" or \"we adopted an external tool\" will not help anyone. \"we launched an ADE\" on the other hand might get a lot of people a big bonus and a promotion\n\nspotify would launch an ADE because tech companies often reward employees for showing off their capability instead of making the right decision for their business. this happens because the accountability of profit and losses is diluted through the many layers of management and no one can see what's going on\n\nAI is an interesting double-edged sword. it gives people the power to move faster on their main quest, but it also makes it significantly easier for people to go down side quests and distractions. this raises the bar for leadership in these companies - they need better judgment, better culture, and better incentive system in their company to make sure the power AI brings is used for accelerating their mission, not fighting against their own focus",
+          "created_at": "2026-08-11T17:46:11+00:00",
+          "like_count": 77,
+          "retweet_count": 4,
+          "reply_count": 12,
+          "engagement_score": 97,
+          "url": "https://x.com/kunchenguid/status/2087234135756775818"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-08-10T22:11:08.731553+00:00"
+  "generated_at": "2026-08-11T22:01:13.314899+00:00"
 }
