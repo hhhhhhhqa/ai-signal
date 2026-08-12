@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-11T23:10:39.133501+00:00",
+  "generated_at": "2026-08-12T22:59:24.999710+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://lexfridman.com/?p=6494",
+      "link": "https://lexfridman.com/khabib-nurmagomedov/?utm_source=rss&utm_medium=rss&utm_campaign=khabib-nurmagomedov",
+      "channel": "Lex Fridman",
+      "title": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
+      "pub_date": "2026-08-12T13:11:45+00:00",
+      "transcript_path": "feeds/transcripts/4dd49418f027831fd02bb01a.txt",
+      "transcript_chars": 177054,
+      "transcript_source": "description_transcript_link",
+      "cached_at": "2026-08-12T22:59:24.999710+00:00",
+      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
+      "expires_at": "2026-08-26T22:59:24.999710+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+      "link": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
+      "channel": "Latent Space",
+      "title": "[AINews] How to steal a Reasoning Trace",
+      "pub_date": "2026-08-12T07:11:08+00:00",
+      "transcript_path": "feeds/transcripts/95535ce824ed2c9cb88c1c56.txt",
+      "transcript_chars": 27393,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-12T22:59:24.999710+00:00",
+      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
+      "expires_at": "2026-08-26T22:59:24.999710+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/ryan-greenblatt",
       "link": "https://www.dwarkesh.com/p/ryan-greenblatt",
@@ -12,8 +38,8 @@
       "transcript_chars": 144899,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-11T23:10:39.133501+00:00",
-      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
-      "expires_at": "2026-08-25T23:10:39.133501+00:00"
+      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
+      "expires_at": "2026-08-26T22:59:24.999710+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
@@ -25,8 +51,8 @@
       "transcript_chars": 26795,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-11T23:10:39.133501+00:00",
-      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
-      "expires_at": "2026-08-25T23:10:39.133501+00:00"
+      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
+      "expires_at": "2026-08-26T22:59:24.999710+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
@@ -38,8 +64,8 @@
       "transcript_chars": 16993,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-11T23:10:39.133501+00:00",
-      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
-      "expires_at": "2026-08-25T23:10:39.133501+00:00"
+      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
+      "expires_at": "2026-08-26T22:59:24.999710+00:00"
     },
     {
       "guid": "yt:LWlt43M3tRM",
@@ -51,8 +77,8 @@
       "transcript_chars": 16034,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-11T23:10:39.133501+00:00",
-      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
-      "expires_at": "2026-08-25T23:10:39.133501+00:00"
+      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
+      "expires_at": "2026-08-26T22:59:24.999710+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
@@ -64,8 +90,8 @@
       "transcript_chars": 10401,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-11T00:36:06.915616+00:00",
-      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
-      "expires_at": "2026-08-25T23:10:39.133501+00:00"
+      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
+      "expires_at": "2026-08-26T22:59:24.999710+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
@@ -77,8 +103,8 @@
       "transcript_chars": 5273,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-11T00:36:06.915616+00:00",
-      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
-      "expires_at": "2026-08-25T23:10:39.133501+00:00"
+      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
+      "expires_at": "2026-08-26T22:59:24.999710+00:00"
     },
     {
       "guid": "4d59eed8-de80-4c59-8417-cfffb5f75779",
@@ -90,8 +116,8 @@
       "transcript_chars": 52127,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-09T22:47:41.730871+00:00",
-      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
-      "expires_at": "2026-08-25T23:10:39.133501+00:00"
+      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
+      "expires_at": "2026-08-26T22:59:24.999710+00:00"
     },
     {
       "guid": "77823dc9-e8e5-4d2b-831f-c61dbd956f97",
@@ -103,8 +129,8 @@
       "transcript_chars": 41270,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-09T22:47:41.730871+00:00",
-      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
-      "expires_at": "2026-08-25T23:10:39.133501+00:00"
+      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
+      "expires_at": "2026-08-26T22:59:24.999710+00:00"
     },
     {
       "guid": "38fb4a6b-3eab-4c3e-b93c-7176ef17c668",
@@ -246,8 +272,8 @@
       "transcript_chars": 66219,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-06T22:35:04.649479+00:00",
-      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
-      "expires_at": "2026-08-25T23:10:39.133501+00:00"
+      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
+      "expires_at": "2026-08-26T22:59:24.999710+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
@@ -718,19 +744,6 @@
       "expires_at": "2026-08-14T23:30:07.644221+00:00"
     },
     {
-      "guid": "97c097a4-9499-4b70-8cb0-bea7c8a40836",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--019---Inside-the-STEEL-Lab-From-Package-to-Transistor-Teardown-Lab--Afzal-Ahmad--Andrew-Wagner--Jordan-Nanos-e3m5ont",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 019 - Inside the STEEL Lab: From Package to Transistor (Teardown Lab) | Afzal Ahmad, Andrew Wagner, Jordan Nanos",
-      "pub_date": "2026-07-16T21:00:00+00:00",
-      "transcript_path": "feeds/transcripts/7b8cd58f060fc294706d3fe3.txt",
-      "transcript_chars": 36574,
-      "transcript_source": "companion_youtube",
-      "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
-    },
-    {
       "guid": "df73b893-d213-4168-a6fb-8c845e831df9",
       "link": "https://a16z.simplecast.com/episodes/fei-fei-li-on-spatial-intelligence-and-robotics-j8HvsWJf",
       "channel": "a16z",
@@ -833,45 +846,6 @@
       "cached_at": "2026-07-28T23:00:07.598635+00:00",
       "last_seen_at": "2026-08-03T00:38:56.440058+00:00",
       "expires_at": "2026-08-17T00:38:56.440058+00:00"
-    },
-    {
-      "guid": "yt:fr1IQspixmM",
-      "link": "https://www.youtube.com/watch?v=fr1IQspixmM",
-      "channel": "Axios",
-      "title": "Jensen Huang says the AI doomers have it wrong",
-      "pub_date": "2026-07-23T09:00:10+00:00",
-      "transcript_path": "feeds/transcripts/14348383ff56d91f052e733f.txt",
-      "transcript_chars": 62858,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-07-28T23:00:07.598635+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
-      "pub_date": "2026-07-27T15:03:21+00:00",
-      "transcript_path": "feeds/transcripts/669034f5df8d2b1b9b08c02f.txt",
-      "transcript_chars": 12532,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-28T02:08:47.383906+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
-      "link": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
-      "channel": "Lenny's Podcast",
-      "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
-      "pub_date": "2026-07-27T12:04:34+00:00",
-      "transcript_path": "feeds/transcripts/76aa23f99ee1803e38031dbd.txt",
-      "transcript_chars": 5005,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-28T02:08:47.383906+00:00",
-      "last_seen_at": "2026-07-29T22:47:50.822067+00:00",
-      "expires_at": "2026-08-12T22:47:50.822067+00:00"
     }
   ]
 }
