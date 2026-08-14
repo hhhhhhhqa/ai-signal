@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-14T00:47:14.292855+00:00",
+  "generated_at": "2026-08-14T22:35:30.406014+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
+      "link": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
+      "channel": "Latent Space",
+      "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
+      "pub_date": "2026-08-13T01:53:47+00:00",
+      "transcript_path": "feeds/transcripts/0ca714a85119256f832dd9da.txt",
+      "transcript_chars": 19246,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-14T22:35:30.406014+00:00",
+      "last_seen_at": "2026-08-14T22:35:30.406014+00:00",
+      "expires_at": "2026-08-28T22:35:30.406014+00:00"
+    },
     {
       "guid": "https://lexfridman.com/?p=6494",
       "link": "https://lexfridman.com/khabib-nurmagomedov/?utm_source=rss&utm_medium=rss&utm_campaign=khabib-nurmagomedov",
@@ -12,8 +25,8 @@
       "transcript_chars": 177054,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-08-12T22:59:24.999710+00:00",
-      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
-      "expires_at": "2026-08-26T22:59:24.999710+00:00"
+      "last_seen_at": "2026-08-14T22:35:30.406014+00:00",
+      "expires_at": "2026-08-28T22:35:30.406014+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
@@ -22,11 +35,11 @@
       "title": "[AINews] How to steal a Reasoning Trace",
       "pub_date": "2026-08-12T07:11:08+00:00",
       "transcript_path": "feeds/transcripts/95535ce824ed2c9cb88c1c56.txt",
-      "transcript_chars": 27393,
+      "transcript_chars": 27398,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-12T22:59:24.999710+00:00",
-      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
-      "expires_at": "2026-08-26T22:59:24.999710+00:00"
+      "last_seen_at": "2026-08-14T22:35:30.406014+00:00",
+      "expires_at": "2026-08-28T22:35:30.406014+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/ryan-greenblatt",
@@ -116,8 +129,8 @@
       "transcript_chars": 52127,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-09T22:47:41.730871+00:00",
-      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
-      "expires_at": "2026-08-26T22:59:24.999710+00:00"
+      "last_seen_at": "2026-08-14T22:35:30.406014+00:00",
+      "expires_at": "2026-08-28T22:35:30.406014+00:00"
     },
     {
       "guid": "77823dc9-e8e5-4d2b-831f-c61dbd956f97",
@@ -126,11 +139,11 @@
       "title": "Ep. 023 - Everyone Leaves Google, Elon Forecasts 1T ARR, Reflecting On GPT-5, Building Personalized Software (Roundtable) | Jon Y, Doug O'Laughlin, Jordan Nanos",
       "pub_date": "2026-08-07T22:00:00+00:00",
       "transcript_path": "feeds/transcripts/85414b790fb5605cdb52c494.txt",
-      "transcript_chars": 41270,
+      "transcript_chars": 42374,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-09T22:47:41.730871+00:00",
-      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
-      "expires_at": "2026-08-26T22:59:24.999710+00:00"
+      "last_seen_at": "2026-08-14T22:35:30.406014+00:00",
+      "expires_at": "2026-08-28T22:35:30.406014+00:00"
     },
     {
       "guid": "38fb4a6b-3eab-4c3e-b93c-7176ef17c668",

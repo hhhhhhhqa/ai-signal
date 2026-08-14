@@ -5,8 +5,8 @@ AINews: Weekday Roundups
 Speculative Decoding by any other name would distil as sweet
 Aug 12, 2026
 ∙ Paid
-85
-1
+93
+2
 It’s not very often that a paper breaks through to become headline story of the day. For understandable reasons both domestic and foreign , there is renewed interest in the Interpretability Venn Diagram of alignment, security, and chain of thought monitoring, so today’s paper could not have come at a better time:
 Alexander Panfilov @kotekjedi_ml
 We can finally talk about it:
@@ -107,7 +107,7 @@ to Latent.Space to keep reading this post and get 7 days of free access to the f
 Start trial
 Already a paid
 r? Sign in
-Previous
+Previous Next
 © 2026 Latent.Space · Privacy ∙ Terms ∙ Collection notice
 Start your Substack Get the app
 Substack is the home for great culture
