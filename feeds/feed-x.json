@@ -14,14 +14,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2087045848022843451",
-          "text": "gpt luna max vs claude fable ultracode \n\nsent \"pls build a mostly faithful clone of grok imagine with open models via fal\"\n\ni woke up to these two and assumed fable was left and luna was right\n\ni was wrong... it was the other way!!\n\nobjectively, fable did the better visual clone. but luna somehow understood intent better and created the more USABLE clone given my open model bent.",
-          "created_at": "2026-08-11T05:18:00+00:00",
-          "like_count": 173,
-          "retweet_count": 4,
-          "reply_count": 54,
-          "engagement_score": 235,
-          "url": "https://x.com/swyx/status/2087045848022843451"
+          "id": "2087805426750632290",
+          "text": "The @latentspacepod team and I will be speaking at Mongodb's .local buildfest today 10a-4pmish, come by!\n\nhttps://t.co/2ECvrv0x4N \n\nWe'll be covering:\n- tba Agent infra with @BazeleyMikiko!\n- the state of embeddings/reranking with @frankzliu @VoyageAI head of Applied ML\n- wearable AI with @a_israelov, CTO of Mentra!\n- their state of managed MCP with Gaurab Aryal \n- Jim Scharf, CTO MongoDB\n- AIE top speaker Apoorva Joshi\n\nclick on only if you are gonna come... take one of my tix MDBLCL26INSIDER!",
+          "created_at": "2026-08-13T07:36:17+00:00",
+          "like_count": 18,
+          "retweet_count": 3,
+          "reply_count": 14,
+          "engagement_score": 38,
+          "url": "https://x.com/swyx/status/2087805426750632290"
         }
       ]
     },
@@ -44,18 +44,7 @@
       "name": "Simon Willison",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2086972895256007160",
-          "text": "I few notes on Meta's new Muse Glimmer 30B - their first Apache 2.0 licensed open weight model (the Llama models had a janky non-OSI license) https://t.co/dTWUxch85k",
-          "created_at": "2026-08-11T00:28:06+00:00",
-          "like_count": 424,
-          "retweet_count": 18,
-          "reply_count": 47,
-          "engagement_score": 507,
-          "url": "https://x.com/simonw/status/2086972895256007160"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "levie",
@@ -64,24 +53,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2087009941806797206",
-          "text": "If you told someone 3 months ago that a model released by a US company with frontier-class capability would be available as open weights they wouldn’t believe it. \n\nThis is very important because it opens up AI adoption in a range of scenarios that weren’t viable before. Models can be deployed on prem or in the cloud on private infra, which means use-cases in highly regulated domains can be opened up.\n\nYou can also now post-train a frontier class model on specific vertical use-cases that need extra levels of performance for their tasks, like in legal, healthcare, and other spaces. You also ensure sovereignty in case any models ever get pulled from the marketplace, which gives users more confidence in deploying in certain mission critical areas.\n\nAll of this is great news for the applied AI layer, because this is where you can route work to different model families based on the task at hand. Great time to building at the harness layer given the options available now.\n\nAnd closed frontier models will still be heavily used both due to simplicity and because you tend to need a mix of capability level for any hard problem, but having open weights in the mix helps defray costs and provides more flexibility. Great news all around.",
-          "created_at": "2026-08-11T02:55:19+00:00",
-          "like_count": 580,
-          "retweet_count": 51,
-          "reply_count": 46,
-          "engagement_score": 728,
-          "url": "https://x.com/levie/status/2087009941806797206"
-        },
-        {
           "id": "2087385493684335064",
           "text": "Good post on how to think about FDEs. The key is that FDEs are real and not going away for AI any time soon.\n\nThe reason this is happening now at a scale that has never been seen before is because AI is fundamentally about adding a non-deterministic, rapidly changing system to workflows that largely have never been automated before. This looks very little like implementing traditional software.\n\n“If you're building an AI agent for accounting in 2026, there is no established workflow, because literally nobody has ever used one of these. Nobody knows what the user journey looks like — not you, and importantly, not your customer either. They can't tell you what they want, because the thing they'd want doesn't have a shape yet.”\n\nSoftware has largely always been deterministic and once implemented effectively worked the same for customers. This meant the upfront implementation work was *relatively* uniform across similar customers, and the system wasn’t regularly being upgraded in fundamental ways. \n\nAI agents are entirely different on nearly every dimension. The customer’s business process has to change to work with agents, there is heavy -necessary- customization to get agents to work in the customers end-state process, evals need to be run constantly, the AI models are constantly changing and updates need to keep getting incorporated, the underlying harness and broader system are often changing due to customer feedback, and much more. \n\nThis is real work for the customer, systems integrators, and the applied AI vendors. Even as AI capabilities improve dramatically, this work remains (or even gets more complicated) given enterprises will just throw increasingly more complex processes at agents. Great time to be an FDE.",
           "created_at": "2026-08-12T03:47:38+00:00",
-          "like_count": 468,
-          "retweet_count": 52,
-          "reply_count": 45,
-          "engagement_score": 617,
+          "like_count": 550,
+          "retweet_count": 60,
+          "reply_count": 54,
+          "engagement_score": 724,
           "url": "https://x.com/levie/status/2087385493684335064"
+        },
+        {
+          "id": "2087719356763672917",
+          "text": "Awesome day in terms of new model releases from both Deepseek and Grok. Both of these new model updates represent huge jumps in capability at insanely low costs. \n\nThis is truly Jevons paradox for AI playing out. By bringing down the cost of AI, demand will continue to accelerate. When I talk to enterprises, they have vastly more use-cases for what they’d like agents to handle than generally what they’re able to budget for today. \n\nThey want agents to scan their codebases for security issues. They want agents to review all their documents. They want agents to process information in a large portion of their workflows. And so on. When we bring down the cost of AI or drive up capability levels, it opens up all new use cases in the enterprises, which drives even greater demand.\n\nThis is also great for the applied AI layer. The more choice of models - especially those tuned for different types (or costs) of work - the more value there is in being at the layer that can route and optimize based on the task. Great for the entire stack right now.",
+          "created_at": "2026-08-13T01:54:17+00:00",
+          "like_count": 379,
+          "retweet_count": 36,
+          "reply_count": 45,
+          "engagement_score": 496,
+          "url": "https://x.com/levie/status/2087719356763672917"
         }
       ]
     },
@@ -99,14 +88,54 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2087601300833697987",
-          "text": "Outside of just a simple better chip/specs, what’s missing with the Pixel 11 series that makes it disappointing?\n\nTell me them and I will personally go give a list to the Pixel team today of the valid ones. I’m 100% serious.",
-          "created_at": "2026-08-12T18:05:10+00:00",
-          "like_count": 141,
+          "id": "2087950040195047543",
+          "text": "Gemini 3.7 Flash https://t.co/TWdYm997Ae",
+          "created_at": "2026-08-13T17:10:56+00:00",
+          "like_count": 127,
           "retweet_count": 2,
-          "reply_count": 51,
-          "engagement_score": 196,
-          "url": "https://x.com/mweinbach/status/2087601300833697987"
+          "reply_count": 7,
+          "engagement_score": 138,
+          "url": "https://x.com/mweinbach/status/2087950040195047543"
+        },
+        {
+          "id": "2087924270789730670",
+          "text": "Not totally shocked but I’d imagine it’s TSMC N3P which is a great node, and the Mediatek modem should help network performance and efficiency \n\nPlus looks like more Google IP in the chip this year too",
+          "created_at": "2026-08-13T15:28:32+00:00",
+          "like_count": 101,
+          "retweet_count": 4,
+          "reply_count": 5,
+          "engagement_score": 114,
+          "url": "https://x.com/mweinbach/status/2087924270789730670"
+        },
+        {
+          "id": "2087997322969985511",
+          "text": "Grok Bot delegating to Cursor Cloud agents is pretty great \n\nI’ve been trying this earlier, become a big fan. It’s also been good for handling emails and other work adjacent stuff. I’m happy with it. https://t.co/Yg61lofuSv",
+          "created_at": "2026-08-13T20:18:49+00:00",
+          "like_count": 49,
+          "retweet_count": 2,
+          "reply_count": 5,
+          "engagement_score": 58,
+          "url": "https://x.com/mweinbach/status/2087997322969985511"
+        },
+        {
+          "id": "2087958176918295018",
+          "text": "I’ve been playing a little bit more with Grok Bot today and it’s pretty great. Getting more workflows setup as I think of them but it’s nice to be able to delegate to cursor cloud really easily",
+          "created_at": "2026-08-13T17:43:16+00:00",
+          "like_count": 41,
+          "retweet_count": 1,
+          "reply_count": 4,
+          "engagement_score": 47,
+          "url": "https://x.com/mweinbach/status/2087958176918295018"
+        },
+        {
+          "id": "2087993637128802430",
+          "text": "Cursor app on iOS is good https://t.co/0LCgLkOyep",
+          "created_at": "2026-08-13T20:04:10+00:00",
+          "like_count": 43,
+          "retweet_count": 0,
+          "reply_count": 3,
+          "engagement_score": 46,
+          "url": "https://x.com/mweinbach/status/2087993637128802430"
         }
       ]
     },
@@ -117,24 +146,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2087322687857479800",
-          "text": "Qwen 3.8 Max nearly doubled its score on Legal Research Bench in under three months, climbing from #22 to #4. https://t.co/8WxbywPCjU",
-          "created_at": "2026-08-11T23:38:04+00:00",
-          "like_count": 220,
-          "retweet_count": 24,
-          "reply_count": 10,
-          "engagement_score": 278,
-          "url": "https://x.com/ValsAI/status/2087322687857479800"
-        },
-        {
-          "id": "2087632348653531353",
-          "text": "Vals is starting a new area of work: independent evaluations of AI in youth mental health, built with expert clinicians and academic researchers.\n\nWe’re focused on three areas across foundation models: self-harm and crisis response, models acting like therapists or doctors, and unhealthy emotional dependence.\n\nWarning signs build slowly over the course of a conversation, and individually reasonable responses can add up to an unhealthy interaction.",
-          "created_at": "2026-08-12T20:08:32+00:00",
-          "like_count": 11,
-          "retweet_count": 2,
-          "reply_count": 2,
-          "engagement_score": 17,
-          "url": "https://x.com/ValsAI/status/2087632348653531353"
+          "id": "2087917239966290168",
+          "text": "Today we're announcing our $40M Series A at a $400M valuation, led by @a16z , with participation from existing investors @8vc, @pearvc, and @BloombergBeta  and new investors @HRTVentures and @nextladder.\n\nAlongside the fundraise, three more announcements:\n\n- Vals Smith: is now generally available. Anyone can create a custom coding benchmark from any GitHub repo with 120 free credits to get started.\n\n- Frontier Risk Benchmarks: We are releasing the RSI Index in collaboration with @CoreWeave and just launched ReverseEngBench, a new cyber benchmark built with Columbia University, Tufts University, UC Berkeley, and UCLA. We are also sharing our initial work in mental health, with more to come across environmental impact, military, and biosecurity.\n\n- Website + Vals Index 2.0: We completely rebuilt the Vals website and have released Vals Index 2.0, with coverage of more of the economy.\n\nOur revenue has already grown 8x compared to all of 2025. Our customer base doubled and the team tripled in 6 months. Our results have been cited in model cards from OpenAI, Anthropic, Google, Meta, and xAI.\n\nThe AI economy runs on self-reported grades. When a model ships, the scores come from the company that built it. No other trillion-dollar industry works this way. Finance has ratings agencies. Medicine has the FDA. AI has vibes and vendor benchmarks. We built Vals to be the independent evaluation layer the industry is missing.\n\nCheck out our new website and try Vals Smith!",
+          "created_at": "2026-08-13T15:00:36+00:00",
+          "like_count": 265,
+          "retweet_count": 34,
+          "reply_count": 54,
+          "engagement_score": 387,
+          "url": "https://x.com/ValsAI/status/2087917239966290168"
         }
       ]
     },
@@ -145,54 +164,54 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2086943856289853931",
-          "text": "MAI-Image-2.6 by @MicrosoftAI has landed in the Text-to-Image Arena at #2 (1336 pts)!\n\nThis release is just 45 pts behind GPT Image 2 (Medium) at #1, and ahead of #3 Grok Imagine Image 2.0 (Low) by 20 pts.\n\nMAI-Image-2.6 is a significant improvement from MAI-Image-2.5 overall at #10 with (1256 pts), and across all categories. MAI will also be making it available on Playground with early API access on Foundry next week. See post below for more details.\n\nCongrats to the @MicrosoftAI team on this release!",
-          "created_at": "2026-08-10T22:32:43+00:00",
-          "like_count": 1338,
-          "retweet_count": 102,
-          "reply_count": 47,
-          "engagement_score": 1589,
-          "url": "https://x.com/arena/status/2086943856289853931"
-        },
-        {
           "id": "2087566422390231534",
           "text": "Grok 4.6 is here! This release by @SpaceXAI just landed in the Code Arena: WebDev at #7 with 1618 pts.\n\nGrok 4.6 (High) is a big jump from Grok 4.5, which sits at #13 with 1553 pts. It's now on par with GPT-5.6 Sol xHigh (1622 pts) and Claude Fable 5 (1627 pts). All three currently land in the #5-7 rank range with only 4-9 pts of separation. Expect the picture to sharpen as more votes roll in and CIs tighten.\n\nCongrats to @elonmusk and the @SpaceXAI @grok team on this release!",
           "created_at": "2026-08-12T15:46:34+00:00",
-          "like_count": 1082,
-          "retweet_count": 79,
-          "reply_count": 45,
-          "engagement_score": 1285,
+          "like_count": 1551,
+          "retweet_count": 133,
+          "reply_count": 63,
+          "engagement_score": 1880,
           "url": "https://x.com/arena/status/2087566422390231534"
         },
         {
-          "id": "2087216109107937417",
-          "text": "Last week, @bfl_ai launched their first video model, FLUX 3 Video. They have been testing an update on @arena, and the new version is ranked #2 in the Text-to-Video Arena!\n\nWith 1496 pts, the updated FLUX 3 Video is just 16 pts behind the #1 spot, Gemini Omni Flash (1512 pts).\n\nThis model is coming soon. Congrats to the @bfl_ai team on the release!",
-          "created_at": "2026-08-11T16:34:33+00:00",
-          "like_count": 537,
-          "retweet_count": 60,
-          "reply_count": 33,
-          "engagement_score": 690,
-          "url": "https://x.com/arena/status/2087216109107937417"
+          "id": "2087767198974533648",
+          "text": "Big news: DeepSeek-V4-Pro (Max) by @deepseek_ai is coming in around ~#8 overall (#2 among open models) in the Code Arena: WebDev!\n\nAt 1607 pts, this places it after GPT-5.6 Sol (xHigh)(1622 pts), and makes it the second best open model after Kimi K3 (Max) (1674 pts).\n\nNote: this is an early AutoEval score, in which a Reward Model trained on Arena's human preference data casts automatic votes in place of live votes. We’ll continue to see how scores converge as more live human votes come in.\n\nSee thread for Text Arena scores and more on AutoEval's methodology.\n\nCongrats to the @deepseek_ai team on this release!",
+          "created_at": "2026-08-13T05:04:23+00:00",
+          "like_count": 907,
+          "retweet_count": 73,
+          "reply_count": 48,
+          "engagement_score": 1101,
+          "url": "https://x.com/arena/status/2087767198974533648"
         },
         {
-          "id": "2086979482162966600",
-          "text": "Muse Glimmer by @AIatMeta debuts at #77 in Code Arena: WebDev with 1359 pts, ranking #26 among open models. As Meta's newest entry into this size range, and an open-weight model, Glimmer brings Meta into the top 3 US labs with an open-weights model.\n\nCongrats to @AIatMeta for the solid contribution to the open small model ecosystem!",
-          "created_at": "2026-08-11T00:54:17+00:00",
-          "like_count": 414,
-          "retweet_count": 29,
-          "reply_count": 31,
-          "engagement_score": 503,
-          "url": "https://x.com/arena/status/2086979482162966600"
+          "id": "2087952188735963230",
+          "text": "Gemini 3.7 Flash (High) by @GoogleDeepMind just landed in the Code Arena: WebDev and Text Arena!\n\nThis release is a strong improvement from its previous model Gemini 3.6 Flash (High): #19 -> #8 in the Code Arena: WebDev.\n\nBy category, it ranks in the 10 top in domains for:\n- #7 in Data & Analytics\n- #8 in Simulations, Gaming and Content Creation Tools\n- #9 in Reference-Based Design\n\nCongrats to the @GoogleDeepMind team on this release!",
+          "created_at": "2026-08-13T17:19:28+00:00",
+          "like_count": 778,
+          "retweet_count": 50,
+          "reply_count": 25,
+          "engagement_score": 903,
+          "url": "https://x.com/arena/status/2087952188735963230"
         },
         {
-          "id": "2087614570043215937",
-          "text": "We analyzed tens of thousands of real-world, high-reasoning Claude Opus and Fable outputs from versions 4.5 to 5 in the Text Arena and found that @claudeai's  writing has changed in more ways than one:\n\nAcross language complexity, patterns and markers, we now see:\n\nClaude’s answers have become much longer:\n- Opus 5 averages 510 words per response\n- This makes Opus 5 responses 3x longer than Opus 4.5’s average of 158\n\nResponses have also become more structurally elaborate from Opus 4.5 to Opus 5:\n- 58% rise in average sentence length\n- 46% rise in clause frequency rises\n\nHowever, the vocabulary itself is not becoming more difficult, making Opus 5 longer and more structurally complex, but lexically simpler between 4.5 and 5:\n- 6.8% pt drop in long content words (46.9% to 40.1%)\n- 53% drop in abstract nouns (6.02 → 3.79 per 1k words)\n\nWriting habits people notice are much more common in Opus 5: \n- 2.3x as many em dashes\n- ~2x as many phrases like “load-bearing”\n- 50% more honesty wording like “honestly” and “frankly”\n\nFable 5 is 38% more concise than Opus 5, averaging 316 words vs. 510. At the same time, it is nearly 2x as likely to include praise/validation or open with phrases like “yes, exactly”",
-          "created_at": "2026-08-12T18:57:54+00:00",
-          "like_count": 380,
-          "retweet_count": 32,
-          "reply_count": 32,
-          "engagement_score": 476,
-          "url": "https://x.com/arena/status/2087614570043215937"
+          "id": "2087784211642192332",
+          "text": "DeepSeek-V4-Pro (Max) by @deepseek_ai is expected to shift the Pareto curve for Code Arena: WebDev with this upcoming open weights model. \n\nIt currently sits at ~#8 overall (AutoEval) at 1607 pts. Priced at $0.435 input/ $0.87 output per MTokens, it outperforms models beyond its price tier, including Opus-4.8 ($5/$25) and GLM-5.2 ($1.4/$4.4).\n\nCongrats again to the @deepseek_ai team for their contribution to the open ecosystem!",
+          "created_at": "2026-08-13T06:11:59+00:00",
+          "like_count": 595,
+          "retweet_count": 38,
+          "reply_count": 26,
+          "engagement_score": 697,
+          "url": "https://x.com/arena/status/2087784211642192332"
+        },
+        {
+          "id": "2087954451592331595",
+          "text": "Gemini 3.7 Flash (High) has reshaped the Pareto frontier in the Code Arena: WebDev and Text Arena!\n\nWith a score of 1588 pts in the Code Arena: WebDev, it's priced at $0.75/ $3.75 per MToken. See Text Arena in the post below.\n\nCongrats to the @GoogleDeepMind team! https://t.co/OFDXg7KRoZ",
+          "created_at": "2026-08-13T17:28:28+00:00",
+          "like_count": 385,
+          "retweet_count": 27,
+          "reply_count": 25,
+          "engagement_score": 464,
+          "url": "https://x.com/arena/status/2087954451592331595"
         }
       ]
     },
@@ -203,44 +222,44 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2087564648325530099",
-          "text": "SpaceXAI's Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, joining the frontier in line with GPT-5.6 Sol, with standout agentic performance at lower cost\n\nGrok 4.6 gains 5 points over Grok 4.5 on the Intelligence Index just over one month after its release, or +23 points compared to Grok 4.3. This brings SpaceXAI back to the intelligence frontier alongside OpenAI, behind only Anthropic.\n\nKey takeaways:\n➤ Grok 4.6 joins the frontier of the Artificial Analysis Intelligence Index: It scores 61, in line with GPT-5.6 Sol (max), behind Claude Opus 5 (max, 63) and Claude Fable 5 (max with fallback, 62), and just ahead of Kimi K3\n\n➤ Strong agentic performance: Grok 4.6 achieves a GDPval-AA v2 Elo of 1753, behind only Claude Opus 5 and with overlapping confidence intervals with Claude Fable 5 and Qwen3.8 Max. It scores 50.7% on 𝜏³-Banking, among the top two scores alongside Qwen3.8 Max (51.3%), and 88.4% on Terminal-Bench v2.1, in line with the leading models\n\n➤ Frontier-level intelligence at lower cost: Headline pricing is unchanged from Grok 4.5 at $2/$6 per 1M input/output tokens, 60%+ below Claude Opus 5 ($5/$25) and GPT-5.6 Sol ($5/$30). It cost $0.84 per task, the same as Kimi K3 with slightly higher intelligence, placing it on the Intelligence vs. Cost per Task Pareto frontier\n\n➤ Grok 4.6 sits at Fable 5-tier on AA-Briefcase, our private benchmark of long-horizon agentic knowledge work tasks, with an Elo of 1577 - behind the Claude Opus 5 family. It is notably turn-efficient, completing tasks in ~53 turns and ~0.5B input tokens on average vs. ~103 turns and ~2.0B input tokens for Claude Opus 5 (max)\n\nOther model details:\n➤ Context window of 500k tokens (unchanged from Grok 4.5)\n\n➤ Pricing of $2/$6 per 1M tokens of input/output; cache hits discounted to $0.5 per 1M tokens, an increase over Grok 4.5’s $0.3 per 1M tokens for cache hits\n\nCongratulations to @SpaceXAI and @elonmusk on the release!",
-          "created_at": "2026-08-12T15:39:31+00:00",
-          "like_count": 2576,
-          "retweet_count": 262,
-          "reply_count": 116,
-          "engagement_score": 3216,
-          "url": "https://x.com/ArtificialAnlys/status/2087564648325530099"
-        },
-        {
           "id": "2087598780086632522",
           "text": "Grok 4.6 made large gains on AA-Briefcase, our agentic knowledge work benchmark and cost substantially less than other leading models\n\nAA-Briefcase tests models on long-horizon agentic knowledge work tasks. The test set is private to prevent contamination. \n\nGrok 4.6 is neck and neck with Claude Fable 5, with overlapping confidence intervals. The model is also substantially cheaper than other leading models on the benchmark at a Cost per Task of $4.42 compared to Claude Fable 5's $22.30, Claude Opus 5's $17.79 and Kimi K3's $6.73. \n\nImpressive release @SpaceXAI and @elonmusk.",
           "created_at": "2026-08-12T17:55:09+00:00",
-          "like_count": 410,
-          "retweet_count": 33,
-          "reply_count": 24,
-          "engagement_score": 500,
+          "like_count": 757,
+          "retweet_count": 56,
+          "reply_count": 39,
+          "engagement_score": 908,
           "url": "https://x.com/ArtificialAnlys/status/2087598780086632522"
+        },
+        {
+          "id": "2087930781050322977",
+          "text": "We’re launching Optima. Now anyone can create a custom benchmark for their use case, leveraging Artificial Analysis’ leading research and platform\n\nBuilding and running benchmarks is difficult. We have distilled Artificial Analysis’ research and experience developing benchmarks into Optima, a new platform for benchmarking models on your own workloads and comparing performance, speed and cost efficiency. Optima allows you to find the best model for your task, or an equally performant alternative to your current setup at 10x lower cost or time per task.\n\nWe’ve integrated Artificial Analysis' research and experience in benchmarks across the Optima workflow:\n\n➤ Build benchmarks based on your own data and use cases: There are three ways to build a benchmark with Optima. Upload an existing evaluation dataset from your own files or @huggingface, or import agent traces from platforms including @arizeai, @braintrust and @langfuse. Install the Optima skill to build a benchmark using context from your coding environment and previous sessions. Or simply describe your use case and provide example inputs and outputs, and Optima will build the benchmark for you\n\n➤ Run across the latest models: Run the same benchmark across leading models in a single click, and keep your leaderboard up to date as soon as new models are released\n\n➤ Bring Artificial Analysis grading to your own benchmark: Evaluate responses against objective rubric criteria or using the same pairwise judging approach used for Artificial Analysis benchmarks including GDPval-AA and AA-Briefcase. For pairwise judging, select your preferred responses from a sample and Optima uses those preferences to rank models across your test set\n\n➤ Compare performance, cost and time efficiency: Optima measures more than model performance. Cost per Task and Time per Task are tracked alongside benchmark scores, with category-level results and support for custom metrics, allowing you to compare the tradeoffs between models for your specific use case\n\nAhead of launch, here are examples questions our beta testers answered with Optima:\n\n➤ Which model can save me 10x the cost without a meaningful decrease in quality for my finance & accounting agent?\n\n➤ Which model best matches the writing style of lawyers for my legal agent?\n\n➤ Which model can best identify different elements in my custom image dataset?\n\nOptima is available today. Build your own benchmark at https://t.co/LKMSqnhA0D",
+          "created_at": "2026-08-13T15:54:24+00:00",
+          "like_count": 571,
+          "retweet_count": 49,
+          "reply_count": 20,
+          "engagement_score": 689,
+          "url": "https://x.com/ArtificialAnlys/status/2087930781050322977"
+        },
+        {
+          "id": "2087975627391717461",
+          "text": "Google has released Gemini 3.7 Flash, improving 4 points over Gemini 3.6 Flash and reaching the Intelligence vs. Time per Task Pareto frontier\n\n@GoogleDeepMind has released its third new Gemini Flash model in three months. Gemini 3.7 Flash (high) scores 56 on the Artificial Analysis Intelligence Index, just behind GPT-5.6 Terra (max, 57) and Muse Spark 1.2 (xhigh, 57)\n\nWe benchmarked Gemini 3.7 Flash across all three reasoning levels (high, medium, low) ahead of release. With high reasoning, Gemini 3.7 Flash is a 4 point improvement over 3.6 Flash, while achieving an average Time per Task of 1.7, 40% faster than GPT-5.6 Terra (max). This places Gemini 3.7 Flash on the Intelligence vs. Time per Task Pareto frontier, reinforcing Google’s focus on speed across the Gemini Flash family of models\n\nKey benchmarking results across Gemini 3.7 Flash’s three reasoning levels:\n\n➤ 4 point Intelligence Index improvement: Gemini 3.7 Flash (high) scores 56 on the Artificial Analysis Intelligence Index, up 4 points from Gemini 3.6 Flash. The improvement is driven primarily by gains on agentic evaluations, including Tau3 Banking (+3 points), Terminal-Bench v2.1 (+8 points), and GDPval-AA v2 (+103 Elo). With medium reasoning, Gemini 3.7 Flash scores 53, matching DeepSeek V4 Pro 0813 (max, 53) and GLM-5.2 (max, 53). With low reasoning, it scores 51, just behind DeepSeek V4 Flash 0731 (max, 52)\n\n➤ Pareto frontier on Intelligence vs. Time per Task: Gemini 3.7 Flash produces ~340 output tokens per second, nearly 3x the output speed of GPT-5.6 Terra and GLM-5.2. With high reasoning, this translates to an average Time per Task of 1.7 minutes, placing Gemini 3.7 Flash on the Intelligence vs. Time per Task Pareto frontier\n\n➤ 30% lower Cost per Task than Gemini 3.6 Flash: Gemini 3.7 Flash retains Gemini 3.6 Flash’s standard pricing of $1.50/$7.50 per 1M input/output tokens, however Google is offering discounted pricing through the end of the year at $0.75/$3.75 per 1M tokens. At this discounted price, Gemini 3.7 Flash (high) costs $0.40 per Intelligence Index task, 30% less than Gemini 3.6 Flash and matching Muse Spark 1.2 (xhigh, $0.40). With medium reasoning, Cost per Task falls to $0.26, placing the model on the Intelligence vs. Cost per Task Pareto frontier\n\n➤ Leading performance on AutomationBench-AA and AA-AnalystAgent: On AA-AnalystAgent, our recently released benchmark measuring models’ ability to answer complex questions about spreadsheets and documents, Gemini 3.7 Flash (high) achieves the highest pass^5 score at 60%, ahead of Claude Opus 5 (max, 54%) and Fable 5 (49%). Gemini 3.7 Flash also leads AutomationBench-AA, our benchmark of agentic capabilities in simulated SaaS environments, with a score of 62.7%, ahead of Kimi K3 (max, 53%) and GPT-5.6 Sol (max, 51.2%)\n\nKey model details:\n\n➤ Context Window: 1M tokens, unchanged from Gemini 3.6 Flash\n\n➤ Multimodality: Text, image, video, and speech input, with text output\n\n➤ Pricing: $1.50/$7.50 per 1M input/output tokens at standard pricing. Google is offering discounted pricing of $0.75/$3.75 per 1M tokens through the end of the year. Cached input tokens retain the same 90% discount",
+          "created_at": "2026-08-13T18:52:36+00:00",
+          "like_count": 557,
+          "retweet_count": 47,
+          "reply_count": 24,
+          "engagement_score": 675,
+          "url": "https://x.com/ArtificialAnlys/status/2087975627391717461"
         },
         {
           "id": "2087590023742775472",
           "text": "Korean AI lab Upstage has released Solar Pro 4, scoring 42 on the Artificial Analysis Intelligence Index, a significant increase from Solar Pro 3’s 14\n\nSolar Pro 4 is @upstageai's new proprietary flagship reasoning model, replacing Solar Pro 3 from April 2026. At 42 on the Intelligence Index it sits alongside Inkling (xhigh, 42) and just behind MiMo-V2.5-Pro (43), and shows a 27-point increase over Solar Pro 3. Pricing increases to $0.30/$1.20/$0.06 per 1M input/output/cache hit tokens from Solar Pro 3's $0.15/$0.60/$0.02 via Upstage’s first-party API.\n\nKey results:\n\n➤ Solar Pro 4’s largest improvements on Solar Pro 3 are on agentic and long context work. Terminal-Bench v2.1 improves from 12% to 57%, AA-LCR from 31% to 71%, and τ³-Banking from 9% to 23%. GDPval-AA v2 shows strong progress on real-world agentic tasks, where Solar Pro 3 scored an Elo of 498, well below the human baseline of 1000, Solar Pro 4 scores 1276.\n\n➤ AA-Omniscience improvement from -53 to -1 was driven by abstaining on more questions. Solar Pro 4 attempts only 41% of questions against 92% for Solar Pro 3, and its hallucination rate is 24%, higher than Command A+ (14%) and MiniMax-M3 (18%), and a vast improvement from Solar Pro 3’s 88%. AA-Omniscience Accuracy remains unchanged at 19%.\n\n➤ Solar Pro 4 is more token efficient than Solar Pro 3, though still verbose for its intelligence level. It uses 43k output tokens per Intelligence Index task, around 17% fewer than Solar Pro 3's 52k.\n\n➤ The intelligence gain comes with a hit to latency. Solar Pro 4 takes 9.5 minutes to complete an average Intelligence Index task, against 6.9 minutes for Solar Pro 3, despite using fewer output tokens per task.\n\n➤ Pricing is $0.30/$1.20 per 1M input/output tokens. This is in line with @MiniMax_AI's first-party pricing for MiniMax-M3, which scores 3 points higher at 45, and is more expensive than @deepseek_ai's DeepSeek V4 Flash 0731 (Reasoning, Max Effort) at $0.14/$0.28 and 52 on the Intelligence Index. Cache hits are priced at $0.06 per 1M, an 80% discount on input token price.\n\nAdditional model details:\n\n➤ Context window: 512K tokens\n\n➤ Max output tokens: 128K\n\n➤ Modalities: Text input and output only\n\n➤ Pricing: $0.30 / $1.20 / $0.06 per 1M input/output/cache hit tokens\n\n➤ Inference providers at time of launch: Upstage first-party API, OpenRouter, TimelyRouter",
           "created_at": "2026-08-12T17:20:21+00:00",
-          "like_count": 305,
-          "retweet_count": 28,
-          "reply_count": 10,
-          "engagement_score": 371,
+          "like_count": 495,
+          "retweet_count": 44,
+          "reply_count": 15,
+          "engagement_score": 598,
           "url": "https://x.com/ArtificialAnlys/status/2087590023742775472"
-        },
-        {
-          "id": "2087371367884956099",
-          "text": "Ant Group has released Ling 3.0 Tiny, which scores 25 on the Artificial Analysis Intelligence Index. With just 7.9B total and 1.3B active parameters, it sits on the Pareto frontier for Intelligence vs. Active Parameters\n\n@AntLingAGI has released Ling 3.0 Tiny, an open weights reasoning model with a 262K-token context window. It scores 25 on the Artificial Analysis Intelligence Index, comparable to gpt-oss-120b (high, 24) with 15x fewer total parameters and 4x fewer active parameters. However, this parameter efficiency comes with high token usage: Ling 3.0 Tiny used 213M output tokens to run the Intelligence Index, nearly as many as the larger Ling 3.0 Flash (240M). It follows the recent release of Ling 3.0 Flash, which scores 38 with 124B total and 5.1B active parameters. The weights are available on Hugging Face under an MIT license.\n\nKey results:\n\n➤ Ling 3.0 Tiny extends the open weights Pareto frontier for Intelligence vs. Active Parameters. It scores 25 on the Artificial Analysis Intelligence Index, and at 7.9B total and 1.3B active parameters, the model is small enough to run locally in many settings\n\n➤ Ling 3.0 Tiny makes a 59-point improvement in AA-Omniscience over Ling-mini-2.0, primarily driven by improvements in hallucination rate. Ling 3.0 Tiny scores -19 with 9% accuracy and a 30% hallucination rate, similar to Qwen3.6 27B (-20), but its accuracy is relatively low among similarly sized open weights models. Compared to the previous generation, where Ling-mini-2.0 had a 96% hallucination rate, Ling 3.0 Tiny improves on hallucination while maintaining the same accuracy. Instead of guessing when it doesn’t know, it attempted just 37% of questions in the AA-Omniscience evaluation.\n\n➤ Ling 3.0 Tiny is relatively capable in tool use but performs modestly in agentic work tasks. Ling 3.0 Tiny scores 21% on 𝜏³-Banking, ahead of Qwen3.6 27B (17%). On GDPval-AA v2, however, it reaches an Elo rating of 772, behind Nemotron 3.5 Lightning at 824 despite sitting slightly ahead on the overall Intelligence Index.\n\nAdditional model details:\n\n➤ Size: 7.9B total parameters, 1.3B active (mixture of experts)\n\n➤ Context window: 262K tokens\n\n➤ License: MIT\n\n➤ Providers: InclusionAI first-party API and @novita_labs",
-          "created_at": "2026-08-12T02:51:30+00:00",
-          "like_count": 299,
-          "retweet_count": 21,
-          "reply_count": 17,
-          "engagement_score": 358,
-          "url": "https://x.com/ArtificialAnlys/status/2087371367884956099"
         }
       ]
     },
@@ -249,293 +268,28 @@
       "name": "Naval Ravikant",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2086987724037185547",
-          "text": "People who are serious about software train their own models.",
-          "created_at": "2026-08-11T01:27:02+00:00",
-          "like_count": 11502,
-          "retweet_count": 682,
-          "reply_count": 663,
-          "engagement_score": 13529,
-          "url": "https://x.com/naval/status/2086987724037185547"
-        }
-      ]
-    },
-    {
-      "handle": "leopoldasch",
-      "name": "Leopold Aschenbrenner",
-      "domain": "ai",
-      "tier": "analyst",
       "tweets": []
-    },
-    {
-      "handle": "jimkxa",
-      "name": "Jim Keller",
-      "domain": "ai",
-      "tier": "analyst",
-      "tweets": []
-    },
-    {
-      "handle": "sama",
-      "name": "Sam Altman",
-      "domain": "ai",
-      "tier": "exec",
-      "tweets": []
-    },
-    {
-      "handle": "DarioAmodei",
-      "name": "Dario Amodei",
-      "domain": "ai",
-      "tier": "exec",
-      "tweets": []
-    },
-    {
-      "handle": "demishassabis",
-      "name": "Demis Hassabis (Google DeepMind)",
-      "domain": "ai",
-      "tier": "exec",
-      "tweets": []
-    },
-    {
-      "handle": "jietang",
-      "name": "Tang Jie (Z.ai / Tsinghua)",
-      "domain": "ai",
-      "tier": "exec",
-      "tweets": []
-    },
-    {
-      "handle": "nvidia",
-      "name": "NVIDIA (Jensen Huang / AI infrastructure)",
-      "domain": "ai",
-      "tier": "infra",
-      "tweets": [
-        {
-          "id": "2087576824159297605",
-          "text": "Congrats to the @SpaceXAI team on the release of Grok 4.6.\n\nGrok 4.6 brings frontier intelligence, running and trained on NVIDIA GB300 NVL72 with NVLink to deliver exceptional performance, reliability and lowest token cost.",
-          "created_at": "2026-08-12T16:27:54+00:00",
-          "like_count": 5719,
-          "retweet_count": 505,
-          "reply_count": 134,
-          "engagement_score": 6863,
-          "url": "https://x.com/nvidia/status/2087576824159297605"
-        },
-        {
-          "id": "2087172614896988545",
-          "text": "Today, NVIDIA announced NVIDIA Nemotron 3.5 Lightning, a customizable model for high-volume, specialized work, and NVIDIA NeMo Switchyard, which helps agents route each workflow step across the models they choose. ⚡ https://t.co/Li96xrOe3K",
-          "created_at": "2026-08-11T13:41:43+00:00",
-          "like_count": 914,
-          "retweet_count": 139,
-          "reply_count": 99,
-          "engagement_score": 1291,
-          "url": "https://x.com/nvidia/status/2087172614896988545"
-        },
-        {
-          "id": "2087549663289422297",
-          "text": "We’re honored that Glassdoor has named our founder and CEO, @JensenHuang , No. 1 on its 2026 Best CEOs list. 🎉 \n\nA very meaningful recognition, grounded in feedback from the people who make NVIDIA what it is. https://t.co/At3CEoP5ji",
-          "created_at": "2026-08-12T14:39:59+00:00",
-          "like_count": 434,
-          "retweet_count": 55,
-          "reply_count": 33,
-          "engagement_score": 577,
-          "url": "https://x.com/nvidia/status/2087549663289422297"
-        }
-      ]
-    },
-    {
-      "handle": "AmandaAskell",
-      "name": "Amanda Askell (Anthropic)",
-      "domain": "ai",
-      "tier": "builder",
-      "tweets": []
-    },
-    {
-      "handle": "bcherny",
-      "name": "Boris Cherny (Claude Code)",
-      "domain": "ai",
-      "tier": "builder",
-      "tweets": [
-        {
-          "id": "2087284684103537011",
-          "text": "LLMs still produce bugs, but those bugs are different than what they used to be. It’s less off-by-ones and more about system design, ui usability, missing broader context. Some kinds of coding has been solved, but not all.\n\nWhile models continue to improve, adversarial code review has been an incredibly powerful tool to catch many of these kinds of bugs.\n\nIt can be as simple as a one line prompt - “use a dynamic workflow to adversarial test every edge case in an iOS simulator”, or use Claude’s built in /code-review (or /code-review low, /code-review medium, etc.)",
-          "created_at": "2026-08-11T21:07:03+00:00",
-          "like_count": 3655,
-          "retweet_count": 197,
-          "reply_count": 227,
-          "engagement_score": 4276,
-          "url": "https://x.com/bcherny/status/2087284684103537011"
-        }
-      ]
-    },
-    {
-      "handle": "_catwu",
-      "name": "Cat Wu (Anthropic)",
-      "domain": "ai",
-      "tier": "builder",
-      "tweets": []
-    },
-    {
-      "handle": "alexalbert__",
-      "name": "Alex Albert (Anthropic)",
-      "domain": "ai",
-      "tier": "builder",
-      "tweets": []
-    },
-    {
-      "handle": "rauchg",
-      "name": "Guillermo Rauch (Vercel)",
-      "domain": "ai",
-      "tier": "builder",
-      "tweets": [
-        {
-          "id": "2087574374706761892",
-          "text": "Towards a future of self-maintaining software. \n\nMust read of how we balance quality and autonomy for the development of @aisdk, one of the most popular open source AI libraries in the world.",
-          "created_at": "2026-08-12T16:18:10+00:00",
-          "like_count": 240,
-          "retweet_count": 8,
-          "reply_count": 23,
-          "engagement_score": 279,
-          "url": "https://x.com/rauchg/status/2087574374706761892"
-        },
-        {
-          "id": "2087631388359242050",
-          "text": "Seedance 2.5 on @vercel AI Gateway 🐇 https://t.co/Ql9zpuJpBD",
-          "created_at": "2026-08-12T20:04:43+00:00",
-          "like_count": 159,
-          "retweet_count": 7,
-          "reply_count": 22,
-          "engagement_score": 195,
-          "url": "https://x.com/rauchg/status/2087631388359242050"
-        },
-        {
-          "id": "2087605691158827499",
-          "text": "Digg was by far my favorite site of the web 2.0 era. Getting my tech essays onto \"the digg front page\" was one of the coolest memories of my teenage years 😁\n\nSo happy to be powering the new, agent-native https://t.co/zOlxD4NloH on @vercel. Full 🕳️",
-          "created_at": "2026-08-12T18:22:37+00:00",
-          "like_count": 95,
-          "retweet_count": 5,
-          "reply_count": 15,
-          "engagement_score": 120,
-          "url": "https://x.com/rauchg/status/2087605691158827499"
-        }
-      ]
-    },
-    {
-      "handle": "amasad",
-      "name": "Amjad Masad (Replit)",
-      "domain": "ai",
-      "tier": "builder",
-      "tweets": []
-    },
-    {
-      "handle": "joshwoodward",
-      "name": "Josh Woodward (Google Labs)",
-      "domain": "ai",
-      "tier": "builder",
-      "tweets": [
-        {
-          "id": "2087223952209039755",
-          "text": "🚀One billion for Gemini! Our goal remains to make it the most personal, proactive, and powerful assistant. Here’s what we’re learning from the first billion, and what’s coming next…",
-          "created_at": "2026-08-11T17:05:43+00:00",
-          "like_count": 951,
-          "retweet_count": 78,
-          "reply_count": 67,
-          "engagement_score": 1174,
-          "url": "https://x.com/joshwoodward/status/2087223952209039755"
-        }
-      ]
-    },
-    {
-      "handle": "paulgauthier",
-      "name": "Paul Gauthier (Aider)",
-      "domain": "ai",
-      "tier": "builder",
-      "tweets": []
-    },
-    {
-      "handle": "ivanfioravanti",
-      "name": "Ivan Fioravanti (Apple MLX / open source)",
-      "domain": "ai",
-      "tier": "builder",
-      "tweets": [
-        {
-          "id": "2087634396438241287",
-          "text": "M5 Max in Low Power is still a beast to run Local AI silently and with low temperature!",
-          "created_at": "2026-08-12T20:16:41+00:00",
-          "like_count": 22,
-          "retweet_count": 0,
-          "reply_count": 2,
-          "engagement_score": 24,
-          "url": "https://x.com/ivanfioravanti/status/2087634396438241287"
-        },
-        {
-          "id": "2087644513741246505",
-          "text": "M5 Max low power mode vs automatic during inference heavy usage. Video normal speed. https://t.co/VElJFoldf1",
-          "created_at": "2026-08-12T20:56:53+00:00",
-          "like_count": 13,
-          "retweet_count": 1,
-          "reply_count": 2,
-          "engagement_score": 17,
-          "url": "https://x.com/ivanfioravanti/status/2087644513741246505"
-        }
-      ]
-    },
-    {
-      "handle": "deanwball",
-      "name": "Dean Ball (OpenAI Head of Strategic Futures)",
-      "domain": "ai",
-      "tier": "builder",
-      "tweets": [
-        {
-          "id": "2087163671851966578",
-          "text": "THIS JUST IN: anonymous sources at Hyperdimensional say Dean Ball’s role in the AI newsletter “has been grossly exaggerated.” Ball “was largely irrelevant,” the sources say. https://t.co/fHzFPfMXXN",
-          "created_at": "2026-08-11T13:06:11+00:00",
-          "like_count": 490,
-          "retweet_count": 4,
-          "reply_count": 27,
-          "engagement_score": 525,
-          "url": "https://x.com/deanwball/status/2087163671851966578"
-        },
-        {
-          "id": "2087614817171357847",
-          "text": "Very pleased to welcome @davideoks and @humford to the Strategic Futures team. These are two tremendous talents, and I believe they will cast the unfolding AI revolution in new and beautiful light.",
-          "created_at": "2026-08-12T18:58:53+00:00",
-          "like_count": 278,
-          "retweet_count": 16,
-          "reply_count": 14,
-          "engagement_score": 324,
-          "url": "https://x.com/deanwball/status/2087614817171357847"
-        }
-      ]
-    },
-    {
-      "handle": "kunchenguid",
-      "name": "Kun Chen (FirstMate / ex-Meta L8)",
-      "domain": "ai",
-      "tier": "builder",
-      "tweets": [
-        {
-          "id": "2087319350307144187",
-          "text": "i'm 80% sure Grok Bot was originally built by the Cursor product team, and got rebranded after the acquisition\n\na few tells:\n\n1. the iOS app is published by Anysphere, not X Corp. who published the Grok app\n\n2. the mac app download URL is hosted under cursor dot com\n\n3. it seems to run on cursor's vm infrastructure\n\n4. it's cursor team members who are actively responding on X about the topic\n\nin either case, this is a solid release - good work!",
-          "created_at": "2026-08-11T23:24:48+00:00",
-          "like_count": 3770,
-          "retweet_count": 63,
-          "reply_count": 148,
-          "engagement_score": 4044,
-          "url": "https://x.com/kunchenguid/status/2087319350307144187"
-        },
-        {
-          "id": "2087567139318477117",
-          "text": "alright - Grok Bot\n\ni just spent quite some time with it since its introduction yesterday, did a bunch of work, and here's my real experience and initial thoughts\n\n1. it's a very capable product packaged behind an extremely simple user interface\n\nremember Buzz? that app gave me the opposite impression, which was a few simple pieces of technology put together into a complex and somewhat disorienting experience\n\nif I am to reverse-PM Grok Bot, i would say it's targeting an average knowledge worker who doesn't have technical background and couldn't care less about clis, skills, context window, tokens, mcp, memory, cloud sandboxes, secrets, cron jobs etc etc, and just want a powerful agent that can actually get some work done\n\nand i'd say it's done a fantastic job at designing for that audience. all the complexity is well hidden - the user only sees the bots, and get most things done by talking to them\n\nas i revealed in my previous tweet, grok bot was clearly built by cursor and rebranded to grok - it speaks to the strength of cursor's product team there\n\n2. next i'll reverse-engineer it a bit as well\n\nGrok Bot gives every user one virtual machine in the cloud. both the mac app and the ios app are just a thin client that communicate with bots in the cloud VM\n\nall the same users' bots share this same VM resource, but each bot has its own virtual desktop so they won't compete on the GUI interactions\n\nthe VM has 8 vCPU cores, 16GB of RAM and 128 GB of disk running a debian system, which is plenty for knowledge work. if you rent an equivalent of this machine from most cloud providers it can cost ~$200/month give or take for each full month, which is too high of an operational cost, so there must have be some optimizations done to hibernate/resume the VM automatically. this probably has some abuse vectors - some people will absolutely run the machine as a free VPS to do other things\n\neven then, this machine is not sufficient if you want to do a lot of coding work which needs to run resource intensive tasks like build, test etc. but.. it seems they have already thought of that - coding work can be delegated to cursor cloud agents, not in the Grok Bot VM itself\n\neach bot is an instance of an agent harness running in the VM. this harness doesn't look like the same as Cursor. it's something called \"Sand\". if you ask it, it'll tell you and even show you its current JS code\n\nbecause the harness runs in a real VM environment, it's able to work with anything - CLIs, MCP, code execution, skills etc - which provides the foundation for an agent that's pretty much as powerful as the ones we run locally\n\n3. many people are complaining about the pricing\n\ndon't worry about that - and i'll tell you why by reverse-GTM this as well\n\nit's clear that the product is designed for all the average knowledge workers whose usage wouldn't be as heavy as developers who run many agent loops all day. people who just need to summarize some emails once in a while will never pay for $200+ a month, and there's no way the team doesn't already know this\n\nthe reason they are only providing access to ultra and supergrok heavy subscribers is that they want the first wave of adopters to be the power users and tinkerers (like me) who will play with the product meaningfully, can give them feedback, and will not churn even if the product has rough edges. through this phase they can also test the reliability, scalability and cost efficiency of their system, to develop more confidence in a broader rollout\n\ni'm pretty sure in a few weeks they will relax the gating and give access to subscribers at lower pricing points, and open up to teams and enterprises as well\n\n4. where it can improve\n\nto be honest - i'm an engineer, so i'm not exactly representative of the target audience, but i'm going to share my reactions anyway:\n\n- i wish i can see what model is being used. i don't want to have a bot touch a critical task unless i know it's using a big model :)\n\ngiven how fast the agent responds (which is a good thing), i often have the worry it's running a cheap open source model for efficiency purpose that might screw things up\n\nif the goal is to hide complexity, consider having an intelligence slider or something for power users to have some visibility and agency would go a long way\n\n- the bots currently are designed to be \"persistent\". for example, it looks like a bot can create other bots, but can't delete them\n\nthis limitation made it hard for me to replicate @myfirstmate experience in there\n\ni think it would be better to think of bots as a primitive in the system and allow full agentic control over them. at the very least, if bot A created bot B, then give A permission to delete B. this can open up a whole new door for power users to create any freeform multi-agent system without constraints\n\n- i started moving a bunch of my regular tasks into Grok Bot, but one thing did give me a pause - it's vendor lock-in\n\nunlike hermes and openclaw where i own all my stuff, once i moved my workloads into Grok Bot, i'm tied to their subscription and if one day i want to use another LLM subscription instead, it would be harder to make the switch\n\nto ease this concern, an \"export\" flow would be helpful. it would be slightly against their business to do so, but it's a tradeoff between retaining users who actually want to leave vs allowing users who want to join to have one less thing to worry about before they do - the choice is actually clear\n\nalright - that's most of my thoughts for now! overall, i'm really impressed. this is a well-executed agent product that has a lot of depth deliberately and carefully curated behind a simple interface. i look forward to what's coming next!",
-          "created_at": "2026-08-12T15:49:25+00:00",
-          "like_count": 442,
-          "retweet_count": 18,
-          "reply_count": 47,
-          "engagement_score": 525,
-          "url": "https://x.com/kunchenguid/status/2087567139318477117"
-        }
-      ]
     }
   ],
-  "errors": null,
-  "generated_at": "2026-08-12T22:10:20.938627+00:00"
+  "errors": [
+    "@leopoldasch: ",
+    "@jimkxa: ",
+    "@sama: ",
+    "@DarioAmodei: ",
+    "@demishassabis: ",
+    "@jietang: ",
+    "@nvidia: ",
+    "@AmandaAskell: ",
+    "@bcherny: ",
+    "@_catwu: ",
+    "@alexalbert__: ",
+    "@rauchg: ",
+    "@amasad: ",
+    "@joshwoodward: ",
+    "@paulgauthier: ",
+    "@ivanfioravanti: ",
+    "@deanwball: ",
+    "@kunchenguid: "
+  ],
+  "generated_at": "2026-08-13T22:00:04.893649+00:00"
 }
