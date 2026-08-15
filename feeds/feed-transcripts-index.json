@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-14T22:35:30.406014+00:00",
+  "generated_at": "2026-08-15T22:01:31.644570+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/flue-2",
+      "link": "https://www.latent.space/p/flue-2",
+      "channel": "Latent Space",
+      "title": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
+      "pub_date": "2026-08-15T15:46:22+00:00",
+      "transcript_path": "feeds/transcripts/fbfee43c72ee10da13765506.txt",
+      "transcript_chars": 9134,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-15T22:01:31.644570+00:00",
+      "last_seen_at": "2026-08-15T22:01:31.644570+00:00",
+      "expires_at": "2026-08-29T22:01:31.644570+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
       "link": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
@@ -12,8 +25,8 @@
       "transcript_chars": 19246,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-14T22:35:30.406014+00:00",
-      "last_seen_at": "2026-08-14T22:35:30.406014+00:00",
-      "expires_at": "2026-08-28T22:35:30.406014+00:00"
+      "last_seen_at": "2026-08-15T22:01:31.644570+00:00",
+      "expires_at": "2026-08-29T22:01:31.644570+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=6494",
@@ -129,8 +142,8 @@
       "transcript_chars": 52127,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-09T22:47:41.730871+00:00",
-      "last_seen_at": "2026-08-14T22:35:30.406014+00:00",
-      "expires_at": "2026-08-28T22:35:30.406014+00:00"
+      "last_seen_at": "2026-08-15T22:01:31.644570+00:00",
+      "expires_at": "2026-08-29T22:01:31.644570+00:00"
     },
     {
       "guid": "77823dc9-e8e5-4d2b-831f-c61dbd956f97",
@@ -142,8 +155,8 @@
       "transcript_chars": 42374,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-09T22:47:41.730871+00:00",
-      "last_seen_at": "2026-08-14T22:35:30.406014+00:00",
-      "expires_at": "2026-08-28T22:35:30.406014+00:00"
+      "last_seen_at": "2026-08-15T22:01:31.644570+00:00",
+      "expires_at": "2026-08-29T22:01:31.644570+00:00"
     },
     {
       "guid": "38fb4a6b-3eab-4c3e-b93c-7176ef17c668",
@@ -588,19 +601,6 @@
       "expires_at": "2026-08-17T00:38:56.440058+00:00"
     },
     {
-      "guid": "yt:mhQ5_k7r8Tk",
-      "link": "https://www.youtube.com/watch?v=mhQ5_k7r8Tk",
-      "channel": "Bloomberg Podcasts",
-      "title": "Bloomberg This Weekend | Jensen Huang Exclusive Interview, White House Correspondents’ Dinner Redo",
-      "pub_date": "2026-07-25T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/773ef9ae7e1074be40d030d0.txt",
-      "transcript_chars": 123364,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-07-31T22:33:16.836690+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
-    },
-    {
       "guid": "yt:HWEy91kb-8w",
       "link": "https://www.youtube.com/watch?v=HWEy91kb-8w",
       "channel": "The AI Automators",
@@ -666,32 +666,6 @@
       "expires_at": "2026-08-25T23:10:39.133501+00:00"
     },
     {
-      "guid": "431ae0f7-c40c-4f00-a2ec-2123c3ca21d5",
-      "link": "https://a16z.simplecast.com/episodes/ai-micro-dramas-generative-media-and-the-future-of-creativity-ZbK1xyzO",
-      "channel": "a16z",
-      "title": "AI Micro Dramas, Generative Media, and the Future of Creativity",
-      "pub_date": "2026-07-29T10:00:00+00:00",
-      "transcript_path": "feeds/transcripts/14342f38e31f262e7fbc3c86.txt",
-      "transcript_chars": 49140,
-      "transcript_source": "volc_asr_auc",
-      "cached_at": "2026-07-29T22:47:50.822067+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
-      "link": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
-      "channel": "Latent Space",
-      "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
-      "pub_date": "2026-07-29T00:46:52+00:00",
-      "transcript_path": "feeds/transcripts/586ccf3ecaabf1c389246930.txt",
-      "transcript_chars": 32980,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
-    },
-    {
       "guid": "yt:I4B37S1dyQQ",
       "link": "https://www.youtube.com/watch?v=I4B37S1dyQQ",
       "channel": "Y Combinator",
@@ -716,32 +690,6 @@
       "cached_at": "2026-07-29T22:13:21.800476+00:00",
       "last_seen_at": "2026-08-06T02:02:09.154064+00:00",
       "expires_at": "2026-08-20T02:02:09.154064+00:00"
-    },
-    {
-      "guid": "232ed3ce-a135-4b1b-9725-7c7f4fb63a45",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--020---Anthropic-vs-OpenAI-Usage--Margins--Meta-Compute--Future-of-MSL-Tokenomics--Crystual-Huang--Max-Kan--Joey-Brookhart--Jordan-Nanos-e3m7c9e",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 020 - Anthropic vs OpenAI Usage, Margins, Meta Compute, Future of MSL (Tokenomics) | Crystual Huang, Max Kan, Joey Brookhart, Jordan Nanos",
-      "pub_date": "2026-07-18T16:00:00+00:00",
-      "transcript_path": "feeds/transcripts/bd54294c7d0024f2846bb038.txt",
-      "transcript_chars": 51848,
-      "transcript_source": "companion_youtube",
-      "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
-    },
-    {
-      "guid": "a72ae041-2497-479b-8393-b700a51b4486",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Emergency-Episode-Moonshots-Kimi-K3-has-Arrived--China-has-a-Frontier-Model-e3m7mra",
-      "channel": "SemiAnalysis",
-      "title": "[Emergency Episode] Moonshot’s Kimi K3 has Arrived! China has a Frontier Model",
-      "pub_date": "2026-07-18T01:08:14+00:00",
-      "transcript_path": "feeds/transcripts/06a6be1ea4792c21e13b35bc.txt",
-      "transcript_chars": 28861,
-      "transcript_source": "companion_youtube",
-      "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-07-31T23:30:07.644221+00:00",
-      "expires_at": "2026-08-14T23:30:07.644221+00:00"
     },
     {
       "guid": "yt:XDB5beon4DY",
