@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-15T22:01:31.644570+00:00",
+  "generated_at": "2026-08-16T23:10:55.197765+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "yt:hZqJvWDI0Rs",
+      "link": "https://www.youtube.com/watch?v=hZqJvWDI0Rs",
+      "channel": "Matthew Berman",
+      "title": "Mark Zuckerberg just called out Dario (and Anthropic)",
+      "pub_date": "2026-08-11T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/2d7042d01fcc45e988f00e91.txt",
+      "transcript_chars": 35644,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-08-16T23:10:55.197765+00:00",
+      "last_seen_at": "2026-08-16T23:10:55.197765+00:00",
+      "expires_at": "2026-08-30T23:10:55.197765+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/flue-2",
       "link": "https://www.latent.space/p/flue-2",
@@ -12,8 +25,8 @@
       "transcript_chars": 9134,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-15T22:01:31.644570+00:00",
-      "last_seen_at": "2026-08-15T22:01:31.644570+00:00",
-      "expires_at": "2026-08-29T22:01:31.644570+00:00"
+      "last_seen_at": "2026-08-16T23:10:55.197765+00:00",
+      "expires_at": "2026-08-30T23:10:55.197765+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
@@ -142,8 +155,8 @@
       "transcript_chars": 52127,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-09T22:47:41.730871+00:00",
-      "last_seen_at": "2026-08-15T22:01:31.644570+00:00",
-      "expires_at": "2026-08-29T22:01:31.644570+00:00"
+      "last_seen_at": "2026-08-16T23:10:55.197765+00:00",
+      "expires_at": "2026-08-30T23:10:55.197765+00:00"
     },
     {
       "guid": "77823dc9-e8e5-4d2b-831f-c61dbd956f97",
@@ -155,8 +168,8 @@
       "transcript_chars": 42374,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-09T22:47:41.730871+00:00",
-      "last_seen_at": "2026-08-15T22:01:31.644570+00:00",
-      "expires_at": "2026-08-29T22:01:31.644570+00:00"
+      "last_seen_at": "2026-08-16T23:10:55.197765+00:00",
+      "expires_at": "2026-08-30T23:10:55.197765+00:00"
     },
     {
       "guid": "38fb4a6b-3eab-4c3e-b93c-7176ef17c668",
@@ -575,19 +588,6 @@
       "expires_at": "2026-08-17T00:38:56.440058+00:00"
     },
     {
-      "guid": "42cf863d-6336-4119-a6d8-4063555b8eb5",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/What-250-Years-of-Market-Data-Actually-Tells-Us--Meb-Faber-e3mn48l",
-      "channel": "The Acquirers Podcast",
-      "title": "What 250 Years of Market Data Actually Tells Us | Meb Faber",
-      "pub_date": "2026-07-30T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/1fee8dafd95b9134d8c0dce1.txt",
-      "transcript_chars": 142506,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-31T22:33:16.836690+00:00",
-      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
-      "expires_at": "2026-08-15T23:08:21.213024+00:00"
-    },
-    {
       "guid": "yt:qyPCVqFUyDo",
       "link": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
       "channel": "Y Combinator",
@@ -614,45 +614,6 @@
       "expires_at": "2026-08-20T02:02:09.154064+00:00"
     },
     {
-      "guid": "05a4f44f-480e-45ae-9bfe-563dfb544a65",
-      "link": "https://a16z.simplecast.com/episodes/ai-for-americas-small-businesses-lassie-bwImYMRh",
-      "channel": "a16z",
-      "title": "AI for America's Small Businesses | Lassie",
-      "pub_date": "2026-07-30T10:00:00+00:00",
-      "transcript_path": "feeds/transcripts/141124937ac5f1cbf7bb71d9.txt",
-      "transcript_chars": 66771,
-      "transcript_source": "volc_asr_auc",
-      "cached_at": "2026-07-30T22:18:27.054438+00:00",
-      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
-      "expires_at": "2026-08-15T23:08:21.213024+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ontologies-agentic-systems",
-      "link": "https://www.latent.space/p/ontologies-agentic-systems",
-      "channel": "Latent Space",
-      "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
-      "pub_date": "2026-07-30T11:17:55+00:00",
-      "transcript_path": "feeds/transcripts/dba7688fc4973fc1fce117a5.txt",
-      "transcript_chars": 7450,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-30T22:12:43.193276+00:00",
-      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
-      "expires_at": "2026-08-15T23:08:21.213024+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
-      "link": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
-      "channel": "Latent Space",
-      "title": "[AINews] AI is eating Finance; AIE NYC now open",
-      "pub_date": "2026-07-29T23:32:12+00:00",
-      "transcript_path": "feeds/transcripts/2486ea5306aa9021c5620533.txt",
-      "transcript_chars": 14254,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-07-30T22:12:43.193276+00:00",
-      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
-      "expires_at": "2026-08-15T23:08:21.213024+00:00"
-    },
-    {
       "guid": "d5f4e3fd-91cf-414b-a0a1-e6fe9ab3931c",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--022---Market-Drawdown--Historic-Bubbles--Funding-The-Buildout--AI-Politics-Doug-is-Back-e3mngbv",
       "channel": "SemiAnalysis",
@@ -664,19 +625,6 @@
       "cached_at": "2026-07-30T22:12:43.193276+00:00",
       "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
       "expires_at": "2026-08-25T23:10:39.133501+00:00"
-    },
-    {
-      "guid": "yt:I4B37S1dyQQ",
-      "link": "https://www.youtube.com/watch?v=I4B37S1dyQQ",
-      "channel": "Y Combinator",
-      "title": "Jensen Huang: The Mindset That Built NVIDIA",
-      "pub_date": "2026-07-26T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/37c4b766f84abe7f27aed441.txt",
-      "transcript_chars": 45563,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-07-29T22:13:21.800476+00:00",
-      "last_seen_at": "2026-08-01T23:08:21.213024+00:00",
-      "expires_at": "2026-08-15T23:08:21.213024+00:00"
     },
     {
       "guid": "b91f7395-78d8-41ee-a9cb-bc54981da44a",
