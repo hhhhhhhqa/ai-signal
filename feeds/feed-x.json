@@ -28,14 +28,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2088723844265873598",
-          "text": "Some first-hand engineering observations...\n\nAny job that involves code (includes RTL) massivly accelerated. Teams of ~5 great engineers acomplishing the work of a team of 25-30 in lets say 1/3rd time.\n\nOne galaxy brain programmer can do the work of 30+ on skunkworks proj using $30K tokens per day. Super worth it.\n\nGPT 5.6 way way better than Fabel 5. Claude makes idiotic mistakes a high school programmer never would. Also Claude frequently refuses to behave as instructed.\n\nWork outside of code not accelerated by AI. I still dont use AI for anything in dayjob. Its incompetent outside of verifiable domains. (codeing) Prefer to think for myself than audit obvious dogshit slop.",
-          "created_at": "2026-08-15T20:25:45+00:00",
-          "like_count": 205,
-          "retweet_count": 8,
-          "reply_count": 10,
-          "engagement_score": 231,
-          "url": "https://x.com/insane_analyst/status/2088723844265873598"
+          "id": "2089145111129313548",
+          "text": "Programmer friend quote just now:\n\n\"If you gave a monkey Claude it would be better than half my co-workers.\"\n\nAnd you are bearish AI ROI?!",
+          "created_at": "2026-08-17T00:19:43+00:00",
+          "like_count": 204,
+          "retweet_count": 3,
+          "reply_count": 17,
+          "engagement_score": 227,
+          "url": "https://x.com/insane_analyst/status/2089145111129313548"
+        },
+        {
+          "id": "2089412655799042485",
+          "text": "Thanks to the two ppl who sent paper. Note tonight. Very interesting stuff. I thought this group at Intel was dead.\n\nLatest batch of IBIS-AMI sims done so need to get back to work. Expect publish 9pmish PST. This will only take 1-2 hr to write up.",
+          "created_at": "2026-08-17T18:02:51+00:00",
+          "like_count": 84,
+          "retweet_count": 0,
+          "reply_count": 4,
+          "engagement_score": 88,
+          "url": "https://x.com/insane_analyst/status/2089412655799042485"
+        },
+        {
+          "id": "2089402505763733827",
+          "text": "Anyone have this paper?\n\nI want to know how they got integrated 16 wavelengths to work. https://t.co/iNgfIU7Djw",
+          "created_at": "2026-08-17T17:22:31+00:00",
+          "like_count": 54,
+          "retweet_count": 3,
+          "reply_count": 8,
+          "engagement_score": 68,
+          "url": "https://x.com/insane_analyst/status/2089402505763733827"
         }
       ]
     },
@@ -44,18 +64,7 @@
       "name": "Simon Willison",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2088646238933840153",
-          "text": "Qwen 3.8 27B in its default reasoning settings in LM Studio of \"extra high\" is a chronic over-thinker and I kind of love it https://t.co/w7AS3nPkve",
-          "created_at": "2026-08-15T15:17:23+00:00",
-          "like_count": 442,
-          "retweet_count": 19,
-          "reply_count": 64,
-          "engagement_score": 544,
-          "url": "https://x.com/simonw/status/2088646238933840153"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "levie",
@@ -64,24 +73,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2088476232933577124",
-          "text": "Amazing outcome. Cursor executed the applied AI strategy flawlessly. \n\nMost people completely underestimated the market size in AI coding. The biggest developer tool exits in history were on the order of low billions of dollars. And it was already assumed to be a heavily competitive and somewhat saturated space when they really got going.\n\nMultiple mental models shattered near instantly. The market sizes for agentic coding was far larger than most realized. There was actually tons and tons of room to innovate between the user and the underlying model, and even on the model itself.\n\nCursor provided out the applied AI playbook by figuring out the right product shape for agentic coding work, acting as a neutral layer between models and the workflows, post training models for the areas that make most sense to drive down costs or improve performance, building out the right infra stack for the relevant workflows, building out a strong category-aligned GTM motion, and more.\n\nGreat set of lessons for anyone doing applied AI right now. We’re going to see a lot more of these.",
-          "created_at": "2026-08-15T04:01:50+00:00",
-          "like_count": 656,
-          "retweet_count": 45,
-          "reply_count": 49,
-          "engagement_score": 795,
-          "url": "https://x.com/levie/status/2088476232933577124"
-        },
-        {
           "id": "2088995821056659901",
           "text": "AI spend is nowhere close to hitting any walls. Obviously this data is weighted toward engineering-centric companies, with the top 1% spending $7,500/mo and top 10% spending $660/mo per employee on AI. But the general trend of continued exponential growth is occurring throughout all firm types. \n\nAnd what the top 10% is doing today may easily be what the top 50% is doing in 3 years from now, at least in terms of token volume if not in dollars. This is why there’s still so much opportunity right now in the diffusion of AI in the enterprise.\n\nEspecially as token costs come down, we will throw larger portions of work at agents. They’ll be scanning all our code for security issues, testing all of our software, writing coding for much larger projects, processing nearly all data, and much more. So this trend has no end in sight.",
           "created_at": "2026-08-16T14:26:30+00:00",
-          "like_count": 250,
-          "retweet_count": 37,
-          "reply_count": 41,
-          "engagement_score": 365,
+          "like_count": 428,
+          "retweet_count": 62,
+          "reply_count": 69,
+          "engagement_score": 621,
           "url": "https://x.com/levie/status/2088995821056659901"
+        },
+        {
+          "id": "2089209131391729763",
+          "text": "Pretty good way to think about the value of AI agents and where the opportunity lies. You have a technology that will tirelessly do all the things that you could never fully do before. Not because you didn’t want to or it wasn’t valuable, but because it was just not even remotely practical.\n\nThe upside with AI is to think about everything you can now throw intelligence at that won’t give up and what would the returns be. \n\nYou just couldn’t possibly find every security vulnerability in your codebase, because you couldn’t simulate every risk vector. You couldn’t read every contract or document to process the data and capture it to query later. You couldn’t comb through your customer base and look for every relevant data point for doing upsells. And so on. \n\nThis is a pretty clear way to think about how to deploy AI to get real gains, but also where the startup opportunities are as well. Go after the markets where more compute on a problem will qualitatively change what customers can now do in that domain.",
+          "created_at": "2026-08-17T04:34:07+00:00",
+          "like_count": 313,
+          "retweet_count": 32,
+          "reply_count": 60,
+          "engagement_score": 437,
+          "url": "https://x.com/levie/status/2089209131391729763"
         }
       ]
     },
@@ -111,7 +120,28 @@
       "name": "Arena (formerly LMArena / human preference benchmark)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2089448812159045848",
+          "text": "Exciting news: Dreamina Seedance-2.5 by @BytePlusGlobal is topping ranks in Video Arena! It currently ranks #1 in Video Edit, the industry’s newest video capability category, which has only 9 models on the leaderboard so far.\n\n#1 Video Edit Arena: 1411 pts - a large 23 pts gap from from next best model\n#2 Image-to-Video Arena: 1484 pts - only 5pts gap from top spot, MiniMax-H3\n#4 Text-to-Video Arena: 1477 pts, on par with the last 2.0 variant\n\nCongrats to the @BytePlusGlobal team on this release!",
+          "created_at": "2026-08-17T20:26:31+00:00",
+          "like_count": 86,
+          "retweet_count": 4,
+          "reply_count": 8,
+          "engagement_score": 102,
+          "url": "https://x.com/arena/status/2089448812159045848"
+        },
+        {
+          "id": "2089464753567797321",
+          "text": "Agent Categories and Costs are now in the Agent Leaderboard!\n\nTwo questions guide model selection: task-specific performance and cost to completion. Based on analysis of 1.7M+ real-world Agent Mode sessions, the leaderboard now lets users:\n\n- Filter the leaderboard by Code, Work, and Chat to compare model performance by task type\n- View real cost-per-task for each model, including the Pareto frontier of the most cost-efficient options at each performance level",
+          "created_at": "2026-08-17T21:29:52+00:00",
+          "like_count": 29,
+          "retweet_count": 2,
+          "reply_count": 6,
+          "engagement_score": 39,
+          "url": "https://x.com/arena/status/2089464753567797321"
+        }
+      ]
     },
     {
       "handle": "ArtificialAnlys",
@@ -120,14 +150,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2088440350734201149",
-          "text": "DeepSeek V4 Pro 0813 scores 53 on the Artificial Analysis Intelligence Index, 8 points above April's DeepSeek V4 Pro - but with a 3.6x price increase and only 1 point above DeepSeek V4 Flash 0731\n\n@deepseek_ai has released DeepSeek V4 Pro 0813, its new flagship model, along with updated pricing. With the new pricing, it still sits on our Pareto frontier for Intelligence vs. Cost, but by a smaller margin than previous DeepSeek releases.\n\nUnder the new pricing, DeepSeek’s first-party API will charge $1.32 / 1M input tokens and $3.96 / 1M output tokens - an increase of +264% on the blended price. Cached input tokens receive a ~97% discount (rather than the previous 99%): cache hits are priced at $0.044 / 1M tokens, 12x higher than previous cache-hit pricing. Off-peak pricing is discounted by 50%. This new pricing takes effect on August 16, 2026 - until then DeepSeek is offering V4 Pro 0813 at the same pricing as the earlier V4 Pro model.\n\nDeepSeek published the model weights under the MIT license, making it the second most intelligent open weights model we have benchmarked; however, weights for Qwen3.8 2.4T A95B have recently been released and will be evaluated on the Intelligence Index soon. DeepSeek V4 Pro 0813 remains 7 points behind Kimi K3, the current open weights leader.\n\nDeepSeek V4 Pro 0813 retains the previous version’s architecture at 1.6T total parameters and 49B active parameters, with a context window of 1M tokens. Most of DeepSeek V4 Pro 0813’s gains over the April version are in agentic capabilities. DeepSeek V4 Pro 0813 is more token efficient than its predecessor, generating ~30% fewer total output tokens across Artificial Analysis Intelligence Index.\n\nKey results:\n\n➤ DeepSeek V4 Pro 0813 is only 1 point ahead of DeepSeek V4 Flash 0731 on the Artificial Analysis Intelligence Index, and has ~3.8x the active parameters. The two models tie on Terminal-Bench 2.1 at 79%. For agentic and coding benchmarks the smaller model performed at around the same level.\n\n➤ DeepSeek V4 Pro 0813 is more token efficient than DeepSeek V4 Pro, using 128M output tokens to run the Intelligence Index, ~30% fewer than the April version. This places DeepSeek V4 Pro 0813 on the open weights Pareto frontier for intelligence versus output tokens, with fewer tokens used than Kimi K3 (133M) and GLM-5.2 (141M). However, it lags behind many frontier models in its intelligence tier. GPT-5.6 Sol scores 61 on the Intelligence Index but only uses 70M tokens in total.\n\n➤ Cost per Task increases significantly despite an improvement in token usage, driven by DeepSeek’s price increase. At $0.25, DeepSeek V4 Pro 0813’s Cost per Task is 5x that of DeepSeek V4 Pro ($0.05), but ~20% lower than GLM-5.2 ($0.32 Cost per Task). Despite the increase in price, DeepSeek V4 Pro 0813 still sits on the Intelligence vs. Cost per Task Pareto frontier, but barely - it is just one cent below Gemini 3.7 Flash (medium) on Cost per Task.\n\n➤ DeepSeek V4 Pro 0813 makes significant improvements in real-world agentic knowledge work. On GDPval-AA v2 its Elo improved to 1590, +284 points from DeepSeek V4 Pro (1306), which implies an ~84% expected win rate against the April release. Its GDPval-AA v2 Elo is ahead of earlier-generation proprietary models like Claude Opus 4.7 and GPT-5.5, but it trails Kimi K3. DeepSeek V4 Pro 0813 works for longer on GDPval tasks than before, averaging 39 turns per GDPval-AA task compared to 23 for the April model.\n\n➤ DeepSeek V4 Pro 0813 makes a 12 point improvement in AA-Omniscience, driven entirely by increases in accuracy. DeepSeek V4 Pro 0813 scores +1, up from -11 for DeepSeek V4 Pro. Its AA-Omniscience accuracy rises 6 points from 43% to 49%, while regressing slightly in hallucination rate from 94% to 95%. Compared to peer models, DeepSeek V4 Pro 0813 has a high attempt rate of ~99%, meaning it almost never declines to answer. By contrast, Kimi K3 attempts only 77% of questions and has a 53% hallucination rate.\n\nAdditional model details:\n\n➤ Context window: 1M tokens\n\n➤ Weights: 1.6T total parameters; 49B active parameters\n\n➤ License: MIT\n\n➤ Accessibility: Accessible through DeepSeek first-party API at launch\n\n➤ Pricing: On DeepSeek’s first-party API, updated pricing will take effect on August 16 at $1.32 / 1M input tokens and $3.96 / 1M output tokens. Cached input tokens receive a 97% discount, priced at $0.044 / 1M tokens. Off-peak pricing is discounted by 50%.",
-          "created_at": "2026-08-15T01:39:15+00:00",
-          "like_count": 1021,
-          "retweet_count": 64,
-          "reply_count": 87,
-          "engagement_score": 1236,
-          "url": "https://x.com/ArtificialAnlys/status/2088440350734201149"
+          "id": "2089400880688976062",
+          "text": "Cartesia's Sonic 3.6 takes the #1 spot on both the Provider Voice and Controlled Voice Artificial Analysis Speech Arena leaderboards, surpassing Speechify AI's Simba 3.2 and Alibaba's Qwen-Audio-3.0-TTS-Plus, with Sonic 3.5 holding #2 on Controlled Voice\n\nSonic 3.6 is the latest TTS model from @cartesia, supporting 40+ languages including English, Hindi, Spanish, French, German and Japanese. In the TTS Arena, the model has been preferred by voters and has demonstrated natural speech and adaptive pacing across conversations.\n\nKey takeaways:\n\n➤ Controlled Voice: Sonic 3.6 takes #1 on the Controlled Voice Arena with an Elo of 1,144 (+18/-18) across 1,339 appearances, ahead of Cartesia's own Sonic 3.5 at 1,099 and ElevenLabs' Eleven v3 at 1,060\n\n➤ Provider Voice: Sonic 3.6 also takes #1 on the Provider Voice Arena with an Elo score of 1,286 (+19/-19) based on 1,300 arena appearances, placing it ahead of Simba 3.2 at 1,238 and Qwen-Audio-3.0-TTS-Plus at 1,237\n\n➤ Pricing: At $49 per 1M characters via the Cartesia platform, Sonic 3.6 is the most expensive of the top three models on quality, roughly 5x Speechify AI's Simba 3.2 at $10 and nearly double Alibaba's Qwen-Audio-3.0-TTS-Plus at $27.59, though still half the price of ElevenLabs' Eleven v3 at $100\n\n➤ Speed: Sonic 3.6 processes 136.1 characters per second of generation time, compared to 46.7 for ElevenLabs' Eleven v3 and 24.2 for Google's Gemini 3.1 Flash TTS",
+          "created_at": "2026-08-17T17:16:03+00:00",
+          "like_count": 222,
+          "retweet_count": 30,
+          "reply_count": 13,
+          "engagement_score": 295,
+          "url": "https://x.com/ArtificialAnlys/status/2089400880688976062"
         }
       ]
     },
@@ -136,7 +166,18 @@
       "name": "Naval Ravikant",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2089273166049009797",
+          "text": "Don’t send me the report, just send me the prompt.",
+          "created_at": "2026-08-17T08:48:34+00:00",
+          "like_count": 8952,
+          "retweet_count": 471,
+          "reply_count": 462,
+          "engagement_score": 10356,
+          "url": "https://x.com/naval/status/2089273166049009797"
+        }
+      ]
     },
     {
       "handle": "leopoldasch",
@@ -169,10 +210,10 @@
           "id": "2088758816376807762",
           "text": "1/2 Thanks Gavin for an especially thoughtful exchange. I don't usually spend much time on social media but I wanted to engage here because it really brings out the heart of an important conversation.\n\nFirst, on regulation, I think that “either concentrate it in the hands of a chosen few companies and politicians via regulation or distribute it widely” is a false choice.  I know that there’s a sort of Silicon Valley shorthand where regulation = regulatory capture = concentration of power, but I’ve always found this to be an overly simplified picture of the world.  Many people outside this bubble think of regulation as something that constrains corporate power and benefits ordinary people.  I don’t necessarily agree with that perspective either, rather I think it’s complicated and really depends on what the “regulation” consists of.  But in particular I think that those in the “regulation = regulatory capture = concentration of power” frame often underrate the decentralizing power of objective and fair institutional processes.  A crude analogy is that the formal court system can sometimes feel stuffy and elitist, but it does a much better job of defending the rights of vulnerable individuals than the alternative, mob justice.  At their best, institutions can vest power in ideas rather than people, and thereby decentralize that power.\n\nThis is why Anthropic has always made its policy proposals very carefully.  We try very hard to make proposals that disadvantage (slow down) frontier AI companies while *advantaging* smaller competitors.  California’s SB53 (which we supported), and even the much-maligned SB 1047 (which we were ambivalent on), completely exempt any company below a certain amount of revenue or model training costs from being covered at all (it was $500M for SB 53, lower for 1047 but we objected to that).  More recently the testing process we’ve advocated for at CAISI and the White House involves more rigorous tests for frontier models than off-frontier models — something that differentially advantages challengers.  Similarly, the “Pacing the Frontier” letter envisions (or at least Anthropic’s preferred implementation of it envisions) modulating the pace of the very best models while not constraining those who are catching up.  This hurts the business interests of the frontier labs and helps challengers, including open-weights!\n\nOverall my view is that AI is *structurally* a technology that tends to concentrate power, for reasons that have nothing to do with regulation (more to do with the extreme implications of the scaling laws).  Open-weights do help some with this but are nowhere near a sufficient solution because they simply shift the concentration somewhat to those with the most compute and chips (which are roughly the frontier labs plus maybe hardware providers).  By contrast I think the right “rules of the road” can simultaneously (a) address AI’s cyber/bio/alignment risks, (b) institutionally constrain the power of the frontier AI companies, and (c) leave room for open-weights models while also addressing the specific risks that they bring.\n\nBTW I do not think that the events of the last few months have “failed to result in [my] preferred regulatory path”.  The approach that the Trump administration is reported to be taking — pre-deployment testing for frontier models, and also testing of open-weights models when they get closer to the frontier — is one that I am very supportive of, though of course I have to see the details to be sure.  I am also supportive of Demis Hassabis’ ideas around a FINRA-like entity.  This contrasts with six months ago when most of the industry was still pushing for preemption of all state regulation and no apparent federal approach either.",
           "created_at": "2026-08-15T22:44:43+00:00",
-          "like_count": 7747,
-          "retweet_count": 726,
-          "reply_count": 911,
-          "engagement_score": 10110,
+          "like_count": 8724,
+          "retweet_count": 846,
+          "reply_count": 1038,
+          "engagement_score": 11454,
           "url": "https://x.com/DarioAmodei/status/2088758816376807762"
         }
       ]
@@ -196,7 +237,18 @@
       "name": "NVIDIA (Jensen Huang / AI infrastructure)",
       "domain": "ai",
       "tier": "infra",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2089331953585607127",
+          "text": "From accelerating scientific discovery to advancing healthcare, AI can transform every industry — but the infrastructure behind it must keep pace.\n\nAt SB Energy’s PORTS-Pike Technology Campus in Southern Ohio, NVIDIA will be the exclusive AI compute infrastructure provider, with OpenAI as the customer.\n\nThe campus project will create tens of thousands of Ohio jobs and invest hundreds of millions in the community.",
+          "created_at": "2026-08-17T12:42:10+00:00",
+          "like_count": 783,
+          "retweet_count": 96,
+          "reply_count": 55,
+          "engagement_score": 1030,
+          "url": "https://x.com/nvidia/status/2089331953585607127"
+        }
+      ]
     },
     {
       "handle": "AmandaAskell",
@@ -233,24 +285,14 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2088735125744070932",
-          "text": "I’m interested in finding and funding the next Disney. \n\nTrue to its original values, focused on the American spirit. Merit, family, overcoming of adversity, optimism, the pursuit of happiness.\n\nAI makes everyone able to create. What will define our next generation is *what* we create with it. The next icons. The next unique brand that goes further than how it’s drawn or rendered.\n\nMickey Mouse survived several technological revolutions because of what it represented. I think most big entertainment companies have forgotten that.\n\nIf you’re creating something cool in this space and need help, technologically or financially, slide into my DMs.",
-          "created_at": "2026-08-15T21:10:35+00:00",
-          "like_count": 3802,
-          "retweet_count": 135,
-          "reply_count": 329,
-          "engagement_score": 4401,
-          "url": "https://x.com/rauchg/status/2088735125744070932"
-        },
-        {
-          "id": "2088757738037989755",
-          "text": "I think people don’t realize how much of the success of React is actually @shadcn.\n\nI once referred to React as the actual “LEGO brick for adults.” But in reality it was more the description of the geometry of the bricks. The spec.\n\nShadcn is what people actually wanted from React. Reusable high quality components that also tunable. It’s a pseudo-library. There’s code but it’s actually meant to be digested into your context window and remixed.",
-          "created_at": "2026-08-15T22:40:26+00:00",
-          "like_count": 2119,
-          "retweet_count": 57,
-          "reply_count": 142,
-          "engagement_score": 2375,
-          "url": "https://x.com/rauchg/status/2088757738037989755"
+          "id": "2089409162270965858",
+          "text": "You can now host your repos in Cursor Origin and deploy to Vercel via Cursor Origin which is itself hosted on Vercel. And unlike GitHub, it's online 😁",
+          "created_at": "2026-08-17T17:48:58+00:00",
+          "like_count": 2671,
+          "retweet_count": 83,
+          "reply_count": 117,
+          "engagement_score": 2954,
+          "url": "https://x.com/rauchg/status/2089409162270965858"
         }
       ]
     },
@@ -264,10 +306,10 @@
           "id": "2088867492907327573",
           "text": "The argument that “AI structurally centralizes power” because it’s currently compute hungry ignores 125 years of super exponential growth in compute price-performance. \n\nImprovement in algorithms and continued hardware efficiency gains     means there is no reason to assume AGI-level capabilities will always require a data center to run.\n\nScaling laws are not laws of physics. They’re simply empirical relationships observed for particular architectures, objectives, datasets etc. Change any one of those factors and you get a different scaling curve. \n\nIf the brain is any guide, true AGI will likely be very efficient. In fact, current scaling laws might a bug and not a feature. It shows how inefficiency of the ML algorithms we discovered so far.",
           "created_at": "2026-08-16T05:56:34+00:00",
-          "like_count": 479,
-          "retweet_count": 48,
-          "reply_count": 66,
-          "engagement_score": 641,
+          "like_count": 680,
+          "retweet_count": 76,
+          "reply_count": 86,
+          "engagement_score": 918,
           "url": "https://x.com/amasad/status/2088867492907327573"
         }
       ]
@@ -291,18 +333,7 @@
       "name": "Ivan Fioravanti (Apple MLX / open source)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2089094314928292106",
-          "text": "No more manual or cumbersome multi agent coordination? \nI need to try this one!",
-          "created_at": "2026-08-16T20:57:52+00:00",
-          "like_count": 7,
-          "retweet_count": 0,
-          "reply_count": 3,
-          "engagement_score": 10,
-          "url": "https://x.com/ivanfioravanti/status/2089094314928292106"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "deanwball",
@@ -314,11 +345,21 @@
           "id": "2089017869959098423",
           "text": "The conflation of “regulation” and “regulatory capture” in AI discourse has always been frustrating to me. It is hard to have a reasonable conversation about public policy when half of the commentariat conflates all AI-specific public policy ideas with “regulatory capture.”",
           "created_at": "2026-08-16T15:54:06+00:00",
-          "like_count": 137,
-          "retweet_count": 15,
-          "reply_count": 20,
-          "engagement_score": 187,
+          "like_count": 184,
+          "retweet_count": 20,
+          "reply_count": 27,
+          "engagement_score": 251,
           "url": "https://x.com/deanwball/status/2089017869959098423"
+        },
+        {
+          "id": "2089343682918986227",
+          "text": "AI policy debate on this site really does feel stuck in an endlessly repeating first principles debate about “whether” we should “regulate AI.” The conversation here has not meaningfully evolved since the battle lines hardened with SB 1047 (or maybe the Biden EO).\n\nBut meanwhile the world has moved on. Laws have passed, EOs signed, and both are now in their implementation stages rather than the planning. People are figuring out how it’s all going to work, bit by bit, imperfectly, and with deep ambiguity at every corner. Nonetheless, a legal regime of AI governance is gradually emerging from both the state and federal level. It can’t not emerge; the risks are too real, it’s too obvious to too many of the adults who remain in the room.\n\nIt’s still very nascent, yet it is clearly happening, and it is clearly not being shaped very much by discourse on this website. Twitter is said to be “the global town square,” the place to be for relevance. Not so for AI policy. \n\nThere used to be niche policy nerd communities here who would talk among themselves, and while that does exist in AI policy, the real conversations in this community occur off the feed. \n\nI don’t like this state of affairs. I wish it weren’t so. It’d be better if there was a robustly informed public debate on these issues. And to be clear, you can still keep track; there are public events, podcasts, papers, Substacks, etc. Most of the interesting ideas are out there being discussed and debated, just mostly in niche forums. \n\nBut right now, here in the “global town square,” the impression one gets about what is going on in AI policy is about as good of the impression of the world you’d have gotten from reading Slate in 2017, or the New York Times opinion page in the summer of 2020 (and indeed, as Joe has observed, the woke mafia has returned; same tactics, different people and issues. These are probably related phenomena). \n\nFor young writers and policy entrepreneurs, this website is still probably important to get your name out there, at least for now. And it’s still important, for policy purposes, to track sentiment around particular models, companies, people etc. on the timeline. There is still some signal to be extracted, though you may be able to automate much of that extraction now. This, of course, ends with AIs mining for signal from other AIs, which, if we’re being honest, is probably already a huge part of what this site has become.",
+          "created_at": "2026-08-17T13:28:46+00:00",
+          "like_count": 161,
+          "retweet_count": 13,
+          "reply_count": 17,
+          "engagement_score": 204,
+          "url": "https://x.com/deanwball/status/2089343682918986227"
         }
       ]
     },
@@ -329,18 +370,48 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2088844576677392742",
-          "text": "let's unpack gpt-5.6-sol's upcoming ultrafast mode - i believe most people haven't internalized the full implications yet\n\n\"ultrafast\" is powered by a unique inference stack with specialized hardware from @cerebras, and @openai claims it can run sol at 750 tokens/sec\n\nit's still in alpha test stage, and based on available information this likely comes with a very significant tradeoff - it'll cost a lot\n\nbut now that such speed is possible, let's try painting an optimistic future - what if one day every model has this mode, and its efficiency becomes optimized enough such that it's widely accessible at low cost? what if ultrafast becomes the default?\n\ni believe there are a few key implications:\n\n1. today many of our interactions with LLMs are asynchronous. we type a prompt, go do something else, then come back to check the response. this caused many people to juggle between multiple sessions in parallel\n\nwith ultrafast, we will much more likely stay with the LLM in a single continuous realtime session. of course there are still slow operations like running a build - i believe these will be offloaded to background processes and subagents to prevent blocking the main agent\n\n@myfirstmate already proved this is quite an enjoyable experience even with the models today, so with ultrafast available i can only see this paradigm getting supercharged and become more mainstream - we talk to just one agent continuously, and it'll supervise everything else for us in the background\n\n2. today we're still debating whether we read LLM generated code\n\nwith ultrafast, LLMs are now able to generate 14x more code for us. imagine one day that becomes 140x or 1400x?\n\nwe won't be reading most of the code. we can't even read the plans, or keep up with the escalations\n\nwe are going to need highly autonomous systems that replicate the processes and guardrails that are governing massive enterprises today to allow all those agents to keep running forward instead of getting stuck on human every 15 seconds\n\nmany individuals will be operating like CEOs of giant corporations today - understand the complex and changing world, define the right mission and vision, discuss and approve long-horizon strategies, and \"grow\" key agents to lead large initiatives on your behalf by curating their instructions and memory\n\nthis will likely also require a step function increase in intelligence, not just speed. but i'm optimistic that'll happen, probably sooner than most people think\n\nas individuals, i believe we need to start prepping for that future, practice those key skills with the models we have today with the assumption that they'll eventually be ultrafast and ultra intelligent, and start to figure out what a highly autonomous agent organization looks like",
-          "created_at": "2026-08-16T04:25:30+00:00",
-          "like_count": 188,
-          "retweet_count": 14,
-          "reply_count": 24,
-          "engagement_score": 240,
-          "url": "https://x.com/kunchenguid/status/2088844576677392742"
+          "id": "2089189790881382676",
+          "text": "i didn't tell anyone about this repo but it kept getting stars 😂 so i guess it's time to share it\n\nintroducing /vision. it's a very simple skill to help you write down an explicit VISION.md file for your project\n\nbut what's VISION.md? as we let agents do more and more work for us, we have to remove ourselves as a bottleneck, and evolve the way we influence their work\n\nwe began by carefully reviewing and controlling the code written by agents, but soon there's just too much to read\n\nwe then shifted to discussing detailed plans with the agents, as most of the time if the plan is right, the agents can get it implemented\n\nwhat i've been experiencing for the past couple of months is telling me that eventually we won't even be able to review all the plans\n\nimagine your project is getting 1000 feature requests from customers each day, which ones do you implement vs reject? who has the time review 1000 plans a day to make those judgment calls?\n\nour influence has to go one level up - we need to define the vision. a vision is not about what the project currently is, but about where do we want it to go. when a new idea comes up, the vision statement is what decides whether the idea fits with the project or not\n\nthis /vision skill itself is very simple, but i think it's an important philosophy we need to adopt because that's the next layer of abstraction many of us have to go into, in order to continue to scale\n\nthe skill currently looks at what's already been done in the project to build context, and would then propose 8-12 hypothetical borderline feature ideas, to really challenge your thinking on where you'd like the project to go and force clarity. then it'll take all that into account and write down the VISION.md file\n\nyou can then use the file to triage feature ideas, detect implementation drift during code review, or help make ambiguous product decisions that pop up from time to time\n\ncheck it out https://t.co/pZBFxHgJ5a and you can see an example of VISION.md defined in the firstmate project https://t.co/8j4chaR1Bs \n\nstill quite early and can be improved a lot, but since it's getting attention i thought i should make a proper introduction. let me know what you think or if you have any questions!",
+          "created_at": "2026-08-17T03:17:16+00:00",
+          "like_count": 862,
+          "retweet_count": 46,
+          "reply_count": 34,
+          "engagement_score": 988,
+          "url": "https://x.com/kunchenguid/status/2089189790881382676"
+        },
+        {
+          "id": "2089417913002586565",
+          "text": "no one is actually building a Github replacement\n\ncursor's origin launch just confirmed this - they are only building a replacement for the _paid_ version of Github, because that's where the money is\n\nif everyone goes after the paid source control business and take that away from Github, Github will not be able to sustain the open source ecosystem\n\ni hope we figure out a viable alternative before that happens..",
+          "created_at": "2026-08-17T18:23:44+00:00",
+          "like_count": 537,
+          "retweet_count": 19,
+          "reply_count": 44,
+          "engagement_score": 619,
+          "url": "https://x.com/kunchenguid/status/2089417913002586565"
+        },
+        {
+          "id": "2089356825464594844",
+          "text": "how i know my brain is a Mixture-of-Experts model?\n\nbecause whenever my wife asks me to do chores, the request always gets routed to an expert who predictably generates:\n\na thinking token “nah”, followed by a response token “ok”, with no tool calls",
+          "created_at": "2026-08-17T14:21:00+00:00",
+          "like_count": 349,
+          "retweet_count": 13,
+          "reply_count": 28,
+          "engagement_score": 403,
+          "url": "https://x.com/kunchenguid/status/2089356825464594844"
+        },
+        {
+          "id": "2089474794240745928",
+          "text": "i think someone should build an opposite of @cerebras (sarberec?)\n\ninstead of crazy fast inference at an even higher price point, make it run the best models more slowly but dirt cheap\n\nlet's do a poll to test demand. which would you use more?",
+          "created_at": "2026-08-17T22:09:46+00:00",
+          "like_count": 12,
+          "retweet_count": 1,
+          "reply_count": 11,
+          "engagement_score": 25,
+          "url": "https://x.com/kunchenguid/status/2089474794240745928"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-08-16T22:11:36.367112+00:00"
+  "generated_at": "2026-08-17T22:15:46.328315+00:00"
 }
