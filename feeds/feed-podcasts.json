@@ -1,6 +1,41 @@
 {
   "podcasts": [
     {
+      "channel": "a16z",
+      "domain": "ai",
+      "guid": "05dbb55e-33ef-4251-883f-74cd5ec26640",
+      "title": "How Whatnot Built a Global Marketplace",
+      "pub_date": "2026-08-19T10:00:00+00:00",
+      "link": "https://a16z.simplecast.com/episodes/how-whatnot-built-a-global-marketplace-DoonwHjN",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c41c8a47-7d80-4f00-88b2-37e4a98c04c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c41c8a47-7d80-4f00-88b2-37e4a98c04c1&feed=JGE3yC0V",
+      "duration": "00:42:39",
+      "description": "<p>a16z General Partner David George is joined by Grant LaFontaine, co-founder of Whatnot, to unpack how a marketplace that started with collectibles evolved into one of the world's leading live shopping platforms.</p>\n<p>Grant traces the company's origins from selling Pokémon cards online as a kid to discovering live commerce by watching Whatnot's earliest customers hack together sales on social media. They discuss why Whatnot thinks less like a traditional e-commerce marketplace and more like a digital shopping mall, where discovery, entertainment, community, and commerce all happen at once. Today, users spend roughly 95 minutes a day on the platform, and most aren't even buying something on a given day.</p>\n<p>They also explore how Whatnot is enabling small businesses to reach global audiences, expanding from collectibles into categories like fashion, food, and golf, and using AI to make sellers more efficient without replacing the human connection at the center of the experience.</p>\n<p> </p>\n<p>Resources:</p>\n<p>Follow Grant LaFontaine on X: <a href=\"https://x.com/GrantLaFontaine\" rel=\"noopener noreferrer\">https://x.com/GrantLaFontaine</a></p>\n<p>Follow David George on X:<a href=\"https://x.com/DavidGeorge83\" rel=\"noopener noreferrer\"> https://x.com/DavidGeorge83</a></p>\n<p>Follow Whatnot on X:<a href=\"https://x.com/whatnot\" rel=\"noopener noreferrer\"> https://x.com/whatnot</a></p>\n<p><p><strong>Stay Updated:</strong></p><p>Find a16z on YouTube: <a href=\"https://www.youtube.com/@a16z\">YouTube</a></p><p>Find a16z on <a href=\"https://x.com/a16z\">X</a></p><p>Find a16z on<a href=\"https://www.linkedin.com/company/a16z\"> LinkedIn</a></p><p>Listen to the a16z Show on <a href=\"https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX?si=3E8B3qT9TyiwAHJ7JnaKbg\">Spotify</a></p><p>Listen to the a16z Show on <a href=\"https://podcasts.apple.com/us/podcast/a16z-podcast/id842818711\">Apple Podcasts</a></p><p>Follow our host: <a href=\"https://twitter.com/eriktorenberg\">https://twitter",
+      "transcript_available": false,
+      "transcript_source": null,
+      "transcript_url": null,
+      "transcript_video_id": null,
+      "transcript_error": "episode_page: No transcript link or transcript-like page text found; youtube: No YouTube video id in link",
+      "transcript_chars": 0
+    },
+    {
+      "channel": "Latent Space",
+      "domain": "ai",
+      "guid": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+      "title": "[AINews] Memory prices up 500% in 12 months",
+      "pub_date": "2026-08-19T08:44:52+00:00",
+      "link": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+      "audio_url": "https://substackcdn.com/image/fetch/$s_!-PTb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95b5b0b3-9bd4-4c08-9c91-ad68807850fc_2272x1434.png",
+      "duration": "",
+      "description": "the Memory crunch continues - Moore&#8217;s Law reversed to 2007 levels",
+      "transcript_available": true,
+      "transcript_source": "episode_page",
+      "transcript_url": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+      "transcript_video_id": null,
+      "transcript_error": null,
+      "transcript_path": "feeds/transcripts/3bfbbff7124d6d46843914d0.txt",
+      "transcript_chars": 12692
+    },
+    {
       "channel": "Latent Space",
       "domain": "ai",
       "guid": "https://www.latent.space/p/glean-model-routing",
@@ -67,7 +102,7 @@
       "transcript_source": null,
       "transcript_url": null,
       "transcript_video_id": null,
-      "transcript_error": "episode_page: timed out; youtube: No YouTube video id in link",
+      "transcript_error": "episode_page: No transcript link or transcript-like page text found; youtube: No YouTube video id in link",
       "transcript_chars": 0
     },
     {
@@ -84,7 +119,7 @@
       "transcript_source": null,
       "transcript_url": null,
       "transcript_video_id": null,
-      "transcript_error": "episode_page: timed out; youtube: No YouTube video id in link",
+      "transcript_error": "episode_page: [Errno 60] Operation timed out; youtube: No YouTube video id in link",
       "transcript_chars": 0
     },
     {
@@ -101,7 +136,7 @@
       "transcript_source": null,
       "transcript_url": null,
       "transcript_video_id": null,
-      "transcript_error": "episode_page: _ssl.c:1064: The handshake operation timed out; youtube: No YouTube video id in link",
+      "transcript_error": "episode_page: The read operation timed out; youtube: No YouTube video id in link",
       "transcript_chars": 0
     },
     {
@@ -189,7 +224,7 @@
       "transcript_source": null,
       "transcript_url": null,
       "transcript_video_id": null,
-      "transcript_error": "episode_page: _ssl.c:1064: The handshake operation timed out; youtube: No YouTube video id in link",
+      "transcript_error": "episode_page: No transcript link or transcript-like page text found; youtube: No YouTube video id in link",
       "transcript_chars": 0
     },
     {
@@ -206,41 +241,7 @@
       "transcript_source": null,
       "transcript_url": null,
       "transcript_video_id": null,
-      "transcript_error": "episode_page: text too sparse to be a transcript (2758 chars for 48 min); youtube: No YouTube video id in link",
-      "transcript_chars": 0
-    },
-    {
-      "channel": "晚点聊 LateTalk",
-      "domain": "ai",
-      "guid": "da707393-af0f-4607-9712-93f469508667",
-      "title": "179: 蒸馏风暴：一场无人公开谈论的技术竞赛",
-      "pub_date": "2026-08-17T06:45:00+08:00",
-      "link": "https://podcast.latepost.com/179",
-      "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/da707393-af0f-4607-9712-93f469508667.mp3",
-      "duration": "49:33",
-      "description": "\n        <p><strong>「关于蒸馏：误解、门槛与代价」</strong></p>\n\n<p>这期播客，又是一次“编辑部”节目：我和《晚点 LatePost》的主笔高洪浩一起来聊蒸馏。</p>\n\n<p>这是一个所有人都在关注、却很少有人愿意公开谈论的话题，所以也很难邀请外部嘉宾。本期中，我们对蒸馏的讨论，来自过去一段时间，我们和数位来自不同中国 AI lab 的从业者的讨论以及一些公开资料。</p>\n\n<p>相关文章<a href=\"https://mp.weixin.qq.com/s/m9Q_YMwX_TNbs2KvxFWO8g\" rel=\"nofollow noopener\">蒸馏风暴：AI 公司不愿公开谈论的技术竞赛</a>已在上周发布。</p>\n\n<p>播客里，编辑了《晚点独家丨字节讨论训超 5 万亿参数模型，张一鸣：不蒸馏、别被 Coding 这种短期热点影响》的洪浩，也和我一起讨论了更多公司，如字节的更多做法和可能的原因。</p>\n\n<p>蒸馏这种诞生多年的技术到底是什么？为何在 2026 年出圈？大规模蒸馏如何实现？蒸馏能否成为一个模型研发团队的壁垒？它的代价又是什么？</p>\n\n<p>本期节目是一个引子，希望更多从业者、听友在评论区分享你们的想法、观察和思考。</p>\n\n<p><img src=\"https://img.tofaka.com/autoupload/f/corys/20260816/4dnS/1610X977/exec-c1f64d66-5f55-460c-817f-0ff3c8d07488.png/webp\" alt=\"\"><br>\n<em>图注：斩杀线。处在一个模型，右边（比它贵），和下方（智能程度比它低）区域的模型，被该模型”斩杀“。不过这个图里没有反映另一个非常重要的维度，就是推理速度。</em></p>\n\n<p><strong>本期嘉宾：</strong><br>\n<strong>程曼祺，《晚点 LatePost》科技报道负责人</strong></p>\n\n<p><strong>本期主播：</strong><br>\n<strong>高洪浩，《晚点 LatePost》主笔</strong></p>\n\n<p><strong>本期剪辑：甜食</strong></p>\n\n<p><strong>时间线：</strong><br>\n<strong>-蒸馏不是“抄答案”，蒸馏为何在 2026 年出圈</strong> <br>\n02:04 典型蒸馏：让学生模型逼近教师的输出行为 <br>\n04:26 智能体轨迹蒸馏：可被“蒸”的数据越来越丰富 <br>\n06:41 不是所有使用强模型输出的训练都是蒸馏，但都违反用户协议 <br>\n08:05 蒸馏规模扩大的两个关键节点 <br>\n10:17 从为了压缩，到为了变强</p>\n\n<p><strong>-字节为什么不蒸馏？</strong> <br>\n13:51 张一鸣的判断：最多只能逼近，很难真正超越 <br>\n17:44 一个运动员可以既嗑兴奋剂，也勤加训练吗？<br>\n24:41 其它公司的蒸馏讨论</p>\n\n<p><strong>-蒸馏难在哪，如何实现？</strong> <br>\n28:52 账号、真实问题与数据管线：大规模蒸馏的 know-how <br>\n32:08 蒸馏行为可以被隐藏吗？ <br>\n34:56 学生模型超越教师模型的可能性 <br>\n37:29 一直逼近而不超越，问题是什么？</p>\n\n<p><strong>-学生能否超过教师：技术、规则与更大的商业问题</strong> <br>\n38:35 蒸馏的红线与“双标”争议 <br>\n44:05 更便宜的智能，如何改变前沿模型商业逻辑</p>\n\n<p><strong>相关链接：</strong></p>\n\n<p><a href=\"https://mp.weixin.qq.com/s/m9Q_YMwX_TNbs2KvxFWO8g\" rel=\"nofollow noopener\">蒸馏风暴：AI 公司不愿公开谈论的技术竞赛</a></p>\n\n<p><a href=\"https://mp.weixin.qq.com/s/_SGStRsaJmpos2_deXUs8A\" rel=\"nofollow noopener\">晚点独家丨字节讨论训超 5 万亿参数模型，张一鸣：不蒸馏、别被 Coding 这种短期热点影响</a></p>\n\n<p>177 期：<a href=\"https://www.xiaoyuzhoufm.com/episode/6a711ae922cfdb7e07bae339\" rel=\"nofollow noopener\">详解 Kimi K3：强到冲击 Anthro",
-      "transcript_available": false,
-      "transcript_source": null,
-      "transcript_url": null,
-      "transcript_video_id": null,
-      "transcript_error": "episode_page: No transcript link or transcript-like page text found; youtube: No YouTube video id in link",
-      "transcript_chars": 0
-    },
-    {
-      "channel": "Lenny's Podcast",
-      "domain": "ai",
-      "guid": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
-      "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
-      "pub_date": "2026-08-16T12:31:42+00:00",
-      "link": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
-      "audio_url": "https://api.substack.com/feed/podcast/209801560/52b8b8dcb7b2a7754107eef06aa02f4a.mp3",
-      "duration": "",
-      "description": "Listen now | OpenAI&#8217;s head of product design on why this is the best time in history to be a designer, where humans still beat AI, and how to escape the overwhelm",
-      "transcript_available": false,
-      "transcript_source": null,
-      "transcript_url": null,
-      "transcript_video_id": null,
-      "transcript_error": "episode_page: text too sparse to be a transcript (5871 chars for 72 min); youtube: No YouTube video id in link",
+      "transcript_error": "episode_page: The read operation timed out; youtube: No YouTube video id in link",
       "transcript_chars": 0
     },
     {
@@ -304,5 +305,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-08-18T23:17:56.767054+00:00"
+  "generated_at": "2026-08-19T22:12:00.926902+00:00"
 }

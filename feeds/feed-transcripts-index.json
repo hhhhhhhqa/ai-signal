@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-19T01:47:06.622609+00:00",
+  "generated_at": "2026-08-20T00:56:50.938880+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+      "link": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+      "channel": "Latent Space",
+      "title": "[AINews] Memory prices up 500% in 12 months",
+      "pub_date": "2026-08-19T08:44:52+00:00",
+      "transcript_path": "feeds/transcripts/3bfbbff7124d6d46843914d0.txt",
+      "transcript_chars": 12692,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-20T00:56:50.938880+00:00",
+      "last_seen_at": "2026-08-20T00:56:50.938880+00:00",
+      "expires_at": "2026-09-03T00:56:50.938880+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
       "link": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
@@ -12,8 +25,8 @@
       "transcript_chars": 4708,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-19T01:47:06.622609+00:00",
-      "last_seen_at": "2026-08-19T01:47:06.622609+00:00",
-      "expires_at": "2026-09-02T01:47:06.622609+00:00"
+      "last_seen_at": "2026-08-20T00:56:50.938880+00:00",
+      "expires_at": "2026-09-03T00:56:50.938880+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place",
@@ -25,8 +38,8 @@
       "transcript_chars": 6308,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-19T01:47:06.622609+00:00",
-      "last_seen_at": "2026-08-19T01:47:06.622609+00:00",
-      "expires_at": "2026-09-02T01:47:06.622609+00:00"
+      "last_seen_at": "2026-08-20T00:56:50.938880+00:00",
+      "expires_at": "2026-09-03T00:56:50.938880+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
@@ -38,8 +51,8 @@
       "transcript_chars": 5078,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-18T00:01:43.510439+00:00",
-      "last_seen_at": "2026-08-19T01:47:06.622609+00:00",
-      "expires_at": "2026-09-02T01:47:06.622609+00:00"
+      "last_seen_at": "2026-08-20T00:56:50.938880+00:00",
+      "expires_at": "2026-09-03T00:56:50.938880+00:00"
     },
     {
       "guid": "140f011b-3dff-469a-9e2f-6aab4bb8a6f4",
@@ -51,8 +64,8 @@
       "transcript_chars": 33638,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-18T00:01:43.510439+00:00",
-      "last_seen_at": "2026-08-19T01:47:06.622609+00:00",
-      "expires_at": "2026-09-02T01:47:06.622609+00:00"
+      "last_seen_at": "2026-08-20T00:56:50.938880+00:00",
+      "expires_at": "2026-09-03T00:56:50.938880+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
@@ -64,8 +77,8 @@
       "transcript_chars": 5452,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-18T00:01:43.510439+00:00",
-      "last_seen_at": "2026-08-19T01:47:06.622609+00:00",
-      "expires_at": "2026-09-02T01:47:06.622609+00:00"
+      "last_seen_at": "2026-08-20T00:56:50.938880+00:00",
+      "expires_at": "2026-09-03T00:56:50.938880+00:00"
     },
     {
       "guid": "yt:hZqJvWDI0Rs",
@@ -220,8 +233,8 @@
       "transcript_chars": 52127,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-09T22:47:41.730871+00:00",
-      "last_seen_at": "2026-08-19T01:47:06.622609+00:00",
-      "expires_at": "2026-09-02T01:47:06.622609+00:00"
+      "last_seen_at": "2026-08-20T00:56:50.938880+00:00",
+      "expires_at": "2026-09-03T00:56:50.938880+00:00"
     },
     {
       "guid": "77823dc9-e8e5-4d2b-831f-c61dbd956f97",
@@ -233,8 +246,8 @@
       "transcript_chars": 42374,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-09T22:47:41.730871+00:00",
-      "last_seen_at": "2026-08-19T01:47:06.622609+00:00",
-      "expires_at": "2026-09-02T01:47:06.622609+00:00"
+      "last_seen_at": "2026-08-20T00:56:50.938880+00:00",
+      "expires_at": "2026-09-03T00:56:50.938880+00:00"
     },
     {
       "guid": "38fb4a6b-3eab-4c3e-b93c-7176ef17c668",
@@ -521,19 +534,6 @@
       "cached_at": "2026-08-05T00:23:46.365260+00:00",
       "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
       "expires_at": "2026-08-20T23:20:54.739515+00:00"
-    },
-    {
-      "guid": "yt:O70Ff5xBnYo",
-      "link": "https://www.youtube.com/watch?v=O70Ff5xBnYo",
-      "channel": "Peter H. Diamandis",
-      "title": "Jensen Huang Launches an Open AI Alliance, Anthropic & OpenAI Team Up in DC, Kimi K3 Goes Global",
-      "pub_date": "2026-07-29T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/4dc6ba47f013f5239495a1ca.txt",
-      "transcript_chars": 121826,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-08-05T00:23:46.365260+00:00",
-      "last_seen_at": "2026-08-05T02:14:11.775934+00:00",
-      "expires_at": "2026-08-19T02:14:11.775934+00:00"
     },
     {
       "guid": "https://www.latent.space/p/inference-eng",
