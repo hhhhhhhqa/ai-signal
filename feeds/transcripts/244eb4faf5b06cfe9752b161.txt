@@ -1,0 +1,156 @@
+Since he gave the world Facebook back
+in 2004, Mark Zuckerberg has burned   $92.4 billion on the only other big idea
+that was ever his own. That's too bad. Um,   I don't know what happened. 6 years of reality
+labs and a virtual world so thinly attended that   one of his own executives had to send an internal
+memo asking staff why they didn't want to use the   thing they'd spent a fortune building. Meanwhile,
+Instagram cost Zuckerberg about $1 billion,   WhatsApp cost him $19 billion, and Oculus cost
+him $2 billion. And two of those three are the   reason Meta still prints $60 billion a year in
+profit. Now, many just assume that Mark Zuckerberg   is some kind of founder genius, the Harvard kid
+who supposedly saw the future before anyone else.   But look at his actual record and you'll notice
+something. Everything since Facebook that works   at Meta was bought or copied. Meanwhile, the
+products Zuck came up with on his own have almost   all ended up in landfill. And right now, he's
+spending up to 145 billion this year alone on,   you guessed it, AI. So today we break down
+how the buy it or clone it meta monster works,   what every product Zuckerberg built himself has
+cost his
+holders, and why the market has   finally stopped funding the experiment. My
+name is Guy and this is the Finance Bureau. Okay, before I rip into Zuckerberg, let's
+quickly play a bit of devil's advocate for   a moment. In its 2025 financial year, Meta pulled
+in $200 billion of revenue and $60 billion of net   income. In the second quarter of this year,
+revenue hit $60 billion, up 28% yearonear,   beating consensus. Daily users across Meta's
+apps reached 3.6 billion in June 2026, up 3%.   Ad impressions grew 14% and the average price
+per ad grew 12%. There is no company on earth   with a wider distribution footprint and
+no CEO who has held to the top job for   22 years and kept compounding like this. On
+the numbers, Zuckerberg looks untouchable,   a builder of the modern age. But run your eye down
+the asset list and ask a very simple question.   Which of those assets did he actually build?
+Well, the answer starts with something the   man wrote down himself. In emails later unsealed
+in the FTC's antitrust case, Zuckerberg's stated   philosophy was that it's better to buy than to
+compete. On the 9th of April 2012, the day the   Instagram deal was announced, Zuckerberg wrote
+to a colleague, quote, "I remember your internal   post about how Instagram was our threat and not
+Plus. You were basically right. One thing about   startups, though, is that you can often acquire
+them." And when it comes down to it, that's   Zuckerberg's whole strategy. Instagram had 13
+employees and zero revenue. The headline price was   $1 billion. Though, because Facebook's own stock
+fell after its May 2012 IPO, the deal actually   closed at somewhere between $715 and $750 million.
+2 years later, on the 19th of February 2014,   the acquisition of WhatsApp was announced at $19
+billion, and the deal closed in October at roughly   $21.8 billion once the
+price had moved. and
+Oculus announced in March 2014 closed that July at   $2 billion. Now, the interesting part isn't so
+much the shopping spree. What stands out here once   you dig into the detail is how Zuckerberg knew
+what to buy. In October 2013, Facebook acquired   an Israeli company called Anavo for a price most
+sources put at around $120 million. An Naravo   Protect was marketed to the public as a free
+VPN, a service that roots your internet traffic   through somebody else's servers to preserve your
+privacy. The problem though was that the somebody   else was none other than Facebook. Every app
+you opened, how long you used it and how often   you came back gave Facebook more data on what
+was working. Every bit of reporting has linked   Anarvo data to the WhatsApp decision because
+it showed WhatsApp message volume outrunning   Facebook's own messenger. And when Snapchat's
+traffic turned out to be encrypted, an unsealed   email dated 9th of June 2016 showed Zuckerberg
+asking his engineers to find a way to get quote   reliable analytics on it. Anyway, what followed
+was allegedly an internal program to intercept   and decrypt that traffic using root certificates.
+Now, Apple pulled Anarvo from the app store in   August 2018 for harvesting data on other people's
+apps, and the product was wound down in mid 2019.   Facebook then reportedly ran a rebranded
+version that paid users as young as 13 around   $20 a month for near total access to their phone.
+In 2023, Australia's competition regulator fined   two Meta subsidiaries 20 million Australian
+dollars over how Anavo was sold to the public. So   Zuckerberg used Anavaro to spy on users and build
+a target list for acquisitions. But what happens   when the target says no? Well, then you clone it.
+Snapchat refused to sell. So Facebook shipped Poke   in December 2012, which briefly hit number one in
+the app store and then evaporated. Then Slingshot   in June 2014, discontinued by the end of 2015. But
+then in August 2016 came Instagram stories, a near   feature forfeature copy. It had 100 million daily
+users within 2 months and 250 million by mid 2017,   which was more than Snapchat's entire user base at
+the time. Tik Tok got the same treatment. Lasso,   launched in November 2018, was killed on the
+10th of July 2020, and Reels arrived globally the   following month. Twitter got taken on by Threads
+in July 2023, which gained 100 million signups in   5 days and borrowed wholesale from Instagram's
+login system. Clubhouse got live audio rooms in   2021, rushed out, and then quickly deprioritized.
+B Real got a dual camera feature tested inside   Instagram. So, the strategy has been buy it, clone
+it, or bury it. There is no fourth weapon in the   Zuckerberg arsenal. But at least the clones
+sometimes work, which is more than you can say   for the things he invented from scratch. That's
+too bad. Um, I don't know what happened. Take   Facebook home. In 2013, the company tried to turn
+Android phones into a Facebook first experience,   even launching it on a dedicated HTC phone
+through AT&T. It bombed so badly that AT&T   slashed the phone from $99.99 to a mere 99 within
+weeks, and only around 15,000 were ever sold.   Portal, the smart display nobody wanted to have
+in their kitchen, was killed off in 2022. Libra,   the planned global cryptocurrency, was renamed DM
+after central banks and legislators took it apart   with the technology finally sold off to Silvergate
+in early 2022. Novi, the wallet built for Libra,   was piloted in October 2021 and shut down
+in September 2022. The Meta smartwatch code   camed Milan was cancelled around mid 2022 before a
+single consumer got to see it and free basics was   banned outright by India's telecom regulator in
+February 2016 on net neutrality grounds. So seven   original products resulting in seven spectacular
+write-offs. And then came the biggest bet of all,   Reality Labs, Meta's division building its
+VR headsets, smart glasses, and Zuckerberg's   broader metaverse vision. This venture lost
+6.6 billion in 2020, then 10.2 billion in 2021,   then 13.7 billion in 2022, 16.1 billion in 2023,
+17.7 billion in 2024, and 19.2 2 billion in 2025.   Add another $4.2 billion in the first quarter of
+this year and $4.6 billion in the second against   quarterly revenue of just $431 million. And that
+gets you to roughly $92.4 billion burned through.   That's more than the entire market capitalization
+of most companies in the S&P 500. Spent on a   product that in October 2022 prompted Vishal
+Sha, the meta executive running Horizon Worlds,   to write in a leaked internal memo, quote, "Why
+don't we love the product we've built so much that   we use it all the time?" Around that time, Horizon
+Worlds had fallen from a peak of roughly 300,000   monthly users in February 2022 to under 200,000.
+Only 11% of users came back after week 1, and 91%   of the world's people built never got more than 50
+visits. Now, those are 2022 figures to be clear,   but Meta has never volunteered better ones since.
+And in March of this year, Meta announced it was   shutting the VR version of Horizon Worlds down in
+June, then reversed the decision within 48 hours.   Not exactly the confident stride of a company that
+knows where it's going. Now, keeping track of a   spending cycle this large across earnings calls,
+court dockets, and leaked memos takes a ton of   time, which is exactly why you should sign up for
+the Finance Bureau newsletter. It's completely   free and each week we break down all the macro
+developments and market narratives that are set   to move your portfolio. So just click the link
+in the description or scan this QR code to get   started. Right back to Zuckerberg. But before
+we continue ripping into the meta man, let's   offer a little bit of balance. To be fair, the
+strongest defense of Zuckerberg's buying strategy   is that it was simply good capital allocation.
+He paid around $715 million for Instagram. That   asset now has a standalone value of around $70
+billion, and that is a low estimate. Meanwhile,   it has around three billion monthly users and
+generates tens of billions of dollars annually,   a significant chunk of Meta's overall advertising
+revenue. There is a reasonable argument that it's   the single best acquisition in corporate history.
+And credit to Zuckerberg for having the vision to   see the value in acquiring what was a relatively
+tiny startup at the time. And he knows how to   play the legal game, too. In November 2025, Judge
+James Booseberg ruled in Meta's favor and refused   to unwind Instagram and WhatsApp, finding that
+the FTC had not proved current monopoly power,   primarily because platforms like Tik Tok, YouTube,
+and Snapchat exist. The FTC filed its notice of   appeal on the 20th of January, 2026. So, the fight
+isn't over yet. But as things stand, a federal   court looked at the unwind theory and rejected
+it. And on another note, cloning isn't costless   either. Reels and threads required execution at a
+scale Snapchat and Twitter could never match. And   distribution is a competitive asset. So what does
+that defense actually change? Well, it changes the   final verdict on Zuckerberg as a buyer, but it
+changes nothing about Zuckerberg, the builder,   because the man who has never shipped an original
+product to success since Facebook itself is now   running the most expensive original product bet in
+corporate history. In June 2025, Meta paid roughly   $14.3 billion for a 49% nonvoting stake in Scale
+AI, valuing it at about $29 billion. And what   it really bought was one man, Alexander Wang,
+who left to run Meta Super Intelligence Labs,   reporting directly to Zuckerberg. Then came
+the pay packets reportedly 100 to $200 million   for individual researchers poached from OpenAI
+and Google DeepMind. And in one reported case,   a package notionally worth up to $1.5 billion
+over several years. So we see the pattern once   again. Can't build it. So buy the person who
+can. And so what did roughly $14 billion and   a talent grab actually deliver? Well, Llama 4
+Behemoth, Meta's flagship AI model, hit severe   training instabilities, slipped repeatedly through
+2025, and was effectively shelved by mid 2026   without ever shipping. Yan Lun, Zuckerberg's
+chief AI scientist and a Turing Award winner,   walked out in November 2025 to found AMI Labs in
+Paris, which raised a $1 billion seed round in   March at a $3.5 billion pre- money valuation.
+In a Financial Times interview in January,   Lun called Wang inexperienced, described the
+new hires as quote completely LLM pill, and   called the entire approach a dead end. Yikes. Then
+Meta abandoned the open-source promise with the   closedweight Muse Spark in April. And in July, in
+a leaked town hall audio, Zuckerberg conceded that   the AI push quote hasn't really accelerated in the
+way that we expected and that his executives had   miscalculated the timeline. Meanwhile, the meta
+rank and file paid for it. 600 were cut from the   research unit in October 2025. Somewhere between
+1,000 and 1,500 from Reality Labs in January this   year. And in April, 8,000 people, about 10% of
+the workforce, were shown the door with 6,000   open roles canled and a 1.18 billion severance
+charge booked in the second quarter. In July, 26   current and former employees sued in California,
+alleging Meta's internal AI tooling was used to   rank people for termination, a claim Meta denies,
+stating that these decisions were made by people,   not AI. And then there's the massive spending.
+Capital expenditure was $ 37.3 billion in 2024,   just under $70 billion in 2025. And in April
+2026, guidance was raised to a range of 125 to   145 billion with the floor lifted again to 130
+billion in July. That's roughly a doubling on a   doubling in 2 years. In the second quarter of 2026
+alone, Meta spent $31 billion of capex against   $ 31.9 billion of operating cash flow, which
+means free cash flow came in at $784 million,   down about 91% yearonear from 8.5 billion. A
+company generating $60 billion of annual profit   generated less than a billion dollars of free
+cash in a quarter. After the April guidance raise,   Meta's stock fell roughly 10% after hours, erasing
+close to $175 billion of value in a session,   and the July results delivered a near identical
+percentage drop. As I record this, the stock now   sits down about 25% from its high last August,
+down over 9% this year, all while the NASDAQ 100   is up about 17%. That divergence tells you it's
+not just us who's calling BS here. A huge chunk   of the people who finance the mistakes we looked
+at today have stopped clapping and they've stopped   buying Zuckerberg stock. 22 years of receipts
+show Mark Zuckerberg's genius was never one for   invention. Instead, his skills lie in surveillance
+and a gargantuan checkbook used to execute an   aggressive acquisition strategy that sometimes
+borders on illegality. That worked when the thing   worth buying was a photo app with 13 employees.
+But it doesn't work when the thing worth buying   is a research frontier that nobody has actually
+reached yet because you can't acquire a product   that hasn't been invented. Zuckerberg has been
+a prolific buyer, but now he may finally have   run out of things to buy. The man who coined the
+phrase move fast and break things seems to be at   a standstill. Well, that's about all we have time
+for today. But what do you think? Is Zuckerberg   the greatest capital allocator of his generation
+or simply the luckiest buyer in tech history? Let   me know your thoughts in the comments down below.
+And if you want to understand the state of the AI   buildout debt bubble, then you can check out
+our video on that right over here. As always,   thank you so much for watching and I'll see
+you in the next one. This is Guy signing
