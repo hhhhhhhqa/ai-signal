@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-20T22:01:40.699775+00:00",
+  "generated_at": "2026-08-22T00:59:26.873991+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/simile",
+      "link": "https://www.latent.space/p/simile",
+      "channel": "Latent Space",
+      "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
+      "pub_date": "2026-08-21T23:37:38+00:00",
+      "transcript_path": "feeds/transcripts/a7ad4bd7142ba85fd7025522.txt",
+      "transcript_chars": 80514,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-22T00:59:26.873991+00:00",
+      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
+      "expires_at": "2026-09-05T00:59:26.873991+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+      "link": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+      "channel": "Latent Space",
+      "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
+      "pub_date": "2026-08-21T05:45:21+00:00",
+      "transcript_path": "feeds/transcripts/4becdd3754445fbc5e009bba.txt",
+      "transcript_chars": 20848,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-22T00:59:26.873991+00:00",
+      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
+      "expires_at": "2026-09-05T00:59:26.873991+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/wayfinder-skill",
       "link": "https://www.latent.space/p/wayfinder-skill",
@@ -12,8 +38,8 @@
       "transcript_chars": 8109,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-20T22:01:40.699775+00:00",
-      "last_seen_at": "2026-08-20T22:01:40.699775+00:00",
-      "expires_at": "2026-09-03T22:01:40.699775+00:00"
+      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
+      "expires_at": "2026-09-05T00:59:26.873991+00:00"
     },
     {
       "guid": "953662b3-f08d-4981-88d2-72b1eabf751c",
@@ -25,8 +51,8 @@
       "transcript_chars": 42305,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-20T22:01:40.699775+00:00",
-      "last_seen_at": "2026-08-20T22:01:40.699775+00:00",
-      "expires_at": "2026-09-03T22:01:40.699775+00:00"
+      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
+      "expires_at": "2026-09-05T00:59:26.873991+00:00"
     },
     {
       "guid": "aaea986e-c55f-481b-b387-b67b02cf9d21",
@@ -38,8 +64,8 @@
       "transcript_chars": 143581,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-20T22:01:40.699775+00:00",
-      "last_seen_at": "2026-08-20T22:01:40.699775+00:00",
-      "expires_at": "2026-09-03T22:01:40.699775+00:00"
+      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
+      "expires_at": "2026-09-05T00:59:26.873991+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
@@ -51,8 +77,8 @@
       "transcript_chars": 16688,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-20T22:01:40.699775+00:00",
-      "last_seen_at": "2026-08-20T22:01:40.699775+00:00",
-      "expires_at": "2026-09-03T22:01:40.699775+00:00"
+      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
+      "expires_at": "2026-09-05T00:59:26.873991+00:00"
     },
     {
       "guid": "yt:ukXDmtbL8d4",
@@ -64,8 +90,8 @@
       "transcript_chars": 14881,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-20T22:01:40.699775+00:00",
-      "last_seen_at": "2026-08-20T22:01:40.699775+00:00",
-      "expires_at": "2026-09-03T22:01:40.699775+00:00"
+      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
+      "expires_at": "2026-09-05T00:59:26.873991+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
@@ -90,8 +116,8 @@
       "transcript_chars": 12692,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-20T00:56:50.938880+00:00",
-      "last_seen_at": "2026-08-20T22:01:40.699775+00:00",
-      "expires_at": "2026-09-03T22:01:40.699775+00:00"
+      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
+      "expires_at": "2026-09-05T00:59:26.873991+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
@@ -142,8 +168,8 @@
       "transcript_chars": 41328,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-18T00:01:43.510439+00:00",
-      "last_seen_at": "2026-08-20T22:01:40.699775+00:00",
-      "expires_at": "2026-09-03T22:01:40.699775+00:00"
+      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
+      "expires_at": "2026-09-05T00:59:26.873991+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
@@ -311,8 +337,8 @@
       "transcript_chars": 52127,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-09T22:47:41.730871+00:00",
-      "last_seen_at": "2026-08-20T22:01:40.699775+00:00",
-      "expires_at": "2026-09-03T22:01:40.699775+00:00"
+      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
+      "expires_at": "2026-09-05T00:59:26.873991+00:00"
     },
     {
       "guid": "77823dc9-e8e5-4d2b-831f-c61dbd956f97",
@@ -536,19 +562,6 @@
       "expires_at": "2026-08-22T03:45:26.401763+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/unpacking-chatgpt-work",
-      "link": "https://www.latent.space/p/unpacking-chatgpt-work",
-      "channel": "Latent Space",
-      "title": "Unpacking ChatGPT Work: the Agent for a Billion Users",
-      "pub_date": "2026-08-04T18:20:14+00:00",
-      "transcript_path": "feeds/transcripts/4a8307b3b0d3a248e7b2d862.txt",
-      "transcript_chars": 19215,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-06T00:34:59.628018+00:00",
-      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
-      "expires_at": "2026-08-20T23:20:54.739515+00:00"
-    },
-    {
       "guid": "yt:RyHpcxmW66g",
       "link": "https://www.youtube.com/watch?v=RyHpcxmW66g",
       "channel": "TheAIGRID",
@@ -560,58 +573,6 @@
       "cached_at": "2026-08-06T00:34:59.628018+00:00",
       "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
       "expires_at": "2026-08-23T04:10:45.377437+00:00"
-    },
-    {
-      "guid": "e4ebaa91-7ab6-4995-ba37-8a1dccf036d1",
-      "link": "https://a16z.simplecast.com/episodes/openais-joshua-achiam-did-we-already-reach-agi-kjP0kXD4",
-      "channel": "a16z",
-      "title": "OpenAI's Joshua Achiam: Did We Already Reach AGI?",
-      "pub_date": "2026-08-04T14:56:48+00:00",
-      "transcript_path": "feeds/transcripts/4bb252d5cbb97c4f33038b87.txt",
-      "transcript_chars": 32315,
-      "transcript_source": "volc_asr_auc",
-      "cached_at": "2026-08-05T02:14:11.775934+00:00",
-      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
-      "expires_at": "2026-08-20T23:20:54.739515+00:00"
-    },
-    {
-      "guid": "c8fca7de-8f77-11f1-ae96-ab857574605f",
-      "link": "",
-      "channel": "Invest Like the Best",
-      "title": "Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]",
-      "pub_date": "2026-08-04T08:00:00+00:00",
-      "transcript_path": "feeds/transcripts/978ce0a1485a11d8a23e891b.txt",
-      "transcript_chars": 64211,
-      "transcript_source": "volc_asr_auc",
-      "cached_at": "2026-08-05T02:14:11.775934+00:00",
-      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
-      "expires_at": "2026-08-20T23:20:54.739515+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/what-if-youre-not-supposed-to-have",
-      "link": "https://www.lennysnewsletter.com/p/what-if-youre-not-supposed-to-have",
-      "channel": "Lenny's Podcast",
-      "title": "What if you’re not supposed to have a long-term plan?",
-      "pub_date": "2026-08-04T13:02:53+00:00",
-      "transcript_path": "feeds/transcripts/7d30b9b0e962219c961420c0.txt",
-      "transcript_chars": 18547,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-05T00:23:46.365260+00:00",
-      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
-      "expires_at": "2026-08-20T23:20:54.739515+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
-      "link": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
-      "channel": "Latent Space",
-      "title": "[AINews] Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
-      "pub_date": "2026-08-04T03:49:14+00:00",
-      "transcript_path": "feeds/transcripts/aef8c0a711897fb9c2486feb.txt",
-      "transcript_chars": 38062,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-05T00:23:46.365260+00:00",
-      "last_seen_at": "2026-08-06T23:20:54.739515+00:00",
-      "expires_at": "2026-08-20T23:20:54.739515+00:00"
     },
     {
       "guid": "d5f4e3fd-91cf-414b-a0a1-e6fe9ab3931c",
