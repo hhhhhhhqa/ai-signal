@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-22T00:59:26.873991+00:00",
+  "generated_at": "2026-08-24T00:15:49.451590+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+      "link": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+      "channel": "Latent Space",
+      "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+      "pub_date": "2026-08-22T07:36:00+00:00",
+      "transcript_path": "feeds/transcripts/21844a8fc8abff8e4121fd70.txt",
+      "transcript_chars": 28837,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-24T00:15:49.451590+00:00",
+      "last_seen_at": "2026-08-24T00:15:49.451590+00:00",
+      "expires_at": "2026-09-07T00:15:49.451590+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/attention-interface",
+      "link": "https://www.latent.space/p/attention-interface",
+      "channel": "Latent Space",
+      "title": "The Evolution of the Agent Harness",
+      "pub_date": "2026-08-22T07:30:52+00:00",
+      "transcript_path": "feeds/transcripts/833f67105cde5aedb281ce8d.txt",
+      "transcript_chars": 12324,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-24T00:15:49.451590+00:00",
+      "last_seen_at": "2026-08-24T00:15:49.451590+00:00",
+      "expires_at": "2026-09-07T00:15:49.451590+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/simile",
       "link": "https://www.latent.space/p/simile",
@@ -12,8 +38,8 @@
       "transcript_chars": 80514,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-22T00:59:26.873991+00:00",
-      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
-      "expires_at": "2026-09-05T00:59:26.873991+00:00"
+      "last_seen_at": "2026-08-24T00:15:49.451590+00:00",
+      "expires_at": "2026-09-07T00:15:49.451590+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
@@ -25,8 +51,8 @@
       "transcript_chars": 20848,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-22T00:59:26.873991+00:00",
-      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
-      "expires_at": "2026-09-05T00:59:26.873991+00:00"
+      "last_seen_at": "2026-08-24T00:15:49.451590+00:00",
+      "expires_at": "2026-09-07T00:15:49.451590+00:00"
     },
     {
       "guid": "https://www.latent.space/p/wayfinder-skill",
@@ -51,8 +77,8 @@
       "transcript_chars": 42305,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-20T22:01:40.699775+00:00",
-      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
-      "expires_at": "2026-09-05T00:59:26.873991+00:00"
+      "last_seen_at": "2026-08-24T00:15:49.451590+00:00",
+      "expires_at": "2026-09-07T00:15:49.451590+00:00"
     },
     {
       "guid": "aaea986e-c55f-481b-b387-b67b02cf9d21",
@@ -90,8 +116,8 @@
       "transcript_chars": 14881,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-20T22:01:40.699775+00:00",
-      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
-      "expires_at": "2026-09-05T00:59:26.873991+00:00"
+      "last_seen_at": "2026-08-24T00:15:49.451590+00:00",
+      "expires_at": "2026-09-07T00:15:49.451590+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
@@ -168,8 +194,8 @@
       "transcript_chars": 41328,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-18T00:01:43.510439+00:00",
-      "last_seen_at": "2026-08-22T00:59:26.873991+00:00",
-      "expires_at": "2026-09-05T00:59:26.873991+00:00"
+      "last_seen_at": "2026-08-24T00:15:49.451590+00:00",
+      "expires_at": "2026-09-07T00:15:49.451590+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
@@ -354,19 +380,6 @@
       "expires_at": "2026-09-03T22:01:40.699775+00:00"
     },
     {
-      "guid": "38fb4a6b-3eab-4c3e-b93c-7176ef17c668",
-      "link": "https://podcast.latepost.com/178",
-      "channel": "晚点聊 LateTalk",
-      "title": "178: 与田渊栋聊 RSI：模型自进化如何到来？",
-      "pub_date": "2026-08-07T08:30:00+08:00",
-      "transcript_path": "feeds/transcripts/a072f1b7aaf8d50ca396c755.txt",
-      "transcript_chars": 37842,
-      "transcript_source": "volc_asr_auc",
-      "cached_at": "2026-08-09T04:10:45.377437+00:00",
-      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
-      "expires_at": "2026-08-23T22:47:41.730871+00:00"
-    },
-    {
       "guid": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
       "link": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
       "channel": "Latent Space",
@@ -380,110 +393,6 @@
       "expires_at": "2026-08-25T00:36:06.915616+00:00"
     },
     {
-      "guid": "yt:Ap2_e7DG_o0",
-      "link": "https://www.youtube.com/watch?v=Ap2_e7DG_o0",
-      "channel": "Eli the Computer Guy",
-      "title": "Satya Nadella Warns OpenAI is Dangerous - Microsoft Says Don't Trust AI Companies",
-      "pub_date": "2026-08-02T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/a8ed88492c77d86fcf5ca69e.txt",
-      "transcript_chars": 19625,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-08-08T23:55:30.608211+00:00",
-      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
-      "expires_at": "2026-08-23T04:10:45.377437+00:00"
-    },
-    {
-      "guid": "90707990-5bff-46f5-a7eb-bf041ec1b5f3",
-      "link": "https://a16z.simplecast.com/episodes/the-reality-of-ai-powered-cyberattacks-truffle-security-socket-vbyiWFXA",
-      "channel": "a16z",
-      "title": "The Reality of AI-Powered Cyberattacks | Truffle Security & Socket",
-      "pub_date": "2026-08-07T10:00:00+00:00",
-      "transcript_path": "feeds/transcripts/8922c31190b4bf1e0b06748e.txt",
-      "transcript_chars": 30113,
-      "transcript_source": "volc_asr_auc",
-      "cached_at": "2026-08-08T03:45:26.401763+00:00",
-      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
-      "expires_at": "2026-08-23T22:47:41.730871+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/era-of-continual-learning",
-      "link": "https://www.dwarkesh.com/p/era-of-continual-learning",
-      "channel": "Dwarkesh Patel",
-      "title": "8 Predictions for the Era of Continual Learning",
-      "pub_date": "2026-08-07T17:17:40+00:00",
-      "transcript_path": "feeds/transcripts/d408f9adc99c9d316b83d689.txt",
-      "transcript_chars": 9251,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-08T00:22:29.667823+00:00",
-      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
-      "expires_at": "2026-08-23T22:47:41.730871+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-amd-buys-taalas",
-      "link": "https://www.latent.space/p/ainews-amd-buys-taalas",
-      "channel": "Latent Space",
-      "title": "[AINews] AMD buys Taalas",
-      "pub_date": "2026-08-07T05:13:46+00:00",
-      "transcript_path": "feeds/transcripts/44481c8feb2dcddafce8ae00.txt",
-      "transcript_chars": 26832,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-08T00:22:29.667823+00:00",
-      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
-      "expires_at": "2026-08-23T22:47:41.730871+00:00"
-    },
-    {
-      "guid": "f31b896b-86e1-4295-982a-a899b2d0160d",
-      "link": "https://a16z.simplecast.com/episodes/how-open-source-ai-became-critical-infrastructure-3yYJbsEz",
-      "channel": "a16z",
-      "title": "The Engine Powering Open-Source AI",
-      "pub_date": "2026-08-06T10:00:00+00:00",
-      "transcript_path": "feeds/transcripts/719c6842823e37e315b04f4c.txt",
-      "transcript_chars": 47767,
-      "transcript_source": "volc_asr_auc",
-      "cached_at": "2026-08-06T23:20:54.739515+00:00",
-      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
-      "expires_at": "2026-08-23T04:10:45.377437+00:00"
-    },
-    {
-      "guid": "8bbdfcd5-e2f4-4220-b5da-a84ddd1402e6",
-      "link": "https://allinchamathjason.libsyn.com/saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships",
-      "channel": "All-In Podcast",
-      "title": "Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships",
-      "pub_date": "2026-08-05T20:19:00+00:00",
-      "transcript_path": "feeds/transcripts/d3d45b9a81f82f8cbb542e3a.txt",
-      "transcript_chars": 50988,
-      "transcript_source": "volc_asr_auc",
-      "cached_at": "2026-08-06T23:20:54.739515+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
-    },
-    {
-      "guid": "68c9f676-fdf7-4864-97ae-c6eb2a3b5e35",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/How-I-Force-Change-at-Companies-Wall-Street-Ignores-e3n1272",
-      "channel": "The Acquirers Podcast",
-      "title": "How I Force Change at Companies Wall Street Ignores",
-      "pub_date": "2026-08-06T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/3063ab77d20785e687cb7394.txt",
-      "transcript_chars": 142931,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-06T22:35:04.649479+00:00",
-      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
-      "expires_at": "2026-08-23T04:10:45.377437+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
-      "link": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
-      "channel": "Latent Space",
-      "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
-      "pub_date": "2026-08-06T04:34:11+00:00",
-      "transcript_path": "feeds/transcripts/673402e04aa29dbc7d1416b1.txt",
-      "transcript_chars": 5583,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-06T22:35:04.649479+00:00",
-      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
-      "expires_at": "2026-08-23T04:10:45.377437+00:00"
-    },
-    {
       "guid": "yt:FU1xTyqvBhU",
       "link": "https://www.youtube.com/watch?v=FU1xTyqvBhU",
       "channel": "Metis Strategy",
@@ -495,84 +404,6 @@
       "cached_at": "2026-08-06T22:35:04.649479+00:00",
       "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
       "expires_at": "2026-08-26T22:59:24.999710+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
-      "link": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
-      "channel": "Latent Space",
-      "title": "[AINews] Megakernels are so dead and so back",
-      "pub_date": "2026-08-05T01:21:47+00:00",
-      "transcript_path": "feeds/transcripts/786ff87d998578032094d52f.txt",
-      "transcript_chars": 20651,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-06T22:35:04.649479+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
-    },
-    {
-      "guid": "yt:NGsi2PC4y68",
-      "link": "https://www.youtube.com/watch?v=NGsi2PC4y68",
-      "channel": "Invest Like The Best",
-      "title": "Why the Markets Are Pricing AI Wrong | Gavin Baker",
-      "pub_date": "2026-08-04T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/fd4e5c4e13a3292220e1c159.txt",
-      "transcript_chars": 72418,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-08-06T22:35:04.649479+00:00",
-      "last_seen_at": "2026-08-09T22:47:41.730871+00:00",
-      "expires_at": "2026-08-23T22:47:41.730871+00:00"
-    },
-    {
-      "guid": "6ca3b211-07cb-478b-8ae6-95e3c06d26ef",
-      "link": "https://a16z.simplecast.com/episodes/three-startups-reinventing-critical-infrastructure-FkRDwjit",
-      "channel": "a16z",
-      "title": "Three Startups Reinventing Critical Infrastructure",
-      "pub_date": "2026-08-05T10:00:00+00:00",
-      "transcript_path": "feeds/transcripts/cf8a89dc1b96f8ad0856a161.txt",
-      "transcript_chars": 85572,
-      "transcript_source": "volc_asr_auc",
-      "cached_at": "2026-08-06T02:02:09.154064+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
-      "link": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
-      "channel": "Lenny's Podcast",
-      "title": "Build an AI code review bot in 30 minutes with Vercel Eve",
-      "pub_date": "2026-08-05T12:04:01+00:00",
-      "transcript_path": "feeds/transcripts/b76ce62ad935e9c0fc5e7830.txt",
-      "transcript_chars": 5310,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-06T00:34:59.628018+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
-    },
-    {
-      "guid": "87204ae8-77e7-4f6b-884a-cb9e2e93765a",
-      "link": "https://tedseides.libsyn.com/wtt-the-anatomy-of-a-blow-up",
-      "channel": "Capital Allocators",
-      "title": "WTT: The Anatomy of a Blow-Up",
-      "pub_date": "2026-08-05T08:00:00+00:00",
-      "transcript_path": "feeds/transcripts/3e0c04cf492c276eb6aaa2fb.txt",
-      "transcript_chars": 2036,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-06T00:34:59.628018+00:00",
-      "last_seen_at": "2026-08-08T03:45:26.401763+00:00",
-      "expires_at": "2026-08-22T03:45:26.401763+00:00"
-    },
-    {
-      "guid": "yt:RyHpcxmW66g",
-      "link": "https://www.youtube.com/watch?v=RyHpcxmW66g",
-      "channel": "TheAIGRID",
-      "title": "Sam Altman Confirms We Are In The Singularity",
-      "pub_date": "2026-08-02T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/0d775ed6985f4f5db461d69b.txt",
-      "transcript_chars": 21086,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-08-06T00:34:59.628018+00:00",
-      "last_seen_at": "2026-08-09T04:10:45.377437+00:00",
-      "expires_at": "2026-08-23T04:10:45.377437+00:00"
     },
     {
       "guid": "d5f4e3fd-91cf-414b-a0a1-e6fe9ab3931c",

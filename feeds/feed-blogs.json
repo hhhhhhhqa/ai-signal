@@ -1,17 +1,5 @@
 {
-  "articles": [
-    {
-      "id": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "published": "2026-08-21T11:59:48+00:00",
-      "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
-    }
-  ],
-  "errors": [
-    "OpenAI: timed out"
-  ],
-  "generated_at": "2026-08-21T22:10:26.290790+00:00"
+  "articles": [],
+  "errors": null,
+  "generated_at": "2026-08-23T22:13:32.493702+00:00"
 }
