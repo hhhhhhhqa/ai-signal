@@ -260,11 +260,13 @@ flowchart LR
 ./run.sh --publish    # 抓取后 git commit + push 到本仓库（定时任务用这个）
 ```
 
+如果本机同时安装了 `/Users/1huang/Desktop/willing capital/idea-research`，`run.sh` 会在 AI Signal 完成后自动串行运行 Idea Research 的 `collect --strict`。使用 `--publish` 时，它还会把 Idea Research 的当天 feed、三日价格滚动文件和 Reddit 图片一起提交并推送到 `hhhhhhhqa/idea-research`；不带 `--publish` 时只采集、不推送。需要迁移目录时可以设置 `IDEA_RESEARCH_DIR` 环境变量覆盖默认路径。两个仓库继续使用各自的 `.env` 和虚拟环境，任何一边失败都会在日志中明确提示，不会覆盖另一边的 feed。
+
 无人值守由两个 launchd 任务承担：
 
 | 任务 | 时间 | 干什么 |
 |---|---|---|
-| `com.aisignal.daily` | 每天 06:00 | 跑 `run.sh --publish`：抓取 → 提交 → 推送 → 健康检查 |
+| `com.aisignal.daily` | 每天 06:00 | 跑 `run.sh --publish`：AI Signal 抓取 → 推送 → Idea Research 抓取 → 推送 → 健康检查 |
 | `com.aisignal.wechatcheck` | 每天 00:00 | 只查微信读书登录是否失效，失效就发邮件 |
 
 主任务外面套 `caffeinate -i` 防止跑到一半进休眠；配合 `pmset repeat wakepoweron` 在 05:55 唤醒机器，保证准点而不是等唤醒后补跑。推送失败会重试 4 次，仍失败则提交留在本地，下次运行一并补推，不丢数据。
