@@ -1,7 +1,137 @@
 {
-  "generated_at": "2026-08-24T00:15:49.451590+00:00",
+  "generated_at": "2026-08-26T02:42:47.658613+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "link": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "channel": "Dwarkesh Patel",
+      "title": "Dylan Patel – Anthropic & OpenAI will have most of the world’s compute by 2028",
+      "pub_date": "2026-08-25T15:32:57+00:00",
+      "transcript_path": "feeds/transcripts/86511805f40ed0bc1b62ab6e.txt",
+      "transcript_chars": 78352,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-26T02:42:47.658613+00:00",
+      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
+      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
+      "link": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
+      "channel": "Lenny's Podcast",
+      "title": "How to figure out your next career move",
+      "pub_date": "2026-08-25T13:04:15+00:00",
+      "transcript_path": "feeds/transcripts/d40a4a29c00429fe23013bf9.txt",
+      "transcript_chars": 18025,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-26T02:42:47.658613+00:00",
+      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
+      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
+      "link": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
+      "channel": "Latent Space",
+      "title": "[AINews] Andrew Ng gets into AI Engineering",
+      "pub_date": "2026-08-25T02:50:57+00:00",
+      "transcript_path": "feeds/transcripts/d2317e2e6b10656a1b091ebc.txt",
+      "transcript_chars": 20835,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-26T02:42:47.658613+00:00",
+      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
+      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+    },
+    {
+      "guid": "yt:aV26V1UvkJw",
+      "link": "https://www.youtube.com/watch?v=aV26V1UvkJw",
+      "channel": "Dwarkesh Patel",
+      "title": "Dylan Patel – Anthropic & OpenAI will have most of the world’s compute by 2028",
+      "pub_date": "2026-08-25T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/a576bf24bede4075d972fb7a.txt",
+      "transcript_chars": 76682,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-08-26T02:42:47.658613+00:00",
+      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
+      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: Grok Bot + Grok 4.6—what’s great (and what’s still hype) & Lessons from spending $20,000 on Devin in one month",
+      "pub_date": "2026-08-24T15:02:23+00:00",
+      "transcript_path": "feeds/transcripts/ffc0e6f399b4ed0aaae3f4c6.txt",
+      "transcript_chars": 9913,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-26T02:42:47.658613+00:00",
+      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
+      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
+      "link": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
+      "channel": "Lenny's Podcast",
+      "title": "I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)",
+      "pub_date": "2026-08-24T12:04:02+00:00",
+      "transcript_path": "feeds/transcripts/eb32f0de5103823df1cbeb97.txt",
+      "transcript_chars": 5891,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-26T02:42:47.658613+00:00",
+      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
+      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+    },
+    {
+      "guid": "yt:kG8AoExkX40",
+      "link": "https://www.youtube.com/watch?v=kG8AoExkX40",
+      "channel": "David Senra",
+      "title": "Sam Altman on Building OpenAI & Betting on the Impossible",
+      "pub_date": "2026-08-23T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/05e316f519474b8dcac2f700.txt",
+      "transcript_chars": 87094,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-08-26T02:42:47.658613+00:00",
+      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
+      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+    },
+    {
+      "guid": "yt:ehYixQAzVsw",
+      "link": "https://www.youtube.com/watch?v=ehYixQAzVsw",
+      "channel": "Finance Bureau",
+      "title": "OpenAI Is FALLING Apart And Sam Altman Is Panicking",
+      "pub_date": "2026-08-22T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/cf78a2aee750df157ccca16f.txt",
+      "transcript_chars": 12436,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-08-26T02:42:47.658613+00:00",
+      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
+      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+    },
+    {
+      "guid": "yt:PjE7OaId_qg",
+      "link": "https://www.youtube.com/watch?v=PjE7OaId_qg",
+      "channel": "Moconomy",
+      "title": "Inside the Mind of Anthropic CEO Dario Amodei | AI, Power and the Exponential",
+      "pub_date": "2026-08-21T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/f6d18c6d3568f0ef568456c9.txt",
+      "transcript_chars": 75046,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-08-26T02:42:47.658613+00:00",
+      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
+      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+    },
+    {
+      "guid": "yt:y35V5ACMfS4",
+      "link": "https://www.youtube.com/watch?v=y35V5ACMfS4",
+      "channel": "The Globe and Mail and Machines Like Us",
+      "title": "Demis Hassabis wanted to solve intelligence. Then came ChatGPT. (Sebastian Mallaby)",
+      "pub_date": "2026-08-20T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/48e5f8f0ef2db3357cd69fef.txt",
+      "transcript_chars": 46959,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-08-26T02:42:47.658613+00:00",
+      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
+      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
       "link": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
@@ -77,8 +207,8 @@
       "transcript_chars": 42305,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-20T22:01:40.699775+00:00",
-      "last_seen_at": "2026-08-24T00:15:49.451590+00:00",
-      "expires_at": "2026-09-07T00:15:49.451590+00:00"
+      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
+      "expires_at": "2026-09-09T02:42:47.658613+00:00"
     },
     {
       "guid": "aaea986e-c55f-481b-b387-b67b02cf9d21",
@@ -194,8 +324,8 @@
       "transcript_chars": 41328,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-18T00:01:43.510439+00:00",
-      "last_seen_at": "2026-08-24T00:15:49.451590+00:00",
-      "expires_at": "2026-09-07T00:15:49.451590+00:00"
+      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
+      "expires_at": "2026-09-09T02:42:47.658613+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
@@ -380,19 +510,6 @@
       "expires_at": "2026-09-03T22:01:40.699775+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
-      "link": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
-      "channel": "Latent Space",
-      "title": "[AINews] Zawinski's Law of MultiAgents",
-      "pub_date": "2026-08-08T01:12:07+00:00",
-      "transcript_path": "feeds/transcripts/f37e9d7768388259a71e3b61.txt",
-      "transcript_chars": 17841,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-08T23:55:30.608211+00:00",
-      "last_seen_at": "2026-08-11T00:36:06.915616+00:00",
-      "expires_at": "2026-08-25T00:36:06.915616+00:00"
-    },
-    {
       "guid": "yt:FU1xTyqvBhU",
       "link": "https://www.youtube.com/watch?v=FU1xTyqvBhU",
       "channel": "Metis Strategy",
@@ -404,19 +521,6 @@
       "cached_at": "2026-08-06T22:35:04.649479+00:00",
       "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
       "expires_at": "2026-08-26T22:59:24.999710+00:00"
-    },
-    {
-      "guid": "d5f4e3fd-91cf-414b-a0a1-e6fe9ab3931c",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--022---Market-Drawdown--Historic-Bubbles--Funding-The-Buildout--AI-Politics-Doug-is-Back-e3mngbv",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 022 - Market Drawdown, Historic Bubbles, Funding The Buildout, AI Politics (Doug is Back)",
-      "pub_date": "2026-07-29T20:59:20+00:00",
-      "transcript_path": "feeds/transcripts/7ed3fe456344ab347cb08e13.txt",
-      "transcript_chars": 53964,
-      "transcript_source": "companion_youtube",
-      "cached_at": "2026-07-30T22:12:43.193276+00:00",
-      "last_seen_at": "2026-08-11T23:10:39.133501+00:00",
-      "expires_at": "2026-08-25T23:10:39.133501+00:00"
     }
   ]
 }
