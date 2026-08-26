@@ -534,13 +534,15 @@ def main():
     if "--test" in sys.argv:
         return send_test_alert()
 
-    # 微信读书 tokens expire at arbitrary times and need a QR re-scan, so this one
-    # check runs on its own short schedule. Everything else only changes when the
-    # daily job runs, and would false-alarm mid-run.
+    # Keep the focused WeChat check available for manual diagnosis, while allowing
+    # scheduled full checks to omit it when that source is not in use.
     if "--wechat-only" in sys.argv:
         checks = [check_wechat()]
     else:
-        checks = [check_dependencies(), check_x(), check_wechat(), check_asr()]
+        checks = [check_dependencies(), check_x()]
+        if "--skip-wechat" not in sys.argv:
+            checks.append(check_wechat())
+        checks.append(check_asr())
         checks.extend(check_other_feeds())
 
     log("\n━━━ 健康检查 ━━━")
