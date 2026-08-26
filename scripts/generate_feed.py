@@ -2391,11 +2391,21 @@ async def main():
 
     if run_all or args.twitter_only:
         log("\n━━━ Twitter/X ━━━")
-        twitter_feed = await fetch_twitter(sources)
-        twitter_feed["generated_at"] = now.isoformat()
-        write_json(FEEDS_DIR / "feed-x.json", twitter_feed)
-        active = sum(1 for a in twitter_feed["x"] if a["tweets"])
-        log(f"✅ feed-x.json ({active}/{len(twitter_feed['x'])} accounts with content)")
+        try:
+            twitter_feed = await fetch_twitter(sources)
+        except Exception as e:
+            # X is only one source. During an X schema change or a transient
+            # auth/network failure, do not prevent the other feeds from being
+            # refreshed. A standalone --twitter-only run must still fail so the
+            # problem remains visible to whoever is debugging it.
+            if not run_all:
+                raise
+            log(f"❌ Twitter fetch failed; keeping existing feed-x.json: {e}")
+        else:
+            twitter_feed["generated_at"] = now.isoformat()
+            write_json(FEEDS_DIR / "feed-x.json", twitter_feed)
+            active = sum(1 for a in twitter_feed["x"] if a["tweets"])
+            log(f"✅ feed-x.json ({active}/{len(twitter_feed['x'])} accounts with content)")
 
     if run_all or args.podcasts_only or args.people_only:
         log("\n━━━ Podcasts ━━━")
