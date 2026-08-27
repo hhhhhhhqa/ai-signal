@@ -1,7 +1,72 @@
 {
-  "generated_at": "2026-08-26T02:42:47.658613+00:00",
+  "generated_at": "2026-08-27T02:32:20.553365+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+      "link": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+      "channel": "Latent Space",
+      "title": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
+      "pub_date": "2026-08-27T01:50:54+00:00",
+      "transcript_path": "feeds/transcripts/b73e133067c8bb0dc1855777.txt",
+      "transcript_chars": 11730,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-27T02:32:20.553365+00:00",
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+      "link": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+      "channel": "Latent Space",
+      "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
+      "pub_date": "2026-08-27T01:31:22+00:00",
+      "transcript_path": "feeds/transcripts/d137ab57ea354c1b25920026.txt",
+      "transcript_chars": 12551,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-27T02:32:20.553365+00:00",
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+    },
+    {
+      "guid": "https://lexfridman.com/?p=6506",
+      "link": "https://lexfridman.com/dhh-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-2",
+      "channel": "Lex Fridman",
+      "title": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
+      "pub_date": "2026-08-26T21:47:04+00:00",
+      "transcript_path": "feeds/transcripts/d40b20bbb56eec07ec7a204f.txt",
+      "transcript_chars": 309575,
+      "transcript_source": "description_transcript_link",
+      "cached_at": "2026-08-27T02:32:20.553365+00:00",
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/lovable-future-of-saas",
+      "link": "https://www.latent.space/p/lovable-future-of-saas",
+      "channel": "Latent Space",
+      "title": "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use",
+      "pub_date": "2026-08-26T16:16:25+00:00",
+      "transcript_path": "feeds/transcripts/afe8684754442d0db3e55d9c.txt",
+      "transcript_chars": 9290,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-27T02:32:20.553365+00:00",
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+    },
+    {
+      "guid": "b6ddc30d-9b7d-4192-8939-a821301570f5",
+      "link": "https://deepmind.com/podcast",
+      "channel": "Google DeepMind Podcast",
+      "title": "The mathematics of AI uncertainty",
+      "pub_date": "2026-08-26T15:35:59+00:00",
+      "transcript_path": "feeds/transcripts/0f2c37203187fd196a8e0c0c.txt",
+      "transcript_chars": 18551,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-27T02:32:20.553365+00:00",
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/dylan-patel-3",
       "link": "https://www.dwarkesh.com/p/dylan-patel-3",
@@ -12,8 +77,8 @@
       "transcript_chars": 78352,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
-      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
@@ -25,8 +90,8 @@
       "transcript_chars": 18025,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
-      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
@@ -38,8 +103,8 @@
       "transcript_chars": 20835,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
-      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
     },
     {
       "guid": "yt:aV26V1UvkJw",
@@ -51,8 +116,8 @@
       "transcript_chars": 76682,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
-      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
@@ -64,8 +129,8 @@
       "transcript_chars": 9913,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
-      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
@@ -77,8 +142,8 @@
       "transcript_chars": 5891,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
-      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
     },
     {
       "guid": "yt:kG8AoExkX40",
@@ -90,8 +155,8 @@
       "transcript_chars": 87094,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
-      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
     },
     {
       "guid": "yt:ehYixQAzVsw",
@@ -103,8 +168,8 @@
       "transcript_chars": 12436,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
-      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
     },
     {
       "guid": "yt:PjE7OaId_qg",
@@ -116,8 +181,8 @@
       "transcript_chars": 75046,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
-      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
     },
     {
       "guid": "yt:y35V5ACMfS4",
@@ -207,8 +272,8 @@
       "transcript_chars": 42305,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-20T22:01:40.699775+00:00",
-      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
-      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
     },
     {
       "guid": "aaea986e-c55f-481b-b387-b67b02cf9d21",
@@ -324,8 +389,8 @@
       "transcript_chars": 41328,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-18T00:01:43.510439+00:00",
-      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
-      "expires_at": "2026-09-09T02:42:47.658613+00:00"
+      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
+      "expires_at": "2026-09-10T02:32:20.553365+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
@@ -406,84 +471,6 @@
       "expires_at": "2026-08-28T22:35:30.406014+00:00"
     },
     {
-      "guid": "https://www.dwarkesh.com/p/ryan-greenblatt",
-      "link": "https://www.dwarkesh.com/p/ryan-greenblatt",
-      "channel": "Dwarkesh Patel",
-      "title": "Ryan Greenblatt – Human level AIs might build runaway superintelligences by 2032",
-      "pub_date": "2026-08-11T16:31:23+00:00",
-      "transcript_path": "feeds/transcripts/fe281483ffa9e4629e80be8d.txt",
-      "transcript_chars": 144899,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-11T23:10:39.133501+00:00",
-      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
-      "expires_at": "2026-08-26T22:59:24.999710+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
-      "link": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
-      "channel": "Lenny's Podcast",
-      "title": "How to make people care about your startup",
-      "pub_date": "2026-08-11T13:31:07+00:00",
-      "transcript_path": "feeds/transcripts/cd4d27815452c8ba55ccd4e7.txt",
-      "transcript_chars": 26795,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-11T23:10:39.133501+00:00",
-      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
-      "expires_at": "2026-08-26T22:59:24.999710+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
-      "link": "https://www.latent.space/p/ainews-muse-glimmer-and-spark-open",
-      "channel": "Latent Space",
-      "title": "[AINews] Muse Glimmer and Spark: Open Weights return Personal Superintelligence promise",
-      "pub_date": "2026-08-11T05:16:41+00:00",
-      "transcript_path": "feeds/transcripts/c99e348f929bd9a70f664409.txt",
-      "transcript_chars": 16993,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-11T23:10:39.133501+00:00",
-      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
-      "expires_at": "2026-08-26T22:59:24.999710+00:00"
-    },
-    {
-      "guid": "yt:LWlt43M3tRM",
-      "link": "https://www.youtube.com/watch?v=LWlt43M3tRM",
-      "channel": "The Information",
-      "title": "Inside the World of Dario Amodei",
-      "pub_date": "2026-08-07T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/a35802da3462d27975a47595.txt",
-      "transcript_chars": 16034,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-08-11T23:10:39.133501+00:00",
-      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
-      "expires_at": "2026-08-26T22:59:24.999710+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: Build an AI code review bot in 30 minutes + Claude Code for normal people",
-      "pub_date": "2026-08-10T15:01:49+00:00",
-      "transcript_path": "feeds/transcripts/412f043cdcb3ab3aa7f1f623.txt",
-      "transcript_chars": 10401,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-11T00:36:06.915616+00:00",
-      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
-      "expires_at": "2026-08-26T22:59:24.999710+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
-      "link": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
-      "channel": "Lenny's Podcast",
-      "title": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
-      "pub_date": "2026-08-10T12:01:44+00:00",
-      "transcript_path": "feeds/transcripts/8956ade0f890e5e9bbc19239.txt",
-      "transcript_chars": 5273,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-11T00:36:06.915616+00:00",
-      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
-      "expires_at": "2026-08-26T22:59:24.999710+00:00"
-    },
-    {
       "guid": "4d59eed8-de80-4c59-8417-cfffb5f75779",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--024---SpaceXs-10GW-Plan-Drives-300B-ARR-by-2027-Datacenter--Energy--Reyk-Knuhtsen--Jeremie-Eliahou-Ontiveros--Jordan-Nanos-e3n5srq",
       "channel": "SemiAnalysis",
@@ -508,19 +495,6 @@
       "cached_at": "2026-08-09T22:47:41.730871+00:00",
       "last_seen_at": "2026-08-20T22:01:40.699775+00:00",
       "expires_at": "2026-09-03T22:01:40.699775+00:00"
-    },
-    {
-      "guid": "yt:FU1xTyqvBhU",
-      "link": "https://www.youtube.com/watch?v=FU1xTyqvBhU",
-      "channel": "Metis Strategy",
-      "title": "The Infinity Machine: The Untold Story of Demis Hassabis and DeepMind | Technovation 1104",
-      "pub_date": "2026-08-06T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/1ee9257873f6710dbf624a38.txt",
-      "transcript_chars": 66219,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-08-06T22:35:04.649479+00:00",
-      "last_seen_at": "2026-08-12T22:59:24.999710+00:00",
-      "expires_at": "2026-08-26T22:59:24.999710+00:00"
     }
   ]
 }
