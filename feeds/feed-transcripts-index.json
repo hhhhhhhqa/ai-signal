@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-08-27T02:32:20.553365+00:00",
+  "generated_at": "2026-08-27T22:46:43.554266+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "c33e7adf-b23d-45db-bf74-334921fbdd26",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/I-Studied-Every-100-Bagger-Stock-in-History--Heres-What-I-Found--Chris-Mayer-e3nu5jj",
+      "channel": "The Acquirers Podcast",
+      "title": "I Studied Every 100-Bagger Stock in History. Here's What I Found | Chris Mayer",
+      "pub_date": "2026-08-27T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/eae411b43166df724189d96a.txt",
+      "transcript_chars": 144078,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-27T22:46:43.554266+00:00",
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
+    },
+    {
+      "guid": "yt:3wsS9iuOua4",
+      "link": "https://www.youtube.com/watch?v=3wsS9iuOua4",
+      "channel": "Amit Kukreja",
+      "title": "NVIDIA Q2 2026 EARNINGS | JENSEN HUANG SPEAKS LIVE",
+      "pub_date": "2026-08-26T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/0010ba00b9f97fa9a6539a52.txt",
+      "transcript_chars": 180763,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-08-27T22:46:43.554266+00:00",
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
       "link": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
@@ -12,8 +38,8 @@
       "transcript_chars": 11730,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:32:20.553365+00:00",
-      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
-      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
@@ -25,8 +51,8 @@
       "transcript_chars": 12551,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:32:20.553365+00:00",
-      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
-      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=6506",
@@ -38,8 +64,8 @@
       "transcript_chars": 309575,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-08-27T02:32:20.553365+00:00",
-      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
-      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "https://www.latent.space/p/lovable-future-of-saas",
@@ -51,8 +77,8 @@
       "transcript_chars": 9290,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:32:20.553365+00:00",
-      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
-      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "b6ddc30d-9b7d-4192-8939-a821301570f5",
@@ -64,8 +90,8 @@
       "transcript_chars": 18551,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:32:20.553365+00:00",
-      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
-      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/dylan-patel-3",
@@ -77,8 +103,8 @@
       "transcript_chars": 78352,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
-      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
@@ -90,8 +116,8 @@
       "transcript_chars": 18025,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
-      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
@@ -103,8 +129,8 @@
       "transcript_chars": 20835,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
-      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "yt:aV26V1UvkJw",
@@ -116,8 +142,8 @@
       "transcript_chars": 76682,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
-      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
@@ -155,8 +181,8 @@
       "transcript_chars": 87094,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
-      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "yt:ehYixQAzVsw",
@@ -168,8 +194,8 @@
       "transcript_chars": 12436,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
-      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "yt:PjE7OaId_qg",
@@ -181,8 +207,8 @@
       "transcript_chars": 75046,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
-      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "yt:y35V5ACMfS4",
@@ -272,8 +298,8 @@
       "transcript_chars": 42305,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-20T22:01:40.699775+00:00",
-      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
-      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "aaea986e-c55f-481b-b387-b67b02cf9d21",
@@ -389,8 +415,8 @@
       "transcript_chars": 41328,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-18T00:01:43.510439+00:00",
-      "last_seen_at": "2026-08-27T02:32:20.553365+00:00",
-      "expires_at": "2026-09-10T02:32:20.553365+00:00"
+      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
+      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
