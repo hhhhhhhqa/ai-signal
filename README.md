@@ -2,7 +2,7 @@
 
 追踪 AI 一线的声音——做事的人、写代码的人、下注的人，不是二手转述。
 
-这是一份给 AI Agent 用户的精心筛选信息源。中央每天自动抓取播客、推文、论文、官方博客、Newsletter 和微信公众号；你的 Agent 读取 JSON，按你的口味生成日报。
+这是一份给 AI Agent 用户的精心筛选信息源。中央每天自动抓取播客、推文、论文、官方博客和微信公众号；你的 Agent 读取 JSON，按你的口味生成日报。
 
 **这份清单本身就是产品。**
 
@@ -21,7 +21,6 @@
 
 ## 最近更新
 
-- `2026-08-27`：X 新增 11 个投资/产业研究账号（Cathie Wood、Deep Sail Capital、Serenity Research 等），共 41 个账号；新增 OutspokenGeek Newsletter（Substack），并入博客/Newsletter feed
 - `2026-08-06`：X 新增 [@simonw](https://x.com/simonw)（Simon Willison）、[@levie](https://x.com/levie)（Aaron Levie）、[@ivanfioravanti](https://x.com/ivanfioravanti)（Ivan Fioravanti）、[@RyanPGreenblatt](https://x.com/RyanPGreenblatt)（Ryan Greenblatt）、[@deanwball](https://x.com/deanwball)（Dean Ball）、[@mweinbach](https://x.com/mweinbach)（Max Weinbach）、[@kunchenguid](https://x.com/kunchenguid)（Kun Chen）、[@ValsAI](https://x.com/ValsAI)（独立模型评测）、[@arena](https://x.com/arena)（原 LMArena，人类偏好盲测），共 30 个账号
 - `2026-08-05`：播客新增「晚点聊 LateTalk」（中文 AI 深度访谈），共 15 个频道；该源没有公开文字稿，改由 ASR 转录，从 8-05 起的新节目开始转，不补转历史
 - `2026-07-28`：X 新增 [@ArtificialAnlys](https://x.com/ArtificialAnlys)（独立模型评测跑分）和 [@paulgauthier](https://x.com/paulgauthier)（Aider 作者），共 21 个账号；公众号新增「Web3天空之城」，共 2 个
@@ -50,7 +49,7 @@
 
 - 一线播客的最新内容（日报先给简介；你说“展开 P2”后再按需读取该期全文字幕）
 - 精选推特账号的当日观点
-- Anthropic / OpenAI / Google DeepMind 官方博客与精选 Newsletter 的最新发布（新模型、产品、研究、安全框架、产业与投资观察）
+- Anthropic / OpenAI / Google DeepMind 官方博客的最新发布（新模型、产品、研究、安全框架）
 - 精选微信公众号的最新文章（中文 AI 生态的一手内容，很多只在公众号发）
 - arXiv 最新 AI/ML/NLP 论文标题、链接和摘要原文
 - 每条播客、推文和论文都显示来源发布时间，并按你的时区转换；无法验证的时间会明确标记
@@ -103,7 +102,7 @@
 
 > 过滤规则：只收本周上传（YouTube 服务端过滤）、标题必须含人名（去同名假阳性）、时长 ≥ 15 分钟（去切片/shorts）、频道订阅数 ≥ 5 万（去小搬运号）、海外人物剔除非拉丁文字频道名/标题（去大号外语搬运/二创，如中文配音、印地语二创、韩语搬运）、海外人物要求视频有英文字幕轨（挡住英文标题的外语综艺，如韩综 You Quiz 上的 Jensen Huang 只有韩语字幕；只要英文原版）、剔除例行盘面播报和影视剧合集噪音；与频道订阅命中的同一期节目自动去重；每天最多新收 5 条，日报不会被人物命中刷屏。名单在 `config/sources.json` 的 `podcasts.people`。
 
-### Twitter/X（41 个账号）
+### Twitter/X（30 个账号）
 
 **分析师/研究者**：[@karpathy](https://x.com/karpathy)、[@swyx](https://x.com/swyx)、[@dylan522p](https://x.com/dylan522p)（SemiAnalysis）、[@insane_analyst](https://x.com/insane_analyst)（Irrational Analysis，半导体投资）、[@simonw](https://x.com/simonw)（Simon Willison，LLM 工具与开源作者）、[@levie](https://x.com/levie)（Aaron Levie，Box CEO）、[@RyanPGreenblatt](https://x.com/RyanPGreenblatt)（Ryan Greenblatt，AI 安全研究者）、[@mweinbach](https://x.com/mweinbach)（Max Weinbach，Creative Strategies）、[@ValsAI](https://x.com/ValsAI)（独立模型评测）、[@arena](https://x.com/arena)（原 LMArena，人类偏好盲测）、[@ArtificialAnlys](https://x.com/ArtificialAnlys)（Artificial Analysis，独立模型评测与跑分）、[@naval](https://x.com/naval)（Naval Ravikant）、[@leopoldasch](https://x.com/leopoldasch)、[@jimkxa](https://x.com/jimkxa)（Jim Keller）
 
@@ -113,20 +112,17 @@
 
 **建造者**：[@AmandaAskell](https://x.com/AmandaAskell)、[@bcherny](https://x.com/bcherny)（Claude Code）、[@_catwu](https://x.com/_catwu)、[@alexalbert__](https://x.com/alexalbert__)、[@rauchg](https://x.com/rauchg)（Vercel）、[@amasad](https://x.com/amasad)（Replit）、[@joshwoodward](https://x.com/joshwoodward)（Google Labs）、[@paulgauthier](https://x.com/paulgauthier)（Aider 作者）、[@ivanfioravanti](https://x.com/ivanfioravanti)（Apple MLX / 开源）、[@deanwball](https://x.com/deanwball)（OpenAI Strategic Futures）、[@kunchenguid](https://x.com/kunchenguid)（FirstMate / 前 Meta L8）
 
-**投资与产业研究**：[@CathieDWood](https://x.com/CathieDWood)（Cathie Wood / ARK Invest）、[@DeepSailCapital](https://x.com/DeepSailCapital)（Deep Sail Capital）、[@SerenityRSH](https://x.com/SerenityRSH)（Serenity Research）、[@DaBao_](https://x.com/DaBao_)、[@KrishnaRSGuha](https://x.com/KrishnaRSGuha)（Krishna Guha）、[@evergreencap3](https://x.com/evergreencap3)（Evergreen Capital）、[@jukan05](https://x.com/jukan05)、[@xiaomustock](https://x.com/xiaomustock)、[@qinbafrank](https://x.com/qinbafrank)、[@JinYu762](https://x.com/JinYu762)、[@eastweb3eth](https://x.com/eastweb3eth)
-
 > 选人标准：在一线做事 / 有独立判断 / 用真金白银下注。不选搬运号、评论员、流量账号。
 
 > 内容门槛：默认剔除回复，并要求互动分数达到 10（点赞 + 2×转发 + 回复）；小众账号可在 `config/sources.json` 单独降低门槛或允许回复。刚发布但互动不足的内容可能延后到下一次抓取。
 
-### 官方博客与 Newsletter（4 个来源）
+### 官方博客（3 家）
 
 | 来源 | 抓取方式 |
 |------|----------|
 | [Anthropic](https://www.anthropic.com/news) | 官方 sitemap（Anthropic 无 RSS）+ 文章页真实发布日期过滤 |
 | [OpenAI](https://openai.com/news/) | 官方 RSS |
 | [Google DeepMind](https://deepmind.google/blog/) | 官方 RSS |
-| [OutspokenGeek](https://outspokengeek.substack.com/) | Substack RSS；关注 Bloom Energy、半导体与投资研究 |
 
 > 模型发布、产品上线、研究成果、安全框架，第一时间从官方渠道进日报，不等二手转述。每家每天最多 5 条，48 小时窗口。
 
