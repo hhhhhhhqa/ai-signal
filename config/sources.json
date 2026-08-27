@@ -184,6 +184,72 @@
         "name": "Kun Chen (FirstMate / ex-Meta L8)",
         "domain": "ai",
         "tier": "builder"
+      },
+      {
+        "handle": "CathieDWood",
+        "name": "Cathie Wood (ARK Invest)",
+        "domain": "invest",
+        "tier": "analyst"
+      },
+      {
+        "handle": "DeepSailCapital",
+        "name": "Deep Sail Capital",
+        "domain": "invest",
+        "tier": "analyst"
+      },
+      {
+        "handle": "SerenityRSH",
+        "name": "Serenity Research",
+        "domain": "invest",
+        "tier": "analyst"
+      },
+      {
+        "handle": "DaBao_",
+        "name": "DaBao_",
+        "domain": "invest",
+        "tier": "analyst"
+      },
+      {
+        "handle": "KrishnaRSGuha",
+        "name": "Krishna Guha",
+        "domain": "invest",
+        "tier": "analyst"
+      },
+      {
+        "handle": "evergreencap3",
+        "name": "Evergreen Capital",
+        "domain": "invest",
+        "tier": "analyst"
+      },
+      {
+        "handle": "jukan05",
+        "name": "jukan05",
+        "domain": "invest",
+        "tier": "analyst"
+      },
+      {
+        "handle": "xiaomustock",
+        "name": "xiaomustock",
+        "domain": "invest",
+        "tier": "analyst"
+      },
+      {
+        "handle": "qinbafrank",
+        "name": "qinbafrank",
+        "domain": "invest",
+        "tier": "analyst"
+      },
+      {
+        "handle": "JinYu762",
+        "name": "JinYu762",
+        "domain": "invest",
+        "tier": "analyst"
+      },
+      {
+        "handle": "eastweb3eth",
+        "name": "eastweb3eth",
+        "domain": "invest",
+        "tier": "analyst"
       }
     ]
   },
@@ -517,6 +583,12 @@
         "name": "Google DeepMind",
         "type": "rss",
         "url": "https://deepmind.google/blog/rss.xml"
+      },
+      {
+        "id": "outspokengeek",
+        "name": "OutspokenGeek",
+        "type": "rss",
+        "url": "https://outspokengeek.substack.com/feed"
       }
     ]
   },
