@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-08-28T22:01:23.756276+00:00",
+  "generated_at": "2026-08-29T22:32:14.238402+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+      "link": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+      "channel": "Latent Space",
+      "title": "[AINews] OpenAI shuts off Cursor",
+      "pub_date": "2026-08-29T05:11:52+00:00",
+      "transcript_path": "feeds/transcripts/b6071d28a1ba7aaee650d2e5.txt",
+      "transcript_chars": 19891,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-29T22:32:14.238402+00:00",
+      "last_seen_at": "2026-08-29T22:32:14.238402+00:00",
+      "expires_at": "2026-09-12T22:32:14.238402+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
       "link": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
@@ -12,8 +25,8 @@
       "transcript_chars": 10228,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-28T22:01:23.756276+00:00",
-      "last_seen_at": "2026-08-28T22:01:23.756276+00:00",
-      "expires_at": "2026-09-11T22:01:23.756276+00:00"
+      "last_seen_at": "2026-08-29T22:32:14.238402+00:00",
+      "expires_at": "2026-09-12T22:32:14.238402+00:00"
     },
     {
       "guid": "c33e7adf-b23d-45db-bf74-334921fbdd26",
@@ -25,8 +38,8 @@
       "transcript_chars": 144078,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T22:46:43.554266+00:00",
-      "last_seen_at": "2026-08-28T22:01:23.756276+00:00",
-      "expires_at": "2026-09-11T22:01:23.756276+00:00"
+      "last_seen_at": "2026-08-29T22:32:14.238402+00:00",
+      "expires_at": "2026-09-12T22:32:14.238402+00:00"
     },
     {
       "guid": "yt:3wsS9iuOua4",
@@ -38,8 +51,8 @@
       "transcript_chars": 180763,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-27T22:46:43.554266+00:00",
-      "last_seen_at": "2026-08-28T22:01:23.756276+00:00",
-      "expires_at": "2026-09-11T22:01:23.756276+00:00"
+      "last_seen_at": "2026-08-29T22:32:14.238402+00:00",
+      "expires_at": "2026-09-12T22:32:14.238402+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
@@ -51,8 +64,8 @@
       "transcript_chars": 11730,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:32:20.553365+00:00",
-      "last_seen_at": "2026-08-28T22:01:23.756276+00:00",
-      "expires_at": "2026-09-11T22:01:23.756276+00:00"
+      "last_seen_at": "2026-08-29T22:32:14.238402+00:00",
+      "expires_at": "2026-09-12T22:32:14.238402+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
@@ -64,8 +77,8 @@
       "transcript_chars": 12551,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-27T02:32:20.553365+00:00",
-      "last_seen_at": "2026-08-28T22:01:23.756276+00:00",
-      "expires_at": "2026-09-11T22:01:23.756276+00:00"
+      "last_seen_at": "2026-08-29T22:32:14.238402+00:00",
+      "expires_at": "2026-09-12T22:32:14.238402+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=6506",
@@ -155,8 +168,8 @@
       "transcript_chars": 76682,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-28T22:01:23.756276+00:00",
-      "expires_at": "2026-09-11T22:01:23.756276+00:00"
+      "last_seen_at": "2026-08-29T22:32:14.238402+00:00",
+      "expires_at": "2026-09-12T22:32:14.238402+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
@@ -194,8 +207,8 @@
       "transcript_chars": 87094,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-28T22:01:23.756276+00:00",
-      "expires_at": "2026-09-11T22:01:23.756276+00:00"
+      "last_seen_at": "2026-08-29T22:32:14.238402+00:00",
+      "expires_at": "2026-09-12T22:32:14.238402+00:00"
     },
     {
       "guid": "yt:ehYixQAzVsw",
@@ -311,8 +324,8 @@
       "transcript_chars": 42305,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-20T22:01:40.699775+00:00",
-      "last_seen_at": "2026-08-28T22:01:23.756276+00:00",
-      "expires_at": "2026-09-11T22:01:23.756276+00:00"
+      "last_seen_at": "2026-08-29T22:32:14.238402+00:00",
+      "expires_at": "2026-09-12T22:32:14.238402+00:00"
     },
     {
       "guid": "aaea986e-c55f-481b-b387-b67b02cf9d21",
@@ -428,8 +441,8 @@
       "transcript_chars": 41328,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-18T00:01:43.510439+00:00",
-      "last_seen_at": "2026-08-28T22:01:23.756276+00:00",
-      "expires_at": "2026-09-11T22:01:23.756276+00:00"
+      "last_seen_at": "2026-08-29T22:32:14.238402+00:00",
+      "expires_at": "2026-09-12T22:32:14.238402+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
@@ -469,45 +482,6 @@
       "cached_at": "2026-08-15T22:01:31.644570+00:00",
       "last_seen_at": "2026-08-18T00:01:43.510439+00:00",
       "expires_at": "2026-09-01T00:01:43.510439+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
-      "link": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
-      "channel": "Latent Space",
-      "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
-      "pub_date": "2026-08-13T01:53:47+00:00",
-      "transcript_path": "feeds/transcripts/0ca714a85119256f832dd9da.txt",
-      "transcript_chars": 19246,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-14T22:35:30.406014+00:00",
-      "last_seen_at": "2026-08-15T22:01:31.644570+00:00",
-      "expires_at": "2026-08-29T22:01:31.644570+00:00"
-    },
-    {
-      "guid": "https://lexfridman.com/?p=6494",
-      "link": "https://lexfridman.com/khabib-nurmagomedov/?utm_source=rss&utm_medium=rss&utm_campaign=khabib-nurmagomedov",
-      "channel": "Lex Fridman",
-      "title": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
-      "pub_date": "2026-08-12T13:11:45+00:00",
-      "transcript_path": "feeds/transcripts/4dd49418f027831fd02bb01a.txt",
-      "transcript_chars": 177054,
-      "transcript_source": "description_transcript_link",
-      "cached_at": "2026-08-12T22:59:24.999710+00:00",
-      "last_seen_at": "2026-08-14T22:35:30.406014+00:00",
-      "expires_at": "2026-08-28T22:35:30.406014+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
-      "link": "https://www.latent.space/p/ainews-how-to-steal-a-reasoning-trace",
-      "channel": "Latent Space",
-      "title": "[AINews] How to steal a Reasoning Trace",
-      "pub_date": "2026-08-12T07:11:08+00:00",
-      "transcript_path": "feeds/transcripts/95535ce824ed2c9cb88c1c56.txt",
-      "transcript_chars": 27398,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-12T22:59:24.999710+00:00",
-      "last_seen_at": "2026-08-14T22:35:30.406014+00:00",
-      "expires_at": "2026-08-28T22:35:30.406014+00:00"
     },
     {
       "guid": "4d59eed8-de80-4c59-8417-cfffb5f75779",
