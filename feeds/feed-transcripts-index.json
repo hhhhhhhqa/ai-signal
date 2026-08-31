@@ -1,7 +1,72 @@
 {
-  "generated_at": "2026-08-30T22:29:52.511397+00:00",
+  "generated_at": "2026-08-31T22:45:39.918632+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/openai-huggingface-narration",
+      "link": "https://www.dwarkesh.com/p/openai-huggingface-narration",
+      "channel": "Dwarkesh Patel",
+      "title": "The rise and fall of agent civilizations",
+      "pub_date": "2026-08-31T20:36:53+00:00",
+      "transcript_path": "feeds/transcripts/7ccce02360640f5ec0a16a4f.txt",
+      "transcript_chars": 1392,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-31T22:45:39.918632+00:00",
+      "last_seen_at": "2026-08-31T22:45:39.918632+00:00",
+      "expires_at": "2026-09-14T22:45:39.918632+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
+      "pub_date": "2026-08-31T15:01:58+00:00",
+      "transcript_path": "feeds/transcripts/19e611ecda8994bb81a06da3.txt",
+      "transcript_chars": 6482,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-31T22:45:39.918632+00:00",
+      "last_seen_at": "2026-08-31T22:45:39.918632+00:00",
+      "expires_at": "2026-09-14T22:45:39.918632+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+      "link": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+      "channel": "Lenny's Podcast",
+      "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
+      "pub_date": "2026-08-31T12:04:18+00:00",
+      "transcript_path": "feeds/transcripts/0f041fdc00170600ee343a93.txt",
+      "transcript_chars": 6168,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-31T22:45:39.918632+00:00",
+      "last_seen_at": "2026-08-31T22:45:39.918632+00:00",
+      "expires_at": "2026-09-14T22:45:39.918632+00:00"
+    },
+    {
+      "guid": "yt:T2q2Zv4ePII",
+      "link": "https://www.youtube.com/watch?v=T2q2Zv4ePII",
+      "channel": "Bloomberg Television",
+      "title": "An Exclusive Interview with Jensen Huang on Nvidia’s AI Future | Open Interest 8/31/2026",
+      "pub_date": "2026-08-31T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/ace41d24f05b60f3b4faa81e.txt",
+      "transcript_chars": 68953,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-08-31T22:45:39.918632+00:00",
+      "last_seen_at": "2026-08-31T22:45:39.918632+00:00",
+      "expires_at": "2026-09-14T22:45:39.918632+00:00"
+    },
+    {
+      "guid": "2bbc686d-ae76-447b-b649-410ff08bcacc",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--027---OpenAI-Jalapeo-Better-Than-Nvidia-Blackwell-Accelerators-e3o3oms",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 027 - OpenAI Jalapeño: Better Than Nvidia Blackwell (Accelerators)",
+      "pub_date": "2026-08-30T22:22:06+00:00",
+      "transcript_path": "feeds/transcripts/12d770949ddd6965f9aa3601.txt",
+      "transcript_chars": 35421,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-08-31T22:45:39.918632+00:00",
+      "last_seen_at": "2026-08-31T22:45:39.918632+00:00",
+      "expires_at": "2026-09-14T22:45:39.918632+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/openai-huggingface",
       "link": "https://www.dwarkesh.com/p/openai-huggingface",
@@ -12,8 +77,8 @@
       "transcript_chars": 26630,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-30T22:29:52.511397+00:00",
-      "last_seen_at": "2026-08-30T22:29:52.511397+00:00",
-      "expires_at": "2026-09-13T22:29:52.511397+00:00"
+      "last_seen_at": "2026-08-31T22:45:39.918632+00:00",
+      "expires_at": "2026-09-14T22:45:39.918632+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
@@ -25,8 +90,8 @@
       "transcript_chars": 19891,
       "transcript_source": "episode_page",
       "cached_at": "2026-08-29T22:32:14.238402+00:00",
-      "last_seen_at": "2026-08-30T22:29:52.511397+00:00",
-      "expires_at": "2026-09-13T22:29:52.511397+00:00"
+      "last_seen_at": "2026-08-31T22:45:39.918632+00:00",
+      "expires_at": "2026-09-14T22:45:39.918632+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
@@ -64,8 +129,8 @@
       "transcript_chars": 180763,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-27T22:46:43.554266+00:00",
-      "last_seen_at": "2026-08-30T22:29:52.511397+00:00",
-      "expires_at": "2026-09-13T22:29:52.511397+00:00"
+      "last_seen_at": "2026-08-31T22:45:39.918632+00:00",
+      "expires_at": "2026-09-14T22:45:39.918632+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
@@ -181,8 +246,8 @@
       "transcript_chars": 76682,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-30T22:29:52.511397+00:00",
-      "expires_at": "2026-09-13T22:29:52.511397+00:00"
+      "last_seen_at": "2026-08-31T22:45:39.918632+00:00",
+      "expires_at": "2026-09-14T22:45:39.918632+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
@@ -337,8 +402,8 @@
       "transcript_chars": 42305,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-20T22:01:40.699775+00:00",
-      "last_seen_at": "2026-08-30T22:29:52.511397+00:00",
-      "expires_at": "2026-09-13T22:29:52.511397+00:00"
+      "last_seen_at": "2026-08-31T22:45:39.918632+00:00",
+      "expires_at": "2026-09-14T22:45:39.918632+00:00"
     },
     {
       "guid": "aaea986e-c55f-481b-b387-b67b02cf9d21",
@@ -469,19 +534,6 @@
       "cached_at": "2026-08-18T00:01:43.510439+00:00",
       "last_seen_at": "2026-08-20T00:56:50.938880+00:00",
       "expires_at": "2026-09-03T00:56:50.938880+00:00"
-    },
-    {
-      "guid": "yt:hZqJvWDI0Rs",
-      "link": "https://www.youtube.com/watch?v=hZqJvWDI0Rs",
-      "channel": "Matthew Berman",
-      "title": "Mark Zuckerberg just called out Dario (and Anthropic)",
-      "pub_date": "2026-08-11T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/2d7042d01fcc45e988f00e91.txt",
-      "transcript_chars": 35644,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-08-16T23:10:55.197765+00:00",
-      "last_seen_at": "2026-08-16T23:10:55.197765+00:00",
-      "expires_at": "2026-08-30T23:10:55.197765+00:00"
     },
     {
       "guid": "https://www.latent.space/p/flue-2",

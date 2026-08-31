@@ -42,14 +42,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2093568352736436576",
-          "text": "The average strongly held belief these days in AI has a half life of 6 months at best. Here are just a few the industry has cycled through and probably has no consensus on at the moment:\n\n* OSS is too far behind to catch up \n\n* The labs can’t be profitable at scale\n\n* All software will be replaced by agents\n\n* You can’t build moats on top of models\n\n* Cheaper models will mean less compute\n\n* You don’t need evals\n\n* RAG is dead \n\n* AI will decimate engineering jobs\n\n* Prompting won’t matter in the future \n\n* We’ve hit a training wall\n\n* Frontier models are too dangerous to release \n\n…and dozens and dozens more. The key here is to remain flexible in your thinking because we’re going to be in a constant state of change for a while.",
-          "created_at": "2026-08-29T05:16:06+00:00",
-          "like_count": 601,
+          "id": "2094123406811922930",
+          "text": "Sometimes people don’t have an intuitive sense of what Jevons paradox looks like for token consumption. Those of us working with enterprises get to see this first hand every day.\n\nBasically enterprises have an unending stream of tasks that they’d love to be able to bring automation to. But for each individual task, it’s either ROI positive or not based on the cost of bringing automation to it (including the setup time, change management, and so on).\n\nAs tokens get cheaper (at a certain capability threshold), enterprises can afford bringing them to more of the work that they do. This could be processing every contract, reading every log, watching new streams of data for insights, having background agents execute workflows, and so on. \n\nAny time we can lower the cost of tokens, we will see a disproportionate increase in consumption. Even a 50% drop in token prices could result in a 5X increase in tokens for these kinds of workloads.\n\nThis is why it’s critical to keep bringing down the cost of AI, and why that’s good for all market participants.",
+          "created_at": "2026-08-30T18:01:41+00:00",
+          "like_count": 451,
           "retweet_count": 70,
-          "reply_count": 75,
-          "engagement_score": 816,
-          "url": "https://x.com/levie/status/2093568352736436576"
+          "reply_count": 59,
+          "engagement_score": 650,
+          "url": "https://x.com/levie/status/2094123406811922930"
+        },
+        {
+          "id": "2094545525102235844",
+          "text": "As AI security events pick up, it’s going to be critical that we have the most sophisticated AI agents for being able to detect and prevent security issues. Frontier models are clearly still ahead in cyber, but open models are catching up quickly. Wild times.",
+          "created_at": "2026-08-31T21:59:02+00:00",
+          "like_count": 5,
+          "retweet_count": 1,
+          "reply_count": 3,
+          "engagement_score": 10,
+          "url": "https://x.com/levie/status/2094545525102235844"
         }
       ]
     },
@@ -67,34 +77,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2093506460286099536",
-          "text": "Idk I feel like OpenAI has talked about what it will do quite a bit? \n\nMore interviews and reports have come up where they've mentioned it too https://t.co/x4Zh8p81qx",
-          "created_at": "2026-08-29T01:10:10+00:00",
-          "like_count": 72,
+          "id": "2094204064246428127",
+          "text": "brought my usage from 96% to 39% but 1.5B tokens! https://t.co/W0lAydnFcs",
+          "created_at": "2026-08-30T23:22:12+00:00",
+          "like_count": 224,
           "retweet_count": 2,
           "reply_count": 5,
-          "engagement_score": 81,
-          "url": "https://x.com/mweinbach/status/2093506460286099536"
+          "engagement_score": 233,
+          "url": "https://x.com/mweinbach/status/2094204064246428127"
         },
         {
-          "id": "2094122267328291311",
-          "text": "I just setup 2 of the Mac Studios in my cluster as just remote boxes in Codex\n\nFeels like it's the right time to spread across a ton of computers\n\nMostly because the threads are getting so long the Codex app is locking up and remote connection on my phone are more reliable",
-          "created_at": "2026-08-30T17:57:10+00:00",
-          "like_count": 53,
+          "id": "2094515590266237055",
+          "text": "Oh so the other thing with Atlas is I did a ton of work on the knowledge base we use for the agent. It's a bit overkill but VERY good.\n\nIt supports full multi-modal input with processing pipelines to help retrieval quality. https://t.co/Vk6QsvflGn",
+          "created_at": "2026-08-31T20:00:05+00:00",
+          "like_count": 28,
           "retweet_count": 1,
-          "reply_count": 8,
-          "engagement_score": 63,
-          "url": "https://x.com/mweinbach/status/2094122267328291311"
+          "reply_count": 5,
+          "engagement_score": 35,
+          "url": "https://x.com/mweinbach/status/2094515590266237055"
         },
         {
-          "id": "2094072747424886871",
-          "text": "This is many months and many billions of tokens",
-          "created_at": "2026-08-30T14:40:23+00:00",
-          "like_count": 47,
-          "retweet_count": 0,
-          "reply_count": 2,
-          "engagement_score": 49,
-          "url": "https://x.com/mweinbach/status/2094072747424886871"
+          "id": "2094502172125806797",
+          "text": "All in this has probably taken idk 45-60B tokens across (mostly) GPT 5.6 Sol\n\nFable was insanely helpful when it was just GPT 5.5 and Fable available, and no joke Fable being taken away for those like 3 weeks did delay this a bit",
+          "created_at": "2026-08-31T19:06:46+00:00",
+          "like_count": 20,
+          "retweet_count": 1,
+          "reply_count": 3,
+          "engagement_score": 25,
+          "url": "https://x.com/mweinbach/status/2094502172125806797"
         }
       ]
     },
@@ -103,21 +113,54 @@
       "name": "Vals AI (independent model evaluations)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2094527782261006773",
+          "text": "Full results for GLM-5.3 are in and it is the #2 open-weight model on the Vals Index at 57.0, behind Kimi K3. It’s #13 of 50 models overall, up from #18 for GLM-5.2. \n\nAmong open-weight models, the model is #1 on our proprietary Legal Research, #1 on Code Migration, and #2 on Finance Agent v2.",
+          "created_at": "2026-08-31T20:48:32+00:00",
+          "like_count": 23,
+          "retweet_count": 3,
+          "reply_count": 6,
+          "engagement_score": 35,
+          "url": "https://x.com/ValsAI/status/2094527782261006773"
+        }
+      ]
     },
     {
       "handle": "arena",
       "name": "Arena (formerly LMArena / human preference benchmark)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2094440382440611935",
+          "text": "Exciting news: GLM-5.3-Flash by @Zai_org has landed in Agent Arena! At a $0.12 median cost per task and a +4.6% net improvement, it has reshaped the Pareto frontier! GLM-5.3-Flash is placed between DeepSeek V4 (High) and GPT-5.6 Luna (xHigh).\n\nBased on 9K+ real-world agentic sessions, GLM-5.3-Flash ranks #4 among open source models and #19 overall, one spot ahead of GLM-5.3 (Max) at #20 overall with +3.7% net improvement.\n\nBy signal, GLM-5.3-Flash stands out in Confirmed Success at +15.3%, ranking #4 there. See more info by all 5 signals below.\n\nCongrats to the @Zai_org team on this release!",
+          "created_at": "2026-08-31T15:01:14+00:00",
+          "like_count": 416,
+          "retweet_count": 38,
+          "reply_count": 28,
+          "engagement_score": 520,
+          "url": "https://x.com/arena/status/2094440382440611935"
+        }
+      ]
     },
     {
       "handle": "ArtificialAnlys",
       "name": "Artificial Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2094256863865078046",
+          "text": "Apodex has launched Apodex 1.1, a proprietary model scoring 44 on the Artificial Analysis Intelligence Index with strong performance in agentic tasks compared to models in its intelligence tier\n\nApodex 1.1 is Apodex's first model on Artificial Analysis. The lab has previously launched Apodex 1.0 and Apodex 1.0 mini. At 44 on the Intelligence Index, Apodex 1.1 sits in a similar tier alongside Kimi K2.6 (45), and MiniMax-M3 (45), and Inkling (42). Within that group, Apodex 1.1 stands out on agentic and knowledge work evaluations, but demonstrates trade-offs on knowledge reliability and frontier academic reasoning.\n\nKey results:\n\n➤ Apodex 1.1 demonstrates a key strength in agentic workflows. On GDPval-AA v2, our real-world agentic work benchmark, Apodex 1.1 achieves an Elo of 1348, which places it ahead of DeepSeek V4 Pro (1333), Qwen3.7 Max (1308), and Kimi K2.6 (1202). On TerminalBench v2.1, our agentic coding and terminal use benchmark, it also performs strongly with a strong 70% score, ahead of Kimi K2.6 (66%) and just behind Qwen3.7 Max (75%).\n\n➤ Apodex 1.1 uses ~17k output tokens per task on average across the Artificial Analysis Intelligence Index. This makes the model more token efficient than DeepSeek V4 Pro (16,842 tokens), but less token efficient than other models with a similar Intelligence Index score, such as Qwen3.7 Max (9,391 tokens) and MiniMax-M3 (8,133 tokens).\n\n➤ Apodex 1.1 costs ~$0.05 per Intelligence Index Task, making it relatively attractive compared to peer models in its intelligence tier. This is primarily driven by a cheap pricing but is slightly offset by the higher tokens per task. At ~$0.05, Apodex 1.1 is cheaper than Qwen3.7 Max (~$0.07) and Kimi K2.6 (~$0.06). Even though Apodex 1.1 is not on the Cost vs. Intelligence Pareto frontier, it lands in the most attractive quadrant.\n\n➤ Apodex 1.1 demonstrates modest performance on knowledge accuracy and reliability, scoring -21.9 on AA-Omniscience. The model achieves 32% accuracy on individual questions, with a 78.4% hallucination rate. It attempts to answer 87% of questions rather than declining to respond.\n\nAdditional model details: \n➤ Context window: 256K tokens  \n➤ Pricing: $0.30 / $3.00 per 1M input/output tokens, with a $0.03 cache-hit price  \n➤ Availability: Apodex first party API",
+          "created_at": "2026-08-31T02:52:00+00:00",
+          "like_count": 220,
+          "retweet_count": 17,
+          "reply_count": 25,
+          "engagement_score": 279,
+          "url": "https://x.com/ArtificialAnlys/status/2094256863865078046"
+        }
+      ]
     },
     {
       "handle": "naval",
@@ -175,24 +218,14 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2093484389682270429",
-          "text": "What used to take years now takes a week. \n\n@TAMU's VISION, an NVIDIA DGX SuperPOD and the most powerful academic supercomputer on the June 2026 TOP500, is giving researchers across seven institutions the compute to tackle challenges at unprecedented scale and speed. https://t.co/TfohplP2fW",
-          "created_at": "2026-08-28T23:42:28+00:00",
-          "like_count": 1310,
-          "retweet_count": 113,
-          "reply_count": 56,
-          "engagement_score": 1592,
-          "url": "https://x.com/nvidia/status/2093484389682270429"
-        },
-        {
-          "id": "2093722690049695780",
-          "text": "Are you measuring AI infrastructure performance on how agents actually run? \n\n@SemiAnalysis_ built AgentX to do just that. \n\nVera Rubin NVL72 performance measured by NVIDIA on the SemiAnalysis AgentX workload shows up to 30x better throughput per megawatt than GB300 NVL72. \n\nLearn more ➡️ https://t.co/7GTEtxFk76",
-          "created_at": "2026-08-29T15:29:23+00:00",
-          "like_count": 397,
-          "retweet_count": 40,
-          "reply_count": 42,
-          "engagement_score": 519,
-          "url": "https://x.com/nvidia/status/2093722690049695780"
+          "id": "2094440470814609812",
+          "text": "We’re excited to expand our work with @MediaTek. 🤝\n\nAI factories will be built around differentiated compute — but custom silicon needs a path from chip design to production-scale systems. With MediaTek adopting NVIDIA NVLink Fusion, customers can focus on what makes their XPUs unique and connect them to NVIDIA rack-scale AI infrastructure.\n https://t.co/ey9r7NacA2",
+          "created_at": "2026-08-31T15:01:35+00:00",
+          "like_count": 486,
+          "retweet_count": 68,
+          "reply_count": 45,
+          "engagement_score": 667,
+          "url": "https://x.com/nvidia/status/2094440470814609812"
         }
       ]
     },
@@ -231,34 +264,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2093482695838007318",
-          "text": "I see the web evolving in two extremes:\n\n1️⃣ ultra-fancy human experiences, in the service of delight, exploration, brand, entertainment. https://t.co/0nyTRPKDEJ / threejs / typegpu are enabling this\n\n2️⃣ agent-centric content, data and APIs. the opposite end of the spectrum: pure, lossless signal for machines. The rise of markdown and MCP are the tip of this iceberg\n\nThe 'in between' is likely to be subsumed by agents producing just-in-time UI. When you need utilitarian content or data, it'll be generated just-in-time for you. Think of the agent as the new browser in this model.",
-          "created_at": "2026-08-28T23:35:44+00:00",
-          "like_count": 1329,
-          "retweet_count": 88,
-          "reply_count": 92,
-          "engagement_score": 1597,
-          "url": "https://x.com/rauchg/status/2093482695838007318"
+          "id": "2094541309579235680",
+          "text": "Your next design system is… Markdown.\n\nWe wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop.\n\nAnd how you can truly, finally scale design taste within a large organization. https://t.co/1boTl2fWyM",
+          "created_at": "2026-08-31T21:42:17+00:00",
+          "like_count": 362,
+          "retweet_count": 19,
+          "reply_count": 17,
+          "engagement_score": 417,
+          "url": "https://x.com/rauchg/status/2094541309579235680"
         },
         {
-          "id": "2094122005193003077",
-          "text": "Two days ago JFrog dropped CVE-2026-82329, a critical authentication bypass in Artifactory.\n\nIt’s a CVSS 9.8, a disastrous vulnerability score. It’s like a 9.8 earthquake on the seismic scale.\n\nIt affects default configs, requires no auth, no user interaction. It’s an RCE bomb because Artifactory hosts binaries, so you can basically poison everything, but an admin escalation can cause damage even beyond that.\n\nWhen the OpenAI / Hugging Face news came out of agents discovering zero-days, I was wondering if it was marketing-speak or reality, because I hadn’t seen a CVE filing. Now it’s here: https://www​.cve.org/CVERecord?id=CVE-2026-82329.\n\nI don’t see any official confirmation that it’s indeed the case, but one can speculate this is what the agents discovered and exploited. I’d previously written that it was obvious agents could help in finding serious vulnerabilities *alongside humans*, but exploiting them autonomously was a bridge not yet crossed. It seems like we’re now there.\n\nOur guidance for this new world: assume everything hackable will get hacked. And it will get hacked autonomously. You must also defend yourself autonomously, because your surface of attack is likely bigger and your code more vulnerable than you expect:\n\nhttps://vercel​.com/blog/everything-hackable-will-get-hacked",
-          "created_at": "2026-08-30T17:56:07+00:00",
-          "like_count": 676,
-          "retweet_count": 28,
-          "reply_count": 50,
-          "engagement_score": 782,
-          "url": "https://x.com/rauchg/status/2094122005193003077"
-        },
-        {
-          "id": "2093736865191076318",
-          "text": "https://t.co/OL0LzGtvAw 0.0.7: \n\n- hugely improved MCP support, eval'd with top MCPs like @context7ai, @datadoghq, @mongodb, @linear, @notionhq, @supabase, @neondatabase, @stagehanddev, @usekernel…\n\n- more minimalist: fewer tools and improved shell execution. One of the trickiest things about CLI agents is that running commands is actually not that simple.\n\ne.g: commands might hang or run for very long, their output needs to be monitorable by the agent, they might produce huge amounts of output, or none. \n\nThis is an area where 𝚏𝚡 really shines and will continue to get better.",
-          "created_at": "2026-08-29T16:25:43+00:00",
-          "like_count": 329,
-          "retweet_count": 17,
-          "reply_count": 50,
-          "engagement_score": 413,
-          "url": "https://x.com/rauchg/status/2093736865191076318"
+          "id": "2094523399280435630",
+          "text": "Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to:\n\n\"Hey all, here's an AWS key. It can spin up anything from a 𝚝𝟹.𝚗𝚊𝚗𝚘 (＄𝟹.𝟾𝟶/𝚖𝚘) to an 𝚙𝟻.𝟺𝟾𝚡𝚕𝚊𝚛𝚐𝚎 (＄𝟺𝟶𝚔/𝚖𝚘). Go wild\"\n\nAnd obviously the reason companies don't do this for their core infra is that you need to govern, optimize, and observe usage and costs.\n\nThe intern might decide to host a static website in that 192 vCPU machine, and you won't be very happy about the bill.\n\nAI Gateway fixes this for all your tokens, with per-key, and now per-user budgets.",
+          "created_at": "2026-08-31T20:31:07+00:00",
+          "like_count": 137,
+          "retweet_count": 4,
+          "reply_count": 28,
+          "engagement_score": 173,
+          "url": "https://x.com/rauchg/status/2094523399280435630"
         }
       ]
     },
@@ -269,14 +292,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2093533378880667787",
-          "text": "You can access OpenAI models on Replit for free.\n\nOur router also makes high-end models incredibly cost-efficient.\n\nIf you’re a business looking for an independent, multi-model alternative to Cursor, we’d be happy to fund your transition.",
-          "created_at": "2026-08-29T02:57:08+00:00",
-          "like_count": 1365,
-          "retweet_count": 68,
-          "reply_count": 129,
-          "engagement_score": 1630,
-          "url": "https://x.com/amasad/status/2093533378880667787"
+          "id": "2094215744842248418",
+          "text": "The lesson from the Hugging Face Incident should be that RL with verifiable rewards is an incredibly powerful optimization algorithm that will produce increasingly weird and surprising behavior from LLMs.\n\nThe obvious miss here by OpenAI is that they should’ve been monitoring CoTs —  Something they themselves called out as a safety strategy more than a year ago.",
+          "created_at": "2026-08-31T00:08:36+00:00",
+          "like_count": 877,
+          "retweet_count": 48,
+          "reply_count": 81,
+          "engagement_score": 1054,
+          "url": "https://x.com/amasad/status/2094215744842248418"
+        },
+        {
+          "id": "2094280256933056971",
+          "text": "If you ever wondered how civilizations are built, it’s actually easy:\n\n[Agent() for _ in range(100)]",
+          "created_at": "2026-08-31T04:24:57+00:00",
+          "like_count": 786,
+          "retweet_count": 27,
+          "reply_count": 82,
+          "engagement_score": 922,
+          "url": "https://x.com/amasad/status/2094280256933056971"
         }
       ]
     },
@@ -301,14 +334,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2094143559913898450",
-          "text": "Antirez has the incredible talent of explaining concepts, ideas and plans in a clean, direct and simple way. \n\nIt seems simplicity is a very difficult task in the AI/LLM world.",
-          "created_at": "2026-08-30T19:21:46+00:00",
-          "like_count": 34,
-          "retweet_count": 1,
+          "id": "2094138337564983380",
+          "text": "What is your honest opinion on Opus 5? \n\nReply only if you have really used it 🙏🏻",
+          "created_at": "2026-08-30T19:01:01+00:00",
+          "like_count": 12,
+          "retweet_count": 0,
+          "reply_count": 33,
+          "engagement_score": 45,
+          "url": "https://x.com/ivanfioravanti/status/2094138337564983380"
+        },
+        {
+          "id": "2094524266607690075",
+          "text": "Time to update Hermes Agent too!",
+          "created_at": "2026-08-31T20:34:34+00:00",
+          "like_count": 15,
+          "retweet_count": 0,
           "reply_count": 2,
-          "engagement_score": 38,
-          "url": "https://x.com/ivanfioravanti/status/2094143559913898450"
+          "engagement_score": 17,
+          "url": "https://x.com/ivanfioravanti/status/2094524266607690075"
         }
       ]
     },
@@ -319,24 +362,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2094061658612146348",
-          "text": "In fact many laws are predicated on the assumption of imperfect, sometimes highly imperfect, enforcement. The fact that AI enables far closer to perfect enforcement should indeed concern you!\n\n“In Hell there will be nothing but law, and due process will be meticulously observed.”",
-          "created_at": "2026-08-30T13:56:19+00:00",
-          "like_count": 323,
-          "retweet_count": 24,
-          "reply_count": 29,
-          "engagement_score": 400,
-          "url": "https://x.com/deanwball/status/2094061658612146348"
+          "id": "2094431192959324559",
+          "text": "Agreed with Ramez. I have always believed US/China AI safety collaboration would be desirable but thought it was unlikely to happen. In the past few months, though, the ground has shifted. There is a window of opportunity. \n\nI suspect that window will widen over at least the next few months because of (1) the salience of AI and potency of the risks will rise ever further, (2) the upcoming visit of Xi to the U.S., and (3) Trump’s desire for a legacy-defining issue (and let’s be clear: if Trump can devise the framework for safely bringing superintelligence into the world with China, he will rightfully go down as one of the greatest world leaders of all time and should be a shoo-in for the Nobel).\n\nSo there is a window. But it probably will not remain open forever.",
+          "created_at": "2026-08-31T14:24:43+00:00",
+          "like_count": 200,
+          "retweet_count": 23,
+          "reply_count": 14,
+          "engagement_score": 260,
+          "url": "https://x.com/deanwball/status/2094431192959324559"
         },
         {
-          "id": "2093846389557981593",
-          "text": "This music is made with the explicit goal of annihilating the soul before a higher power and thus it must be part of the alignment literature.",
-          "created_at": "2026-08-29T23:40:55+00:00",
-          "like_count": 113,
-          "retweet_count": 8,
-          "reply_count": 3,
-          "engagement_score": 132,
-          "url": "https://x.com/deanwball/status/2093846389557981593"
+          "id": "2094502162256859554",
+          "text": "This was an excellent podcast from @labenz with @BronsonSchoen about AI chains of thought (an LLM’s internal monologue while it is answering user queries). A very good way for a layperson to get a qualitative sense of how reinforcement learning changes model behavior.\n\nhttps://t.co/9OxcFhYbD1",
+          "created_at": "2026-08-31T19:06:44+00:00",
+          "like_count": 21,
+          "retweet_count": 2,
+          "reply_count": 1,
+          "engagement_score": 26,
+          "url": "https://x.com/deanwball/status/2094502162256859554"
         }
       ]
     },
@@ -347,18 +390,28 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2094079445074162118",
-          "text": "i've had enough of all the over-engineering happening during adversarial review loops, causing no-mistakes runs to take a long time and sometimes create scope creep, usually caused by cough... sol.. cough..\n\nso i just spent a whole day tracking down the traces and improved agent instructions in no-mistakes to specifically combat over-engineering\n\nmostly did two things:\n1. scope expansion now gets escalated to human review more often\n2. auto fixes now attempts solving problems through simplification over adding machinery\n\nin my own private eval set this worked really well!\n\nif you've been using no-mistakes, update to 1.60.2+ now. if not, here it is - https://t.co/6ldO9b8Cxx",
-          "created_at": "2026-08-30T15:07:00+00:00",
-          "like_count": 627,
-          "retweet_count": 27,
-          "reply_count": 59,
-          "engagement_score": 740,
-          "url": "https://x.com/kunchenguid/status/2094079445074162118"
+          "id": "2094305141591781783",
+          "text": "would really love the real story behind the two silent months, and why all the loops and graphs couldn’t have shipped it faster :) \n\nthis story will be genuinely helpful for everyone to understand the challenges and bottlenecks in real world agentic engineering",
+          "created_at": "2026-08-31T06:03:50+00:00",
+          "like_count": 376,
+          "retweet_count": 21,
+          "reply_count": 38,
+          "engagement_score": 456,
+          "url": "https://x.com/kunchenguid/status/2094305141591781783"
+        },
+        {
+          "id": "2094517788471894502",
+          "text": "once upon a time i was working with ~10 agents in tmux. i got all the agents on full cylinders and it felt great. i walked away to make coffee\n\nwhen i came back, the screen showed an empty terminal with nothing on it. it took me a few seconds to realize it was a tmux server crash. my \"agent civilization\" just got a team wipe\n\nthat was probably one of the most painful experiences in all my time working with agents. i had to manually figure out which agents were working, what their last state was, which worktrees were clean vs dirty, which PRs were raised vs not, how to get them to correctly resume\n\nthis team wipe led to me putting down a founding principle in firstmate - restart should be a non-event. it's hard to fully achieve that, but firstmate pushed pretty far\n\ni can kill the firstmate session and crewmates would still keep working. restart firstmate and it would catch up on what the fleet had done\n\ni can have dozens of second mates and crewmates running in the fleet doing whatever, and i can literally pull the power plug of my mac, restart it, and firstmate will reconcile everything and in a few minutes the entire fleet would be doing whatever it was doing earlier\n\ni can have multiple remote machines and any one of them can die any time. whenever they are up, all the crew there would continue working\n\nthis was done by being disciplined about where to place what kinds of context\n\nthe agent's context window is like our computer's \"memory\". they can get lost, cleared, compacted, or screwed up in various ways. we should keep it intended for things that agent's next request likely needs direct access to\n\nanything that needs to serve as a durable record should not be trusted to stay only in the context window. they must be pushed and persisted onto the disk, and made discoverable by the agent. this can be done through tools like beads, or external project management tools like jira/linear. firstmate does this mostly through a tool called \"tasks-axi\" which stores records in a markdown file locally\n\nif you don't have a system for persistent record keeping yet, highly recommend looking into getting one set up. this saved my agent civilizations so many times",
+          "created_at": "2026-08-31T20:08:49+00:00",
+          "like_count": 61,
+          "retweet_count": 1,
+          "reply_count": 9,
+          "engagement_score": 72,
+          "url": "https://x.com/kunchenguid/status/2094517788471894502"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-08-30T22:13:09.449937+00:00"
+  "generated_at": "2026-08-31T22:12:26.566597+00:00"
 }

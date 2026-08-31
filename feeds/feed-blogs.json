@@ -1,5 +1,24 @@
 {
-  "articles": [],
+  "articles": [
+    {
+      "id": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "published": "2026-08-31T04:00:00+00:00",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
+    },
+    {
+      "id": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Improving our alignment and security practices",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "published": "2026-08-31T00:00:00+00:00",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    }
+  ],
   "errors": null,
-  "generated_at": "2026-08-30T22:13:09.449937+00:00"
+  "generated_at": "2026-08-31T22:12:26.566597+00:00"
 }
