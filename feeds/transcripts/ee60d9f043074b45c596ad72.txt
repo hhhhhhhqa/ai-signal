@@ -1,0 +1,339 @@
+AI Engineer transcription, timing, and diarization — swyxbench swyx bench Working paper · AI systems research Source ↗
+Working paper · diagnostic no human gold
+AI Engineer transcription, timing, and diarization
+swyxbench research archive · 100-talk release + 1,042 paired Scribe outputs
+100-talk cohort Scribe configuration study No human gold
+Diagnostic only: no human gold
+The primary result is a frozen 100-talk provider cohort scored against Scribe machine silver. A separate 1,042-pair Scribe configuration comparison and a historical one-talk bake-off answer narrower questions. Human-gold WER, DER, JER, tcpWER, hallucination truth, deep-link correctness, and downstream retrieval or citation correctness remain unavailable.
+Executive readout
+What the 100-talk cohort says now
+Production posture Scribe remains the substrate, not human truth
+It supplies the machine reference and production artifact shape; the study cannot establish its absolute accuracy.
+Closest to silver Speechmatics leads text and timing agreement
+In this cohort it has the lowest disagreement with Scribe text and the tightest matched-word timing tails.
+Technical terms AssemblyAI preserves the most entity mentions
+It has the strongest frozen-lexicon entity F1 against Scribe silver; the lexicon is model-reviewed, not human-approved.
+Speed and local control Deepgram is fastest; Parakeet is the local lane
+Deepgram has the lowest managed latency. Parakeet is inexpensive to run locally but supplies no speaker labels here.
+Read this report 01 100-talk cohort 02 Evidence scorecard 03 Scribe configuration comparison 04 Historical diagnostic 05 Evidence boundary Study scope Abstract
+The primary study compares five transcription systems on a checksum-pinned 100-talk cohort using Scribe v2 as machine silver. A separate 1,042-pair Scribe comparison measures output disagreement across two request configurations on byte-identical audio, while a historical 981.46-second talk documents the motivating failure mode. The scorecard distinguishes observed operations from machine-reference proxies and explicitly marks missing human evidence.
+Executive summary
+We can transcribe the AI Engineer archive today, but we cannot yet claim that any provider is the most accurate. Our best evidence is a checksum-pinned comparison of five systems on the same 100 recordings, using ElevenLabs Scribe v2 as a machine-generated silver reference . It measures disagreement, not human accuracy. The immediate action is to keep the completed Scribe archive reversible while funding a human-annotated subset; switching canonical providers before that would replace one unverified machine transcript with another.
+Keep Scribe v2 as the production archive substrate. It already produced the complete 1,042-talk corpus with word timestamps and anonymous speaker labels. Preserve its raw output and source audio so corrections and future reruns remain possible.
+Use AssemblyAI Universal-3.5 Pro as the first review challenger. It had the strongest technical-name agreement with the prompted silver reference, complete native timing, managed diarization, relatively low latency, and an observed 100-talk cost of $14.73.
+Use Speechmatics Enhanced when whole-transcript agreement or recording-local speaker attribution matters most. It was closest to Scribe across all words and had the lowest timing and anonymous-speaker disagreement, but it was slower and its cohort cost is a rate-card estimate rather than a clean invoice total.
+Use Deepgram Nova-3 when managed latency is the constraint. It had the lowest median managed latency at a directly observed $17.88 for the cohort.
+Use Parakeet v3 for local drafts or search indexes, not canonical speaker-attributed text. It was surprisingly close to the silver transcript and cheap on Apple Silicon, but technical-name recall was much weaker and neither Parakeet run emitted speaker labels.
+Scribe remains the archive substrate because the corpus already exists and its raw, timed output is preserved—not because this study proves it is best. Where review budget permits, retain AssemblyAI output for the annotated subset rather than discarding either candidate. The next credibility step is human annotation of transcript text, technical entities, speaker turns and identities, overlap regions, and word boundaries.
+How to read this report
+This report combines three studies that answer different questions:
+The 100-talk provider study compares AssemblyAI, Deepgram, Speechmatics, Parakeet v2, and Parakeet v3 on 52.5992 hours of identical saved audio. This is the primary study.
+The 1,042-pair Scribe configuration-sensitivity study asks how much two Scribe v2 campaigns disagree when given byte-identical audio under different request recipes. It measures operational variation, not pure model repeatability or accuracy.
+The historical one-talk bake-off explains why the benchmark exists and records early operational lessons. It now lives in the appendix and should not drive the provider ranking.
+“Silver WER” means substitutions plus insertions plus deletions divided by the Scribe reference word count. Lower means closer to Scribe, not closer to a human transcript. “Unavailable” means the evidence does not exist; it never means zero.
+01 · Primary cohort
+100-talk agreement with Scribe silver
+The release consumes the checksum-pinned 100-talk aggregate only. Planned prices and incomplete runs are never plotted as measured quality or human accuracy.
+Checking multi-provider release status…
+02 · Evidence map
+Ten-dimension scorecard
+This scorecard separates provider measurements, machine-reference proxies, and missing human evidence. The 100-talk provider cohort and 1,042-pair Scribe configuration-comparison corpus answer different questions and are never pooled into one ranking.
+Loading evidence coverage and score distributions…
+What the five-provider study found
+All five systems ultimately completed all 100 recordings. A short FFmpeg environment incident caused pre-inference decode failures in the local lanes, but no failed model inference entered the final 500 completed cases. The cohort contains 571,363 normalized Scribe reference words. Intervals below use deterministic 2,000-resample recording-level bootstrap; recordings, not individual words, are the resampling unit.
+System Micro silver WER ↓ 95% case-bootstrap interval Per-talk p95 Technical-entity F1* ↑ Median latency Cohort cost
+Speechmatics Enhanced 8.98% 8.07–9.77% 13.34% 0.922 73.8s $21.04 inferred from rate card
+Parakeet v3 9.19% 8.37–9.97% 16.75% 0.752 27.6s $1.18 inferred at $1/compute-hour
+AssemblyAI U3.5 Pro 10.19% 9.11–11.10% 16.10% 0.955 17.1s $14.73 observed
+Parakeet v2 10.99% 9.70–12.03% 16.41% 0.829 25.4s $1.16 inferred at $1/compute-hour
+Deepgram Nova-3 12.42% 11.05–13.55% 18.26% 0.939 10.8s $17.88 observed
+*The technical-entity column is a machine-silver diagnostic against a frozen 81-entity lexicon. The lexicon was model-assisted, is not human-approved, and its occurrences were not human-labeled. Managed systems and Scribe received a 98-term prompt glossary; Parakeet did not. The result can favor prompted managed systems and the reference.
+No system dominates every dimension. Speechmatics is closest to Scribe across the full transcript. AssemblyAI is strongest on prompted technical names. Deepgram returns managed results fastest. Parakeet keeps audio and inference local at low estimated compute cost, but gives up speaker labels and substantial technical-name recall. The Speechmatics and Parakeet v3 micro-WER intervals overlap, so this silver study does not establish a clean accuracy ordering between them.
+The worst talks matter as much as the average. Per-talk p95 disagreement ranges from 13.34% for Speechmatics to 18.26% for Deepgram. A corpus-wide average hides the recordings most likely to need review.
+Why the reference is silver, not gold
+Scribe is useful because all 100 saved transcripts already existed and the same source bytes could be rerun elsewhere. It is not privileged because it has been proven correct. It scores zero against itself by definition, and any Scribe error can make a competitor look worse for being right.
+The normalization applies Unicode NFKC, lowercases text, and removes punctuation and symbols before edit distance. That makes lexical disagreement reproducible, but deliberately does not score casing, punctuation, paragraphing, code symbols, or semantics. Separate formatting diagnostics still compare machines with Scribe; they are not formatting accuracy.
+The confidence intervals quantify cohort sampling variability under this fixed sample. They do not account for reference error, model drift, prompt asymmetry, or missing human labels.
+Cohort and method
+The cohort is 100 retained recordings, 52.5992 audio hours, and 2.853 GiB of original audio selected from the completed 1,042-recording standalone-talk corpus. Every system received identical checksum-verified bytes.
+The duration mix is 10 recordings at 5–12 minutes, 42 at 12–20, 25 at 20–35, 10 at 35–60, and 13 at one hour or longer. Selection balanced duration, four Scribe-derived technical-keyterm-density quartiles, and anonymous Scribe speaker-cluster counts. Eight title-derived multi-presenter candidates were retained as stress fixtures, but are not labeled as panels without human verification. Accent, true participant count, overlap, language mixture, and room condition are unavailable.
+Each case preserves source and output checksums, raw and normalized artifact hashes, model/runtime metadata, timestamps, anonymous speaker labels where supported, client latency, attempts, failure classification, and cost evidence state. The checked-in release contains aggregate results and 500 text-free case rows; raw audio, transcripts, and provider payloads remain outside Git.
+OpenAI and faster-whisper were not added to this paid round. OpenAI's strongest transcription and diarization endpoints did not offer the same word-timestamp-plus-speaker contract when the cohort was frozen. The observed faster-whisper large-v3 Mac CPU path was slower than real time.
+Technical vocabulary and formatting
+Technical names are graph keys, not cosmetic spelling. Changing “Claude” to “Cloud” can create the wrong product node, corrupt search, and attach citations to the wrong concept even when overall WER looks respectable.
+System Precision Recall Entity F1
+AssemblyAI U3.5 Pro 0.942 0.970 0.955
+Deepgram Nova-3 0.942 0.937 0.939
+Speechmatics Enhanced 0.906 0.939 0.922
+Parakeet v2 0.993 0.711 0.829
+Parakeet v3 0.989 0.606 0.752
+Parakeet produced few extra lexicon mentions but missed many. That explains how low whole-transcript disagreement can coexist with poor graph inputs. It is not a fair unprompted-versus-prompted accuracy contest or human NER evaluation.
+Punctuation F1 against Scribe-rendered text ranges from roughly 0.666 to 0.692. Speechmatics punctuation was reconstructed from raw response.results records because normalized transcript text discarded most punctuation; otherwise we would have measured adapter loss as provider weakness. Casing, numeric-like tokens, and code-like tokens are separate silver-relative diagnostics and do not affect the main ranking.
+Speaker attribution and diarization
+AssemblyAI, Deepgram, and Speechmatics produced anonymous recording-local speaker labels. Parakeet v2 and v3 did not; their diarization result is unavailable , not 0%.
+Managed system Exact Scribe speaker-count match Mean absolute count difference Mapped attribution disagreement* ↓
+AssemblyAI U3.5 Pro 61% 1.74 3.83%
+Speechmatics Enhanced 56% 0.93 2.19%
+Deepgram Nova-3 49% 1.56 3.89%
+*Labels are optimally remapped within each recording and compared only on exact lexical matches. This is neither DER nor JER, does not identify a person, and does not score overlap. The combined speaker-attributed disagreement proxy is not cpWER or tcpWER.
+Anonymous clusters still need roster resolution and human review before becoming named speakers. Interruption-heavy panels require human RTTM/UEM annotations before a credible overlap or diarization-accuracy claim.
+Word timing
+Every system timed every lexical token it emitted. But exact timed-token coverage against the reference ranged from 88.13% to 91.84% after lexical alignment. The scorer assigns a one-second penalty to unmatched or untimed reference tokens instead of calculating drift only on easy matches.
+On exact lexical matches, p95 absolute midpoint disagreement with Scribe was 130ms for Speechmatics, 179.5ms for AssemblyAI, 182ms for Deepgram, 254ms for Parakeet v2, and 262ms for Parakeet v3. Mean signed midpoint bias ranged from -29.6ms for Speechmatics to +18.0ms for Parakeet v2. These are machine-to-machine differences, not absolute boundary error or proof that a deep link lands on the right semantic moment.
+The historical WhisperX experiment shows why coverage stays in the denominator. WhisperX timed all 2,609 tokens it emitted, but only 2,595 of 2,625 source tokens mapped back exactly. Orthographic merges such as skill.md , 20-25 , and day-to-day made 30 source units disappear before drift was reported.
+Latency, throughput, retries, and cost
+Latency is measured around each client request or local inference. Campaign throughput and maximum observed in-flight work are reconstructed from retained intervals; they are not advertised limits.
+System Client latency p50 / p95 Max observed in flight Campaign throughput Inference retries Cost evidence
+AssemblyAI 17.1s / 58.4s 5 246.7 audio-h/wall-h 0 $14.7278 observed from dedicated-key receipts
+Deepgram 10.8s / 58.4s 12 241.8 audio-h/wall-h 0 $17.88 observed; $0.3399/audio-h
+Speechmatics 73.8s / 299.7s 10 169.4 audio-h/wall-h 0 $21.0397 inferred from rate card
+Parakeet v2 25.4s / 106.3s 2 46.4 audio-h/wall-h 0 $1.164 inferred at $1/compute-hour
+Parakeet v3 27.6s / 128.2s 2 27.6 audio-h/wall-h 0 $1.183 inferred at $1/compute-hour
+Speechmatics' workspace balance fell by 39.43 credits while 101 Enhanced requests existed, including one older request. That delta is not a cohort invoice.
+The local receipts include 150 Parakeet v2 and 198 Parakeet v3 pre-inference audio-decode failures from one 12-second FFmpeg environment incident. They are deployment evidence, not model retries. Once corrected, each affected case ran one successful model inference; inference retries are zero for all five systems.
+The release also publishes machine-silver repetition and speech-gap risk signals. They identify suspicious insertions or loops relative to Scribe timing; they are not hallucination rates because Scribe can omit real speech and a no-word interval is not human-verified silence.
+Scribe v2 configuration sensitivity across the full corpus
+Two complete Scribe v2 campaigns cover 1,042 byte-identical audio pairs . One instrumental-only recording has no lexical speech, leaving 1,041 spoken pairs and 448.376 audio hours in the scored subset.
+The runs disagree on 1.048% of first-run normalized words: 26,966 substitutions, 11,138 insertions, and 12,745 deletions across 4,852,543 words. Median per-talk disagreement is 0.744%; p95 is 2.017%. Among 4,813,025 exact matched tokens, p95 absolute midpoint drift is 50ms.
+Low lexical disagreement does not make the runs interchangeable. After recording-local label mapping, anonymous speaker attribution differs on 8.08% of exact matched tokens; 409 of 1,041 recordings change detected speaker count. The second run also produces 36,996 more segments.
+The recipes are confounded. The first used word timing and a global 98-term glossary; the second used English pinning, character timing, audio events, per-talk keyterms, entity detection, seed 42, and temperature 0. ElevenLabs exposed no immutable serving revision. This measures operational configuration sensitivity, not pure model determinism or accuracy.
+03 · Configuration sensitivity
+Scribe output disagreement across two configurations
+Two Scribe v2 campaigns are paired only when their retained source-audio bytes match. The newer request adds character timing, per-talk keyterms, entity detection, and deterministic request controls, so the comparison is confounded and is not pure model repeatability; neither run is human ground truth.
+Loading paired-run comparison…
+Evidence limits and the next benchmark
+There is no human transcript, entity-occurrence annotation, RTTM/UEM, word-boundary gold, overlap annotation, or named-speaker identity set. The study therefore cannot report human WER or NER; DER/JER/cpWER/tcpWER; overlap or identity accuracy; absolute timestamp error or deep-link correctness; summary factuality; correction time; retrieval or citation quality; trustworthy accent, multilingual, room-condition, or panel subgroups; peak memory; exact self-hosted billing; or an observed operational-complexity score.
+Provider consensus does not repair this gap. Machines can agree on the same wrong word or boundary. The next release should human-annotate a bounded stratified subset with two annotators plus adjudication. The frozen protocol and rubric describe the intended gates.
+Appendices and study history
+The remaining sections preserve the production deployment record and the historical one-talk investigation. They explain how the benchmark acquired its present shape; they do not supersede the 100-talk results above.
+Appendix A: Scribe production readiness and deployment
+Scribe has the primitives needed to build independently from a YouTube video, but that does not prove it is the most accurate system. A speaker cluster is not yet a named person and a timestamp is not yet a verified citation.
+Capability Scribe v2 status What we actually know
+Public YouTube input Documented, but failed in production Two different public, unrestricted, embeddable YouTube videos returned HTTP 400 because ElevenLabs could not
+the upstream source. Use retained native-audio upload instead.
+Transcript text Observed The recovered benchmark produced 2,655 word records and 26 instances of “Claude” versus zero “Cloud.”
+Word timing Observed and documented A preserved production pilot timed all 2,013/2,013 words. Absolute timestamp accuracy remains unavailable because no human word-boundary gold exists.
+Character timing Observed in the second archive campaign timestamps_granularity=character covered every lexical record in that run; the first campaign requested word timing only.
+Speaker diarization Observed and documented The two-speaker benchmark found two anonymous clusters; the production pilot attributed all 2,013 words to its one detected speaker. diarize defaults to false , so every production request must explicitly set it to true .
+Number of speakers Documented num_speakers accepts 1–32 when the event roster provides a useful prior.
+Named speaker identity Conditional Labels such as speaker_0 are recording-local unless registered voices are matched with use_speaker_library=true ; otherwise identity needs roster matching and human review.
+Simultaneous overlapping speech Unavailable The response documents one speaker_id per word, not multiple simultaneous speakers or overlap-aware DER. Escalate interruption-heavy panels to a separate overlap-aware diarization lane.
+Technical vocabulary Observed paid add-on The production request supplied 98 technical keyterms; the endpoint permits up to 1,000. Public pricing adds $0.05/audio hour .
+Audio events and punctuation Documented Audio-event tagging is available and enabled by default; response records distinguish word , spacing , and audio_event .
+Language support Documented More than 90 languages; pass a known language when appropriate or retain the detected language and probability.
+Word confidence Documented Response examples include logprob for transcription likelihood. This is not a speaker-identity or diarization-confidence score.
+Async batch execution Documented webhook=true returns early and delivers the transcript asynchronously; callbacks need HTTPS, signature verification, request correlation, idempotency, and retries.
+Long recordings Documented with conflicting size limits Standard requests support up to 10 hours; multichannel up to one hour. The overview says 3 GB while the endpoint says 5 GB, so use 3 GB as the conservative operational ceiling.
+Retention and provenance Limited Request history is retained by default; zero retention is enterprise-only. The original one-talk pilot payload was lost, but both 1,042-talk campaigns preserve raw provider artifacts. ElevenLabs exposed no immutable serving revision for either campaign.
+Primary sources: Scribe v2 endpoint and response schema , speech-to-text capabilities , batch webhook delivery , and zero-retention policy .
+Appendix B: historical one-talk study and Podhood audit
+Historical diagnostic
+How the study started: one technical talk
+This archived bake-off explains the original failure mode and research direction. It does not override the 100-talk cohort.
+Figure 1. Historical one-talk surface-form counts for one technical term across transcription systems. This is not WER, accuracy, or proof of correctness.
+01 · Test case
+One recording. Identical input.
+All measurements use the same 981.46-second conference recording (16:21) with two observed speaker clusters. The recording is available on YouTube ↗ ; the checked source SHA-256 is af8050fdab9c8c214410ded106da8509ea51d44901928f2b3dc2480a05d943ab .
+02 · Managed systems
+Managed speech-to-text
+Only completed, recovered observations are compared. Prices are the dated public base-rate snapshot; speed is recording duration divided by measured client wall time.
+Observed end-to-end client latency. AssemblyAI is an upper bound; Speechmatics has no comparable client-side measurement. Published base rates per recorded audio hour, dated 2026-08-21. Add-ons and actual invoices may differ.
+Four completed managed ASR runs on the same source recording.
+System USD / hour Latency Speed Words Speakers Claude / Cloud Silver WER ↓
+11 ElevenLabs Scribe v2 $0.22 17.05 s 57.6× 2,655 2 26 / 0 0.00% †
+A AssemblyAI Universal-3.5 Pro $0.21 <29 s >33.8× 2,639 2 26 / 0 Unavailable
+◉ Deepgram Nova-3 $0.462 6.69 s 146.7× 2,650 2 25 / 1 Unavailable
+S Speechmatics Enhanced $0.400 12 s* — 2,640 2 21 / 5 Unavailable
+* Speechmatics reports provider-side service metadata rather than observed client wall time; its speed is therefore unavailable. AssemblyAI latency is an upper bound. † ElevenLabs scores zero against itself by definition. Other managed full transcripts were not retained, so their silver WER is unavailable. Public prices are a snapshot dated 2026-08-21, not billing guarantees.
+03 · Local systems
+Self-hosted speech-to-text
+Local runs used the available Mac CPU/MLX host. Real-time factor (RTF) is processing time divided by recording duration; smaller is faster.
+Observed local runtime on one Mac. Faster-whisper CPU processing exceeded the source recording’s duration.
+Three completed self-hosted ASR runs.
+System Runtime RTF ↓ Speed Claude / Cloud Silver WER ↓
+N NVIDIA Parakeet-TDT 0.6B v3 on MLX 24.29 s 0.025 40.4× 7 / 19 3.92%
+N NVIDIA Parakeet-TDT 0.6B v2 on MLX 23.78 s 0.024 41.3× 11 / 15 3.92%
+W Whisper faster-whisper large-v3 CPU int8 1288.35 s 1.313 0.8× 20 / 6 4.29%
+Managed GPU infrastructure and this local Mac are different execution environments; runtimes are descriptive, not a hardware-controlled contest.
+03a · Interactive comparison
+Quality, cost, and speed
+Compare managed APIs with local models using either whole-transcript disagreement against ElevenLabs or the narrower 26-occurrence Claude/Cloud diagnostic. Self-hosted cost is an adjustable hardware-time scenario, not a vendor quote.
+Loading interactive benchmark comparisons…
+03b · Machine reference
+Silver-reference transcript disagreement
+The recovered ElevenLabs production transcript supplies 2,728 normalized reference words . Comparing preserved transcripts with word-level Levenshtein distance gives Parakeet v2 and v3 3.92% disagreement each, and faster-whisper 4.29% . Parakeet’s aggregate disagreement is lower even though its Claude/Cloud failures are more severe; generic WER alone misses domain-critical errors.
+This is disagreement with a machine transcript, not human-gold word error rate. The reference system scores zero against itself by definition. The recovered Scribe run and original local runs use the same YouTube recording but independently extracted source encodings, not byte-identical audio.
+04 · Word timestamps
+Alignment and timing disagreement
+WhisperX timestamped every token it emitted, but emitted-token coverage obscures tokens lost when mapping back to the source stream.
+Native token stream compared with WhisperX forced alignment.
+Native source tokens 2,625
+WhisperX emitted tokens 2,609
+Exactly aligned source tokens 2,595 / 2,625 (98.86%)
+Unmatched source tokens 30
+Median midpoint disagreement 159 ms
+p95 midpoint disagreement 353 ms
+Maximum midpoint disagreement 3.790 s
+These are disagreements between timing systems, not absolute timestamp errors; no human word-boundary reference exists.
+05 · Speaker separation
+Diarization
+Both completed local diarization systems found two speaker clusters. Reported turns and anomalies are observed outputs, not human-adjudicated correctness.
+Completed diarization runs on the same recording.
+System Runtime RTF ↓ Speakers Turns Observed artifact
+p pyannote Community-1 1244.16 s 1.268 2 118 One 16.9 ms false-speaker blip caused two extra changes.
+N NVIDIA NeMo multiscale spectral clustering 1870.63 s 1.906 2 163 Four isolated 270 ms false-speaker assignments caused eight extra changes; the clustering output cannot represent overlap.
+06 · Published baseline
+Published transcript comparison
+The published Podhood transcript emitted 0 instances of “Claude” and 26 instances of “Cloud” on this recording. Its highlighted quote linked approximately 13 seconds away from the corresponding speech. These are directly observed case-specific discrepancies, not a corpus-level accuracy estimate.
+07 · Evidence boundary
+Limitations and unavailable measurements
+This is one clean two-speaker conference talk, not a representative leaderboard.
+Managed raw provider responses were not preserved across the workstation crash, so managed findings are recovered session observations.
+No human gold exists; machine-reference disagreement is not correctness and human-gold WER, technical entity error rate, DER, and JER remain unavailable.
+Mac CPU/MLX runtimes are not directly comparable with managed GPU services.
+Public prices are dated labels, not guarantees.
+Not scored: human-gold WER, technical named-entity error rate, DER, JER, and absolute word-timestamp error. Silver-reference disagreement WER is available only where the complete transcript survived; it does not substitute for independent human annotations.
+No completed comparable result: Groq Whisper large-v3; OpenAI gpt-4o-transcribe-diarize; Soniox stt-async-v5; Canary 1B v2; pyannote Precision-2.
+The historical study used one talk to expose the failure modes that the 100-talk design later measured systematically. It is preserved for provenance, not as a provider leaderboard.
+The Podhood quality bar
+The examined Podhood episode exposes a compelling user experience:
+The original YouTube video stays primary.
+Fifty-seven readable transcript segments have a 17-second median gap between starts.
+Two named speakers are shown with 45%/55% speaking
+.
+Four real speaker turns occur around 5:00, 13:20, and 15:43.
+Ten chapters, nine key moments, Q&A, related talks, topic and entity pages sit above the transcript.
+Transcript search reports a match count and provides previous/next navigation.
+Segment playback, copy-link, and copy-quote controls make individual claims reusable.
+The Creator API documents speaker-attributed segments and per-word millisecond timing.
+The product problem is not missing structure. It is that confident structure amplifies upstream errors.
+Claude became Cloud
+The following is a case-insensitive exact surface-form diagnostic over recovered text. It is not WER and does not pretend to be human gold.
+System Claude Cloud
+ElevenLabs Scribe v2 26 0
+AssemblyAI Universal-3.5 Pro 26 0
+Deepgram Nova-3 25 1
+Speechmatics Enhanced 21 5
+faster-whisper large-v3 20 6
+Parakeet-TDT 0.6B v2 11 15
+Parakeet-TDT 0.6B v3 7 19
+Podhood published transcript 0 26
+The published page also contains “Cloud Code,” “Cloud Agent SDK,” “Browser Base,” “code start,” and joined text such as theright . These are not cosmetic: they create or reinforce the wrong graph nodes.
+The clearest timestamp failure is a highlighted “day 30” quote labeled 14:24 . The corresponding speech is in the segment beginning around 14:11 ; 14:24 starts the following thought about the skill creator. The deep-link mechanism is precise, but the semantic attachment is roughly thirteen seconds late.
+Recovered benchmark input
+YouTube video: CEvIs9y1uog
+Duration: 981.461313 seconds
+Decoded input: mono 16 kHz FLAC, 35,471,088 bytes
+SHA-256: af8050fdab9c8c214410ded106da8509ea51d44901928f2b3dc2480a05d943ab
+YouTube human captions: unavailable
+YouTube automatic captions: available, but not used as gold
+Raw audio and full transcripts are not committed. The source URL, decoding properties, duration, and checksum preserve the chain of custody without redistributing the media.
+Historical managed ASR
+Every row uses the same 981.461-second / 16:21 source. Rates are public snapshots, not negotiated quotes; “× realtime” is observed source duration divided by measured client wall time.
+System Public base rate / audio hour Observed latency Observed speed Word timing Speaker labels Claude / Cloud Operational finding
+ElevenLabs Scribe v2 $0.22 base / $0.27 with keyterms 17.047s 57.6× Yes; 2,655 word records Yes; 2 clusters 26 / 0 Best completed technical-name diagnostic; direct YouTube URLs failed twice in production, so retained native audio is uploaded.
+AssemblyAI Universal-3.5 Pro $0.21 base <29s including upload >33.8× Yes; 2,639 words Yes; 2 clusters 26 / 0 Strong challenger; five returned utterances were too coarse for transcript navigation.
+Deepgram Nova-3 ~$0.462 before add-ons 6.688s 146.8× Yes; 2,650 words Yes; 2 clusters 25 / 1 Fastest completed managed run; 156 useful utterances and immutable-looking model version.
+Speechmatics Enhanced $0.40 ~12s service metadata Not comparable Yes; 2,640 words Yes; 2 clusters 21 / 5 The 12-second value is provider service metadata, not measured end-to-end client latency.
+Groq Whisper large-v3 $0.111 10.899s Not scored Word + segment documented Not established Unavailable HTTP 200 and latency were observed, but the raw result was lost; no transcription quality claim.
+OpenAI diarization model Model-specific price unverified Unavailable Unavailable Speaker-segment timing only Documented Unavailable Pre-crash result was lost; not a substitute for native word-level citations.
+The four preserved managed observations placed the main speaker changes within roughly 0.21 seconds of one another. Agreement is useful for debugging, but it is not DER.
+AssemblyAI's requested universal-3-pro returned HTTP 400 and told callers to use universal-3-5-pro with universal-2 fallback. The live endpoint and returned speech_model_used take precedence over stale public wording.
+Production pilot: observed, not inferred
+Population: one separate 802-second upload-backed Scribe request; operational pilot only.
+The first preserved upload-backed Scribe v2 pilot used public video HvMyYLTfvhg . These values describe one real request; they are not a provider SLA or human-gold quality score.
+Production measurement Observed result
+Source audio 802 seconds / 13:22
+Native audio retained M4A; 12,975,349 bytes; SHA-256 prefix 2e590
+Audio naming contract <youtubeId>--<sanitized-title>.m4a
+Measured client wall time 12.83 seconds / approximately 62.5× realtime
+Technical keyterms supplied 98
+Words with start/end timestamps 2,013 / 2,013 (100%)
+Words with speaker attribution 2,013 / 2,013 (100%)
+Detected speakers / readable segments 1 / 44
+Observed account-concurrency header 20 maximum concurrent requests
+Estimated audio charge with keyterms $0.0602 , before tax and actual invoice reconciliation
+Human transcript, speaker, and timestamp gold Unavailable
+Two different public, unrestricted, embeddable videos failed with HTTP 400 upstream-source-
+errors when passed directly as ElevenLabs source_url . This establishes a reproduced failure for those two videos, not a proven outage across every YouTube URL. The runner therefore
+s each original native M4A, preserves it under its YouTube ID and sanitized title, computes SHA-256, and uploads that exact retained file for transcription.
+The system-installed yt-dlp 2026.03.17 returned HTTP 403; an isolated 2026.8.19 version succeeded. A backfill of 75 previously processed audio files matched all 75 recorded checksums . Audio files and full provider transcripts remain outside this public benchmark repository.
+Completed archive campaign
+Population: 1,042 completed standalone-talk jobs; seven short uploads, livestreams, and private/unlisted recordings excluded.
+A fresh enumeration of the public @aiDotEngineer uploads found:
+1,049 uploaded public videos totaling 449.8939 hours ; seven videos under five minutes account for 0.4231 hours.
+1,042 public standalone conference-length talks/workshops totaling 449.4708 hours.
+32 public livestreams totaling 205.8289 hours are explicitly excluded from the approved campaign. Their sessions may duplicate separately published talks.
+The campaign completed 1,042 public standalone talks . The 449.4708-hour figure comes from YouTube metadata used for planning; the 448.376-hour Scribe comparison total comes from provider artifacts for the 1,041 spoken pairs. The instrumental-only case and source/provider duration accounting explain why those numbers are not interchangeable.
+At the dated public rates, the planning estimate was $98.88 base or $121.36 with keyterms, before tax. That estimate is not a reconciled invoice. The provider lists $0.05/hour for keyterms and $0.07/hour for generic entity detection; the latter targets PII/PHI/PCI-style categories and was not treated as a conference knowledge-graph extractor. Plan pricing and included hours , speech-specific concurrency , and PAYG behavior remain the primary operational sources.
+Original bulk-run timing estimate
+The Scribe benchmark processed 981.461 seconds of source audio in 17.047 seconds , an observed real-time factor of 0.017369 or 57.6× real-time . A separate preserved production pilot processed 802 seconds in 12.83 seconds , approximately 62.5× real-time , and returned an actual account limit of 20 concurrent requests . Neither isolated observation is a provider SLA or an estimate validated under sustained load.
+Recorded audio One in-flight request 12 ideal requests 20 ideal requests 40 ideal requests
+All 449.4708h standalone talks 7h 48m ~39m ~23m ~12m
+100h planning scenario 1h 44m ~9m ~5m ~3m
+1,000h planning scenario 17h 22m 1h 27m ~52m ~26m
+These were optimistic service-only linear extrapolations , preserved to show why the campaign used bounded concurrency rather than promising a twelve-minute finish. YouTube retrieval, transfer, queueing, rate limits, retries, and normalization were outside the estimate.
+ElevenLabs also internally parallelizes files longer than eight minutes using min(4, ceil(durationSeconds / 480)) workers. The documentation does not establish whether those internal workers count separately against account concurrency. If they do, long talks could consume up to four slots and stretch the optimistic parallel numbers by up to 4×. Free-plus-PAYG limits are also ambiguous: the speech-specific table says eight concurrent requests, while the general PAYG page mentions three. Measure the actual current-concurrent-requests and maximum-concurrent-requests response headers before opening the throttle.
+Production procedure
+The runner built a deduplicated public-upload manifest, excluding livestreams and uploads shorter than five minutes while tracking video ID, title, duration, event, and source URL.
+The rollout began with representative talks and a hard spend cap before opening concurrency across the archive.
+It retained native audio as <youtubeId>--<sanitized-title>.m4a , computed SHA-256, and uploaded those exact bytes with model_id=scribe_v2 , diarize=true , word timing, and the 98-term glossary. Direct YouTube source_url had failed for both tested videos.
+Concurrency stayed bounded by observed account headers, with resumable receipts and retry classification.
+Retained source audio, raw responses, and checksums preceded cleaned transcripts and downstream graph artifacts.
+Anonymous speaker IDs remain recording-local until roster resolution and review.
+Source-video timestamps remain absolute to each canonical YouTube video.
+Do not infer that a successful YouTube URL covers private or unlisted videos, that a matching speaker cluster identifies a person, or that provider consensus proves transcript or timing accuracy.
+Historical self-hosted ASR
+Population: the original 981.461-second diagnostic talk; not the 100-talk cohort.
+System Runtime RTF Finding
+Parakeet v3 on MLX 24.29s 0.02475 100% native timing; poor technical vocabulary
+Parakeet v2 on MLX 23.78s 0.02423 Slightly better names than v3; still below canonical quality
+faster-whisper large-v3, CPU int8 1,288.35s 1.313 Better names; slower than real time on this Mac CPU path
+Canary 1B v2 unavailable — Current host had no supported NVIDIA/CUDA execution; no substitute was scored
+Parakeet's roughly 41× real-time speed is attractive, but both versions produced “Cloud Code,” “Cloud Agent SDK,” and “code start.” The knowledge graph pays for those errors long after transcription finishes.
+Native timing versus WhisperX
+Population: the original diagnostic talk, comparing native faster-whisper timing with a WhisperX realignment.
+WhisperX timed every token it emitted, but that headline hides source-token loss:
+Native faster-whisper stream: 2,625/2,625 words timed.
+WhisperX emitted stream: 2,609/2,609 tokens timed.
+Exact timed mapping back to source tokens: 2,595/2,625, or 98.857% .
+Thirty source units disappeared into orthographic merges such as skill.md , 20-25 , day-to-day , and in-context .
+Matched-token midpoint drift versus native timing: median 159 ms, p95 353 ms, p99 493 ms, maximum 3.790s.
+With a one-second penalty for every unmatched source unit, p99 becomes 1.0s.
+The lesson is methodological: timestamp coverage must be scored against the source token stream before drift is calculated. “All emitted tokens are timed” is not sufficient. Without human word-boundary gold, these values establish disagreement rather than which timing source is correct.
+Historical diarization
+Population: the original two-speaker diagnostic talk; no human RTTM/UEM.
+System Runtime RTF Observed behavior
+pyannote Community-1 1,244.16s 1.268 Two speakers; main changes near 297.031, 800.277, 942.533; one 16.9 ms false-speaker blip
+NeMo multiscale clustering 1,870.63s 1.906 Two speakers; main changes near 299.500, 800.220, 942.460; four short false-speaker assignments; no overlap representation
+Precision-2 unavailable — Replacement API credential was not created after the crash
+Community-1 and NeMo strongly agree on the long turns. That still does not establish correctness, and neither result may be labeled DER or JER until human RTTM and UEM exist.
+The NeMo receipt used the published five-scale clustering recipe and an oracle speaker count of two. That recipe is telephone-tuned, so this run establishes host feasibility and diagnostic behavior only; it is not an optimized conference-audio result.
+What the production artifact must preserve
+Every transcript should retain:
+Source URL, video ID, duration, language, extraction recipe, audio SHA-256.
+Raw provider artifact hash and normalized transcript hash.
+Provider, model alias, immutable revision where available, request configuration, library versions, hardware, latency, RTF, and cost snapshot.
+Raw and cleaned text as separate fields.
+Word IDs with absolute video start/end milliseconds.
+Segment source-word ranges rather than detached copied strings.
+Speaker cluster IDs, optional reviewed person IDs, identity method, confidence, and review status.
+Multiple speaker IDs on overlapping words or intervals.
+Chapters, moments, summaries, and entities linked to exact source word or segment IDs.
+Corrections as immutable overlays with reviewer, reason, timestamp, and previous hash.
+That contract makes the graph rebuildable. A corrected transcript can invalidate and regenerate every downstream entity, chapter, embedding, and citation without destroying what the original model returned.
+The human-gold benchmark that can choose a winner
+The release benchmark needs at least 24 recordings and roughly 18 hours: standalone talks, two-to-six-person panels, noisy livestream excerpts, and multilingual or code-switched sessions. Two annotators plus adjudication must produce transcript, technical-entity, RTTM/UEM, speaker-identity, and word-boundary gold.
+Hard gates begin at ≤5% WER and ≤2% technical entity error for standalone talks; ≤8% and ≤3% for panels; DER/JER gates; exact speaker count; ≥99–99.5% source-token timing coverage; p95 timing error of 300–500 ms; overlap handling; and no unsupported summary claims. Full definitions live in the protocol and rubric .
+Until that corpus exists, the responsible production move is a reversible bake-off: preserve multiple candidates, expose disagreements, measure correction minutes per recorded hour, and refuse to turn provider consensus into fake gold.
+Appendix C: current price snapshot and reproducibility
+These are dated public labels from 2026-08-22, not guarantees: Scribe v2 $0.22/audio hour or about $0.27/audio hour with keyterm prompting; AssemblyAI U3.5 Pro $0.21/hour base before diarization and keyterms; Speechmatics Enhanced $0.40/hour; Deepgram Nova-3 $0.0043/minute prerecorded monolingual plus $0.0013/minute for keyterm prompting, with prerecorded diarization included; OpenAI GPT-Transcribe $0.27/hour for the non-diarization model; Groq Whisper large-v3 $0.111/hour; pyannote Precision-2 €0.112/hour on the Developer plan.
+Cost matters after correctness. Cheap wrong entities are expensive knowledge-graph inputs.
+Reproducibility and artifacts
+git clone https://forge.smol.ai/swyx/bench.git
+cd bench
+corepack enable
+pnpm install --frozen-lockfile
+pnpm bench check aie-transcription
+Measured result JSON Raw paper Markdown Suite manifest Source code ↗
+swyxbench · aie-transcription All research reports →
