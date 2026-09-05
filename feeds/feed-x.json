@@ -42,23 +42,33 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2094123406811922930",
-          "text": "Sometimes people don’t have an intuitive sense of what Jevons paradox looks like for token consumption. Those of us working with enterprises get to see this first hand every day.\n\nBasically enterprises have an unending stream of tasks that they’d love to be able to bring automation to. But for each individual task, it’s either ROI positive or not based on the cost of bringing automation to it (including the setup time, change management, and so on).\n\nAs tokens get cheaper (at a certain capability threshold), enterprises can afford bringing them to more of the work that they do. This could be processing every contract, reading every log, watching new streams of data for insights, having background agents execute workflows, and so on. \n\nAny time we can lower the cost of tokens, we will see a disproportionate increase in consumption. Even a 50% drop in token prices could result in a 5X increase in tokens for these kinds of workloads.\n\nThis is why it’s critical to keep bringing down the cost of AI, and why that’s good for all market participants.",
-          "created_at": "2026-08-30T18:01:41+00:00",
-          "like_count": 451,
-          "retweet_count": 70,
-          "reply_count": 59,
-          "engagement_score": 650,
-          "url": "https://x.com/levie/status/2094123406811922930"
+          "id": "2094650992818274514",
+          "text": "Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and commercialized, there are going to be all new plays for companies that have large amounts of data to have their own models.\n\nLicensing data for external model training was previously the only play if you had a large corpus of information, but you can now reasonably go and train your own models as well without incurring the cost and complexity of competing with the labs on research.\n\nThe general purpose frontier models will still have a leg up in broad areas due to the ability to handle the widest set of tasks, but you can absolutely see a future where we have far more models than today across every vertical and domain.",
+          "created_at": "2026-09-01T04:58:08+00:00",
+          "like_count": 404,
+          "retweet_count": 39,
+          "reply_count": 52,
+          "engagement_score": 534,
+          "url": "https://x.com/levie/status/2094650992818274514"
+        },
+        {
+          "id": "2094851976769257770",
+          "text": "At Box, we’ve been testing Fable 5.1 in early release against our complex enterprise work eval. Fable 5.1 delivers a huge 7 percentage point jump over Fable 5 for unstructured data tasks in the enterprise.\n\nOn this updated test, we use the Box Agent with Fable 5.1 to work through a wide range of real world enterprise scenarios with documents in financial services, life sciences, the public sector, and more industries. All of these tasks require a high degree of analytical, math, logic, and domain knowledge to perform successfully.\n\nHere are a few examples of wins:\n\n* Financial Services (+17% improvement): on a tax-adjusted profit projection, Fable 5.1 correctly applies capital allowances before computing tax liability; this is a subtle ordering that Fable 5 misses, producing wrong figures all the way through retained earnings.\n\n* Technology (+37% improvement): on a cost-optimization analysis where a key metric's normalization is ambiguous, Fable 5.1 recognized the ambiguity, computed both forms, and presented the correct one, where Fable 5 committed to the wrong normalization.\n\n* Public Sector (+16% improvement): on an educational data analysis task, Fable 5.1 works through the full weighted-mean methodology and produces correct rankings, while Fable 5 miscategorizes one item and cascades errors through the whole sheet.\n\nThese are just a few of the wins we saw. Overall major jump in capability for long running agentic workflows in the enterprise. \n\nFable 5.1 will be available shortly in the Box AI Studio for building custom AI agents with enterprise content.",
+          "created_at": "2026-09-01T18:16:46+00:00",
+          "like_count": 187,
+          "retweet_count": 17,
+          "reply_count": 25,
+          "engagement_score": 246,
+          "url": "https://x.com/levie/status/2094851976769257770"
         },
         {
           "id": "2094545525102235844",
           "text": "As AI security events pick up, it’s going to be critical that we have the most sophisticated AI agents for being able to detect and prevent security issues. Frontier models are clearly still ahead in cyber, but open models are catching up quickly. Wild times.",
           "created_at": "2026-08-31T21:59:02+00:00",
-          "like_count": 5,
-          "retweet_count": 1,
-          "reply_count": 3,
-          "engagement_score": 10,
+          "like_count": 124,
+          "retweet_count": 17,
+          "reply_count": 26,
+          "engagement_score": 184,
           "url": "https://x.com/levie/status/2094545525102235844"
         }
       ]
@@ -77,34 +87,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2094204064246428127",
-          "text": "brought my usage from 96% to 39% but 1.5B tokens! https://t.co/W0lAydnFcs",
-          "created_at": "2026-08-30T23:22:12+00:00",
-          "like_count": 224,
-          "retweet_count": 2,
-          "reply_count": 5,
-          "engagement_score": 233,
-          "url": "https://x.com/mweinbach/status/2094204064246428127"
-        },
-        {
-          "id": "2094515590266237055",
-          "text": "Oh so the other thing with Atlas is I did a ton of work on the knowledge base we use for the agent. It's a bit overkill but VERY good.\n\nIt supports full multi-modal input with processing pipelines to help retrieval quality. https://t.co/Vk6QsvflGn",
-          "created_at": "2026-08-31T20:00:05+00:00",
-          "like_count": 28,
-          "retweet_count": 1,
-          "reply_count": 5,
-          "engagement_score": 35,
-          "url": "https://x.com/mweinbach/status/2094515590266237055"
-        },
-        {
-          "id": "2094502172125806797",
-          "text": "All in this has probably taken idk 45-60B tokens across (mostly) GPT 5.6 Sol\n\nFable was insanely helpful when it was just GPT 5.5 and Fable available, and no joke Fable being taken away for those like 3 weeks did delay this a bit",
-          "created_at": "2026-08-31T19:06:46+00:00",
-          "like_count": 20,
+          "id": "2094856971799183656",
+          "text": "My favorite new test for models is just asking them to look over a project, then find and fix all the issues it can and seeing if the end result is an actual improvement or if a ton of things break\n\nLet’s see how Fable 5.1 does",
+          "created_at": "2026-09-01T18:36:37+00:00",
+          "like_count": 85,
           "retweet_count": 1,
           "reply_count": 3,
-          "engagement_score": 25,
-          "url": "https://x.com/mweinbach/status/2094502172125806797"
+          "engagement_score": 90,
+          "url": "https://x.com/mweinbach/status/2094856971799183656"
+        },
+        {
+          "id": "2094851556092879185",
+          "text": "Damn fable is good",
+          "created_at": "2026-09-01T18:15:06+00:00",
+          "like_count": 87,
+          "retweet_count": 0,
+          "reply_count": 1,
+          "engagement_score": 88,
+          "url": "https://x.com/mweinbach/status/2094851556092879185"
+        },
+        {
+          "id": "2094878049179189458",
+          "text": "Just registered for OpenAI DevDay. Looking forward to seeing what they have coming up! https://t.co/6LGSv0VceY",
+          "created_at": "2026-09-01T20:00:22+00:00",
+          "like_count": 29,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "engagement_score": 29,
+          "url": "https://x.com/mweinbach/status/2094878049179189458"
         }
       ]
     },
@@ -115,14 +125,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2094527782261006773",
-          "text": "Full results for GLM-5.3 are in and it is the #2 open-weight model on the Vals Index at 57.0, behind Kimi K3. It’s #13 of 50 models overall, up from #18 for GLM-5.2. \n\nAmong open-weight models, the model is #1 on our proprietary Legal Research, #1 on Code Migration, and #2 on Finance Agent v2.",
-          "created_at": "2026-08-31T20:48:32+00:00",
-          "like_count": 23,
-          "retweet_count": 3,
-          "reply_count": 6,
-          "engagement_score": 35,
-          "url": "https://x.com/ValsAI/status/2094527782261006773"
+          "id": "2094851406931095593",
+          "text": "Using Fable 5.1, we’ve elicited a decoding of a cipher that has been unsolved for 373 year, and listed as #28 on Klaus Schmeh’s (the most-published cryptology author in the world) “The Top 50 unsolved encrypted messages.”\n\nThe solution? Almost embarrassingly simple in hindsight. https://t.co/qaslXP0Kyu",
+          "created_at": "2026-09-01T18:14:30+00:00",
+          "like_count": 863,
+          "retweet_count": 67,
+          "reply_count": 17,
+          "engagement_score": 1014,
+          "url": "https://x.com/ValsAI/status/2094851406931095593"
+        },
+        {
+          "id": "2094850756646195248",
+          "text": "Has Anthropic solidified itself as the frontier leader?\n\nFable 5.1 debuts at #1 on the Vals Index (67.9%), and with Opus 5 and Fable 5 right behind it, Anthropic now holds the top three spots. https://t.co/nkYtcTYO7y",
+          "created_at": "2026-09-01T18:11:55+00:00",
+          "like_count": 128,
+          "retweet_count": 9,
+          "reply_count": 10,
+          "engagement_score": 156,
+          "url": "https://x.com/ValsAI/status/2094850756646195248"
         }
       ]
     },
@@ -136,11 +156,41 @@
           "id": "2094440382440611935",
           "text": "Exciting news: GLM-5.3-Flash by @Zai_org has landed in Agent Arena! At a $0.12 median cost per task and a +4.6% net improvement, it has reshaped the Pareto frontier! GLM-5.3-Flash is placed between DeepSeek V4 (High) and GPT-5.6 Luna (xHigh).\n\nBased on 9K+ real-world agentic sessions, GLM-5.3-Flash ranks #4 among open source models and #19 overall, one spot ahead of GLM-5.3 (Max) at #20 overall with +3.7% net improvement.\n\nBy signal, GLM-5.3-Flash stands out in Confirmed Success at +15.3%, ranking #4 there. See more info by all 5 signals below.\n\nCongrats to the @Zai_org team on this release!",
           "created_at": "2026-08-31T15:01:14+00:00",
-          "like_count": 416,
-          "retweet_count": 38,
-          "reply_count": 28,
-          "engagement_score": 520,
+          "like_count": 681,
+          "retweet_count": 57,
+          "reply_count": 42,
+          "engagement_score": 837,
           "url": "https://x.com/arena/status/2094440382440611935"
+        },
+        {
+          "id": "2094566204488962483",
+          "text": "Qwen3.8-Flash-Next by @Alibaba_Qwen has landed in Agent Arena, ranking #7 among open models (#24 overall) with +2.4% net improvement across 8.7K+ real-world agentic sessions!\n\nAmong open models, it sits just behind DeepSeek V4 Flash (High) at #6 (+3% net improvement) and two spots behind GLM-5.3 (Max) at #5 (+3.8%).\n\nBy signal, Qwen3.8-Flash-Next stands out in delivering an explicit response from the community on task completion (Confirmed Success at +12.3%), ranking #5 among open models (#7 overall). More detail on its performance by signal below.\n\nQwen3.8-Flash-Next outperforms Qwen3.8-27B in overall net improvement (+2.4% vs. +1.5%) and Confirmed Success (+12.3% vs. +7.2%). Qwen3.8 Max remains ahead overall at +6%, with +10.8% Confirmed Success.\n\nCongrats to the @Alibaba_Qwen team on this contribution to the open ecosystem!",
+          "created_at": "2026-08-31T23:21:12+00:00",
+          "like_count": 296,
+          "retweet_count": 26,
+          "reply_count": 19,
+          "engagement_score": 367,
+          "url": "https://x.com/arena/status/2094566204488962483"
+        },
+        {
+          "id": "2094855319327539695",
+          "text": "Fable 5.1 by @AnthropicAI is now in the Arena!\n\nBring your toughest prompts and start voting. Scores coming soon.\n\nIn Agent Arena, we measure models on millions of real-world, long-horizon agentic tasks. Models can access web search, filesystem, and terminal tools to complete complex workflows. The leaderboard measures model performance on outcomes relative to the average model using a causal tracing methodology.\n\n@claudeai Fable 5.1 is also available in: Code Arena: WebDev, Text, Vision, and Document.",
+          "created_at": "2026-09-01T18:30:03+00:00",
+          "like_count": 284,
+          "retweet_count": 13,
+          "reply_count": 11,
+          "engagement_score": 321,
+          "url": "https://x.com/arena/status/2094855319327539695"
+        },
+        {
+          "id": "2094871997478285741",
+          "text": "Announcing the Fall 2026 cycle of @arena's Academic Partnerships Program.\n\nWe're accepting new proposals from tenure-track faculty at U.S. universities working on the scientific foundations of AI evaluation: evaluation and ranking methodology, measurement and validity, learning from human preference, and safety and alignment.\n\nFunding of up to $50,000 per project is available, and we'll continue reviewing submissions twice a year, each Spring and Fall.\n\nCongratulations to our first Spring 2026 cohort of 7 selected research projects!\n\nHead to the thread to see who was selected, learn more about the program, and find out how to submit your own proposal for Fall.",
+          "created_at": "2026-09-01T19:36:19+00:00",
+          "like_count": 32,
+          "retweet_count": 3,
+          "reply_count": 3,
+          "engagement_score": 41,
+          "url": "https://x.com/arena/status/2094871997478285741"
         }
       ]
     },
@@ -151,14 +201,34 @@
       "tier": "analyst",
       "tweets": [
         {
+          "id": "2094881171066978525",
+          "text": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fable 5 despite a 75% cache read price cut\n\nWe supported @AnthropicAI with pre-release evaluation of Claude Fable 5.1. At max effort it scores 66 on the Artificial Analysis Intelligence Index, the highest score we have measured, ahead of Claude Opus 5 (max, 63), Claude Fable 5 (max, 62), GPT-5.6 Sol (max, 61) and Grok 4.6 (high, 61). We evaluated the model with Anthropic's ‘default’ server-side fallback, which routes safety-flagged requests to Claude Opus 4.8 or Claude Opus 5; fallback served ~4% of output tokens across the Intelligence Index.\n\nKey takeaways\n\n➤ Frontier Intelligence with improvements across benchmarks: Fable 5.1 gains +4 points on the Intelligence Index over Fable 5. On HLE, Fable 5.1 scores 59.1%, ahead of the previous best of 55.5% from Claude Fable 5. It posts the narrowly highest scores we’ve seen on Terminal-Bench v2.1 (91.4%) and SciCode (62.0%), and on τ³-Banking it gains 9 points over Fable 5\n\n➤ 75% cache read price cut, but Fable 5.1 still costs more per task: Anthropic has cut the cache read price from $1 to $0.25 per 1M cached input tokens, with standard pricing unchanged at $10/$50 per 1M input/output tokens. Fable 5.1 (max) costs $3.76 per Intelligence Index task, 20% more than Fable 5 (max), because it uses ~1.7x the output tokens. The cache cut saves ~$1.40 per task, concentrated in the agentic evaluations where the majority of input tokens are cache reads. At xhigh effort Fable 5.1 scores 65 at $2.72 per task, $1.04 less than max, but still above Claude Opus 5 (max, 63) at $2.34\n\n➤ Claude Fable 5.1 holds the upper end of the Intelligence vs Output Tokens per Task Pareto frontier: every model variant scoring higher than GPT-5.6 Sol (medium) on the Intelligence Index is matched or beaten by a Fable 5.1 effort level on both intelligence and token usage\n\n➤ Highest scores on agentic work tasks, but effectively tied with Opus 5: Fable 5.1 sets the highest scores we have measured on GDPval-AA v2 (1,853 Elo, +130 over Fable 5) and AA-Briefcase (1,694 Elo, +122 over Fable 5), our agentic knowledge work evaluations. Against Claude Opus 5 the GDPval-AA v2 lead is within the confidence interval and AA-Briefcase (1,685) is effectively tied, with Fable 5.1 ahead on analytical quality and rubric correctness, but behind on presentation\n\nOther model details:\n\n➤ Context window: 1 million tokens, supporting image and text inputs as with Anthropic’s other recent launches\n\n➤ Pricing: Fable 5.1 retains the $10/$50/$12.5 input, output, and cache write prices per million tokens from Fable 5, but cache hits have been reduced to $0.25 per million tokens, a 75% relative reduction from before that will materially reduce agentic workload costs",
+          "created_at": "2026-09-01T20:12:46+00:00",
+          "like_count": 751,
+          "retweet_count": 60,
+          "reply_count": 37,
+          "engagement_score": 908,
+          "url": "https://x.com/ArtificialAnlys/status/2094881171066978525"
+        },
+        {
           "id": "2094256863865078046",
           "text": "Apodex has launched Apodex 1.1, a proprietary model scoring 44 on the Artificial Analysis Intelligence Index with strong performance in agentic tasks compared to models in its intelligence tier\n\nApodex 1.1 is Apodex's first model on Artificial Analysis. The lab has previously launched Apodex 1.0 and Apodex 1.0 mini. At 44 on the Intelligence Index, Apodex 1.1 sits in a similar tier alongside Kimi K2.6 (45), and MiniMax-M3 (45), and Inkling (42). Within that group, Apodex 1.1 stands out on agentic and knowledge work evaluations, but demonstrates trade-offs on knowledge reliability and frontier academic reasoning.\n\nKey results:\n\n➤ Apodex 1.1 demonstrates a key strength in agentic workflows. On GDPval-AA v2, our real-world agentic work benchmark, Apodex 1.1 achieves an Elo of 1348, which places it ahead of DeepSeek V4 Pro (1333), Qwen3.7 Max (1308), and Kimi K2.6 (1202). On TerminalBench v2.1, our agentic coding and terminal use benchmark, it also performs strongly with a strong 70% score, ahead of Kimi K2.6 (66%) and just behind Qwen3.7 Max (75%).\n\n➤ Apodex 1.1 uses ~17k output tokens per task on average across the Artificial Analysis Intelligence Index. This makes the model more token efficient than DeepSeek V4 Pro (16,842 tokens), but less token efficient than other models with a similar Intelligence Index score, such as Qwen3.7 Max (9,391 tokens) and MiniMax-M3 (8,133 tokens).\n\n➤ Apodex 1.1 costs ~$0.05 per Intelligence Index Task, making it relatively attractive compared to peer models in its intelligence tier. This is primarily driven by a cheap pricing but is slightly offset by the higher tokens per task. At ~$0.05, Apodex 1.1 is cheaper than Qwen3.7 Max (~$0.07) and Kimi K2.6 (~$0.06). Even though Apodex 1.1 is not on the Cost vs. Intelligence Pareto frontier, it lands in the most attractive quadrant.\n\n➤ Apodex 1.1 demonstrates modest performance on knowledge accuracy and reliability, scoring -21.9 on AA-Omniscience. The model achieves 32% accuracy on individual questions, with a 78.4% hallucination rate. It attempts to answer 87% of questions rather than declining to respond.\n\nAdditional model details: \n➤ Context window: 256K tokens  \n➤ Pricing: $0.30 / $3.00 per 1M input/output tokens, with a $0.03 cache-hit price  \n➤ Availability: Apodex first party API",
           "created_at": "2026-08-31T02:52:00+00:00",
-          "like_count": 220,
+          "like_count": 239,
           "retweet_count": 17,
-          "reply_count": 25,
-          "engagement_score": 279,
+          "reply_count": 28,
+          "engagement_score": 301,
           "url": "https://x.com/ArtificialAnlys/status/2094256863865078046"
+        },
+        {
+          "id": "2094849283120128135",
+          "text": "Meta has released Muse Voice Transcribe, taking the #1 spot for Final Transcript accuracy on AA-WER Streaming with 3.1% WER at 0.16s after end of speech\n\nMuse Voice Transcribe is the first streaming Speech to Text model developed by Meta Superintelligence Labs. Meta states that the model was trained on more than 70 languages, with 25 extensively verified, and supports audio inputs exceeding one hour without required post-processing. It processes audio in 80ms chunks and is available through the Meta Model API, Meta AI for Mac and Muse Code.\n\nKey takeaways\n➤ Final Transcript: Muse Voice Transcribe achieves 3.1% WER at 0.16s after end of speech. It is more accurate and faster than Cartesia Ink-2 (semantic endpoints) at 3.4% and 0.43s, and more accurate but slower than Cartesia Ink-2 (external endpoints) at 4.0% and 0.07s. It is also more accurate, though slightly slower, than ElevenLabs Scribe v2 Realtime at 3.6% and 0.14s.\n➤ First Partial Transcript: The model achieves 3.6% WER at 0.13s, just ahead of ElevenLabs Scribe v2 Realtime on accuracy and latency. It is more accurate and faster than Cartesia Ink-2 (semantic endpoints) at 4.9% and 0.17s, and more accurate but slower than Cartesia Ink-2 (external endpoints) at 4.0% and 0.07s.\n➤ Price: Muse Voice Transcribe costs $0.18 per hour, or $3 per 1,000 minutes. This is below Cartesia Ink-2 at $4 and less than half the $6.50 charged for ElevenLabs Scribe v2 Realtime and Deepgram Flux.\n\nSee more details below ⬇️",
+          "created_at": "2026-09-01T18:06:04+00:00",
+          "like_count": 222,
+          "retweet_count": 27,
+          "reply_count": 10,
+          "engagement_score": 286,
+          "url": "https://x.com/ArtificialAnlys/status/2094849283120128135"
         }
       ]
     },
@@ -221,11 +291,21 @@
           "id": "2094440470814609812",
           "text": "We’re excited to expand our work with @MediaTek. 🤝\n\nAI factories will be built around differentiated compute — but custom silicon needs a path from chip design to production-scale systems. With MediaTek adopting NVIDIA NVLink Fusion, customers can focus on what makes their XPUs unique and connect them to NVIDIA rack-scale AI infrastructure.\n https://t.co/ey9r7NacA2",
           "created_at": "2026-08-31T15:01:35+00:00",
-          "like_count": 486,
-          "retweet_count": 68,
-          "reply_count": 45,
-          "engagement_score": 667,
+          "like_count": 750,
+          "retweet_count": 112,
+          "reply_count": 78,
+          "engagement_score": 1052,
           "url": "https://x.com/nvidia/status/2094440470814609812"
+        },
+        {
+          "id": "2094906811774013521",
+          "text": "NVIDIA and @CrowdStrike are advancing agentic cyber defense with SafeMind, a new family of security models and harnesses built on NVIDIA Nemotron.\n\nIntroduced at Fal.Con, SafeMind is customized with CrowdStrike threat data to support triage and detection generation for cyber defense.",
+          "created_at": "2026-09-01T21:54:40+00:00",
+          "like_count": 48,
+          "retweet_count": 11,
+          "reply_count": 11,
+          "engagement_score": 81,
+          "url": "https://x.com/nvidia/status/2094906811774013521"
         }
       ]
     },
@@ -241,7 +321,18 @@
       "name": "Boris Cherny (Claude Code)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2094864060609376748",
+          "text": "Fable 5.1 is our best model yet for coding, data analysis, computer use, design, presentations, Tag, and the hardest long-running agentic work.\n\nThis model is a pleasure to work with, and I've been using it for everything.",
+          "created_at": "2026-09-01T19:04:47+00:00",
+          "like_count": 2750,
+          "retweet_count": 94,
+          "reply_count": 271,
+          "engagement_score": 3209,
+          "url": "https://x.com/bcherny/status/2094864060609376748"
+        }
+      ]
     },
     {
       "handle": "_catwu",
@@ -255,7 +346,38 @@
       "name": "Alex Albert (Anthropic)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2094860187743986169",
+          "text": "Fable 5.1 is a beast at many things but one thing in particular I have been having a ton of fun with is generating videos through code. \n\nFor this one I gave it a picture of a property lot. It designed a house for the lot, rendered it, and produced a cinematic walkthrough. https://t.co/eBIaCmaav8",
+          "created_at": "2026-09-01T18:49:24+00:00",
+          "like_count": 3121,
+          "retweet_count": 133,
+          "reply_count": 159,
+          "engagement_score": 3546,
+          "url": "https://x.com/alexalbert__/status/2094860187743986169"
+        },
+        {
+          "id": "2094849958025306330",
+          "text": "The way I keep describing Fable 5.1 to people is that it just works.\n\nI explain what I want in a few vague, messy sentences, and it figures out the rest. It fills in the gaps the way I would have. It's a truly impressive model in so many ways and I hope you enjoy using it!",
+          "created_at": "2026-09-01T18:08:45+00:00",
+          "like_count": 853,
+          "retweet_count": 14,
+          "reply_count": 69,
+          "engagement_score": 950,
+          "url": "https://x.com/alexalbert__/status/2094849958025306330"
+        },
+        {
+          "id": "2094889286990446769",
+          "text": "One non-model thing I'm very excited we announced today with Fable 5.1 is Enterprise Frontier Safeguards (EFS).\n\nEven if you're not a CEO/CISO, this blog post is a look into how big companies are thinking about AI adoption which is important to understand if you're interested in how AI might diffuse across industry.\n\nCompanies are giving agents more and more access to internal systems. With traditional zero data retention, there's been no way to spot patterns in what agents might be doing across sessions on these systems.\n\nEFS is ZDR++. It's ZDR built for a world with agents. A company's data stays in its own cloud, and an automated monitoring layer we built flags risky patterns to its team.\n\nI think of this as an observability and risk mitigation layer for agents. My guess is it will become a standard requirement from enterprises for running increasingly powerful AI on their systems.",
+          "created_at": "2026-09-01T20:45:01+00:00",
+          "like_count": 114,
+          "retweet_count": 5,
+          "reply_count": 10,
+          "engagement_score": 134,
+          "url": "https://x.com/alexalbert__/status/2094889286990446769"
+        }
+      ]
     },
     {
       "handle": "rauchg",
@@ -267,21 +389,41 @@
           "id": "2094541309579235680",
           "text": "Your next design system is… Markdown.\n\nWe wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop.\n\nAnd how you can truly, finally scale design taste within a large organization. https://t.co/1boTl2fWyM",
           "created_at": "2026-08-31T21:42:17+00:00",
-          "like_count": 362,
-          "retweet_count": 19,
-          "reply_count": 17,
-          "engagement_score": 417,
+          "like_count": 3764,
+          "retweet_count": 174,
+          "reply_count": 122,
+          "engagement_score": 4234,
           "url": "https://x.com/rauchg/status/2094541309579235680"
         },
         {
           "id": "2094523399280435630",
           "text": "Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to:\n\n\"Hey all, here's an AWS key. It can spin up anything from a 𝚝𝟹.𝚗𝚊𝚗𝚘 (＄𝟹.𝟾𝟶/𝚖𝚘) to an 𝚙𝟻.𝟺𝟾𝚡𝚕𝚊𝚛𝚐𝚎 (＄𝟺𝟶𝚔/𝚖𝚘). Go wild\"\n\nAnd obviously the reason companies don't do this for their core infra is that you need to govern, optimize, and observe usage and costs.\n\nThe intern might decide to host a static website in that 192 vCPU machine, and you won't be very happy about the bill.\n\nAI Gateway fixes this for all your tokens, with per-key, and now per-user budgets.",
           "created_at": "2026-08-31T20:31:07+00:00",
-          "like_count": 137,
-          "retweet_count": 4,
-          "reply_count": 28,
-          "engagement_score": 173,
+          "like_count": 320,
+          "retweet_count": 10,
+          "reply_count": 41,
+          "engagement_score": 381,
           "url": "https://x.com/rauchg/status/2094523399280435630"
+        },
+        {
+          "id": "2094867652573528074",
+          "text": "Fable 5.1 now on @vercel AI Gateway\nTry it with https://t.co/OL0LzGtvAw. Every model at your fingertips 🥹",
+          "created_at": "2026-09-01T19:19:03+00:00",
+          "like_count": 230,
+          "retweet_count": 10,
+          "reply_count": 30,
+          "engagement_score": 280,
+          "url": "https://x.com/rauchg/status/2094867652573528074"
+        },
+        {
+          "id": "2094831747037085978",
+          "text": "Fluid is the thing that has enabled Vercel's:\n◾ Industry-leading Build performance\n◾ Sandbox reliability & massive concurrency\n◾ 30min Function durations (& soon longer)\n\nThis unification makes the best DX possible. Shared 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎, security perimeters, networking, file systems, across all compute products. \n\nYou already see this in some pretty unique Vercel capabilities, like our Builds and Functions being able to participate in the same Secure Compute boundary and config.\n\nImagine the same egress Firewall features for Sandbox that prevent agent escapes, applying to your Builds, Functions and Servers.\n\nThe future is one global and unified compute platform, with only known physics as the limiting factor 😊",
+          "created_at": "2026-09-01T16:56:23+00:00",
+          "like_count": 107,
+          "retweet_count": 4,
+          "reply_count": 20,
+          "engagement_score": 135,
+          "url": "https://x.com/rauchg/status/2094831747037085978"
         }
       ]
     },
@@ -295,20 +437,20 @@
           "id": "2094215744842248418",
           "text": "The lesson from the Hugging Face Incident should be that RL with verifiable rewards is an incredibly powerful optimization algorithm that will produce increasingly weird and surprising behavior from LLMs.\n\nThe obvious miss here by OpenAI is that they should’ve been monitoring CoTs —  Something they themselves called out as a safety strategy more than a year ago.",
           "created_at": "2026-08-31T00:08:36+00:00",
-          "like_count": 877,
-          "retweet_count": 48,
-          "reply_count": 81,
-          "engagement_score": 1054,
+          "like_count": 924,
+          "retweet_count": 52,
+          "reply_count": 88,
+          "engagement_score": 1116,
           "url": "https://x.com/amasad/status/2094215744842248418"
         },
         {
           "id": "2094280256933056971",
           "text": "If you ever wondered how civilizations are built, it’s actually easy:\n\n[Agent() for _ in range(100)]",
           "created_at": "2026-08-31T04:24:57+00:00",
-          "like_count": 786,
-          "retweet_count": 27,
-          "reply_count": 82,
-          "engagement_score": 922,
+          "like_count": 870,
+          "retweet_count": 28,
+          "reply_count": 84,
+          "engagement_score": 1010,
           "url": "https://x.com/amasad/status/2094280256933056971"
         }
       ]
@@ -332,28 +474,7 @@
       "name": "Ivan Fioravanti (Apple MLX / open source)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2094138337564983380",
-          "text": "What is your honest opinion on Opus 5? \n\nReply only if you have really used it 🙏🏻",
-          "created_at": "2026-08-30T19:01:01+00:00",
-          "like_count": 12,
-          "retweet_count": 0,
-          "reply_count": 33,
-          "engagement_score": 45,
-          "url": "https://x.com/ivanfioravanti/status/2094138337564983380"
-        },
-        {
-          "id": "2094524266607690075",
-          "text": "Time to update Hermes Agent too!",
-          "created_at": "2026-08-31T20:34:34+00:00",
-          "like_count": 15,
-          "retweet_count": 0,
-          "reply_count": 2,
-          "engagement_score": 17,
-          "url": "https://x.com/ivanfioravanti/status/2094524266607690075"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "deanwball",
@@ -362,24 +483,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2094431192959324559",
-          "text": "Agreed with Ramez. I have always believed US/China AI safety collaboration would be desirable but thought it was unlikely to happen. In the past few months, though, the ground has shifted. There is a window of opportunity. \n\nI suspect that window will widen over at least the next few months because of (1) the salience of AI and potency of the risks will rise ever further, (2) the upcoming visit of Xi to the U.S., and (3) Trump’s desire for a legacy-defining issue (and let’s be clear: if Trump can devise the framework for safely bringing superintelligence into the world with China, he will rightfully go down as one of the greatest world leaders of all time and should be a shoo-in for the Nobel).\n\nSo there is a window. But it probably will not remain open forever.",
-          "created_at": "2026-08-31T14:24:43+00:00",
-          "like_count": 200,
-          "retweet_count": 23,
-          "reply_count": 14,
-          "engagement_score": 260,
-          "url": "https://x.com/deanwball/status/2094431192959324559"
+          "id": "2094788634729660906",
+          "text": "I want to explain something to you: \n\nPeople often quote tweet me and say \"can you believe that an OPENAI EXECUTIVE is so dumb that he thinks tweeting like THIS is the way to fix AI's image problem?!?!?!\"\n\nI was not hired by OpenAI to \"fix AI's image problem,\" and I do not get out of bed every day to make you feel good about tokens. Yes, AI has enriched my life tremendously and I believe it will enrich most people's lives, and I speak of this often. But I believe a truly transformative thing is underway, and that some aspects of it will be incredible and others will be extraordinarily fraught. I want to tell you the truth about that transformation as I see it happening, to the best of my ability. \n\nThe truth as I see it will not always be optimal marketing for the AI industry, nor will it always necessarily arrest the public's concerns. The public, very often, is right to be concerned. I am concerned. Most people I know who work at true frontier labs are concerned. Sometimes, I will feel it is my duty to describe to you changes I believe may be afoot in our world that will not be fun to think about or experience, and that cause me sadness and fear in my private life. \n\nI'm not here to sing you some lullaby about what is happening, and I wish people would stop trying to RLHF me into doing so. It is out of respect for those who read my words that I try to tell the truth. I've never seen so many people beg to be lied to and disrespected, but I wish it would stop.",
+          "created_at": "2026-09-01T14:05:04+00:00",
+          "like_count": 593,
+          "retweet_count": 16,
+          "reply_count": 45,
+          "engagement_score": 670,
+          "url": "https://x.com/deanwball/status/2094788634729660906"
         },
         {
-          "id": "2094502162256859554",
-          "text": "This was an excellent podcast from @labenz with @BronsonSchoen about AI chains of thought (an LLM’s internal monologue while it is answering user queries). A very good way for a layperson to get a qualitative sense of how reinforcement learning changes model behavior.\n\nhttps://t.co/9OxcFhYbD1",
-          "created_at": "2026-08-31T19:06:44+00:00",
-          "like_count": 21,
-          "retweet_count": 2,
-          "reply_count": 1,
-          "engagement_score": 26,
-          "url": "https://x.com/deanwball/status/2094502162256859554"
+          "id": "2094793202746196376",
+          "text": "As promised, and with thanks to @jachiam0 for his great tweet that inspired me to finally put the finishing touches on this:\n\nThis week, on Hyperdimensional: the impending rise of ownerless agents--AIs that are independent economic actors--and what to do about it. https://t.co/JR2l8PKxbX",
+          "created_at": "2026-09-01T14:23:13+00:00",
+          "like_count": 105,
+          "retweet_count": 10,
+          "reply_count": 10,
+          "engagement_score": 135,
+          "url": "https://x.com/deanwball/status/2094793202746196376"
         }
       ]
     },
@@ -390,28 +511,38 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2094305141591781783",
-          "text": "would really love the real story behind the two silent months, and why all the loops and graphs couldn’t have shipped it faster :) \n\nthis story will be genuinely helpful for everyone to understand the challenges and bottlenecks in real world agentic engineering",
-          "created_at": "2026-08-31T06:03:50+00:00",
-          "like_count": 376,
-          "retweet_count": 21,
-          "reply_count": 38,
-          "engagement_score": 456,
-          "url": "https://x.com/kunchenguid/status/2094305141591781783"
+          "id": "2094712987085140127",
+          "text": "going to make a little prediction here\n\nwhen fable 5.1 releases, the 50% cap on weekly quota will be removed\n\nplease be true",
+          "created_at": "2026-09-01T09:04:28+00:00",
+          "like_count": 401,
+          "retweet_count": 2,
+          "reply_count": 44,
+          "engagement_score": 449,
+          "url": "https://x.com/kunchenguid/status/2094712987085140127"
         },
         {
-          "id": "2094517788471894502",
-          "text": "once upon a time i was working with ~10 agents in tmux. i got all the agents on full cylinders and it felt great. i walked away to make coffee\n\nwhen i came back, the screen showed an empty terminal with nothing on it. it took me a few seconds to realize it was a tmux server crash. my \"agent civilization\" just got a team wipe\n\nthat was probably one of the most painful experiences in all my time working with agents. i had to manually figure out which agents were working, what their last state was, which worktrees were clean vs dirty, which PRs were raised vs not, how to get them to correctly resume\n\nthis team wipe led to me putting down a founding principle in firstmate - restart should be a non-event. it's hard to fully achieve that, but firstmate pushed pretty far\n\ni can kill the firstmate session and crewmates would still keep working. restart firstmate and it would catch up on what the fleet had done\n\ni can have dozens of second mates and crewmates running in the fleet doing whatever, and i can literally pull the power plug of my mac, restart it, and firstmate will reconcile everything and in a few minutes the entire fleet would be doing whatever it was doing earlier\n\ni can have multiple remote machines and any one of them can die any time. whenever they are up, all the crew there would continue working\n\nthis was done by being disciplined about where to place what kinds of context\n\nthe agent's context window is like our computer's \"memory\". they can get lost, cleared, compacted, or screwed up in various ways. we should keep it intended for things that agent's next request likely needs direct access to\n\nanything that needs to serve as a durable record should not be trusted to stay only in the context window. they must be pushed and persisted onto the disk, and made discoverable by the agent. this can be done through tools like beads, or external project management tools like jira/linear. firstmate does this mostly through a tool called \"tasks-axi\" which stores records in a markdown file locally\n\nif you don't have a system for persistent record keeping yet, highly recommend looking into getting one set up. this saved my agent civilizations so many times",
-          "created_at": "2026-08-31T20:08:49+00:00",
-          "like_count": 61,
+          "id": "2094851538393223361",
+          "text": "fable 5.1 is here! \n\nbut unfortunately my prediction that they would remove the 50% weekly cap didn’t happen..",
+          "created_at": "2026-09-01T18:15:01+00:00",
+          "like_count": 183,
+          "retweet_count": 4,
+          "reply_count": 21,
+          "engagement_score": 212,
+          "url": "https://x.com/kunchenguid/status/2094851538393223361"
+        },
+        {
+          "id": "2094903903364210944",
+          "text": "now we know why opus 5 sucks so badly and anthropic didn't seem to get it\n\nbecause they've been using fable for _everything_\n\nopus 5 is now officially the underwater skeleton. let's hope opus 5.1 takes the lesson",
+          "created_at": "2026-09-01T21:43:06+00:00",
+          "like_count": 49,
           "retweet_count": 1,
-          "reply_count": 9,
-          "engagement_score": 72,
-          "url": "https://x.com/kunchenguid/status/2094517788471894502"
+          "reply_count": 10,
+          "engagement_score": 61,
+          "url": "https://x.com/kunchenguid/status/2094903903364210944"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-08-31T22:12:26.566597+00:00"
+  "generated_at": "2026-09-01T22:11:52.951477+00:00"
 }
