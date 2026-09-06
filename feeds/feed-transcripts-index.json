@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-09-05T22:51:17.131371+00:00",
+  "generated_at": "2026-09-06T22:59:42.047904+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "yt:VrgRI00UPxc",
+      "link": "https://www.youtube.com/watch?v=VrgRI00UPxc",
+      "channel": "CNBC Television",
+      "title": "Commerce Sec. Lutnick and Nvidia CEO Jensen Huang in a fireside chat at G20 meeting — 9/2/2026",
+      "pub_date": "2026-09-02T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/73128755896af61408870d0b.txt",
+      "transcript_chars": 29772,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-06T22:59:42.047904+00:00",
+      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
+      "expires_at": "2026-09-20T22:59:42.047904+00:00"
+    },
+    {
+      "guid": "yt:3F-sQCJBDks",
+      "link": "https://www.youtube.com/watch?v=3F-sQCJBDks",
+      "channel": "Inspire With Selva",
+      "title": "You Only Get One Life. Stop Wasting It. | Naval Ravikant",
+      "pub_date": "2026-09-02T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/42eb8016a04e3095293bb4d1.txt",
+      "transcript_chars": 23440,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-06T22:59:42.047904+00:00",
+      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
+      "expires_at": "2026-09-20T22:59:42.047904+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/grok-bot",
       "link": "https://www.latent.space/p/grok-bot",
@@ -12,8 +38,8 @@
       "transcript_chars": 14223,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-05T22:51:17.131371+00:00",
-      "expires_at": "2026-09-19T22:51:17.131371+00:00"
+      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
+      "expires_at": "2026-09-20T22:59:42.047904+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
@@ -25,8 +51,8 @@
       "transcript_chars": 29588,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-05T22:51:17.131371+00:00",
-      "expires_at": "2026-09-19T22:51:17.131371+00:00"
+      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
+      "expires_at": "2026-09-20T22:59:42.047904+00:00"
     },
     {
       "guid": "https://www.latent.space/p/astra",
@@ -103,8 +129,8 @@
       "transcript_chars": 51982,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-05T22:51:17.131371+00:00",
-      "expires_at": "2026-09-19T22:51:17.131371+00:00"
+      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
+      "expires_at": "2026-09-20T22:59:42.047904+00:00"
     },
     {
       "guid": "yt:dnSpKF5pWNQ",
@@ -116,8 +142,8 @@
       "transcript_chars": 62505,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-05T22:51:17.131371+00:00",
-      "expires_at": "2026-09-19T22:51:17.131371+00:00"
+      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
+      "expires_at": "2026-09-20T22:59:42.047904+00:00"
     },
     {
       "guid": "yt:cRX84IvyVNU",
@@ -129,8 +155,8 @@
       "transcript_chars": 29499,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-05T22:51:17.131371+00:00",
-      "expires_at": "2026-09-19T22:51:17.131371+00:00"
+      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
+      "expires_at": "2026-09-20T22:59:42.047904+00:00"
     },
     {
       "guid": "yt:VeizK1M7V7E",
@@ -142,8 +168,8 @@
       "transcript_chars": 75813,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-05T22:51:17.131371+00:00",
-      "expires_at": "2026-09-19T22:51:17.131371+00:00"
+      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
+      "expires_at": "2026-09-20T22:59:42.047904+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/ajeya-cotra",
@@ -233,8 +259,8 @@
       "transcript_chars": 68953,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-08-31T22:45:39.918632+00:00",
-      "last_seen_at": "2026-09-05T22:51:17.131371+00:00",
-      "expires_at": "2026-09-19T22:51:17.131371+00:00"
+      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
+      "expires_at": "2026-09-20T22:59:42.047904+00:00"
     },
     {
       "guid": "2bbc686d-ae76-447b-b649-410ff08bcacc",
@@ -246,8 +272,8 @@
       "transcript_chars": 50757,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-31T22:45:39.918632+00:00",
-      "last_seen_at": "2026-09-05T22:51:17.131371+00:00",
-      "expires_at": "2026-09-19T22:51:17.131371+00:00"
+      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
+      "expires_at": "2026-09-20T22:59:42.047904+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/openai-huggingface",

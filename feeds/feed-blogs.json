@@ -1,15 +1,24 @@
 {
   "articles": [
     {
-      "id": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "published": "2026-09-04T00:00:00+00:00",
-      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+      "id": "https://openai.com/index/an-alien-mind",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "published": "2026-09-06T09:00:00+00:00",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
+    },
+    {
+      "id": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "published": "2026-09-06T08:00:00+00:00",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
     }
   ],
   "errors": null,
-  "generated_at": "2026-09-05T22:15:15.203078+00:00"
+  "generated_at": "2026-09-06T22:10:48.983964+00:00"
 }

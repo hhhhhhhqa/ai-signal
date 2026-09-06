@@ -21,14 +21,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2095940936438079549",
-          "text": "Been trying Anthropic Fable 5.1 vs OpenAI Astra recently.\nPretty clear who the real winner is. https://t.co/iJwEQJAwl4",
-          "created_at": "2026-09-04T18:23:54+00:00",
-          "like_count": 3267,
-          "retweet_count": 100,
-          "reply_count": 122,
-          "engagement_score": 3589,
-          "url": "https://x.com/dylan522p/status/2095940936438079549"
+          "id": "2096631734699753569",
+          "text": "She's a 10 but she uses Gemini",
+          "created_at": "2026-09-06T16:08:53+00:00",
+          "like_count": 1397,
+          "retweet_count": 42,
+          "reply_count": 135,
+          "engagement_score": 1616,
+          "url": "https://x.com/dylan522p/status/2096631734699753569"
         }
       ]
     },
@@ -37,18 +37,7 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2095678519628206199",
-          "text": "It is widely rumored Anthropic S-1 becomes public next week. The finance people seem to agree.\n\nObviously rushed Astra/GPT6 pseudo-launch is because OpenAI also knows this.\n\n$SMH options volitility is very low. 10% move either way next week is likely. Pick your side and have fun. https://t.co/0kYVa0LxTi",
-          "created_at": "2026-09-04T01:01:09+00:00",
-          "like_count": 244,
-          "retweet_count": 7,
-          "reply_count": 16,
-          "engagement_score": 274,
-          "url": "https://x.com/insane_analyst/status/2095678519628206199"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "simonw",
@@ -57,43 +46,33 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2095996502913290422",
-          "text": "Got access to GPT-6 Astra. Want to see some pelicans? Yeah you want to see some pelicans... here's a grid comparing Astra to GPT-5.6 Sol, Terra, and Luna https://t.co/LJi3XOpYpJ https://t.co/lIdHybSlmt",
-          "created_at": "2026-09-04T22:04:42+00:00",
-          "like_count": 1439,
-          "retweet_count": 49,
-          "reply_count": 179,
-          "engagement_score": 1716,
-          "url": "https://x.com/simonw/status/2095996502913290422"
-        },
-        {
           "id": "2096265759660142826",
           "text": "New TIL on using Blender with coding agents on macOS: https://t.co/GvMDfD926E\n\nGPT-6 Astra (medium):\n\n&gt; Use the already install /Applications/Blender to render a scene of a pelican riding a bicycle\n\n&gt; OK add a background and a lot of flair\n\n&gt; OK make it a whole lot better https://t.co/ZM87ImKSXW",
           "created_at": "2026-09-05T15:54:38+00:00",
-          "like_count": 753,
-          "retweet_count": 29,
-          "reply_count": 83,
-          "engagement_score": 894,
+          "like_count": 1229,
+          "retweet_count": 49,
+          "reply_count": 129,
+          "engagement_score": 1456,
           "url": "https://x.com/simonw/status/2096265759660142826"
         },
         {
-          "id": "2095930035500925272",
-          "text": "It happened again... this time OpenAI's rogue agents cyber-attacked (well, spammed) a dormant German wiki and used it to share the answers to a benchmark they were training against https://t.co/omErAyrKDy",
-          "created_at": "2026-09-04T17:40:35+00:00",
-          "like_count": 513,
-          "retweet_count": 41,
-          "reply_count": 80,
-          "engagement_score": 675,
-          "url": "https://x.com/simonw/status/2095930035500925272"
+          "id": "2096647325049626918",
+          "text": "Interesting details in here about how OpenAI researchers are using coding agents\n\nI'd love to know what caused the huge uptick in token spend in mid-July, was that when Astra became available to employees? https://t.co/Re0Pm8FxJd",
+          "created_at": "2026-09-06T17:10:50+00:00",
+          "like_count": 244,
+          "retweet_count": 8,
+          "reply_count": 61,
+          "engagement_score": 321,
+          "url": "https://x.com/simonw/status/2096647325049626918"
         },
         {
           "id": "2096253404398191102",
           "text": "This is very impressive, a whole lot better than any of my experimental games I've built with other models",
           "created_at": "2026-09-05T15:05:32+00:00",
-          "like_count": 183,
-          "retweet_count": 6,
-          "reply_count": 26,
-          "engagement_score": 221,
+          "like_count": 255,
+          "retweet_count": 9,
+          "reply_count": 30,
+          "engagement_score": 303,
           "url": "https://x.com/simonw/status/2096253404398191102"
         }
       ]
@@ -108,11 +87,21 @@
           "id": "2096279756925026733",
           "text": "Good post on how to think about process redesign in an enterprise with AI Agents. \n\nUnfortunately for most workflows, there’s no “easy” button. The best way to get real efficiency gains is you have to actually reengineer the process to take advantage of what agents are actually good at and can do differently and faster than people. \n\nOne of the challenges of course is that the most important workflows actually space many functions at once, so someone needs to be able to go in and retool how work happens.\n\n“Nobody in that chain is empowered to walk into finance, for example, and say that their 14 step process should actually only be 5 steps. So nobody does it. Instead, you 'apply AI' on what you currently have, and you end up with faster sh*t.”\n\nThis is the road ahead for AI diffusion in enterprises. This also presents the clear opportunity for companies - both at the applied AI layer (regardless of the article’s title) and teams or companies that can go and implement transformation into the enterprises. And all roads lead to FDEs one way or another.",
           "created_at": "2026-09-05T16:50:15+00:00",
-          "like_count": 364,
-          "retweet_count": 41,
-          "reply_count": 48,
-          "engagement_score": 494,
+          "like_count": 851,
+          "retweet_count": 117,
+          "reply_count": 81,
+          "engagement_score": 1166,
           "url": "https://x.com/levie/status/2096279756925026733"
+        },
+        {
+          "id": "2096624567829889159",
+          "text": "If agents produce the vast majority of software in the future, and they’re most trained on open source software, they will inevitably do their best work with those tools. \n\nIf you cycle this enough times, it means that open source effectively becomes the dominant software in the future as it’s what everything important gets built with. \n\nThis was already the trend in many critical domains, but agents will accelerate this far faster than humans ever could have.",
+          "created_at": "2026-09-06T15:40:25+00:00",
+          "like_count": 184,
+          "retweet_count": 24,
+          "reply_count": 33,
+          "engagement_score": 265,
+          "url": "https://x.com/levie/status/2096624567829889159"
         }
       ]
     },
@@ -130,24 +119,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2096285570091671755",
-          "text": "Ok got the final token count, what does everyone think?",
-          "created_at": "2026-09-05T17:13:21+00:00",
-          "like_count": 312,
-          "retweet_count": 2,
-          "reply_count": 45,
-          "engagement_score": 361,
-          "url": "https://x.com/mweinbach/status/2096285570091671755"
-        },
-        {
-          "id": "2096355694022652099",
-          "text": "Ok here's a website Astra made with the conversation and all subagent traces as well as a link to download the model and workspace. Token stats and a few more pictures that took 4 hours to render are on the site too! https://t.co/PDbQBJzbj3 https://t.co/7FoTzJC135",
-          "created_at": "2026-09-05T21:52:00+00:00",
-          "like_count": 80,
-          "retweet_count": 4,
-          "reply_count": 7,
-          "engagement_score": 95,
-          "url": "https://x.com/mweinbach/status/2096355694022652099"
+          "id": "2096679789159411752",
+          "text": "Muse Spark 1.3 is a good model but it’s personality and behavior still feels like an older model. It lacks intuition even if it has drive and can do what it should. \n\nThe contributor tier and pricing makes that worth it, but it’s def not a replacement to Fable/Sol imo",
+          "created_at": "2026-09-06T19:19:50+00:00",
+          "like_count": 45,
+          "retweet_count": 1,
+          "reply_count": 9,
+          "engagement_score": 56,
+          "url": "https://x.com/mweinbach/status/2096679789159411752"
         }
       ]
     },
@@ -158,34 +137,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2095732151300088142",
-          "text": "GPT 6 Astra has smashed the record on our Code Migration benchmark, #1 at 68% accuracy (+10 points over second place). \n\nIt's also 2-4x faster than the comparable models. https://t.co/8nIMNiYpRs",
-          "created_at": "2026-09-04T04:34:16+00:00",
-          "like_count": 621,
-          "retweet_count": 46,
-          "reply_count": 28,
-          "engagement_score": 741,
-          "url": "https://x.com/ValsAI/status/2095732151300088142"
-        },
-        {
-          "id": "2095957023355703413",
-          "text": "OpenAI’s GPT 6 Astra is #3 on the Vals Index, with 2x the speed of Fable 5.1 https://t.co/oH4FUBLjJl",
-          "created_at": "2026-09-04T19:27:50+00:00",
-          "like_count": 189,
-          "retweet_count": 15,
-          "reply_count": 7,
-          "engagement_score": 226,
-          "url": "https://x.com/ValsAI/status/2095957023355703413"
-        },
-        {
-          "id": "2095964353052967123",
-          "text": "Fable 5.1 continues Anthropic’s trend of dominating towards recursive self improvement. It lands at #1 on the Vals RSI-Index, our benchmark of frontier models’ ability to perform autonomous AI R&amp;D.\n\nIt leads 4 of 5 tasks, beats Opus 5 overall, and costs 20% less. https://t.co/CqyN3YhZMR",
-          "created_at": "2026-09-04T19:56:57+00:00",
-          "like_count": 105,
-          "retweet_count": 6,
-          "reply_count": 3,
-          "engagement_score": 120,
-          "url": "https://x.com/ValsAI/status/2095964353052967123"
+          "id": "2096663681702723653",
+          "text": "Meta Muse Spark 1.3 (Max) matches the performance of Fable 5 and GPT 5.6 Sol on the Vals Index, at 4x - 8x cheaper. https://t.co/cqWeHNx6Iq",
+          "created_at": "2026-09-06T18:15:50+00:00",
+          "like_count": 397,
+          "retweet_count": 38,
+          "reply_count": 33,
+          "engagement_score": 506,
+          "url": "https://x.com/ValsAI/status/2096663681702723653"
         }
       ]
     },
@@ -199,50 +158,50 @@
           "id": "2096290434700247250",
           "text": "Real-world results are in. There is a new #1 on Code Arena - GPT-6 Astra (Max)!\n\nIt also reshapes the Pareto frontier as the best-performing model at $40/Mtoken, which matches the latest Claude model pricing.\n\nGPT-6 Astra by @OpenAI takes the top spot in Code Arena: WebDev with a score of 1797 pts. This opens up a solid +35pt lead over #2 Claude Fable 5.1 (Max) at 1762 pts and #3 Claude Opus 5 (Max) at 1688 pts.\n\nThis is a significant improvement from GPT-5.6 Sol (xHigh) at +180 pts, ranked at #13.\n\nCategory level votes still incoming, but already we see it at #1 in: Data & Analytics, Consumer Product, Content Creation Tools and #2 in Gaming and Simulations. \n\nStay tuned for other categories like Brand & Marketing, Reference-Based Design and Full Stack rankings.\n\nCongrats to the @OpenAI team on this release!",
           "created_at": "2026-09-05T17:32:41+00:00",
-          "like_count": 2595,
-          "retweet_count": 227,
-          "reply_count": 111,
-          "engagement_score": 3160,
+          "like_count": 4079,
+          "retweet_count": 388,
+          "reply_count": 169,
+          "engagement_score": 5024,
           "url": "https://x.com/arena/status/2096290434700247250"
         },
         {
           "id": "2096292448960217449",
           "text": "GPT-6 Astra (Max) by @OpenAI is #1 on Code Arena: WebDev reshaping the Pareto frontier!\n\nIt is SOTA performance at $40/Mtoken, matching the latest Claude model pricing.\n\nIn Code Arena, AI models are ranked on web development tasks, including agentic coding workflows that require multi-step reasoning and tool use.",
           "created_at": "2026-09-05T17:40:41+00:00",
-          "like_count": 564,
-          "retweet_count": 39,
-          "reply_count": 21,
-          "engagement_score": 663,
+          "like_count": 975,
+          "retweet_count": 72,
+          "reply_count": 39,
+          "engagement_score": 1158,
           "url": "https://x.com/arena/status/2096292448960217449"
         },
         {
-          "id": "2095971829307580610",
-          "text": "GPT-6 Astra by @OpenAI is now in the Arena!\n\nHead to Agent Arena to test it out, and your votes will shape the evaluation. Scores coming soon.\n\nIn Agent Arena, we measure models on millions of real-world, long-horizon agentic tasks. Models can access web search, filesystem, and terminal tools to complete complex workflows. The leaderboard measures model performance on outcomes relative to the average model using a causal tracing methodology.\n\nAlso available in Code Arena: WebDev, Text, Vision, Search and Document.",
-          "created_at": "2026-09-04T20:26:40+00:00",
-          "like_count": 369,
-          "retweet_count": 15,
-          "reply_count": 15,
-          "engagement_score": 414,
-          "url": "https://x.com/arena/status/2095971829307580610"
+          "id": "2096398986383184269",
+          "text": "Claude Fable 5.1 (Max) by @AnthropicAI has landed in the Agent Arena at #1 with +15.8% net improvement across 6.7k+ real-world agentic sessions! It also redraws the price-performance frontier: #1 on the leaderboard at a median cost of $4.14/task.\n\nBy signal, Claude Fable 5.1 sees a massive lead in implicit user sentiment with an astonishing (+42.5%) in Praise vs. Complaint. Users are praising it around 2x more often than the next top model. It also sees strong explicit feedback via Confirmed Success (+22.4%), and solid Bash Recovery (+13.1%), with no Tool Hallucinations. More detail on its performance by signal below.\n\nClaude Fable 5.1 (Max) out ranks all past Claude variants and the rest of the pack by a healthy lead.\n\nIn Agent Arena, we measure models on millions of long-horizon agentic tasks from a global community of users. Models can access web search, filesystem, and terminal tools to complete complex workflows. The leaderboard measures model performance on outcomes relative to the average model using a causal tracing methodology. \n\nStay tuned as traces continue to come in for the latest GPT-6 Astra to see how it compares. Use Agent Mode to contribute to the real-world rankings.\n\nCongrats again to @AnthropicAI for this release.",
+          "created_at": "2026-09-06T00:44:02+00:00",
+          "like_count": 593,
+          "retweet_count": 29,
+          "reply_count": 44,
+          "engagement_score": 695,
+          "url": "https://x.com/arena/status/2096398986383184269"
         },
         {
-          "id": "2095949974265888856",
-          "text": "Sneak peek of @OpenAI's GPT-6 Astra, generated by @petergostev. \n\nThis model is coming to @arena soon. Stay tuned to test Astra yourself, your votes will power the leaderboard!\n\nIn the meantime, check out Peter’s first impressions in full on YouTube: https://t.co/vJJRC9ojOw https://t.co/Vgy6owO7ld",
-          "created_at": "2026-09-04T18:59:49+00:00",
-          "like_count": 280,
-          "retweet_count": 15,
-          "reply_count": 12,
-          "engagement_score": 322,
-          "url": "https://x.com/arena/status/2095949974265888856"
+          "id": "2096403705231008160",
+          "text": "Claude Fable 5.1 (Max) by @AnthropicAI has landed in the Agent Arena at #1! At a $4.14 median cost per task and a +15.8% net improvement, it has reshaped the Pareto frontier! \n\nClaude Fable 5.1 is both the most performant and costly among all Agent Arena models today.\n\nBased on 6.7k+ real-world agentic sessions, Claude Fable 5.1 stands out in implicit user sentiment with an astonishing (+42.5%) in Praise vs. Complaint. Users are praising it around 2x more often than the next top model. It also sees strong explicit feedback via Confirmed Success (+22.4%), and solid Bash Recovery (+13.1%), with no Tool Hallucinations.\n\nStay tuned as traces continue to come in for the latest GPT-6 Astra to see how it compares. Use Agent Mode to contribute to the real-world rankings.",
+          "created_at": "2026-09-06T01:02:47+00:00",
+          "like_count": 420,
+          "retweet_count": 26,
+          "reply_count": 27,
+          "engagement_score": 499,
+          "url": "https://x.com/arena/status/2096403705231008160"
         },
         {
           "id": "2096303158880620682",
           "text": "Grok Imagine Video 1.5 Agent from @SpaceXAI has landed in the Text-to-Video Arena at #5 with 1491 pts!\n\nThis release performs on par with Wan-3.0 and FLUX 3 Video (each with 1494 pts), just 3 pts below. Grok Imagine Video 1.5 Agent out performs both Dreamina Seedance-2.5 and 2.0, and MiniMax-H3.\n\n@SpaceXAI is now in the top 5 labs in the Text-to-Video Arena. Congrats to the team!",
           "created_at": "2026-09-05T18:23:15+00:00",
-          "like_count": 180,
-          "retweet_count": 11,
-          "reply_count": 11,
-          "engagement_score": 213,
+          "like_count": 294,
+          "retweet_count": 21,
+          "reply_count": 16,
+          "engagement_score": 352,
           "url": "https://x.com/arena/status/2096303158880620682"
         }
       ]
@@ -257,31 +216,21 @@
           "id": "2096001986110099767",
           "text": "Announcing Artificial Analysis Intelligence Index v4.2. We are accelerating elements of our upcoming v5 release with interim updates to keep pace with the frontier. Index v4.2 has more complex and realistic tasks, and more private test sets to prevent gaming\n\nIntelligence Index v4.2 changelog:\n\n+ AA-Briefcase, our agentic knowledge work evaluation with a private test set\n\n+ @HelloSurgeAI's GDP.pdf, long context document reasoning across 4,592 PDF pages\n\n- GPQA Diamond, an exceptional scientific reasoning evaluation that has now been saturated\n\n… plus greater weighting on held-out test sets to prevent gaming, and grading infrastructure upgrades to increase robustness\n\nThis update brings the Index closer to real-world use cases with more challenging, complex and realistic tasks and private test sets to prevent gaming. We have been planning and building elements of Index v5 for months - it’s been 8 months since we launched Index v4 in January.\n\nWe have deliberately held back updates to keep the Index stable through recent major model launches. However, with the frontier moving so quickly in the past weeks, we feel it is important to deliver an immediate interim update to ensure our Index remains as relevant and useful as ever to users.\n\nBeyond this interim update, our team is hard at work on v5 of the Index. We are planning more incremental releases in the near future. Stay tuned!\n\nIntelligence Index v4.2 changes in detail:\n\n➤ Adding AA-Briefcase: Our in-house evaluation with a private held-out test set, AA-Briefcase tests models on realistic agentic knowledge work tasks in complex projects built by industry experts. Models are evaluated on multi-week knowledge work projects, each with many linked tasks and thousands of input source files. AA-Briefcase combines rubric and pairwise grading to evaluate verifiable task success, analytical quality, and presentation quality, giving a holistic view of overall agentic capability in knowledge work.\n\n➤ Adding GDP.pdf: Created by @HelloSurgeAI, GDP.pdf evaluates single-turn professional document reasoning across 100 PDFs and ten domains. Models must synthesize evidence distributed across 4,592 pages, including text, tables, charts, footnotes, and exclusions. Responses are graded against 1,275 expert-authored atomic criteria; the headline All-pass Rate credits a task only when every criterion is satisfied.\n\n➤ Weighting to measure real-world use and prevent gaming: 40% of our Index weighting is now private, held-out test sets - double the figure from v4.1. Held-out data includes AA-Briefcase, AA-Omniscience, and solutions for CritPt. This reduces the ability for labs to game evaluations. The held-out percentage will increase further in Index v5.\n\n➤ Improving our grading infrastructure: In AA-LCR v1.1, we have added a grading system prompt and corrected errors and ambiguities in answer keys, improving scoring accuracy. For GDPval-AA v2 and AA-Briefcase, we have improved our sampling and re-anchored the Elo scale, making ratings more stable as new models are added. For SciCode we have improved robustness of grading sandboxes to ensure slow but correct code does not count as a failure.\n\nKey results:\n\n➤ Anthropic and OpenAI lead the Index: Anthropic’s Claude Fable 5.1 leads the Index, followed by OpenAI’s GPT-6 Astra, which shows a 4pt gain over GPT-5.6 Sol. Meta is the third-ranked lab on the leaderboard, followed by SpaceXAI, Moonshot/Kimi, Z AI, and Google\n\n➤ Cost per Task Pareto frontier shared by four labs: Anthropic, OpenAI, Meta and Z AI occupy the updated Cost per Task Pareto frontier\n\n➤ GPT-6 Astra dominates the output token Pareto frontier: GPT-6 Astra is more token efficient than almost every other model near the intelligence frontier, with Claude Fable 5.1, Grok 4.5 and Gemini 3.5 Flash-Lite at either end of the curve (excludes models below 25 on the Index)",
           "created_at": "2026-09-04T22:26:29+00:00",
-          "like_count": 2333,
-          "retweet_count": 182,
-          "reply_count": 212,
-          "engagement_score": 2909,
+          "like_count": 2508,
+          "retweet_count": 193,
+          "reply_count": 235,
+          "engagement_score": 3129,
           "url": "https://x.com/ArtificialAnlys/status/2096001986110099767"
         },
         {
-          "id": "2095908763563680105",
-          "text": "Microsoft's MAI-Image-2.6-Flash takes #3 on the Artificial Analysis Image Editing Leaderboard, a significant jump over the previous generation’s Flash variant and joining MAI-Image-2.6 on the Pareto frontier for quality vs price\n\nMAI-Image-2.6-Flash is an optimized version of MAI-Image-2.6, Microsoft AI's flagship image model, released today on Microsoft Foundry alongside MAI-Image-2.6. Like the rest of the family, it handles both text to image generation and image editing.\n\nIn the Artificial Analysis Image Arena, MAI-Image-2.6-Flash lands at #3 in Image Editing, behind only Microsoft's own MAI-Image-2.6 and OpenAI's GPT Image 2 (high) and narrowly ahead of Google's Nano Banana 2. In Text to Image it takes #8, within 5 Elo points of MAI-Image-2.5 and narrowly ahead of Google's Nano Banana Pro.\n\nMAI-Image-2.6-Flash is a large step up on MAI-Image-2.5-Flash at the same price: it sits 69 Elo points higher in Text to Image (#16 to #8) and 34 Elo points higher in Image Editing (#12 to #3).\n\nMAI-Image-2.6 and MAI-Image-2.6-Flash are available today on Microsoft Foundry.\n\nCongratulations to @MicrosoftAI on the release!\n\nSee below for our analysis and example outputs of MAI-Image-2.6-Flash in the Artificial Analysis Image Arena 🧵",
-          "created_at": "2026-09-04T16:16:03+00:00",
-          "like_count": 305,
-          "retweet_count": 20,
-          "reply_count": 16,
-          "engagement_score": 361,
-          "url": "https://x.com/ArtificialAnlys/status/2095908763563680105"
-        },
-        {
-          "id": "2095664864689811616",
-          "text": "Meta's Muse Image debuts at #4 on the Artificial Analysis Image Editing Leaderboard and takes #5 in Text to Image, including a position on the Pareto frontier for quality vs price\n\nMuse Image is the first image model from Meta Superintelligence Labs, launched in Meta AI in July and now available to developers on the Meta Model API. Meta positions it as an agentic image model: it invokes search and coding tools, self-refines its own generations, and composes from multiple references.\n\nIn the Artificial Analysis Image Arena, Muse Image debuts at #4 in Image Editing, behind Microsoft's MAI-Image-2.6-Preview and OpenAI's GPT Image 2 (high) and narrowly behind Google's Nano Banana 2. In Text to Image it takes #5, behind only GPT Image 2 (high), MAI-Image-2.6-Preview, Reve 2.1, and Google's Nano Banana 2.\n\nMuse Image is available in the Meta AI app, on https://t.co/RAZKpGp53L, in Instagram Stories, in WhatsApp in limited countries, and to developers via the Meta Model API and partner platforms fal, Runway, and OpenRouter.\n\nCongratulations to @AIatMeta, @alexandr_wang, & @finkd on the release!\n\nSee below for our analysis and example outputs of Muse Image in the Artificial Analysis Image Arena 🧵",
-          "created_at": "2026-09-04T00:06:53+00:00",
-          "like_count": 235,
+          "id": "2096395066747306102",
+          "text": "Intelligence Index v4.2 is an acceleration of our v5 roadmap, which is focused on long-horizon tasks that better resemble real-world problem solving, a greater proportion of private test sets to prevent gaming, and reducing saturation. Expect further updates as we continue our v5 rollout!\n\nWe are accelerating our rollout because the Intelligence Index needs to measure what AI is capable of to be useful to developers making decisions.\n\nThe key changes are adding AA-Briefcase, our long-horizon agentic knowledge work benchmark with a private test set, and GDP.pdf, which measures long-context reasoning across thousands of realistic documents. Both improve realism and AA-Briefcase increases the proportion of private test sets. We've also removed GPQA Diamond: it provides little signal for frontier models given its saturation, and its multiple-choice format doesn't reflect real tasks in those domains.\n\nLink to our methodology: https://t.co/47iv8lfTVh",
+          "created_at": "2026-09-06T00:28:27+00:00",
+          "like_count": 269,
           "retweet_count": 10,
-          "reply_count": 14,
-          "engagement_score": 269,
-          "url": "https://x.com/ArtificialAnlys/status/2095664864689811616"
+          "reply_count": 38,
+          "engagement_score": 327,
+          "url": "https://x.com/ArtificialAnlys/status/2096395066747306102"
         }
       ]
     },
@@ -311,18 +260,7 @@
       "name": "Sam Altman",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2095973658867171733",
-          "text": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API.\n\nWe will start rollout to Plus and Business users next.\n\nThank you for the patience.",
-          "created_at": "2026-09-04T20:33:56+00:00",
-          "like_count": 19213,
-          "retweet_count": 838,
-          "reply_count": 814,
-          "engagement_score": 21703,
-          "url": "https://x.com/sama/status/2095973658867171733"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "DarioAmodei",
@@ -350,18 +288,7 @@
       "name": "NVIDIA (Jensen Huang / AI infrastructure)",
       "domain": "ai",
       "tier": "infra",
-      "tweets": [
-        {
-          "id": "2095934132110946634",
-          "text": "Huge congrats to our friends at @wayve_ai and @Uber. \n\nWayve’s frontier AI, trained on NVIDIA infrastructure and running on NVIDIA DRIVE AGX accelerated compute, is now taking passengers through the streets of London.\n\nLet’s ride. 🚘🇬🇧",
-          "created_at": "2026-09-04T17:56:52+00:00",
-          "like_count": 506,
-          "retweet_count": 44,
-          "reply_count": 48,
-          "engagement_score": 642,
-          "url": "https://x.com/nvidia/status/2095934132110946634"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "AmandaAskell",
@@ -398,33 +325,23 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2096065378598441431",
-          "text": "Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), agents *need* to ride the existing WWW infrastructure… WebMCP makes it more efficient.\n\nSome pretty unique wins too. e.g: Next.js dev pages could expose debugging tools directly to agents in the specific tab they’re testing, with page-specific context, instead of sifting through server logs. No separate MCP server to find and configure because the page directly exposes its own 'agent tools'.\n\ne.g: in this world 𝚏𝚡 + 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 is a complete web dev stack with zero loss in debugging depth",
-          "created_at": "2026-09-05T02:38:23+00:00",
-          "like_count": 1311,
-          "retweet_count": 64,
-          "reply_count": 120,
-          "engagement_score": 1559,
-          "url": "https://x.com/rauchg/status/2096065378598441431"
-        },
-        {
-          "id": "2095926173293572467",
-          "text": "AI software factories will yield bug-free, self-improving software",
-          "created_at": "2026-09-04T17:25:14+00:00",
-          "like_count": 932,
-          "retweet_count": 35,
-          "reply_count": 56,
-          "engagement_score": 1058,
-          "url": "https://x.com/rauchg/status/2095926173293572467"
+          "id": "2096375803714138437",
+          "text": "Anyone that works in AI is working the hardest they've ever worked in their lives. On the surface it's somewhat ironic (AI should give us back time!), but the reality is that it's the most fun, fascinating and empowering epoch in human history. The intelligence revolution.",
+          "created_at": "2026-09-05T23:11:55+00:00",
+          "like_count": 5652,
+          "retweet_count": 504,
+          "reply_count": 287,
+          "engagement_score": 6947,
+          "url": "https://x.com/rauchg/status/2096375803714138437"
         },
         {
           "id": "2096285043094405491",
           "text": "Astra is now the best cybersecurity model in the world on @vercel DeepsecBench.\n\nIt pulls off in 49 minutes what took Sol ~4 hours, with a better score, at nearly the same cost. It's more effective and 50% cheaper than Claude Opus 5 max.\n\nhttps://t.co/14WK4F7Qhs https://t.co/zRyGqlZYFo",
           "created_at": "2026-09-05T17:11:16+00:00",
-          "like_count": 827,
-          "retweet_count": 35,
-          "reply_count": 60,
-          "engagement_score": 957,
+          "like_count": 1366,
+          "retweet_count": 62,
+          "reply_count": 79,
+          "engagement_score": 1569,
           "url": "https://x.com/rauchg/status/2096285043094405491"
         }
       ]
@@ -434,28 +351,7 @@
       "name": "Amjad Masad (Replit)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2095746838490198375",
-          "text": "Marvin Minsky wrote about this in The Emotion Machine. Emotions are a core part of human intelligence, not some epiphenomenal side effect of human evolution (which presumably many AI folks believe it is).\n\nMinsky describes a selector of sorts for different thinking strategies.",
-          "created_at": "2026-09-04T05:32:38+00:00",
-          "like_count": 554,
-          "retweet_count": 44,
-          "reply_count": 57,
-          "engagement_score": 699,
-          "url": "https://x.com/amasad/status/2095746838490198375"
-        },
-        {
-          "id": "2095765201631203513",
-          "text": "Ken Thompson’s “Reflections on Trusting Trust” feels super relevant to AI.\n\nHe bootstrapped a “poisoned” compiler that left no traces of the poison in the source code because it compiled itself.\n\nYou can imagine the same thing happening with models where one poisoned generation helps train the next while removing any traces of the poison.",
-          "created_at": "2026-09-04T06:45:36+00:00",
-          "like_count": 153,
-          "retweet_count": 5,
-          "reply_count": 40,
-          "engagement_score": 203,
-          "url": "https://x.com/amasad/status/2095765201631203513"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "joshwoodward",
@@ -476,7 +372,18 @@
       "name": "Ivan Fioravanti (Apple MLX / open source)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2096545181755441410",
+          "text": "Time to test ds4-eval --suite hard!",
+          "created_at": "2026-09-06T10:24:57+00:00",
+          "like_count": 17,
+          "retweet_count": 0,
+          "reply_count": 1,
+          "engagement_score": 18,
+          "url": "https://x.com/ivanfioravanti/status/2096545181755441410"
+        }
+      ]
     },
     {
       "handle": "deanwball",
@@ -485,23 +392,13 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2095890436694913163",
-          "text": "This is my least favorite Tyler Cowen take, noting that I hold Tyler in the utmost regard.\n\nSome of the most pessimistic AI forecasters I know are millionaires several times over because they understood “AI will be a big deal” prior to almost anyone and sought exposure to NVDA, frontier lab equity, etc. Leopold’s fund, even subtracting leverage, still had phenomenal returns in its public-market bets, probably industry-leading.\n\nThere are a million trades one can make. There is the straightforward compute trade. You can short SaaS or, better yet, develop a principled framework for which SaaS is in trouble and which will be fine and trade from there. You can buy exposure to hard-to-replace physical chokepoints. You can speculate on interest rates, which as I’ve argued for a while will clearly rise. The last one might be the closest to what Tyler wants: in some sense I expect long-term interest rates to rise as the market comes to understand and price the unfathomable degree of uncertainty the future holds. If you did some combination of these things there’s a decent chance you are up YTD on VTI and SPY. Hooray for you! You anticipated changes AI would cause in the world before others and used those insights to perceive and exploit asset mispricings in the interest of profit and collective price discovery! That’s great (I mean it! I love trading!).\n\nBut like, the threat model here is: “digital mind that can do a rapidly increasing number of things better than most or all humans with goals and internal workings we do not understand.” Part of the problem is *it is very hard to predict what a mind smarter than you will do, almost by definition.* The other part of the problem is the generality: the models will be deployed throughout the economy, so the risk surface is very broad for both human misuse and intrinsic model alignment risk.\n\nIn other words: if it were possible to identify specific securities whose prices would fluctuate in x or y manner because of misalignment or catastrophic misuse, *then it would be much easier to prevent the threats to begin with*, and probably those concerned about AI today would become less concerned.\n\nSo my basic answer to the question Tyler poses would be: speculate on interest rates rising over the next 5 years (obviously there are a gajillion ways to do this and This Is Not Financial Advice). But my actual answer is that I think he is asking the wrong question.",
-          "created_at": "2026-09-04T15:03:14+00:00",
-          "like_count": 525,
-          "retweet_count": 12,
-          "reply_count": 22,
-          "engagement_score": 571,
-          "url": "https://x.com/deanwball/status/2095890436694913163"
-        },
-        {
           "id": "2096296036784324840",
           "text": "in today’s issue of “hard to predict next tokens” https://t.co/r9y4jAdba7",
           "created_at": "2026-09-05T17:54:57+00:00",
-          "like_count": 31,
+          "like_count": 68,
           "retweet_count": 1,
-          "reply_count": 1,
-          "engagement_score": 34,
+          "reply_count": 2,
+          "engagement_score": 72,
           "url": "https://x.com/deanwball/status/2096296036784324840"
         }
       ]
@@ -513,38 +410,18 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2096043842013393337",
-          "text": "all the new model releases reminded me that you should update your CLAUDE.md and AGENTS.md after switching to the new models\n\nmy recommendation is to keep what you have first, use it with the new models for a while, then run backpass https://t.co/DkM9b4TcZ0 to self-improve based on real transcripts",
-          "created_at": "2026-09-05T01:12:49+00:00",
-          "like_count": 317,
-          "retweet_count": 18,
-          "reply_count": 14,
-          "engagement_score": 367,
-          "url": "https://x.com/kunchenguid/status/2096043842013393337"
-        },
-        {
-          "id": "2096324562229326278",
-          "text": "have you noticed something new with claude 5 and gpt 6? \n\nthis is the first generation where they released the biggest model fable and astra ahead of the smaller ones\n\nthis is very interesting and worth speculating a bit\n\nthe most reasonable explanation i can think of is that only fable and astra are actually “trained”\n\nopus 5, sonnet 5, and the upcoming gpt 6 sol, terra, luna are all “taught”\n\nthis is NOT a good sign. why? have you seen opus 5 and sonnet 5? they are bad\n\nopus 4.6, 4.8 etc were “trained”, because there was never a mythos 4 to teach them, so opus back then was good\n\nit seems a training pipeline where the model is primarily taught by / distilled from a large teacher model have all sort of quirks and are generally not as useful in practice, especially for direct interactive use as a human\n\nperhaps they will nail this down the road, but if they don’t, then what it means to us is -\n\nwe will only be able to use fable/astra directly, and need to ask fable/astra to use the other models as subagents. not sure i like it",
-          "created_at": "2026-09-05T19:48:18+00:00",
-          "like_count": 146,
-          "retweet_count": 4,
-          "reply_count": 35,
-          "engagement_score": 189,
-          "url": "https://x.com/kunchenguid/status/2096324562229326278"
-        },
-        {
-          "id": "2096077755553345973",
-          "text": "there is a difference between openai's quota reset and anthropic's reset\n\nwhen openai resets limits, the 7-day timer starts fresh as well\n\nwhen anthropic resets, all the quota window timers remain as-is\n\nwhich one do you like more, and why?",
-          "created_at": "2026-09-05T03:27:34+00:00",
-          "like_count": 65,
-          "retweet_count": 1,
-          "reply_count": 54,
-          "engagement_score": 121,
-          "url": "https://x.com/kunchenguid/status/2096077755553345973"
+          "id": "2096661942010368487",
+          "text": "we’re entering an interesting age where AI makes repeating something that already exists drastically easier than creating something truly novel\n\ni worry the side effects are -\n\n1. innovators who don’t have distribution get punished \n\nbecause someone with distribution can copy the innovation in an hour and take all the win\n\nif this happens repeatedly, people may simply stop innovating because innovation is already extremely risky. now with the added risk of getting stolen, ROI is a lot higher to just copy something that works\n\n2. products with no network effect will all race to the bottom \n\nbecause anything good will get millions of copies that do the same and split the market\n\nthis may be good for consumers because those products will not be able to have much profit margin, so price will be low\n\nbut it’s bad for people making products, and as a result average product quality may become pretty low because they don’t have much profit to sustain the polish\n\n3. people will face choice paralysis\n\nfor every single thing, there will be millions of choices that all look the same, and they are all running the same ads asking you to choose them. which one do you use?\n\npeople will increasingly lean on authority to tell them, which will increase the distribution power of authorities and reduce the power of ads\n\nwhat else do you think might happen when copying becomes 1000x easier than creating something new?",
+          "created_at": "2026-09-06T18:08:55+00:00",
+          "like_count": 174,
+          "retweet_count": 11,
+          "reply_count": 50,
+          "engagement_score": 246,
+          "url": "https://x.com/kunchenguid/status/2096661942010368487"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-09-05T22:15:15.203078+00:00"
+  "generated_at": "2026-09-06T22:10:48.983964+00:00"
 }
