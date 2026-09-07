@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-09-06T22:59:42.047904+00:00",
+  "generated_at": "2026-09-07T23:07:44.535897+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
+      "pub_date": "2026-09-07T15:02:41+00:00",
+      "transcript_path": "feeds/transcripts/8091072feb3b30b6d92f4416.txt",
+      "transcript_chars": 18507,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-07T23:07:44.535897+00:00",
+      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
+      "expires_at": "2026-09-21T23:07:44.535897+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+      "link": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+      "channel": "Lenny's Podcast",
+      "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+      "pub_date": "2026-09-07T12:04:19+00:00",
+      "transcript_path": "feeds/transcripts/6893897e67e639a87c1e6fcd.txt",
+      "transcript_chars": 5065,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-07T23:07:44.535897+00:00",
+      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
+      "expires_at": "2026-09-21T23:07:44.535897+00:00"
+    },
     {
       "guid": "yt:VrgRI00UPxc",
       "link": "https://www.youtube.com/watch?v=VrgRI00UPxc",
@@ -12,8 +38,8 @@
       "transcript_chars": 29772,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-06T22:59:42.047904+00:00",
-      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
-      "expires_at": "2026-09-20T22:59:42.047904+00:00"
+      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
+      "expires_at": "2026-09-21T23:07:44.535897+00:00"
     },
     {
       "guid": "yt:3F-sQCJBDks",
@@ -25,8 +51,8 @@
       "transcript_chars": 23440,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-06T22:59:42.047904+00:00",
-      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
-      "expires_at": "2026-09-20T22:59:42.047904+00:00"
+      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
+      "expires_at": "2026-09-21T23:07:44.535897+00:00"
     },
     {
       "guid": "https://www.latent.space/p/grok-bot",
@@ -38,8 +64,8 @@
       "transcript_chars": 14223,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
-      "expires_at": "2026-09-20T22:59:42.047904+00:00"
+      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
+      "expires_at": "2026-09-21T23:07:44.535897+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
@@ -129,8 +155,8 @@
       "transcript_chars": 51982,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
-      "expires_at": "2026-09-20T22:59:42.047904+00:00"
+      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
+      "expires_at": "2026-09-21T23:07:44.535897+00:00"
     },
     {
       "guid": "yt:dnSpKF5pWNQ",
@@ -142,8 +168,8 @@
       "transcript_chars": 62505,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
-      "expires_at": "2026-09-20T22:59:42.047904+00:00"
+      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
+      "expires_at": "2026-09-21T23:07:44.535897+00:00"
     },
     {
       "guid": "yt:cRX84IvyVNU",
@@ -155,8 +181,8 @@
       "transcript_chars": 29499,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
-      "expires_at": "2026-09-20T22:59:42.047904+00:00"
+      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
+      "expires_at": "2026-09-21T23:07:44.535897+00:00"
     },
     {
       "guid": "yt:VeizK1M7V7E",
@@ -168,8 +194,8 @@
       "transcript_chars": 75813,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
-      "expires_at": "2026-09-20T22:59:42.047904+00:00"
+      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
+      "expires_at": "2026-09-21T23:07:44.535897+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/ajeya-cotra",
@@ -272,8 +298,8 @@
       "transcript_chars": 50757,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-31T22:45:39.918632+00:00",
-      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
-      "expires_at": "2026-09-20T22:59:42.047904+00:00"
+      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
+      "expires_at": "2026-09-21T23:07:44.535897+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/openai-huggingface",
@@ -536,58 +562,6 @@
       "expires_at": "2026-09-09T02:42:47.658613+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
-      "link": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
-      "channel": "Latent Space",
-      "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
-      "pub_date": "2026-08-22T07:36:00+00:00",
-      "transcript_path": "feeds/transcripts/21844a8fc8abff8e4121fd70.txt",
-      "transcript_chars": 28837,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-24T00:15:49.451590+00:00",
-      "last_seen_at": "2026-08-24T00:15:49.451590+00:00",
-      "expires_at": "2026-09-07T00:15:49.451590+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/attention-interface",
-      "link": "https://www.latent.space/p/attention-interface",
-      "channel": "Latent Space",
-      "title": "The Evolution of the Agent Harness",
-      "pub_date": "2026-08-22T07:30:52+00:00",
-      "transcript_path": "feeds/transcripts/833f67105cde5aedb281ce8d.txt",
-      "transcript_chars": 12324,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-24T00:15:49.451590+00:00",
-      "last_seen_at": "2026-08-24T00:15:49.451590+00:00",
-      "expires_at": "2026-09-07T00:15:49.451590+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/simile",
-      "link": "https://www.latent.space/p/simile",
-      "channel": "Latent Space",
-      "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
-      "pub_date": "2026-08-21T23:37:38+00:00",
-      "transcript_path": "feeds/transcripts/a7ad4bd7142ba85fd7025522.txt",
-      "transcript_chars": 80514,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-22T00:59:26.873991+00:00",
-      "last_seen_at": "2026-08-24T00:15:49.451590+00:00",
-      "expires_at": "2026-09-07T00:15:49.451590+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
-      "link": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
-      "channel": "Latent Space",
-      "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
-      "pub_date": "2026-08-21T05:45:21+00:00",
-      "transcript_path": "feeds/transcripts/4becdd3754445fbc5e009bba.txt",
-      "transcript_chars": 20848,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-22T00:59:26.873991+00:00",
-      "last_seen_at": "2026-08-24T00:15:49.451590+00:00",
-      "expires_at": "2026-09-07T00:15:49.451590+00:00"
-    },
-    {
       "guid": "953662b3-f08d-4981-88d2-72b1eabf751c",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--026---PJMs-12B-Modeling-Mistake-Is-Hitting-Ratepayers-Again-Datacenter--Energy--Robert-Boswall--Jordan-Nanos-e3nkns1",
       "channel": "SemiAnalysis",
@@ -599,19 +573,6 @@
       "cached_at": "2026-08-20T22:01:40.699775+00:00",
       "last_seen_at": "2026-09-05T04:53:07.411280+00:00",
       "expires_at": "2026-09-19T04:53:07.411280+00:00"
-    },
-    {
-      "guid": "yt:ukXDmtbL8d4",
-      "link": "https://www.youtube.com/watch?v=ukXDmtbL8d4",
-      "channel": "Finance Bureau",
-      "title": "Mark Zuckerberg is Actually The WORST CEO In History.",
-      "pub_date": "2026-08-19T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/244eb4faf5b06cfe9752b161.txt",
-      "transcript_chars": 14881,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-08-20T22:01:40.699775+00:00",
-      "last_seen_at": "2026-08-24T00:15:49.451590+00:00",
-      "expires_at": "2026-09-07T00:15:49.451590+00:00"
     },
     {
       "guid": "140f011b-3dff-469a-9e2f-6aab4bb8a6f4",
