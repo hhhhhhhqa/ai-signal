@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-09-07T23:07:44.535897+00:00",
+  "generated_at": "2026-09-08T22:13:34.690298+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+      "link": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
+      "channel": "Dwarkesh Patel",
+      "title": "Pretraining progress is mostly coming from data",
+      "pub_date": "2026-09-08T16:10:16+00:00",
+      "transcript_path": "feeds/transcripts/aa99a0237aab2b167d04c5cb.txt",
+      "transcript_chars": 17995,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-08T22:13:34.690298+00:00",
+      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
+      "expires_at": "2026-09-22T22:13:34.690298+00:00"
+    },
+    {
+      "guid": "yt:qNxuxwb9ksA",
+      "link": "https://www.youtube.com/watch?v=qNxuxwb9ksA",
+      "channel": "TBPN",
+      "title": "Greg Brockman on Astra and the Future of OpenAI",
+      "pub_date": "2026-09-08T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/f2aae77f1c2f7eadf6be470d.txt",
+      "transcript_chars": 27647,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-08T22:13:34.690298+00:00",
+      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
+      "expires_at": "2026-09-22T22:13:34.690298+00:00"
+    },
+    {
+      "guid": "yt:XNOuhxUsQDI",
+      "link": "https://www.youtube.com/watch?v=XNOuhxUsQDI",
+      "channel": "Tiff In Tech",
+      "title": "Mark Zuckerberg on Building Personal AI Agents People Can Actually Trust | Meet Muse",
+      "pub_date": "2026-09-08T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/f85b58968d6e4c3a9b203edf.txt",
+      "transcript_chars": 27437,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-08T22:13:34.690298+00:00",
+      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
+      "expires_at": "2026-09-22T22:13:34.690298+00:00"
+    },
+    {
+      "guid": "yt:MiAl9CNZUuo",
+      "link": "https://www.youtube.com/watch?v=MiAl9CNZUuo",
+      "channel": "DWS News",
+      "title": "FULL REMARKS: Nvidia CEO Jensen Huang Outlines AI Future As Global Economic Game Changer | AI14",
+      "pub_date": "2026-09-02T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/1e8b6106aa237e7922661f82.txt",
+      "transcript_chars": 21537,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-08T22:13:34.690298+00:00",
+      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
+      "expires_at": "2026-09-22T22:13:34.690298+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
       "link": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
@@ -12,8 +64,8 @@
       "transcript_chars": 18507,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-07T23:07:44.535897+00:00",
-      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
-      "expires_at": "2026-09-21T23:07:44.535897+00:00"
+      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
+      "expires_at": "2026-09-22T22:13:34.690298+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
@@ -25,8 +77,8 @@
       "transcript_chars": 5065,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-07T23:07:44.535897+00:00",
-      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
-      "expires_at": "2026-09-21T23:07:44.535897+00:00"
+      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
+      "expires_at": "2026-09-22T22:13:34.690298+00:00"
     },
     {
       "guid": "yt:VrgRI00UPxc",
@@ -38,8 +90,8 @@
       "transcript_chars": 29772,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-06T22:59:42.047904+00:00",
-      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
-      "expires_at": "2026-09-21T23:07:44.535897+00:00"
+      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
+      "expires_at": "2026-09-22T22:13:34.690298+00:00"
     },
     {
       "guid": "yt:3F-sQCJBDks",
@@ -51,8 +103,8 @@
       "transcript_chars": 23440,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-06T22:59:42.047904+00:00",
-      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
-      "expires_at": "2026-09-21T23:07:44.535897+00:00"
+      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
+      "expires_at": "2026-09-22T22:13:34.690298+00:00"
     },
     {
       "guid": "https://www.latent.space/p/grok-bot",
@@ -155,8 +207,8 @@
       "transcript_chars": 51982,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
-      "expires_at": "2026-09-21T23:07:44.535897+00:00"
+      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
+      "expires_at": "2026-09-22T22:13:34.690298+00:00"
     },
     {
       "guid": "yt:dnSpKF5pWNQ",
@@ -168,8 +220,8 @@
       "transcript_chars": 62505,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
-      "expires_at": "2026-09-21T23:07:44.535897+00:00"
+      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
+      "expires_at": "2026-09-22T22:13:34.690298+00:00"
     },
     {
       "guid": "yt:cRX84IvyVNU",
@@ -181,8 +233,8 @@
       "transcript_chars": 29499,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
-      "expires_at": "2026-09-21T23:07:44.535897+00:00"
+      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
+      "expires_at": "2026-09-22T22:13:34.690298+00:00"
     },
     {
       "guid": "yt:VeizK1M7V7E",
@@ -298,8 +350,8 @@
       "transcript_chars": 50757,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-31T22:45:39.918632+00:00",
-      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
-      "expires_at": "2026-09-21T23:07:44.535897+00:00"
+      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
+      "expires_at": "2026-09-22T22:13:34.690298+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/openai-huggingface",
