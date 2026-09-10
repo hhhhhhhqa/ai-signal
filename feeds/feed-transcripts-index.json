@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-08T22:13:34.690298+00:00",
+  "generated_at": "2026-09-10T00:12:29.601064+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "fcc44f37-f242-4730-a77c-5f3d83c24fa9",
+      "link": "https://deepmind.com/podcast",
+      "channel": "Google DeepMind Podcast",
+      "title": "Can AI help us better predict the weather?",
+      "pub_date": "2026-09-09T16:08:26+00:00",
+      "transcript_path": "feeds/transcripts/5b7d7af06b5c1eff5d3cddd4.txt",
+      "transcript_chars": 18655,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-10T00:12:29.601064+00:00",
+      "last_seen_at": "2026-09-10T00:12:29.601064+00:00",
+      "expires_at": "2026-09-24T00:12:29.601064+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+      "link": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
+      "channel": "Latent Space",
+      "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
+      "pub_date": "2026-09-09T05:04:51+00:00",
+      "transcript_path": "feeds/transcripts/b7fe7cf397e21053052ae76e.txt",
+      "transcript_chars": 25731,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-10T00:12:29.601064+00:00",
+      "last_seen_at": "2026-09-10T00:12:29.601064+00:00",
+      "expires_at": "2026-09-24T00:12:29.601064+00:00"
+    },
+    {
+      "guid": "yt:Lx8lrn-cytc",
+      "link": "https://www.youtube.com/watch?v=Lx8lrn-cytc",
+      "channel": "Sources Podcast and Alex Heath",
+      "title": "Mark Zuckerberg on Muse, Meta's biggest AI bet yet",
+      "pub_date": "2026-09-08T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/dd024e80145a5945373843c3.txt",
+      "transcript_chars": 78667,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-10T00:12:29.601064+00:00",
+      "last_seen_at": "2026-09-10T00:12:29.601064+00:00",
+      "expires_at": "2026-09-24T00:12:29.601064+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
       "link": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
@@ -12,8 +51,8 @@
       "transcript_chars": 17995,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-08T22:13:34.690298+00:00",
-      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
-      "expires_at": "2026-09-22T22:13:34.690298+00:00"
+      "last_seen_at": "2026-09-10T00:12:29.601064+00:00",
+      "expires_at": "2026-09-24T00:12:29.601064+00:00"
     },
     {
       "guid": "yt:qNxuxwb9ksA",
@@ -25,8 +64,8 @@
       "transcript_chars": 27647,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-08T22:13:34.690298+00:00",
-      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
-      "expires_at": "2026-09-22T22:13:34.690298+00:00"
+      "last_seen_at": "2026-09-10T00:12:29.601064+00:00",
+      "expires_at": "2026-09-24T00:12:29.601064+00:00"
     },
     {
       "guid": "yt:XNOuhxUsQDI",
@@ -38,8 +77,8 @@
       "transcript_chars": 27437,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-08T22:13:34.690298+00:00",
-      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
-      "expires_at": "2026-09-22T22:13:34.690298+00:00"
+      "last_seen_at": "2026-09-10T00:12:29.601064+00:00",
+      "expires_at": "2026-09-24T00:12:29.601064+00:00"
     },
     {
       "guid": "yt:MiAl9CNZUuo",
@@ -64,8 +103,8 @@
       "transcript_chars": 18507,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-07T23:07:44.535897+00:00",
-      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
-      "expires_at": "2026-09-22T22:13:34.690298+00:00"
+      "last_seen_at": "2026-09-10T00:12:29.601064+00:00",
+      "expires_at": "2026-09-24T00:12:29.601064+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
@@ -77,8 +116,8 @@
       "transcript_chars": 5065,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-07T23:07:44.535897+00:00",
-      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
-      "expires_at": "2026-09-22T22:13:34.690298+00:00"
+      "last_seen_at": "2026-09-10T00:12:29.601064+00:00",
+      "expires_at": "2026-09-24T00:12:29.601064+00:00"
     },
     {
       "guid": "yt:VrgRI00UPxc",
@@ -207,8 +246,8 @@
       "transcript_chars": 51982,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
-      "expires_at": "2026-09-22T22:13:34.690298+00:00"
+      "last_seen_at": "2026-09-10T00:12:29.601064+00:00",
+      "expires_at": "2026-09-24T00:12:29.601064+00:00"
     },
     {
       "guid": "yt:dnSpKF5pWNQ",
@@ -350,8 +389,8 @@
       "transcript_chars": 50757,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-31T22:45:39.918632+00:00",
-      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
-      "expires_at": "2026-09-22T22:13:34.690298+00:00"
+      "last_seen_at": "2026-09-10T00:12:29.601064+00:00",
+      "expires_at": "2026-09-24T00:12:29.601064+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/openai-huggingface",
@@ -599,19 +638,6 @@
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
       "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
       "expires_at": "2026-09-10T22:46:43.554266+00:00"
-    },
-    {
-      "guid": "yt:y35V5ACMfS4",
-      "link": "https://www.youtube.com/watch?v=y35V5ACMfS4",
-      "channel": "The Globe and Mail and Machines Like Us",
-      "title": "Demis Hassabis wanted to solve intelligence. Then came ChatGPT. (Sebastian Mallaby)",
-      "pub_date": "2026-08-20T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/48e5f8f0ef2db3357cd69fef.txt",
-      "transcript_chars": 46959,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-26T02:42:47.658613+00:00",
-      "expires_at": "2026-09-09T02:42:47.658613+00:00"
     },
     {
       "guid": "953662b3-f08d-4981-88d2-72b1eabf751c",
