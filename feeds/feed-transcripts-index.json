@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-09-10T22:28:33.133847+00:00",
+  "generated_at": "2026-09-11T22:50:18.462607+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "77cd4aba-55ef-451a-a575-1793d9acfd20",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--029---Modular-Data-Centers-Cut-Build-Time-to-12-Months-Datacenter--Energy--Nico-Bontigui--Jordan-Nanos--Nigel-Chiang--Eric-Wen-e3onilo",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 029 - Modular Data Centers Cut Build Time to 12 Months (Datacenter, Energy) | Nico Bontigui, Jordan Nanos, Nigel Chiang, Eric Wen",
+      "pub_date": "2026-09-11T18:00:00+00:00",
+      "transcript_path": "feeds/transcripts/945a562ba942270998eb7aba.txt",
+      "transcript_chars": 43604,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-11T22:50:18.462607+00:00",
+      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
+      "expires_at": "2026-09-25T22:50:18.462607+00:00"
+    },
+    {
+      "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "link": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "channel": "Dwarkesh Patel",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "pub_date": "2026-09-11T16:28:11+00:00",
+      "transcript_path": "feeds/transcripts/2562a1ae932d375360bceab1.txt",
+      "transcript_chars": 102322,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-11T22:50:18.462607+00:00",
+      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
+      "expires_at": "2026-09-25T22:50:18.462607+00:00"
+    },
+    {
+      "guid": "yt:rDteJAuKiBI",
+      "link": "https://www.youtube.com/watch?v=rDteJAuKiBI",
+      "channel": "Royal Society of Arts",
+      "title": "Sir Demis Hassabis on Creativity and AI | Will AI Change How We Create? | Hannah Fry",
+      "pub_date": "2026-09-11T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/ce62345906143635b0c7d6c2.txt",
+      "transcript_chars": 61855,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-11T22:50:18.462607+00:00",
+      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
+      "expires_at": "2026-09-25T22:50:18.462607+00:00"
+    },
+    {
+      "guid": "yt:UT0zrf0tlug",
+      "link": "https://www.youtube.com/watch?v=UT0zrf0tlug",
+      "channel": "Jimmy Kimmel Live",
+      "title": "Andrew Garfield on Finding Out He Was Playing Spider-Man, New Film The Uprising & Playing Sam Altman",
+      "pub_date": "2026-09-09T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/de69b20f97f15c3a8362df14.txt",
+      "transcript_chars": 15159,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-11T22:50:18.462607+00:00",
+      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
+      "expires_at": "2026-09-25T22:50:18.462607+00:00"
+    },
     {
       "guid": "3a81653a-f581-4f90-9791-a8998dda115d",
       "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/A-Hedge-Fund-Managers-Honest-Take-on-Why-Most-I-Zeke-Ashtonnvestors-Fail-e3ojkjj",
@@ -12,8 +64,8 @@
       "transcript_chars": 145108,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-10T22:28:33.133847+00:00",
-      "last_seen_at": "2026-09-10T22:28:33.133847+00:00",
-      "expires_at": "2026-09-24T22:28:33.133847+00:00"
+      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
+      "expires_at": "2026-09-25T22:50:18.462607+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
@@ -25,8 +77,8 @@
       "transcript_chars": 36337,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-10T22:28:33.133847+00:00",
-      "last_seen_at": "2026-09-10T22:28:33.133847+00:00",
-      "expires_at": "2026-09-24T22:28:33.133847+00:00"
+      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
+      "expires_at": "2026-09-25T22:50:18.462607+00:00"
     },
     {
       "guid": "fcc44f37-f242-4730-a77c-5f3d83c24fa9",
@@ -38,8 +90,8 @@
       "transcript_chars": 18655,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-10T00:12:29.601064+00:00",
-      "last_seen_at": "2026-09-10T22:28:33.133847+00:00",
-      "expires_at": "2026-09-24T22:28:33.133847+00:00"
+      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
+      "expires_at": "2026-09-25T22:50:18.462607+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
@@ -51,8 +103,8 @@
       "transcript_chars": 25731,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-10T00:12:29.601064+00:00",
-      "last_seen_at": "2026-09-10T22:28:33.133847+00:00",
-      "expires_at": "2026-09-24T22:28:33.133847+00:00"
+      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
+      "expires_at": "2026-09-25T22:50:18.462607+00:00"
     },
     {
       "guid": "yt:Lx8lrn-cytc",
@@ -64,8 +116,8 @@
       "transcript_chars": 78667,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-10T00:12:29.601064+00:00",
-      "last_seen_at": "2026-09-10T22:28:33.133847+00:00",
-      "expires_at": "2026-09-24T22:28:33.133847+00:00"
+      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
+      "expires_at": "2026-09-25T22:50:18.462607+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
@@ -90,8 +142,8 @@
       "transcript_chars": 27647,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-08T22:13:34.690298+00:00",
-      "last_seen_at": "2026-09-10T22:28:33.133847+00:00",
-      "expires_at": "2026-09-24T22:28:33.133847+00:00"
+      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
+      "expires_at": "2026-09-25T22:50:18.462607+00:00"
     },
     {
       "guid": "yt:XNOuhxUsQDI",
@@ -103,8 +155,8 @@
       "transcript_chars": 27437,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-08T22:13:34.690298+00:00",
-      "last_seen_at": "2026-09-10T22:28:33.133847+00:00",
-      "expires_at": "2026-09-24T22:28:33.133847+00:00"
+      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
+      "expires_at": "2026-09-25T22:50:18.462607+00:00"
     },
     {
       "guid": "yt:MiAl9CNZUuo",
@@ -272,8 +324,8 @@
       "transcript_chars": 51982,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-10T22:28:33.133847+00:00",
-      "expires_at": "2026-09-24T22:28:33.133847+00:00"
+      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
+      "expires_at": "2026-09-25T22:50:18.462607+00:00"
     },
     {
       "guid": "yt:dnSpKF5pWNQ",
@@ -415,8 +467,8 @@
       "transcript_chars": 50757,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-08-31T22:45:39.918632+00:00",
-      "last_seen_at": "2026-09-10T22:28:33.133847+00:00",
-      "expires_at": "2026-09-24T22:28:33.133847+00:00"
+      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
+      "expires_at": "2026-09-25T22:50:18.462607+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/openai-huggingface",
@@ -510,84 +562,6 @@
       "expires_at": "2026-09-12T22:32:14.238402+00:00"
     },
     {
-      "guid": "https://lexfridman.com/?p=6506",
-      "link": "https://lexfridman.com/dhh-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-2",
-      "channel": "Lex Fridman",
-      "title": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
-      "pub_date": "2026-08-26T21:47:04+00:00",
-      "transcript_path": "feeds/transcripts/d40b20bbb56eec07ec7a204f.txt",
-      "transcript_chars": 309575,
-      "transcript_source": "description_transcript_link",
-      "cached_at": "2026-08-27T02:32:20.553365+00:00",
-      "last_seen_at": "2026-08-28T22:01:23.756276+00:00",
-      "expires_at": "2026-09-11T22:01:23.756276+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/lovable-future-of-saas",
-      "link": "https://www.latent.space/p/lovable-future-of-saas",
-      "channel": "Latent Space",
-      "title": "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use",
-      "pub_date": "2026-08-26T16:16:25+00:00",
-      "transcript_path": "feeds/transcripts/afe8684754442d0db3e55d9c.txt",
-      "transcript_chars": 9290,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-27T02:32:20.553365+00:00",
-      "last_seen_at": "2026-08-28T22:01:23.756276+00:00",
-      "expires_at": "2026-09-11T22:01:23.756276+00:00"
-    },
-    {
-      "guid": "b6ddc30d-9b7d-4192-8939-a821301570f5",
-      "link": "https://deepmind.com/podcast",
-      "channel": "Google DeepMind Podcast",
-      "title": "The mathematics of AI uncertainty",
-      "pub_date": "2026-08-26T15:35:59+00:00",
-      "transcript_path": "feeds/transcripts/0f2c37203187fd196a8e0c0c.txt",
-      "transcript_chars": 18551,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-27T02:32:20.553365+00:00",
-      "last_seen_at": "2026-08-28T22:01:23.756276+00:00",
-      "expires_at": "2026-09-11T22:01:23.756276+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/dylan-patel-3",
-      "link": "https://www.dwarkesh.com/p/dylan-patel-3",
-      "channel": "Dwarkesh Patel",
-      "title": "Dylan Patel – Anthropic & OpenAI will have most of the world’s compute by 2028",
-      "pub_date": "2026-08-25T15:32:57+00:00",
-      "transcript_path": "feeds/transcripts/86511805f40ed0bc1b62ab6e.txt",
-      "transcript_chars": 78352,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
-      "expires_at": "2026-09-10T22:46:43.554266+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
-      "link": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
-      "channel": "Lenny's Podcast",
-      "title": "How to figure out your next career move",
-      "pub_date": "2026-08-25T13:04:15+00:00",
-      "transcript_path": "feeds/transcripts/d40a4a29c00429fe23013bf9.txt",
-      "transcript_chars": 18025,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
-      "expires_at": "2026-09-10T22:46:43.554266+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
-      "link": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering",
-      "channel": "Latent Space",
-      "title": "[AINews] Andrew Ng gets into AI Engineering",
-      "pub_date": "2026-08-25T02:50:57+00:00",
-      "transcript_path": "feeds/transcripts/d2317e2e6b10656a1b091ebc.txt",
-      "transcript_chars": 20835,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
-      "expires_at": "2026-09-10T22:46:43.554266+00:00"
-    },
-    {
       "guid": "yt:aV26V1UvkJw",
       "link": "https://www.youtube.com/watch?v=aV26V1UvkJw",
       "channel": "Dwarkesh Patel",
@@ -612,32 +586,6 @@
       "cached_at": "2026-08-26T02:42:47.658613+00:00",
       "last_seen_at": "2026-08-29T22:32:14.238402+00:00",
       "expires_at": "2026-09-12T22:32:14.238402+00:00"
-    },
-    {
-      "guid": "yt:ehYixQAzVsw",
-      "link": "https://www.youtube.com/watch?v=ehYixQAzVsw",
-      "channel": "Finance Bureau",
-      "title": "OpenAI Is FALLING Apart And Sam Altman Is Panicking",
-      "pub_date": "2026-08-22T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/cf78a2aee750df157ccca16f.txt",
-      "transcript_chars": 12436,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-28T22:01:23.756276+00:00",
-      "expires_at": "2026-09-11T22:01:23.756276+00:00"
-    },
-    {
-      "guid": "yt:PjE7OaId_qg",
-      "link": "https://www.youtube.com/watch?v=PjE7OaId_qg",
-      "channel": "Moconomy",
-      "title": "Inside the Mind of Anthropic CEO Dario Amodei | AI, Power and the Exponential",
-      "pub_date": "2026-08-21T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/f6d18c6d3568f0ef568456c9.txt",
-      "transcript_chars": 75046,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-27T22:46:43.554266+00:00",
-      "expires_at": "2026-09-10T22:46:43.554266+00:00"
     },
     {
       "guid": "953662b3-f08d-4981-88d2-72b1eabf751c",
