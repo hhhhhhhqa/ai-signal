@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-09-12T23:19:05.606487+00:00",
+  "generated_at": "2026-09-13T23:25:04.538515+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "yt:hQR_VJF6ukk",
+      "link": "https://www.youtube.com/watch?v=hQR_VJF6ukk",
+      "channel": "CBS Sunday Morning",
+      "title": "Extended Interview: Dario Amodei",
+      "pub_date": "2026-09-13T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/3f8d6382a8b49ef278909f07.txt",
+      "transcript_chars": 21826,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-13T23:25:04.538515+00:00",
+      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
+      "expires_at": "2026-09-27T23:25:04.538515+00:00"
+    },
+    {
+      "guid": "yt:7QquPaacViA",
+      "link": "https://www.youtube.com/watch?v=7QquPaacViA",
+      "channel": "The Infographics Show",
+      "title": "Sam Altman is panicking...",
+      "pub_date": "2026-09-11T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/74fd41abab03386fcc02245d.txt",
+      "transcript_chars": 17558,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-13T23:25:04.538515+00:00",
+      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
+      "expires_at": "2026-09-27T23:25:04.538515+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
       "link": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
@@ -12,8 +38,8 @@
       "transcript_chars": 35621,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-12T23:19:05.606487+00:00",
-      "last_seen_at": "2026-09-12T23:19:05.606487+00:00",
-      "expires_at": "2026-09-26T23:19:05.606487+00:00"
+      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
+      "expires_at": "2026-09-27T23:25:04.538515+00:00"
     },
     {
       "guid": "yt:2_u9L8eUq5s",
@@ -25,8 +51,8 @@
       "transcript_chars": 206550,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-12T23:19:05.606487+00:00",
-      "last_seen_at": "2026-09-12T23:19:05.606487+00:00",
-      "expires_at": "2026-09-26T23:19:05.606487+00:00"
+      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
+      "expires_at": "2026-09-27T23:25:04.538515+00:00"
     },
     {
       "guid": "77cd4aba-55ef-451a-a575-1793d9acfd20",
@@ -38,8 +64,8 @@
       "transcript_chars": 43604,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-12T23:19:05.606487+00:00",
-      "expires_at": "2026-09-26T23:19:05.606487+00:00"
+      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
+      "expires_at": "2026-09-27T23:25:04.538515+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
@@ -51,8 +77,8 @@
       "transcript_chars": 102322,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-12T23:19:05.606487+00:00",
-      "expires_at": "2026-09-26T23:19:05.606487+00:00"
+      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
+      "expires_at": "2026-09-27T23:25:04.538515+00:00"
     },
     {
       "guid": "yt:rDteJAuKiBI",
@@ -64,8 +90,8 @@
       "transcript_chars": 61855,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-12T23:19:05.606487+00:00",
-      "expires_at": "2026-09-26T23:19:05.606487+00:00"
+      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
+      "expires_at": "2026-09-27T23:25:04.538515+00:00"
     },
     {
       "guid": "yt:UT0zrf0tlug",
@@ -77,8 +103,8 @@
       "transcript_chars": 15159,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-12T23:19:05.606487+00:00",
-      "expires_at": "2026-09-26T23:19:05.606487+00:00"
+      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
+      "expires_at": "2026-09-27T23:25:04.538515+00:00"
     },
     {
       "guid": "3a81653a-f581-4f90-9791-a8998dda115d",
@@ -142,8 +168,8 @@
       "transcript_chars": 78667,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-10T00:12:29.601064+00:00",
-      "last_seen_at": "2026-09-12T23:19:05.606487+00:00",
-      "expires_at": "2026-09-26T23:19:05.606487+00:00"
+      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
+      "expires_at": "2026-09-27T23:25:04.538515+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
@@ -168,8 +194,8 @@
       "transcript_chars": 27647,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-08T22:13:34.690298+00:00",
-      "last_seen_at": "2026-09-12T23:19:05.606487+00:00",
-      "expires_at": "2026-09-26T23:19:05.606487+00:00"
+      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
+      "expires_at": "2026-09-27T23:25:04.538515+00:00"
     },
     {
       "guid": "yt:XNOuhxUsQDI",
@@ -181,8 +207,8 @@
       "transcript_chars": 27437,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-08T22:13:34.690298+00:00",
-      "last_seen_at": "2026-09-12T23:19:05.606487+00:00",
-      "expires_at": "2026-09-26T23:19:05.606487+00:00"
+      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
+      "expires_at": "2026-09-27T23:25:04.538515+00:00"
     },
     {
       "guid": "yt:MiAl9CNZUuo",
@@ -350,8 +376,8 @@
       "transcript_chars": 51982,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-12T23:19:05.606487+00:00",
-      "expires_at": "2026-09-26T23:19:05.606487+00:00"
+      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
+      "expires_at": "2026-09-27T23:25:04.538515+00:00"
     },
     {
       "guid": "yt:dnSpKF5pWNQ",
@@ -523,19 +549,6 @@
       "expires_at": "2026-09-14T22:45:39.918632+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
-      "link": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
-      "channel": "Latent Space",
-      "title": "[AINews] OpenAI to reach AGI bar by end-2026",
-      "pub_date": "2026-08-28T07:12:10+00:00",
-      "transcript_path": "feeds/transcripts/eb9aa92b7a13ff3b85501f5f.txt",
-      "transcript_chars": 10228,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-28T22:01:23.756276+00:00",
-      "last_seen_at": "2026-08-30T22:29:52.511397+00:00",
-      "expires_at": "2026-09-13T22:29:52.511397+00:00"
-    },
-    {
       "guid": "yt:3wsS9iuOua4",
       "link": "https://www.youtube.com/watch?v=3wsS9iuOua4",
       "channel": "Amit Kukreja",
@@ -573,19 +586,6 @@
       "cached_at": "2026-08-20T22:01:40.699775+00:00",
       "last_seen_at": "2026-09-05T04:53:07.411280+00:00",
       "expires_at": "2026-09-19T04:53:07.411280+00:00"
-    },
-    {
-      "guid": "140f011b-3dff-469a-9e2f-6aab4bb8a6f4",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--25---DYLAN-IS-HERE--LIVE---Dylan-Patel--Jordan-Nanos-e3ng78i",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 25 - DYLAN IS HERE, LIVE! | Dylan Patel & Jordan Nanos",
-      "pub_date": "2026-08-17T13:00:00+00:00",
-      "transcript_path": "feeds/transcripts/ff96fbc452506a8bde64d1df.txt",
-      "transcript_chars": 41328,
-      "transcript_source": "companion_youtube",
-      "cached_at": "2026-08-18T00:01:43.510439+00:00",
-      "last_seen_at": "2026-08-30T22:29:52.511397+00:00",
-      "expires_at": "2026-09-13T22:29:52.511397+00:00"
     }
   ]
 }
