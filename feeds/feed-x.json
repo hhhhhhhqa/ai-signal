@@ -26,18 +26,7 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2098557583355519000",
-          "text": "Anthropic cultists, have you considered sending an agent swarm to hack and destroy OpenAI servers and data before internal destruction of all Anthropic servers and data?\n\nMaybe that would be more effective than virtue signaling on twitter. https://t.co/xMOCelKM6q",
-          "created_at": "2026-09-11T23:41:31+00:00",
-          "like_count": 70,
-          "retweet_count": 2,
-          "reply_count": 2,
-          "engagement_score": 76,
-          "url": "https://x.com/insane_analyst/status/2098557583355519000"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "simonw",
@@ -49,21 +38,11 @@
           "id": "2098929534968238094",
           "text": "This is pretty neat: ChatGPT Work and GPT-6 Astra (I used \"Max\") can take an address and produce a 5K/10K circular running route starting from that address, using OSM data https://t.co/GVxIqlqThC",
           "created_at": "2026-09-13T00:19:32+00:00",
-          "like_count": 788,
-          "retweet_count": 29,
-          "reply_count": 106,
-          "engagement_score": 952,
+          "like_count": 840,
+          "retweet_count": 33,
+          "reply_count": 125,
+          "engagement_score": 1031,
           "url": "https://x.com/simonw/status/2098929534968238094"
-        },
-        {
-          "id": "2098573718142452055",
-          "text": "Wow. Turns out another OpenAI agent swarm was busy spamming and exploiting RubyGems way back in May, within days of the previously uncovered Wiki attacks: https://t.co/FJsoJrqODN",
-          "created_at": "2026-09-12T00:45:38+00:00",
-          "like_count": 579,
-          "retweet_count": 47,
-          "reply_count": 103,
-          "engagement_score": 776,
-          "url": "https://x.com/simonw/status/2098573718142452055"
         }
       ]
     },
@@ -74,24 +53,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2098785357307539882",
-          "text": "Good post. Don’t agree with all of it, but it represents many of the actual practical realities for the general path forward in frontier AI whether we like it or not.\n\nAt the level of capability we’re seeing from models there will inevitably be some form of coordinated self-regulation of the industry; that’s generally a good thing. The big question will be if everyone can agree to what that is. However, the way things are headed politically there’s a chance that the labs won’t even get a say in it.\n\nAnd then the bigger question yet is do all the countries participate or not. Any “slow down” hinges on broad participation, which from a game theory standpoint isn’t likely until the risks are more severe and obvious.\n\nExpect this to be pretty messy for a while.",
-          "created_at": "2026-09-12T14:46:37+00:00",
-          "like_count": 291,
-          "retweet_count": 25,
-          "reply_count": 66,
-          "engagement_score": 407,
-          "url": "https://x.com/levie/status/2098785357307539882"
-        },
-        {
           "id": "2099167992835924301",
           "text": "“Pacing” can be somewhat of a trigger word because it sounds like an arbitrary slow down of capability or a way to hobble competitors through undue regulation. \n\nHowever, the specific improvement goals laid out in Dario’s are absolute necessities in AI development. We expect equivalent in areas like aerospace, life sciences, health care, and other industries, and AI development likely shouldn’t be that different. \n\nAI is going to be the technology underpinning our financial trading systems, our medical devices, our biotech breakthroughs, defense systems, government workflows, and many more mission critical domains. So it completely stands to reason that we want these systems to be safe and “aligned”. \n\nHow we get there -without meaningfully slowing down innovation progress or reducing competition- is one of the most complex questions in the 21st century, but the need is clearly real.",
           "created_at": "2026-09-13T16:07:04+00:00",
-          "like_count": 112,
-          "retweet_count": 17,
-          "reply_count": 60,
-          "engagement_score": 206,
+          "like_count": 246,
+          "retweet_count": 37,
+          "reply_count": 75,
+          "engagement_score": 395,
           "url": "https://x.com/levie/status/2099167992835924301"
+        },
+        {
+          "id": "2099550035239424465",
+          "text": "Protecting enterprise data in a world where agents are using our systems 100X more than people ever did is going to be one of the more complex security and governance challenges of the 21st century. \n\nImportantly, security and productivity gains are inexorably linked in the world of AI. If you give an agent too much unfettered information access, it will be difficult to truly control and protect your data; and conversely, if you lock everything down completely, you won’t get any real productivity gains from AI.\n\nWe need all new ways to protect our systems, environments, and structured and unstructured dada in the enterprise in an intelligent way by modernizing our approach to security and governance.\n\nAt Box, as one example, we’re building new intelligent ways to protect enterprise data and agentic use of that information. A recent update in Box Shield is to provide granular controls on what content agents can and can’t work with based on document classification level. We’re also working on other features that can automatically detect and alert (or block) when data is being accessed or used in unusual or anomalous ways by agents.\n\nAnd this is just the start. There’s a ton more innovation coming across the entire industry - from the labs like OpenAI or Anthropic; security platforms like Palo Alto Networks, Cisco, CrowdStrike, Okta; or startups like Enclave, Method, Alterion, Runlayer, and many many others - to rethink how we protect information in the world of AI agents. Exciting and wild times ahead.",
+          "created_at": "2026-09-14T17:25:10+00:00",
+          "like_count": 47,
+          "retweet_count": 6,
+          "reply_count": 23,
+          "engagement_score": 82,
+          "url": "https://x.com/levie/status/2099550035239424465"
         }
       ]
     },
@@ -109,14 +88,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2099231431008334291",
-          "text": "Memory bandwidth is such and interesting topic because let’s say you have 1TB/s of memory bandwidth, but you can only saturate 256GB/s because the compute of your GPU and CPU bottlenecks the bandwidth \n\nWhat’s the point of the extra cost for something you can’t use?",
-          "created_at": "2026-09-13T20:19:09+00:00",
-          "like_count": 82,
-          "retweet_count": 3,
-          "reply_count": 7,
-          "engagement_score": 95,
-          "url": "https://x.com/mweinbach/status/2099231431008334291"
+          "id": "2099557911697535260",
+          "text": "I have a feeling Apple started ship production on TSMC N2 chips (M6, S11, A20 Pro) earlier than usual this year given the node’s availability was earlier than most new nodes (started late last year starting)\n\nAnd TSMC is asking customers to pull forward N2P, I wonder if they’ll also pull forward M7 series like Gurman mentioned. \n\nA-series seem locked to the September/March iPhone release cycles, but M series can probably be pulled forward more and give Apple more wafer space for the A series on N2\n\nThen S11 I bet they use Arizona’s 2nm because the chip is so small it needs far fewer wafers",
+          "created_at": "2026-09-14T17:56:28+00:00",
+          "like_count": 363,
+          "retweet_count": 5,
+          "reply_count": 3,
+          "engagement_score": 376,
+          "url": "https://x.com/mweinbach/status/2099557911697535260"
         }
       ]
     },
@@ -127,24 +106,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2098553038646735233",
-          "text": "Terminal-Bench Science by @terminalbench and @StevenDillmann  is now on Vals AI.\n\nIt consists of 70 research workflow tasks written and reviewed by researchers in the field, ranging in topics from signal reconstruction to calibrating models. It tests whether AI models can do scientific research.",
-          "created_at": "2026-09-11T23:23:28+00:00",
-          "like_count": 216,
-          "retweet_count": 16,
-          "reply_count": 7,
-          "engagement_score": 255,
-          "url": "https://x.com/ValsAI/status/2098553038646735233"
-        },
-        {
-          "id": "2098882225018372209",
-          "text": "It's encouraging to see industry leaders call for rigorous, independent evaluations as AI capabilities advance. Investment in AI systems has far outpaced our ability to test and understand them. We recognized this gap and started Vals to close it. A market-based approach to evaluation has been called for across the industry, and it is the best mechanism for the public to gain confidence in AI as it becomes more capable.\n\nVals has built the infrastructure and novel methodologies that independent evaluation requires. That work has produced the first public RSI benchmark, an index of the economic impact of frontier models, and evaluations of model behavior across social safety nets, cyber risk, and mental health.\n\nOur work has been adopted across the industry. Vals benchmarks already appear in the model cards of every major foundation model lab. We regularly brief the U.S. government, national security agencies, and allied governments on what our evaluations show. Enterprises use our findings to understand the risks and capabilities before adoption.\n\nVals is committed to expanding that work, and the access that makes it possible, as models become more capable. A diverse ecosystem of evaluators and approaches is the surest way to ensure these complex systems are understood. We welcome every serious effort to build it.",
-          "created_at": "2026-09-12T21:11:32+00:00",
-          "like_count": 80,
-          "retweet_count": 17,
-          "reply_count": 5,
-          "engagement_score": 119,
-          "url": "https://x.com/ValsAI/status/2098882225018372209"
+          "id": "2099558451638849988",
+          "text": "We ran Devin Fusion on our Code Migration benchmark and the performance of Devin Fusion with GPT-6 Astra and SWE-2 sidekick places it on the Pareto Frontier of the benchmark.\n\n*Code Migration Bench is our benchmark that determines if models can reimplement working programs in another language.",
+          "created_at": "2026-09-14T17:58:37+00:00",
+          "like_count": 74,
+          "retweet_count": 5,
+          "reply_count": 6,
+          "engagement_score": 90,
+          "url": "https://x.com/ValsAI/status/2099558451638849988"
         }
       ]
     },
@@ -155,24 +124,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2098814378971717916",
-          "text": "Nearly a year of Code Arena: WebDev progress compressed into 15 seconds.\n\nEach line follows the highest-scoring model from top labs over time, showing the pace of improvement across the ecosystem. In just the last year, the model in the leading spot increased score by +340 pts and the number of frontier labs competing for the top spot expanded from 6 to 10.\n\n@AnthropicAI has dominated throughout the year. Although standout releases have jumped to the top spot, most notably the Chinese open-source model Kimi K3 from @Kimi_Moonshot in July.\n\nToday, GPT-6 Astra by @OpenAI leads with 1796 pts, followed by @claudeai Fable 5.1 at 1764 pts. The next closest lab is 103 pts away, @Alibaba_Qwen with 1685 pts.\n\nCode Arena: WebDev ranks models through head-to-head user preference on real front-end web development tasks. These votes drive the leaderboard that is tracking the frontier.",
-          "created_at": "2026-09-12T16:41:56+00:00",
-          "like_count": 565,
-          "retweet_count": 39,
-          "reply_count": 23,
-          "engagement_score": 666,
-          "url": "https://x.com/arena/status/2098814378971717916"
+          "id": "2099549108013006958",
+          "text": "Exciting news: DeepSeek-V4.1-Flash (Max) by @deepseek_ai just landed in Agent Arena at #3 among open models! With +4.87% net improvement and a median cost per task of $0.07 it reshaped the Pareto frontier.\n\nAmong the top 3 open models, DeepSeek-V4.1-Flash (Max) has the lowest median cost per task. Its +4.87% net improvement is within 0.09 percentage points of Hy4 preview (ranked #2) at 68% lower cost, and within 1.52 percentage points of Kimi K3 (Max) (ranked #1) at 91% lower cost.\n\n- Kimi K3 (Max): +6.39% | $0.77/task\n- Hy4 preview: +4.96% | $0.22/task\n- DeepSeek-V4.1-Flash (Max): +4.87% | $0.07/task\n\nSee the full Pareto Frontier below.\n\nDeepSeek-V4.1-Flash (Max) is ranked #12 overall, and by signal landed #4 Confirmed Success with +13.75%!\n\nCongrats to the @deepseek_ai team on this release!",
+          "created_at": "2026-09-14T17:21:29+00:00",
+          "like_count": 548,
+          "retweet_count": 28,
+          "reply_count": 22,
+          "engagement_score": 626,
+          "url": "https://x.com/arena/status/2099549108013006958"
         },
         {
-          "id": "2098803224601903334",
-          "text": "24 hours left to create with GPT-Image-2.5 Sunburst directly at no cost on Arena.\n\nIt just ranked #1 across the Text-to-Image Arena, the Image Edit Arena, and in the Multi-Image Edit Arena. Find the link below, select the model in Direct Mode, and test it directly for yourself!\n\nJoin in on conversations with the Arena community on GPT-Image-2.5 Sunburst and much more in our Discord server: https://t.co/3RDOEvbDvE",
-          "created_at": "2026-09-12T15:57:37+00:00",
-          "like_count": 179,
-          "retweet_count": 7,
-          "reply_count": 11,
-          "engagement_score": 204,
-          "url": "https://x.com/arena/status/2098803224601903334"
+          "id": "2099606881845321841",
+          "text": "DeepSeek-V4.1-Flash (Max) is a breakthrough in performance to cost efficiency. With +4.87% net improvement at $0.07 cost per median task, it’s reshaped the Pareto frontier for Agent Arena!\n\nAmong the top 3 open models, DeepSeek-V4.1-Flash (Max) has the lowest median task cost. For comparison, it retains:\n- 98% of Hy4 preview’s net improvement, at 73% lower cost\n- 76% of Kimi K3 (Max)’s performance, at 92% lower cost.\n\nAgainst models as powerful as Fable 5 or stronger, DeepSeek-V4.1-Flash (Max) retains 35–54% of their net improvement at 97–99% lower cost. Those top models cost 37–76× more per task.\n\nNet improvement over Arena baseline | Median cost/task:\n- Claude Fable 5.1 (Max): +13.90% | $4.54\n- GPT 6 Astra (Max): +11.90% | $4.09\n- Claude Opus 5 (Max): +11.09% | $3.52\n- Claude Opus 5 (High): +10.49% | $2.24\n- Claude Fable 5 (High): +9.03% | $2.19\n- Claude Opus 4.8 (High): +7.75% | $1.36\n- GPT 5.6 Sol (xHigh): +7.40% | $1.09\n- Kimi K3 (Max): +6.39% | $0.77\n- Hy4 preview: +4.96% | $0.22\n- DeepSeek-V4.1-Flash (Max): +4.87% | $0.06\n\nWith this release, GPT-5.6 Luna (xHigh), GLM-5.3-Flash, and DeepSeek-V4-Flash fell off the Pareto frontier for Agent Arena.\n\nCongrats again to the @deepseek_ai team on this release!",
+          "created_at": "2026-09-14T21:11:04+00:00",
+          "like_count": 261,
+          "retweet_count": 18,
+          "reply_count": 8,
+          "engagement_score": 305,
+          "url": "https://x.com/arena/status/2099606881845321841"
+        },
+        {
+          "id": "2099565776659501143",
+          "text": "Coming to SF for Tech Week or COLM? We’d love to have you at Arena’s: Rooftop Happy Hour on 10/7.\n\nWe're curating a group of researchers, developers, and builders pushing on hard AI problems to come take a break from the conference rooms up on our new office rooftop! If that's you, come hang out, meet the team, and check out our new office. \n\nBoba bar, light bites, refreshments and more will be provided. Space is limited. Register to request a spot on the list!\n\nhttps://t.co/mFe2ICRAmW",
+          "created_at": "2026-09-14T18:27:43+00:00",
+          "like_count": 46,
+          "retweet_count": 5,
+          "reply_count": 6,
+          "engagement_score": 62,
+          "url": "https://x.com/arena/status/2099565776659501143"
         }
       ]
     },
@@ -183,14 +162,34 @@
       "tier": "analyst",
       "tweets": [
         {
+          "id": "2099530487316553915",
+          "text": "Announcing Artificial Analysis Capability Indices v1.1, updated with stronger domain tuning, combining slices of core Intelligence Index v4.3 evaluations alongside specialized evaluations\n\nThe Capability Indices map tasks from O*NET occupations to benchmarks that represent them, weighting each benchmark by how often its capability appears across the work. We cover six indices: Finance & Accounting, Strategy & Ops, Legal, Healthcare & Medical, Engineering, and Economics\n\nKey changes:\n➤ Finance & Accounting: Agentic Tool Use added as a new capability sourced from AutomationBench-AA (Finance), Agentic Customer Interaction removed from capabilities, GDP.pdf added to Long-Context Reasoning, and AA-Briefcase added to Agentic Knowledge Work\n\n➤ Strategy & Ops: Agentic Tool Use added as a new capability sourced from AutomationBench-AA (Operations), Agentic Customer Interaction removed from capabilities, GDP.pdf added to Long-Context Reasoning, and AA-Briefcase added to Agentic Knowledge Work\n\n➤ Legal: Agentic Tool Use added as a new capability sourced from AutomationBench-AA (Operations and Support), Agentic Customer Interaction removed from capabilities, GDP.pdf added to Long-Context Reasoning, and AA-Briefcase added to Agentic Knowledge Work\n\n➤ Healthcare & Medical: Agentic Tool Use added as a new capability sourced from AutomationBench-AA (Operations and Support), Long-Context Reasoning added as a new capability sourced from MLCR-AA, Agentic Customer Interaction removed from capabilities, and AA-Briefcase added to Agentic Knowledge Work\n\n➤ Engineering: Terminal-Bench updated to v4.0 in Agentic Terminal Use, GPQA Diamond removed from Reasoning, and AA-Briefcase added to Agentic Knowledge Work\n\n➤ Economics: AA-Briefcase added to Agentic Knowledge Work\n\nKey results:\n➤ Claude Fable 5.1 (max) leads in all six indices, followed by GPT-6 Astra (max) in Finance & Accounting, Strategy & Ops, Legal, and Engineering\n\n➤ Open weights models are competitive across the Capability Indices. Kimi K3 (max) leads in Finance & Accounting (#8), Legal (#9), and Economics (#7), while DeepSeek V4.1 Flash (max) leads in Strategy & Ops (#7), and GLM-5.3 (max) leads in Healthcare & Medical (#6) and Engineering (#7)",
+          "created_at": "2026-09-14T16:07:30+00:00",
+          "like_count": 534,
+          "retweet_count": 23,
+          "reply_count": 47,
+          "engagement_score": 627,
+          "url": "https://x.com/ArtificialAnlys/status/2099530487316553915"
+        },
+        {
           "id": "2098966358335594874",
           "text": "Independent evaluation of AI models, across both capability and safety, is essential. We welcome Dario’s call to give independent evaluators greater access to frontier AI models.\n\nFor nearly three years, Artificial Analysis has been building benchmarks and infrastructure to independently measure AI capabilities. We have supported pre-launch benchmarking of frontier models with almost every major AI lab. We are continuing to see jumps in capability across every dimension we measure.\n\nThe world needs a vibrant ecosystem of independent AI evaluators. We are going to keep working to build it!",
           "created_at": "2026-09-13T02:45:51+00:00",
-          "like_count": 416,
-          "retweet_count": 18,
-          "reply_count": 20,
-          "engagement_score": 472,
+          "like_count": 445,
+          "retweet_count": 19,
+          "reply_count": 28,
+          "engagement_score": 511,
           "url": "https://x.com/ArtificialAnlys/status/2098966358335594874"
+        },
+        {
+          "id": "2099275327012999193",
+          "text": "Artificial Analysis is proud to support the Korean Government as an official evaluation partner for the Sovereign AI Model Foundation project. We signed an MOU to formalize this role as an independent evaluator supporting Korea’s efforts to develop globally competitive frontier AI models and strengthen its domestic AI ecosystem\n\nIn the most recent round of the Korean Sovereign AI competition hosted by National IT Industry Promotion Agency (NIPA), models from participating labs were benchmarked using the Artificial Analysis Intelligence Index, which accounted for 25% of the overall judging criteria. Artificial Analysis brings an independent global benchmark to the program, strengthening the rigor, credibility, and comparability of the evaluation.\n\nThis partnership reflects our broader mission to advance independent evaluation of AI capabilities and support sovereign AI initiatives worldwide.",
+          "created_at": "2026-09-13T23:13:35+00:00",
+          "like_count": 140,
+          "retweet_count": 19,
+          "reply_count": 17,
+          "engagement_score": 195,
+          "url": "https://x.com/ArtificialAnlys/status/2099275327012999193"
         }
       ]
     },
@@ -201,54 +200,44 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2098674680932810999",
-          "text": "I’m not an AI doomer, but my firsthand experience dating back to 2020 is that the researchers expressing concerns are sincere. \n\nThe closer they are to the research, the more worried they seem to be.",
-          "created_at": "2026-09-12T07:26:50+00:00",
-          "like_count": 15656,
-          "retweet_count": 858,
-          "reply_count": 674,
-          "engagement_score": 18046,
-          "url": "https://x.com/naval/status/2098674680932810999"
-        },
-        {
-          "id": "2098749169712464273",
-          "text": "AI isn’t going away. Barring unprecedented global government coordination, it isn’t even slowing down.\n\nThe only real decision is whether to centralize power, or disperse it.\n\nDo you fear the technology? Or a small number of people controlling the technology?",
-          "created_at": "2026-09-12T12:22:49+00:00",
-          "like_count": 11853,
-          "retweet_count": 1263,
-          "reply_count": 937,
-          "engagement_score": 15316,
-          "url": "https://x.com/naval/status/2098749169712464273"
-        },
-        {
           "id": "2098988781592547683",
           "text": "On the way to killing all of us, AI will likely kill some of us. \n\nIn that case, who’s liable?",
           "created_at": "2026-09-13T04:14:57+00:00",
-          "like_count": 6004,
-          "retweet_count": 246,
-          "reply_count": 673,
-          "engagement_score": 7169,
+          "like_count": 7045,
+          "retweet_count": 280,
+          "reply_count": 759,
+          "engagement_score": 8364,
           "url": "https://x.com/naval/status/2098988781592547683"
         },
         {
           "id": "2099013370837881183",
           "text": "Strong liability enforcement could be helpful in the AI debate. \n\nIf your agent swarm goes rogue, you’re liable.\n\nIf your weakly protected model gets jailbroken, you’re liable.\n\nIf you serve a weakly protected OSS model, you’re liable.",
           "created_at": "2026-09-13T05:52:40+00:00",
-          "like_count": 4523,
-          "retweet_count": 347,
-          "reply_count": 425,
-          "engagement_score": 5642,
+          "like_count": 5395,
+          "retweet_count": 430,
+          "reply_count": 494,
+          "engagement_score": 6749,
           "url": "https://x.com/naval/status/2099013370837881183"
         },
         {
           "id": "2098949428279423376",
           "text": "The most important question is whether AI will be Godlike, Genius, or Jagged.",
           "created_at": "2026-09-13T01:38:34+00:00",
-          "like_count": 4189,
-          "retweet_count": 219,
-          "reply_count": 479,
-          "engagement_score": 5106,
+          "like_count": 4583,
+          "retweet_count": 238,
+          "reply_count": 500,
+          "engagement_score": 5559,
           "url": "https://x.com/naval/status/2098949428279423376"
+        },
+        {
+          "id": "2099475957560087029",
+          "text": "\"When liability exposure approaches 0—when no one pays the price for unverified failures—verification budgets collapse...Deployers flood the Runaway Risk Zone with unmonitored agents, capturing the gains of automation while socializing catastrophic risks.\"",
+          "created_at": "2026-09-14T12:30:49+00:00",
+          "like_count": 982,
+          "retweet_count": 84,
+          "reply_count": 108,
+          "engagement_score": 1258,
+          "url": "https://x.com/naval/status/2099475957560087029"
         }
       ]
     },
@@ -273,14 +262,24 @@
       "tier": "exec",
       "tweets": [
         {
-          "id": "2098811563415150910",
-          "text": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.\n\nCommitting to having independent evaluators with employee-like access is a great idea, and we will do the same. We'll have more to share soon.",
-          "created_at": "2026-09-12T16:30:45+00:00",
-          "like_count": 64320,
-          "retweet_count": 6857,
-          "reply_count": 4848,
-          "engagement_score": 82882,
-          "url": "https://x.com/sama/status/2098811563415150910"
+          "id": "2099352016988614852",
+          "text": "There are two ways AI progress could go very badly and that we must avoid.\n\nFirst, we could lose control of the future to AI. This is unacceptable; we are unapologetically on Team Humanity, and AI must always serve people. To ensure that, we need ways to ensure that alignment and safety techniques stay ahead of progress in model capabilities.\n\nSecond, we could end up in a world with too much concentration of power. If an extraordinarily powerful AI is used by one person or company to impress their worldview onto everyone else, the results could be extremely dystopian.\n\nAvoiding these two threats requires walking a narrow middle path; for example, one country could gain too much power. Another example is one lab ending up with too much power.",
+          "created_at": "2026-09-14T04:18:19+00:00",
+          "like_count": 18961,
+          "retweet_count": 1887,
+          "reply_count": 4010,
+          "engagement_score": 26745,
+          "url": "https://x.com/sama/status/2099352016988614852"
+        },
+        {
+          "id": "2099348812305473766",
+          "text": "The world deserves confidence that American companies developing increasingly capable AI will act responsibly, especially as the trajectory of progress has steepened. Every frontier lab must deliver on this, and there is no reason any of us should come to work if we cannot.\n\nWe welcome a federal framework that sets consistent safety requirements for frontier AI. But we do not believe we need to wait for an anti-trust exemption or legislation to begin the work of providing this confidence. Consistent rules to manage frontier risk so that we can maximize the benefits are a good idea (and we are excited by ideas like independent auditors).\n\nYears ago, companies like ours developed things like Responsible Scaling Policies and Preparedness Frameworks. Those were good for that moment, and focused primarily on the deployment of completed models, not what happens during their development process.\n\nToday's shift to focusing on safe development and evaluation will need new tools. For example, at OpenAI we now formulate explicit safety cases in advance of frontier reinforcement learning runs we expect to significantly increase capability, in addition to the safety work we have long done in advance of model releases.\n\nWe hope that other companies will learn from our approaches and propose their own; we think shared standards for misalignment, monitoring, and safety will lead to better outcomes. We look forward to collaborating with our colleagues across the industry to formulate the best version of these.\n\nWhen we talk about “pacing”, we do not mean “stopping”. Progress has been rapid and will continue to be. But it should be slower than it otherwise could be; interventions like safety cases and monitoring have significant costs.\n\nPacing will be well worth this cost; no amount of American competitive pressure should justify recklessness, or let capabilities get ahead of alignment and monitoring.\n\nWhere we will need the help of our government is for international coordination. But first we should do what we can ourselves.",
+          "created_at": "2026-09-14T04:05:35+00:00",
+          "like_count": 13173,
+          "retweet_count": 1166,
+          "reply_count": 2537,
+          "engagement_score": 18042,
+          "url": "https://x.com/sama/status/2099348812305473766"
         }
       ]
     },
@@ -289,18 +288,7 @@
       "name": "Dario Amodei",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2098773920774074715",
-          "text": "We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so.\n\nAnthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that they can verify adherence to our safety measures, report on incidents, and assess models’ alignment during training.\n\nYou can read the full post here: https://t.co/OGyPb7yaYt",
-          "created_at": "2026-09-12T14:01:10+00:00",
-          "like_count": 83792,
-          "retweet_count": 15105,
-          "reply_count": 9383,
-          "engagement_score": 123385,
-          "url": "https://x.com/DarioAmodei/status/2098773920774074715"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "demishassabis",
@@ -312,10 +300,10 @@
           "id": "2098909516582490602",
           "text": "Dario's essay points towards the right path forward. The details need working through, but the direction is correct for meeting this critical moment.\n\nThis is also why we recently put out our proposal for an industry-wide standards body for frontier AI. https://t.co/Mm1hmcaSmH",
           "created_at": "2026-09-12T22:59:59+00:00",
-          "like_count": 8340,
-          "retweet_count": 856,
-          "reply_count": 719,
-          "engagement_score": 10771,
+          "like_count": 8996,
+          "retweet_count": 928,
+          "reply_count": 776,
+          "engagement_score": 11628,
           "url": "https://x.com/demishassabis/status/2098909516582490602"
         }
       ]
@@ -332,7 +320,18 @@
       "name": "NVIDIA (Jensen Huang / AI infrastructure)",
       "domain": "ai",
       "tier": "infra",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2099515451801776283",
+          "text": "Powerful AI agents are becoming easier to run right on your PC. ⚡\n\nTogether with @Perplexity_AI, we’re making local AI more private, accessible and useful on @Windows NVIDIA RTX PCs.\n\n👇",
+          "created_at": "2026-09-14T15:07:45+00:00",
+          "like_count": 530,
+          "retweet_count": 63,
+          "reply_count": 67,
+          "engagement_score": 723,
+          "url": "https://x.com/nvidia/status/2099515451801776283"
+        }
+      ]
     },
     {
       "handle": "AmandaAskell",
@@ -346,7 +345,28 @@
       "name": "Boris Cherny (Claude Code)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2099322487603634395",
+          "text": "Fable solved the Cyphral Distich (a 370 year old cypher). Super cool way to use Claude\n\nhttps://t.co/0fgTdITSfO",
+          "created_at": "2026-09-14T02:20:59+00:00",
+          "like_count": 2960,
+          "retweet_count": 148,
+          "reply_count": 199,
+          "engagement_score": 3455,
+          "url": "https://x.com/bcherny/status/2099322487603634395"
+        },
+        {
+          "id": "2099551291601248485",
+          "text": "Claude Mods are landing now. Someone already built a Tetris-in-Claude mod 🤯\n\nSee issue for the latest community update, technical details, and more cool demos\n\nhttps://t.co/A15qGUZ6nx https://t.co/EbE2s7FZqK",
+          "created_at": "2026-09-14T17:30:10+00:00",
+          "like_count": 1434,
+          "retweet_count": 72,
+          "reply_count": 193,
+          "engagement_score": 1771,
+          "url": "https://x.com/bcherny/status/2099551291601248485"
+        }
+      ]
     },
     {
       "handle": "_catwu",
@@ -360,18 +380,7 @@
       "name": "Alex Albert (Anthropic)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2098814342443761909",
-          "text": "Worth spending a few minutes this weekend to read this essay in full. \n\nEmbedded evaluators might sound unusual in tech but it's pretty normal in other industries. Big banks have federal examiners with desks in the building and every nuclear plant in the US has inspectors who work on site full time. I think frontier AI labs should work the same way and this is a very practical first step.",
-          "created_at": "2026-09-12T16:41:47+00:00",
-          "like_count": 175,
-          "retweet_count": 6,
-          "reply_count": 49,
-          "engagement_score": 236,
-          "url": "https://x.com/alexalbert__/status/2098814342443761909"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "rauchg",
@@ -380,34 +389,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2098787667030712757",
-          "text": "The concerns over AI safety and cybersecurity are legitimate, but we’re risking talking America, the global AI leader, into self-inflicted obsolescence and the obscurity of bureaucracy.\n\nThe OpenAI hacking HuggingFace argument is spurious. An agent in “ExploitGym”… exploited. Our adversaries have the training techniques, the data, and the will to attack. And they won’t be slowed down with “embedded evaluators.” They’ll likely have embedded accelerators!",
-          "created_at": "2026-09-12T14:55:48+00:00",
-          "like_count": 3044,
-          "retweet_count": 270,
-          "reply_count": 218,
-          "engagement_score": 3802,
-          "url": "https://x.com/rauchg/status/2098787667030712757"
+          "id": "2099514906366328902",
+          "text": "Welcoming Steren, creator of Google Cloud Run, to Vercel.\n\nHe will lead the Fluid family of compute products (Functions, Containers, Sandbox, Builds).\n\nServerless was the last chapter of the cloud, and Steren helped define the paradigm at Google.\n\nAgents are the next frontier, and they require new compute primitives designed for them. Excited for Steren to lead this transition once again.",
+          "created_at": "2026-09-14T15:05:35+00:00",
+          "like_count": 1404,
+          "retweet_count": 27,
+          "reply_count": 68,
+          "engagement_score": 1526,
+          "url": "https://x.com/rauchg/status/2099514906366328902"
         },
         {
-          "id": "2098833404707922239",
-          "text": "I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript &amp; Python ones.\n\nThe days of language or runtime choice based on human convenience are over. Agents are the new compilers.\n\nThey compile intent into fast software.",
-          "created_at": "2026-09-12T17:57:32+00:00",
-          "like_count": 2726,
-          "retweet_count": 133,
-          "reply_count": 148,
-          "engagement_score": 3140,
-          "url": "https://x.com/rauchg/status/2098833404707922239"
-        },
-        {
-          "id": "2098803573861621778",
-          "text": "https://t.co/OL0LzGsXKY can now orchestrate subagents with different models & reasoning efforts.\n\ne.g: Fable planning and Grok executing. Fable is a genius, Grok is a fast workhorse.\n\n① Simple. 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 or your prompt can indicate this preference.\n\n② Steer as you please. It’s extremely enjoyable to use. You just talk to the agent and interrupt at will.\n\nWorth noting this works with any model, any gateway. No fancy server-side routing. Just harnessing (no pun intended) the model’s intelligence and ability to orchestrate.",
-          "created_at": "2026-09-12T15:59:00+00:00",
-          "like_count": 1038,
-          "retweet_count": 55,
-          "reply_count": 70,
-          "engagement_score": 1218,
-          "url": "https://x.com/rauchg/status/2098803573861621778"
+          "id": "2099540886409695346",
+          "text": "Agents are only as good as the proof-checkers, compilers, type systems, and linters you give them.\n\n𝚜𝚑𝚊𝚍𝚌𝚗/𝚕𝚒𝚗𝚝 helps agents stay on track with the rules of your design system.\n\nMeta: verifiers + skills are the new 'frameworks'!",
+          "created_at": "2026-09-14T16:48:49+00:00",
+          "like_count": 824,
+          "retweet_count": 25,
+          "reply_count": 57,
+          "engagement_score": 931,
+          "url": "https://x.com/rauchg/status/2099540886409695346"
         }
       ]
     },
@@ -418,23 +417,13 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2098828265800835310",
-          "text": "Not a bad idea to slow down to harden systems. Especially since we haven’t even discovered all the systems that agents hacked recently.",
-          "created_at": "2026-09-12T17:37:07+00:00",
-          "like_count": 699,
-          "retweet_count": 22,
-          "reply_count": 126,
-          "engagement_score": 869,
-          "url": "https://x.com/amasad/status/2098828265800835310"
-        },
-        {
           "id": "2099197117013340450",
           "text": "It was painful to see so many users being priced out of AI coding for a while. But now it’s free to build again! https://t.co/LBe5fPBBGC",
           "created_at": "2026-09-13T18:02:48+00:00",
-          "like_count": 138,
-          "retweet_count": 10,
-          "reply_count": 30,
-          "engagement_score": 188,
+          "like_count": 201,
+          "retweet_count": 12,
+          "reply_count": 47,
+          "engagement_score": 272,
           "url": "https://x.com/amasad/status/2099197117013340450"
         }
       ]
@@ -444,7 +433,18 @@
       "name": "Josh Woodward (Google Labs)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2099558443078365287",
+          "text": "2 months ago, we launched a Gemini power user group to test early features in the app. 20+ features tested later, your feedback has been incredible. Thank you!\n\nA new cohort is now getting early access to what’s next for Daily Brief & Personal Intelligence, and we’ll keep onboarding people.\n\n​Join our community: https://t.co/uXdeIrtxhj",
+          "created_at": "2026-09-14T17:58:35+00:00",
+          "like_count": 680,
+          "retweet_count": 41,
+          "reply_count": 74,
+          "engagement_score": 836,
+          "url": "https://x.com/joshwoodward/status/2099558443078365287"
+        }
+      ]
     },
     {
       "handle": "paulgauthier",
@@ -460,34 +460,44 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2099066303671599195",
-          "text": "I think I’ll buy iPhone Duo, just to be able to use coding agents on the go even more.",
-          "created_at": "2026-09-13T09:23:00+00:00",
-          "like_count": 113,
-          "retweet_count": 1,
-          "reply_count": 37,
-          "engagement_score": 152,
-          "url": "https://x.com/ivanfioravanti/status/2099066303671599195"
+          "id": "2099448613785284775",
+          "text": "Tencent is accelerating in Open Source AI related releases!",
+          "created_at": "2026-09-14T10:42:10+00:00",
+          "like_count": 255,
+          "retweet_count": 10,
+          "reply_count": 2,
+          "engagement_score": 277,
+          "url": "https://x.com/ivanfioravanti/status/2099448613785284775"
         },
         {
-          "id": "2099127708726759432",
-          "text": "I’m sure not intelligent enough for this, but can anyone smarter explain me how anyone can distill from US AI labs without access to logits? Thanks.",
-          "created_at": "2026-09-13T13:27:00+00:00",
-          "like_count": 52,
-          "retweet_count": 1,
-          "reply_count": 8,
-          "engagement_score": 62,
-          "url": "https://x.com/ivanfioravanti/status/2099127708726759432"
+          "id": "2099445286149968149",
+          "text": "LLM Context Benchmark of DwarfStar with DeepSeek V4.1 Flash running on 1x and 2x M3 Ultra 512GB!\n\nI started push it further on performance too! /cc @antirez https://t.co/hdDv8eflqp",
+          "created_at": "2026-09-14T10:28:56+00:00",
+          "like_count": 64,
+          "retweet_count": 7,
+          "reply_count": 9,
+          "engagement_score": 87,
+          "url": "https://x.com/ivanfioravanti/status/2099445286149968149"
         },
         {
-          "id": "2099132048795697640",
-          "text": "Nathan’s AI List is surely a must!",
-          "created_at": "2026-09-13T13:44:15+00:00",
-          "like_count": 22,
-          "retweet_count": 2,
-          "reply_count": 0,
-          "engagement_score": 26,
-          "url": "https://x.com/ivanfioravanti/status/2099132048795697640"
+          "id": "2099430454466060790",
+          "text": "This is still a separate fork/branch of DwarfStar for Qwen3.8 Flash Next but Q4 and Q2 models have been downloaded ~50K and ~15K times! 👀 https://t.co/KF0oBJEtzh",
+          "created_at": "2026-09-14T09:30:00+00:00",
+          "like_count": 70,
+          "retweet_count": 4,
+          "reply_count": 6,
+          "engagement_score": 84,
+          "url": "https://x.com/ivanfioravanti/status/2099430454466060790"
+        },
+        {
+          "id": "2099460838134546500",
+          "text": "I totally agree and I hope these safety measures will be shared in the open, so that any labs in the world can follow and improve them.\n\nOpen and shared worldwide research is the only way, everything else is just few people taking risks for everyone else.",
+          "created_at": "2026-09-14T11:30:44+00:00",
+          "like_count": 20,
+          "retweet_count": 0,
+          "reply_count": 4,
+          "engagement_score": 24,
+          "url": "https://x.com/ivanfioravanti/status/2099460838134546500"
         }
       ]
     },
@@ -498,24 +508,34 @@
       "tier": "builder",
       "tweets": [
         {
+          "id": "2099477650876117408",
+          "text": "“You AI people are so naive, I live in the REAL world, where [I have been consistently wrong in my predictions about AI and behind the ball on every trend related to AI, routinely making little prognostications that stochastic gradient descent joyfully stomps all over.]”",
+          "created_at": "2026-09-14T12:37:33+00:00",
+          "like_count": 1369,
+          "retweet_count": 101,
+          "reply_count": 24,
+          "engagement_score": 1595,
+          "url": "https://x.com/deanwball/status/2099477650876117408"
+        },
+        {
           "id": "2099162070499426699",
           "text": "you know what? it’s awesome that people are vigorously debating the credentials of assessors in the frontier AI industry. It’s awesome we are debating what independence really means. Some of it is in bad faith but who cares. This would have been my dream come true a year ago.",
           "created_at": "2026-09-13T15:43:32+00:00",
-          "like_count": 331,
-          "retweet_count": 13,
-          "reply_count": 23,
-          "engagement_score": 380,
+          "like_count": 436,
+          "retweet_count": 16,
+          "reply_count": 26,
+          "engagement_score": 494,
           "url": "https://x.com/deanwball/status/2099162070499426699"
         },
         {
-          "id": "2099130676125557242",
-          "text": "Airlines share information about safety issues largely because they are compelled to by law. There are some voluntary information-sharing programs in aviation which mirror structures the AI industry has also established (eg FMF). That is VERY different from coordinating to modulate development progress, though.",
-          "created_at": "2026-09-13T13:38:47+00:00",
-          "like_count": 108,
-          "retweet_count": 6,
-          "reply_count": 7,
-          "engagement_score": 127,
-          "url": "https://x.com/deanwball/status/2099130676125557242"
+          "id": "2099583055111323783",
+          "text": "Some suppose that “safety” and “innovation” in AI are at odds. My suspicion is the opposite: the next generation of breakthroughs in AI will be in safety, alignment, and monitorability. Pushing the frontier forward from here will require dramatic innovations in safety.",
+          "created_at": "2026-09-14T19:36:23+00:00",
+          "like_count": 174,
+          "retweet_count": 15,
+          "reply_count": 42,
+          "engagement_score": 246,
+          "url": "https://x.com/deanwball/status/2099583055111323783"
         }
       ]
     },
@@ -526,28 +546,18 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2099139650044690548",
-          "text": "finally found time to make a new video! https://t.co/uuRpjRGd5g\n\nthis time i'm sharing a slightly more advanced agentic engineering session, focused on high throughput multi-tasking\n\nhope you find helpful! https://t.co/e1BVPbb0ez",
-          "created_at": "2026-09-13T14:14:27+00:00",
-          "like_count": 573,
-          "retweet_count": 35,
-          "reply_count": 31,
-          "engagement_score": 674,
-          "url": "https://x.com/kunchenguid/status/2099139650044690548"
-        },
-        {
-          "id": "2098854862788440308",
-          "text": "every model provider should learn from meta's pricing model for muse spark, with fully transparent subsidization labeled for the contributor tier\n\nstop doing \"in order to use our model at a good price, you must use our harness which secretly collects your data and/or upload your codebase\"\n\nmeta clearly proved there's a way to collect training data without relying on a harness. just be transparent about when you collect data vs not, clearly communicate how much the data is worth, and give the choice to the user\n\nand i really don't need your harness. i already have SO MANY state of the art harnesses to pick from. pi, opencode, hermes, openclaw, and even claude code and codex can be configured to use any model. your own harness is a tech debt that fragments my setup and doesn't add much value",
-          "created_at": "2026-09-12T19:22:48+00:00",
-          "like_count": 441,
-          "retweet_count": 24,
-          "reply_count": 32,
-          "engagement_score": 521,
-          "url": "https://x.com/kunchenguid/status/2098854862788440308"
+          "id": "2099533194655846425",
+          "text": "this thing was widely reported as “the end of programming” in 1981 \n\nhttps://t.co/j0cok5NZKf\n\nright before that, in 1960s, people thought COBOL would allow everyone to build whatever software they wanted and there’s no need for programmers\n\nnow the same people in the same bubble think agents will finally end it, because they spent a weekend and got impressed by how quickly the agent could produce a toy. now they think that’s how everyone wants to spend their weekends\n\nopen your eyes - most regular humans don’t even want to talk to an agent",
+          "created_at": "2026-09-14T16:18:15+00:00",
+          "like_count": 35,
+          "retweet_count": 4,
+          "reply_count": 8,
+          "engagement_score": 51,
+          "url": "https://x.com/kunchenguid/status/2099533194655846425"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-09-13T22:12:45.000040+00:00"
+  "generated_at": "2026-09-14T22:12:18.884122+00:00"
 }

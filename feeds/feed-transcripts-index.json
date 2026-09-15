@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-09-13T23:25:04.538515+00:00",
+  "generated_at": "2026-09-14T23:30:55.705346+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "cde6360e-d345-4ead-a9bb-1f973baf6ab8",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--030---Long-Live-the-Short-King-Why-4-HI-HBM-Wins-Memory--Myron-Xie--Jordan-Nanos-e3or9k4",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 030 - Long Live the Short King: Why 4-HI HBM Wins (Memory) | Myron Xie, Jordan Nanos",
+      "pub_date": "2026-09-14T17:00:16+00:00",
+      "transcript_path": "feeds/transcripts/4139be57bc905abb87448714.txt",
+      "transcript_chars": 37867,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-14T23:30:55.705346+00:00",
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/recursive",
+      "link": "https://www.latent.space/p/recursive",
+      "channel": "Latent Space",
+      "title": "Humanity’s Last Invention — Richard Socher of Recursive",
+      "pub_date": "2026-09-14T16:04:16+00:00",
+      "transcript_path": "feeds/transcripts/2efc3a74253d689ebfedb019.txt",
+      "transcript_chars": 117134,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-14T23:30:55.705346+00:00",
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
+      "pub_date": "2026-09-14T15:03:48+00:00",
+      "transcript_path": "feeds/transcripts/b5c5fdf08f6f2016484c3caf.txt",
+      "transcript_chars": 5053,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-14T23:30:55.705346+00:00",
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+      "link": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+      "channel": "Lenny's Podcast",
+      "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
+      "pub_date": "2026-09-14T12:04:39+00:00",
+      "transcript_path": "feeds/transcripts/e38d5a310b7e47cff2283ffd.txt",
+      "transcript_chars": 5646,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-14T23:30:55.705346+00:00",
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
+    },
     {
       "guid": "yt:hQR_VJF6ukk",
       "link": "https://www.youtube.com/watch?v=hQR_VJF6ukk",
@@ -12,8 +64,8 @@
       "transcript_chars": 21826,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-13T23:25:04.538515+00:00",
-      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
-      "expires_at": "2026-09-27T23:25:04.538515+00:00"
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
     },
     {
       "guid": "yt:7QquPaacViA",
@@ -25,8 +77,8 @@
       "transcript_chars": 17558,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-13T23:25:04.538515+00:00",
-      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
-      "expires_at": "2026-09-27T23:25:04.538515+00:00"
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
@@ -38,8 +90,8 @@
       "transcript_chars": 35621,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-12T23:19:05.606487+00:00",
-      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
-      "expires_at": "2026-09-27T23:25:04.538515+00:00"
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
     },
     {
       "guid": "yt:2_u9L8eUq5s",
@@ -51,8 +103,8 @@
       "transcript_chars": 206550,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-12T23:19:05.606487+00:00",
-      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
-      "expires_at": "2026-09-27T23:25:04.538515+00:00"
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
     },
     {
       "guid": "77cd4aba-55ef-451a-a575-1793d9acfd20",
@@ -64,8 +116,8 @@
       "transcript_chars": 43604,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
-      "expires_at": "2026-09-27T23:25:04.538515+00:00"
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
@@ -90,8 +142,8 @@
       "transcript_chars": 61855,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
-      "expires_at": "2026-09-27T23:25:04.538515+00:00"
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
     },
     {
       "guid": "yt:UT0zrf0tlug",
@@ -103,8 +155,8 @@
       "transcript_chars": 15159,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
-      "expires_at": "2026-09-27T23:25:04.538515+00:00"
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
     },
     {
       "guid": "3a81653a-f581-4f90-9791-a8998dda115d",
@@ -168,8 +220,8 @@
       "transcript_chars": 78667,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-10T00:12:29.601064+00:00",
-      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
-      "expires_at": "2026-09-27T23:25:04.538515+00:00"
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
@@ -194,8 +246,8 @@
       "transcript_chars": 27647,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-08T22:13:34.690298+00:00",
-      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
-      "expires_at": "2026-09-27T23:25:04.538515+00:00"
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
     },
     {
       "guid": "yt:XNOuhxUsQDI",
@@ -207,8 +259,8 @@
       "transcript_chars": 27437,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-08T22:13:34.690298+00:00",
-      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
-      "expires_at": "2026-09-27T23:25:04.538515+00:00"
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
     },
     {
       "guid": "yt:MiAl9CNZUuo",
@@ -376,8 +428,8 @@
       "transcript_chars": 51982,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-13T23:25:04.538515+00:00",
-      "expires_at": "2026-09-27T23:25:04.538515+00:00"
+      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
+      "expires_at": "2026-09-28T23:30:55.705346+00:00"
     },
     {
       "guid": "yt:dnSpKF5pWNQ",
@@ -536,19 +588,6 @@
       "expires_at": "2026-09-19T04:53:07.411280+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
-      "link": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
-      "channel": "Latent Space",
-      "title": "[AINews] OpenAI shuts off Cursor",
-      "pub_date": "2026-08-29T05:11:52+00:00",
-      "transcript_path": "feeds/transcripts/b6071d28a1ba7aaee650d2e5.txt",
-      "transcript_chars": 19891,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-29T22:32:14.238402+00:00",
-      "last_seen_at": "2026-08-31T22:45:39.918632+00:00",
-      "expires_at": "2026-09-14T22:45:39.918632+00:00"
-    },
-    {
       "guid": "yt:3wsS9iuOua4",
       "link": "https://www.youtube.com/watch?v=3wsS9iuOua4",
       "channel": "Amit Kukreja",
@@ -560,19 +599,6 @@
       "cached_at": "2026-08-27T22:46:43.554266+00:00",
       "last_seen_at": "2026-09-05T04:53:07.411280+00:00",
       "expires_at": "2026-09-19T04:53:07.411280+00:00"
-    },
-    {
-      "guid": "yt:aV26V1UvkJw",
-      "link": "https://www.youtube.com/watch?v=aV26V1UvkJw",
-      "channel": "Dwarkesh Patel",
-      "title": "Dylan Patel – Anthropic & OpenAI will have most of the world’s compute by 2028",
-      "pub_date": "2026-08-25T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/a576bf24bede4075d972fb7a.txt",
-      "transcript_chars": 76682,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-08-26T02:42:47.658613+00:00",
-      "last_seen_at": "2026-08-31T22:45:39.918632+00:00",
-      "expires_at": "2026-09-14T22:45:39.918632+00:00"
     },
     {
       "guid": "953662b3-f08d-4981-88d2-72b1eabf751c",
