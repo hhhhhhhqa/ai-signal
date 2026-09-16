@@ -8,17 +8,10 @@
       "url": "https://openai.com/index/fyxer",
       "published": "2026-09-14T12:00:00+00:00",
       "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
-    },
-    {
-      "id": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "published": "2026-09-14T00:00:00+00:00",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
     }
   ],
-  "errors": null,
-  "generated_at": "2026-09-14T22:12:18.884122+00:00"
+  "errors": [
+    "Google DeepMind: Server disconnected without sending a response."
+  ],
+  "generated_at": "2026-09-15T22:10:47.252247+00:00"
 }

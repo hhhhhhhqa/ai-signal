@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-14T23:30:55.705346+00:00",
+  "generated_at": "2026-09-15T23:21:46.395065+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "cea835d1-fb37-4f07-a91e-356e7e5c8fca",
+      "link": "https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
+      "channel": "All-In Podcast",
+      "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
+      "pub_date": "2026-09-15T20:46:00+00:00",
+      "transcript_path": "feeds/transcripts/98a76c7c697d96df3edbffdb.txt",
+      "transcript_chars": 4027,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-15T23:21:46.395065+00:00",
+      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
+      "expires_at": "2026-09-29T23:21:46.395065+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+      "link": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+      "channel": "Lenny's Podcast",
+      "title": "60+ new creative growth ideas",
+      "pub_date": "2026-09-15T12:45:28+00:00",
+      "transcript_path": "feeds/transcripts/e4653d52fd45a0beb3d51f7e.txt",
+      "transcript_chars": 23614,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-15T23:21:46.395065+00:00",
+      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
+      "expires_at": "2026-09-29T23:21:46.395065+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+      "link": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+      "channel": "Latent Space",
+      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
+      "pub_date": "2026-09-15T04:50:36+00:00",
+      "transcript_path": "feeds/transcripts/e335db16a6cef77906b50155.txt",
+      "transcript_chars": 13685,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-15T23:21:46.395065+00:00",
+      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
+      "expires_at": "2026-09-29T23:21:46.395065+00:00"
+    },
     {
       "guid": "cde6360e-d345-4ead-a9bb-1f973baf6ab8",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--030---Long-Live-the-Short-King-Why-4-HI-HBM-Wins-Memory--Myron-Xie--Jordan-Nanos-e3or9k4",
@@ -12,8 +51,8 @@
       "transcript_chars": 37867,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
+      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
+      "expires_at": "2026-09-29T23:21:46.395065+00:00"
     },
     {
       "guid": "https://www.latent.space/p/recursive",
@@ -25,8 +64,8 @@
       "transcript_chars": 117134,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
+      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
+      "expires_at": "2026-09-29T23:21:46.395065+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
@@ -38,8 +77,8 @@
       "transcript_chars": 5053,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
+      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
+      "expires_at": "2026-09-29T23:21:46.395065+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
@@ -51,8 +90,8 @@
       "transcript_chars": 5646,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
+      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
+      "expires_at": "2026-09-29T23:21:46.395065+00:00"
     },
     {
       "guid": "yt:hQR_VJF6ukk",
@@ -64,8 +103,8 @@
       "transcript_chars": 21826,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-13T23:25:04.538515+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
+      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
+      "expires_at": "2026-09-29T23:21:46.395065+00:00"
     },
     {
       "guid": "yt:7QquPaacViA",
@@ -77,8 +116,8 @@
       "transcript_chars": 17558,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-13T23:25:04.538515+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
+      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
+      "expires_at": "2026-09-29T23:21:46.395065+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
@@ -116,8 +155,8 @@
       "transcript_chars": 43604,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
+      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
+      "expires_at": "2026-09-29T23:21:46.395065+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
@@ -142,8 +181,8 @@
       "transcript_chars": 61855,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
+      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
+      "expires_at": "2026-09-29T23:21:46.395065+00:00"
     },
     {
       "guid": "yt:UT0zrf0tlug",
@@ -155,8 +194,8 @@
       "transcript_chars": 15159,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
+      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
+      "expires_at": "2026-09-29T23:21:46.395065+00:00"
     },
     {
       "guid": "3a81653a-f581-4f90-9791-a8998dda115d",
@@ -428,8 +467,8 @@
       "transcript_chars": 51982,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
+      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
+      "expires_at": "2026-09-29T23:21:46.395065+00:00"
     },
     {
       "guid": "yt:dnSpKF5pWNQ",
