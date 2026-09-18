@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-15T23:21:46.395065+00:00",
+  "generated_at": "2026-09-18T03:24:28.326928+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/aiuc",
+      "link": "https://www.latent.space/p/aiuc",
+      "channel": "Latent Space",
+      "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+      "pub_date": "2026-09-16T18:07:45+00:00",
+      "transcript_path": "feeds/transcripts/895cf5b9c61fc65bb1b45351.txt",
+      "transcript_chars": 114022,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-18T03:24:28.326928+00:00",
+      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
+      "expires_at": "2026-10-02T03:24:28.326928+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+      "link": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+      "channel": "Lenny's Podcast",
+      "title": "Muse review: The personal AI agent that gets consumer UX right",
+      "pub_date": "2026-09-16T12:02:14+00:00",
+      "transcript_path": "feeds/transcripts/3087642d67765bb4c4f2aec0.txt",
+      "transcript_chars": 5441,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-18T03:24:28.326928+00:00",
+      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
+      "expires_at": "2026-10-02T03:24:28.326928+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+      "link": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+      "channel": "Latent Space",
+      "title": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
+      "pub_date": "2026-09-16T11:09:53+00:00",
+      "transcript_path": "feeds/transcripts/ed2db5393d16e717bb83c1b4.txt",
+      "transcript_chars": 11457,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-18T03:24:28.326928+00:00",
+      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
+      "expires_at": "2026-10-02T03:24:28.326928+00:00"
+    },
     {
       "guid": "cea835d1-fb37-4f07-a91e-356e7e5c8fca",
       "link": "https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
@@ -12,8 +51,8 @@
       "transcript_chars": 4027,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T23:21:46.395065+00:00",
-      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
-      "expires_at": "2026-09-29T23:21:46.395065+00:00"
+      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
+      "expires_at": "2026-10-02T03:24:28.326928+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
@@ -25,8 +64,8 @@
       "transcript_chars": 23614,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T23:21:46.395065+00:00",
-      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
-      "expires_at": "2026-09-29T23:21:46.395065+00:00"
+      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
+      "expires_at": "2026-10-02T03:24:28.326928+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
@@ -38,8 +77,8 @@
       "transcript_chars": 13685,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-15T23:21:46.395065+00:00",
-      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
-      "expires_at": "2026-09-29T23:21:46.395065+00:00"
+      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
+      "expires_at": "2026-10-02T03:24:28.326928+00:00"
     },
     {
       "guid": "cde6360e-d345-4ead-a9bb-1f973baf6ab8",
@@ -49,10 +88,10 @@
       "pub_date": "2026-09-14T17:00:16+00:00",
       "transcript_path": "feeds/transcripts/4139be57bc905abb87448714.txt",
       "transcript_chars": 37867,
-      "transcript_source": "episode_page",
+      "transcript_source": null,
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
-      "expires_at": "2026-09-29T23:21:46.395065+00:00"
+      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
+      "expires_at": "2026-10-02T03:24:28.326928+00:00"
     },
     {
       "guid": "https://www.latent.space/p/recursive",
@@ -64,8 +103,8 @@
       "transcript_chars": 117134,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
-      "expires_at": "2026-09-29T23:21:46.395065+00:00"
+      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
+      "expires_at": "2026-10-02T03:24:28.326928+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
@@ -77,8 +116,8 @@
       "transcript_chars": 5053,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
-      "expires_at": "2026-09-29T23:21:46.395065+00:00"
+      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
+      "expires_at": "2026-10-02T03:24:28.326928+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
@@ -90,8 +129,8 @@
       "transcript_chars": 5646,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
-      "expires_at": "2026-09-29T23:21:46.395065+00:00"
+      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
+      "expires_at": "2026-10-02T03:24:28.326928+00:00"
     },
     {
       "guid": "yt:hQR_VJF6ukk",
@@ -103,8 +142,8 @@
       "transcript_chars": 21826,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-13T23:25:04.538515+00:00",
-      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
-      "expires_at": "2026-09-29T23:21:46.395065+00:00"
+      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
+      "expires_at": "2026-10-02T03:24:28.326928+00:00"
     },
     {
       "guid": "yt:7QquPaacViA",
@@ -155,8 +194,8 @@
       "transcript_chars": 43604,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
-      "expires_at": "2026-09-29T23:21:46.395065+00:00"
+      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
+      "expires_at": "2026-10-02T03:24:28.326928+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
