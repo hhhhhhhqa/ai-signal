@@ -1,7 +1,176 @@
 {
-  "generated_at": "2026-09-18T03:24:28.326928+00:00",
+  "generated_at": "2026-09-19T14:19:51.557957+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-612",
+      "link": "https://www.latent.space/p/ainews-not-much-happened-today-612",
+      "channel": "Latent Space",
+      "title": "[AINews] not much happened today",
+      "pub_date": "2026-09-18T06:28:43+00:00",
+      "transcript_path": "feeds/transcripts/4873010e50db964567acfae4.txt",
+      "transcript_chars": 35144,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-19T14:19:51.557957+00:00",
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+    },
+    {
+      "guid": "https://www.dwarkesh.com/p/noam-brown",
+      "link": "https://www.dwarkesh.com/p/noam-brown",
+      "channel": "Dwarkesh Patel",
+      "title": "Noam Brown – Agent swarms, alignment, & recursive self-improvement",
+      "pub_date": "2026-09-17T15:38:13+00:00",
+      "transcript_path": "feeds/transcripts/88a1ae465c7634d7b7da83a9.txt",
+      "transcript_chars": 79940,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-19T14:19:51.557957+00:00",
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+      "link": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+      "channel": "Latent Space",
+      "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+      "pub_date": "2026-09-17T07:28:25+00:00",
+      "transcript_path": "feeds/transcripts/4426e5537ed7b657ce4bbdf9.txt",
+      "transcript_chars": 53877,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-19T14:19:51.557957+00:00",
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+    },
+    {
+      "guid": "b0ae8bb2-812b-4ed0-bc9d-17a77b736fdc",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Stock-Picking-Is-a-Temperament-Game--Ian-Cassel-e3ouoi1",
+      "channel": "The Acquirers Podcast",
+      "title": "Stock Picking Is a Temperament Game | Ian Cassel",
+      "pub_date": "2026-09-17T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/bcaf053e9ee1e98c47ac9533.txt",
+      "transcript_chars": 145582,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-19T14:19:51.557957+00:00",
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+    },
+    {
+      "guid": "f225e979-78f3-4508-95fe-79293b3ff678",
+      "link": "https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem",
+      "channel": "All-In Podcast",
+      "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem",
+      "pub_date": "2026-09-17T03:04:00+00:00",
+      "transcript_path": "feeds/transcripts/4481e45609453cec64d84352.txt",
+      "transcript_chars": 3854,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-19T14:19:51.557957+00:00",
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+    },
+    {
+      "guid": "https://lexfridman.com/?p=6554",
+      "link": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
+      "channel": "Lex Fridman",
+      "title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+      "pub_date": "2026-09-17T00:40:49+00:00",
+      "transcript_path": "feeds/transcripts/64bf58bcf5dae9d633cdd0e8.txt",
+      "transcript_chars": 181518,
+      "transcript_source": "description_transcript_link",
+      "cached_at": "2026-09-19T14:19:51.557957+00:00",
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+    },
+    {
+      "guid": "yt:Bh5bJrrJ6xs",
+      "link": "https://www.youtube.com/watch?v=Bh5bJrrJ6xs",
+      "channel": "Salesforce",
+      "title": "Marc Benioff & Sam Altman | Dreamforce 2026",
+      "pub_date": "2026-09-16T03:12:14+00:00",
+      "transcript_path": "feeds/transcripts/fd6b7d5751eb8c365168bed5.txt",
+      "transcript_chars": 34949,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-19T14:19:51.557957+00:00",
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+    },
+    {
+      "guid": "yt:YmSzE5hpWiQ",
+      "link": "https://www.youtube.com/watch?v=YmSzE5hpWiQ",
+      "channel": "DRM News",
+      "title": "Jensen Huang, Dario Amodei and Siemens CEO Busch Debate AI’s Future at Dreamforce 2026 | AI1G",
+      "pub_date": "2026-09-15T19:04:23+00:00",
+      "transcript_path": "feeds/transcripts/4428e3cf688fb3f4b864ded6.txt",
+      "transcript_chars": 60404,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-19T14:19:51.557957+00:00",
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+    },
+    {
+      "guid": "yt:OyAN7XsEUBY",
+      "link": "https://www.youtube.com/watch?v=OyAN7XsEUBY",
+      "channel": "USA TODAY",
+      "title": "Live: Anthropic CEO Dario Amodei talks AI at Dreamforce summit after calls for development slowdown",
+      "pub_date": "2026-09-15T18:05:23+00:00",
+      "transcript_path": "feeds/transcripts/f56833327fc7130448a0d5f5.txt",
+      "transcript_chars": 45070,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-19T14:19:51.557957+00:00",
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+    },
+    {
+      "guid": "yt:hdcsTeCFE0I",
+      "link": "https://www.youtube.com/watch?v=hdcsTeCFE0I",
+      "channel": "All-In Podcast",
+      "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft’s Master Plan & Who Wins AI",
+      "pub_date": "2026-09-15T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/b5885ac03afcdfe8167d382e.txt",
+      "transcript_chars": 35278,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-19T14:19:51.557957+00:00",
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+    },
+    {
+      "guid": "yt:S7CrlFLAmEA",
+      "link": "https://www.youtube.com/watch?v=S7CrlFLAmEA",
+      "channel": "All-In Podcast",
+      "title": "Jensen Huang: The Doomer Hoax, Superintelligence is Here, and The Future of AI (ft. President Trump)",
+      "pub_date": "2026-09-14T21:36:44+00:00",
+      "transcript_path": "feeds/transcripts/bb5619789c5c18d982b12e2c.txt",
+      "transcript_chars": 47623,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-19T14:19:51.557957+00:00",
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+    },
+    {
+      "guid": "yt:DjBhmH8um2A",
+      "link": "https://www.youtube.com/watch?v=DjBhmH8um2A",
+      "channel": "CrowdStrike",
+      "title": "Fal.Con 2026: Securing AI | George Kurtz, Jensen Huang, Lip-Bu Tan & Greg Brockman",
+      "pub_date": "2026-09-14T17:11:54+00:00",
+      "transcript_path": "feeds/transcripts/bd01b1e208ab3356b3daf65d.txt",
+      "transcript_chars": 79826,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-19T14:19:51.557957+00:00",
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+    },
+    {
+      "guid": "yt:56GuvofZgB4",
+      "link": "https://www.youtube.com/watch?v=56GuvofZgB4",
+      "channel": "Bloomberg Podcasts",
+      "title": "OpenAI President Greg Brockman on Doing Business in the Wake of Hugging Face",
+      "pub_date": "2026-09-14T08:11:19+00:00",
+      "transcript_path": "feeds/transcripts/0ae41d21d256ad1805bb362c.txt",
+      "transcript_chars": 66815,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-19T14:19:51.557957+00:00",
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/aiuc",
       "link": "https://www.latent.space/p/aiuc",
@@ -12,8 +181,8 @@
       "transcript_chars": 114022,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-18T03:24:28.326928+00:00",
-      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
-      "expires_at": "2026-10-02T03:24:28.326928+00:00"
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
@@ -25,8 +194,8 @@
       "transcript_chars": 5441,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-18T03:24:28.326928+00:00",
-      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
-      "expires_at": "2026-10-02T03:24:28.326928+00:00"
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
@@ -38,8 +207,8 @@
       "transcript_chars": 11457,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-18T03:24:28.326928+00:00",
-      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
-      "expires_at": "2026-10-02T03:24:28.326928+00:00"
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
     },
     {
       "guid": "cea835d1-fb37-4f07-a91e-356e7e5c8fca",
@@ -90,8 +259,8 @@
       "transcript_chars": 37867,
       "transcript_source": null,
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
-      "expires_at": "2026-10-02T03:24:28.326928+00:00"
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
     },
     {
       "guid": "https://www.latent.space/p/recursive",
@@ -142,8 +311,8 @@
       "transcript_chars": 21826,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-13T23:25:04.538515+00:00",
-      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
-      "expires_at": "2026-10-02T03:24:28.326928+00:00"
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
     },
     {
       "guid": "yt:7QquPaacViA",
@@ -194,8 +363,8 @@
       "transcript_chars": 43604,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
-      "expires_at": "2026-10-02T03:24:28.326928+00:00"
+      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
+      "expires_at": "2026-10-03T14:19:51.557957+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
@@ -549,84 +718,6 @@
       "expires_at": "2026-09-21T23:07:44.535897+00:00"
     },
     {
-      "guid": "https://www.dwarkesh.com/p/ajeya-cotra",
-      "link": "https://www.dwarkesh.com/p/ajeya-cotra",
-      "channel": "Dwarkesh Patel",
-      "title": "Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face",
-      "pub_date": "2026-09-01T15:41:06+00:00",
-      "transcript_path": "feeds/transcripts/65a9ad9ec3b3e4d3507a46a8.txt",
-      "transcript_chars": 129231,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-05T04:53:07.411280+00:00",
-      "last_seen_at": "2026-09-05T04:53:07.411280+00:00",
-      "expires_at": "2026-09-19T04:53:07.411280+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
-      "link": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
-      "channel": "Lenny's Podcast",
-      "title": "How to turn your AI into a world-class designer",
-      "pub_date": "2026-09-01T12:45:59+00:00",
-      "transcript_path": "feeds/transcripts/26ea861f99c226482e201e54.txt",
-      "transcript_chars": 23989,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-05T04:53:07.411280+00:00",
-      "last_seen_at": "2026-09-05T04:53:07.411280+00:00",
-      "expires_at": "2026-09-19T04:53:07.411280+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
-      "link": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
-      "channel": "Latent Space",
-      "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
-      "pub_date": "2026-09-01T04:36:54+00:00",
-      "transcript_path": "feeds/transcripts/57683ce2bb59972434343202.txt",
-      "transcript_chars": 14695,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-05T04:53:07.411280+00:00",
-      "last_seen_at": "2026-09-05T04:53:07.411280+00:00",
-      "expires_at": "2026-09-19T04:53:07.411280+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/openai-huggingface-narration",
-      "link": "https://www.dwarkesh.com/p/openai-huggingface-narration",
-      "channel": "Dwarkesh Patel",
-      "title": "The rise and fall of agent civilizations",
-      "pub_date": "2026-08-31T20:36:53+00:00",
-      "transcript_path": "feeds/transcripts/7ccce02360640f5ec0a16a4f.txt",
-      "transcript_chars": 1392,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-31T22:45:39.918632+00:00",
-      "last_seen_at": "2026-09-05T04:53:07.411280+00:00",
-      "expires_at": "2026-09-19T04:53:07.411280+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
-      "pub_date": "2026-08-31T15:01:58+00:00",
-      "transcript_path": "feeds/transcripts/19e611ecda8994bb81a06da3.txt",
-      "transcript_chars": 6482,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-31T22:45:39.918632+00:00",
-      "last_seen_at": "2026-09-05T04:53:07.411280+00:00",
-      "expires_at": "2026-09-19T04:53:07.411280+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
-      "link": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
-      "channel": "Lenny's Podcast",
-      "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
-      "pub_date": "2026-08-31T12:04:18+00:00",
-      "transcript_path": "feeds/transcripts/0f041fdc00170600ee343a93.txt",
-      "transcript_chars": 6168,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-31T22:45:39.918632+00:00",
-      "last_seen_at": "2026-09-05T04:53:07.411280+00:00",
-      "expires_at": "2026-09-19T04:53:07.411280+00:00"
-    },
-    {
       "guid": "yt:T2q2Zv4ePII",
       "link": "https://www.youtube.com/watch?v=T2q2Zv4ePII",
       "channel": "Bloomberg Television",
@@ -651,45 +742,6 @@
       "cached_at": "2026-08-31T22:45:39.918632+00:00",
       "last_seen_at": "2026-09-12T23:19:05.606487+00:00",
       "expires_at": "2026-09-26T23:19:05.606487+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/openai-huggingface",
-      "link": "https://www.dwarkesh.com/p/openai-huggingface",
-      "channel": "Dwarkesh Patel",
-      "title": "The Rise and Fall of Agent Civilizations",
-      "pub_date": "2026-08-29T22:47:53+00:00",
-      "transcript_path": "feeds/transcripts/48d955f9c3b8a6e949164b94.txt",
-      "transcript_chars": 26630,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-08-30T22:29:52.511397+00:00",
-      "last_seen_at": "2026-09-05T04:53:07.411280+00:00",
-      "expires_at": "2026-09-19T04:53:07.411280+00:00"
-    },
-    {
-      "guid": "yt:3wsS9iuOua4",
-      "link": "https://www.youtube.com/watch?v=3wsS9iuOua4",
-      "channel": "Amit Kukreja",
-      "title": "NVIDIA Q2 2026 EARNINGS | JENSEN HUANG SPEAKS LIVE",
-      "pub_date": "2026-08-26T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/0010ba00b9f97fa9a6539a52.txt",
-      "transcript_chars": 180763,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-08-27T22:46:43.554266+00:00",
-      "last_seen_at": "2026-09-05T04:53:07.411280+00:00",
-      "expires_at": "2026-09-19T04:53:07.411280+00:00"
-    },
-    {
-      "guid": "953662b3-f08d-4981-88d2-72b1eabf751c",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--026---PJMs-12B-Modeling-Mistake-Is-Hitting-Ratepayers-Again-Datacenter--Energy--Robert-Boswall--Jordan-Nanos-e3nkns1",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 026 - PJM's $12B Modeling Mistake Is Hitting Ratepayers Again (Datacenter, Energy) | Robert Boswall, Jordan Nanos",
-      "pub_date": "2026-08-20T11:00:00+00:00",
-      "transcript_path": "feeds/transcripts/0ede10a50d3237e786a93682.txt",
-      "transcript_chars": 42305,
-      "transcript_source": "companion_youtube",
-      "cached_at": "2026-08-20T22:01:40.699775+00:00",
-      "last_seen_at": "2026-09-05T04:53:07.411280+00:00",
-      "expires_at": "2026-09-19T04:53:07.411280+00:00"
     }
   ]
 }
