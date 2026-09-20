@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-09-19T14:19:51.557957+00:00",
+  "generated_at": "2026-09-20T02:06:59.603754+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+      "link": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+      "channel": "Latent Space",
+      "title": "[AINews] Here are 6 Clones of Jev in 2 days",
+      "pub_date": "2026-09-19T05:48:28+00:00",
+      "transcript_path": "feeds/transcripts/3eb7b8c5e892643a00ed3cb7.txt",
+      "transcript_chars": 13872,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-20T02:06:59.603754+00:00",
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
+    },
+    {
+      "guid": "c388001b-f12f-4458-bb39-61429b0def96",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--031---EMERGENCY-EPISODE-Are-We-Doomed---Jordan-Nanos--Doug-OLaughlin--Max-Kan--Joey-Brookhart-e3otgvp",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 031 - EMERGENCY EPISODE: Are We Doomed? | Jordan Nanos, Doug O'Laughlin, Max Kan, Joey Brookhart",
+      "pub_date": "2026-09-16T02:30:00+00:00",
+      "transcript_path": "feeds/transcripts/7fce43aaaf2407e56138dc17.txt",
+      "transcript_chars": 61958,
+      "transcript_source": "companion_youtube",
+      "cached_at": "2026-09-20T02:06:59.603754+00:00",
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-612",
       "link": "https://www.latent.space/p/ainews-not-much-happened-today-612",
@@ -12,8 +38,8 @@
       "transcript_chars": 35144,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/noam-brown",
@@ -25,8 +51,8 @@
       "transcript_chars": 79940,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
@@ -38,8 +64,8 @@
       "transcript_chars": 53877,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "b0ae8bb2-812b-4ed0-bc9d-17a77b736fdc",
@@ -51,8 +77,8 @@
       "transcript_chars": 145582,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "f225e979-78f3-4508-95fe-79293b3ff678",
@@ -64,8 +90,8 @@
       "transcript_chars": 3854,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=6554",
@@ -77,8 +103,8 @@
       "transcript_chars": 181518,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "yt:Bh5bJrrJ6xs",
@@ -90,8 +116,8 @@
       "transcript_chars": 34949,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "yt:YmSzE5hpWiQ",
@@ -103,8 +129,8 @@
       "transcript_chars": 60404,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "yt:OyAN7XsEUBY",
@@ -116,8 +142,8 @@
       "transcript_chars": 45070,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "yt:hdcsTeCFE0I",
@@ -129,8 +155,8 @@
       "transcript_chars": 35278,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "yt:S7CrlFLAmEA",
@@ -142,8 +168,8 @@
       "transcript_chars": 47623,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "yt:DjBhmH8um2A",
@@ -155,8 +181,8 @@
       "transcript_chars": 79826,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "yt:56GuvofZgB4",
@@ -168,8 +194,8 @@
       "transcript_chars": 66815,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "https://www.latent.space/p/aiuc",
@@ -259,8 +285,8 @@
       "transcript_chars": 37867,
       "transcript_source": null,
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "https://www.latent.space/p/recursive",
@@ -363,8 +389,8 @@
       "transcript_chars": 43604,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-19T14:19:51.557957+00:00",
-      "expires_at": "2026-10-03T14:19:51.557957+00:00"
+      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
+      "expires_at": "2026-10-04T02:06:59.603754+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
@@ -599,71 +625,6 @@
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
       "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
       "expires_at": "2026-09-20T22:59:42.047904+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/astra",
-      "link": "https://www.latent.space/p/astra",
-      "channel": "Latent Space",
-      "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
-      "pub_date": "2026-09-03T21:09:41+00:00",
-      "transcript_path": "feeds/transcripts/ee60d9f043074b45c596ad72.txt",
-      "transcript_chars": 42601,
-      "transcript_source": "content_transcript_link",
-      "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-05T22:51:17.131371+00:00",
-      "expires_at": "2026-09-19T22:51:17.131371+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
-      "link": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
-      "channel": "Lenny's Podcast",
-      "title": "GPT-6 Astra is a banger - here’s everything I’ve built",
-      "pub_date": "2026-09-03T19:34:20+00:00",
-      "transcript_path": "feeds/transcripts/363d9212f06f86561ef2216f.txt",
-      "transcript_chars": 4695,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-05T22:51:17.131371+00:00",
-      "expires_at": "2026-09-19T22:51:17.131371+00:00"
-    },
-    {
-      "guid": "61206a3c-2874-4c39-9930-31cef1253358",
-      "link": "https://tedseides.libsyn.com/special-annoucement-capital-allocators-university-online",
-      "channel": "Capital Allocators",
-      "title": "SPECIAL ANNOUNCEMENT: Capital Allocators University Online",
-      "pub_date": "2026-09-03T08:00:00+00:00",
-      "transcript_path": "feeds/transcripts/01bb3f8e8f83280a3dd1ece0.txt",
-      "transcript_chars": 2528,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-05T22:51:17.131371+00:00",
-      "expires_at": "2026-09-19T22:51:17.131371+00:00"
-    },
-    {
-      "guid": "d9fe2093-4612-4327-847c-67502451f578",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Patience-Is-the-Ultimate-Edge-in-Investing--Matt-Sweeney-e3o88de",
-      "channel": "The Acquirers Podcast",
-      "title": "Patience Is the Ultimate Edge in Investing | Matt Sweeney",
-      "pub_date": "2026-09-03T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/c1d79ea4f74b97961c789aa0.txt",
-      "transcript_chars": 144546,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-05T22:51:17.131371+00:00",
-      "expires_at": "2026-09-19T22:51:17.131371+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
-      "link": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
-      "channel": "Latent Space",
-      "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training",
-      "pub_date": "2026-09-03T04:38:33+00:00",
-      "transcript_path": "feeds/transcripts/e257bb11c245c5acfca3e450.txt",
-      "transcript_chars": 18771,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-05T22:51:17.131371+00:00",
-      "expires_at": "2026-09-19T22:51:17.131371+00:00"
     },
     {
       "guid": "f0efd40e-08b6-487c-b5fb-31f1ad40db69",

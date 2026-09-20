@@ -19,7 +19,18 @@
       "name": "Dylan Patel (SemiAnalysis)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2101350877932212621",
+          "text": "US supply chains for electronics suck so much\nAMD found a business opportunity in dumping US military chips for 1/4 of the cost in China. \nUS list price is $36k for this chip, with $4-5k to US companies at volume, but it's getting quoted $1k in China to crowdfunding campaigns\nAMD needs to be investigated for treason. it's not just export violations, but it's literally selling military end use components to an adversary for less than your home country....\nPharma companies are also similarly treasonous\nhttps://t.co/fylY0IJG61\nhttps://t.co/PsOxdpyl7M",
+          "created_at": "2026-09-19T16:41:05+00:00",
+          "like_count": 629,
+          "retweet_count": 42,
+          "reply_count": 50,
+          "engagement_score": 763,
+          "url": "https://x.com/dylan522p/status/2101350877932212621"
+        }
+      ]
     },
     {
       "handle": "insane_analyst",
@@ -31,10 +42,10 @@
           "id": "2100786221030998506",
           "text": "Me: Our &lt;redacted&gt; problem can be solved with  Semtech on-PCB CTLE with no latency penalty. \n\nTeam Lead: How do you know?\n\nMe: &lt;redacted technical discussion and simulations&gt; Also I own a shit ton of their stock. Mediatek TPU carried by this SiGe amplifier chip. LPO and NPO too.",
           "created_at": "2026-09-18T03:17:20+00:00",
-          "like_count": 129,
+          "like_count": 131,
           "retweet_count": 1,
           "reply_count": 5,
-          "engagement_score": 136,
+          "engagement_score": 138,
           "url": "https://x.com/insane_analyst/status/2100786221030998506"
         }
       ]
@@ -49,10 +60,10 @@
           "id": "2101028280673656854",
           "text": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park",
           "created_at": "2026-09-18T19:19:11+00:00",
-          "like_count": 911,
-          "retweet_count": 41,
-          "reply_count": 64,
-          "engagement_score": 1057,
+          "like_count": 3330,
+          "retweet_count": 149,
+          "reply_count": 180,
+          "engagement_score": 3808,
           "url": "https://x.com/simonw/status/2101028280673656854"
         }
       ]
@@ -64,34 +75,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2100448648672993540",
-          "text": "Incredibly exciting that there are entire universes of AI innovation that still exist that weren’t even on most of our radars.\n\nBeing able to process information insanely quickly, at crazy low costs, with high levels of capability is huge for a wide number of enterprise tasks.\n\nData classification tasks, routing decisions inside of a workflow, decision making when handed a particular domain problem, quick judgment calls about safety or security, and more all are the gates in a large number of  processes. \n\nThis model and approach could be quite cool in agentic workflows in the enterprise.",
-          "created_at": "2026-09-17T04:55:56+00:00",
-          "like_count": 532,
-          "retweet_count": 39,
-          "reply_count": 63,
-          "engagement_score": 673,
-          "url": "https://x.com/levie/status/2100448648672993540"
-        },
-        {
           "id": "2101007708044574906",
           "text": "Jev will be super helpful for agents to make split second decisions in workflows, data classification, judgment calls, and hundreds of other use-cases in the enterprise.\n\nHere's a quick demo with Box and Jev to make that real. The demo pulls an incident report from Box, asks whether it's customer-facing and how severe it is, moves the file into escalate, monitor, or review folders, and sets a metadata template instance with the result. This all happens nearly instantly and at almost no cost.\n\nYou can imagine this in insurance claims, contract management, loan processing, security reviews, customer log analysis, and so on. Definitely a great new class of AI use-case.",
           "created_at": "2026-09-18T17:57:27+00:00",
-          "like_count": 315,
-          "retweet_count": 31,
-          "reply_count": 31,
-          "engagement_score": 408,
+          "like_count": 653,
+          "retweet_count": 74,
+          "reply_count": 62,
+          "engagement_score": 863,
           "url": "https://x.com/levie/status/2101007708044574906"
         },
         {
           "id": "2100799668573946191",
           "text": "Agents already make up the majority of inference. This will quickly trend toward nearly all inference over the next year or two.\n\nThe vast majority of tokens used in the world will be agents that are executing unbelievable amounts of tasks for us in the background 24/7. \n\nAgents will be deployed to read all code changes to secure our software, process all of our data inside of workflows, handle a significant majority of the research that goes into recruiting and customer prospecting, review every event stream and log from every system in the world, go out and execute tasks for us in our personal lives, and hundreds of other use cases. \n\nThe rate of new agents coming online that will be consuming insane amounts of tokens is not slowing down. Just in the past week I’ve introduced multiple completely new workflows that would not have been possible technically even a month ago.\n\nIncredible time to be doing anything in inference and of course building on top of all of this.",
           "created_at": "2026-09-18T04:10:46+00:00",
-          "like_count": 259,
-          "retweet_count": 30,
-          "reply_count": 55,
-          "engagement_score": 374,
+          "like_count": 297,
+          "retweet_count": 33,
+          "reply_count": 58,
+          "engagement_score": 421,
           "url": "https://x.com/levie/status/2100799668573946191"
+        },
+        {
+          "id": "2101427997597446636",
+          "text": "Personal agents are the ultimate manifestation of “build something that agents want”.\n\nThe form factor of a product like Muse is you want to be able to hand off a task to the agent and ensure that it is fully completed end to end. To do this, the agent must be able to successfully operate with your tools or use its own to complete the task. Use your MCP or CLI, easily navigate your site, be able to transact, and more.\n\nThe new attention you need to compete for is not from the user itself but instead for the agent. This means that the tools that allow agents to order food, handle ecommerce transactions, book flights, work with the local economy, and interact with our data and information best, are the ones that will get used the most.\n\nThis will ultimately be the biggest opportunity and shakeup in consumer tech since the App Store itself.",
+          "created_at": "2026-09-19T21:47:31+00:00",
+          "like_count": 99,
+          "retweet_count": 9,
+          "reply_count": 18,
+          "engagement_score": 135,
+          "url": "https://x.com/levie/status/2101427997597446636"
         }
       ]
     },
@@ -119,20 +130,20 @@
           "id": "2100734613811609943",
           "text": "GPT-6 Astra has beaten Factorio: Space Age after over 165 hours in-game time and 2 days wall-clock time.\n\nSpace Age has six planets and takes a human about 10-20x as long compared to the standard Factorio. https://t.co/kEJ1UajdC5",
           "created_at": "2026-09-17T23:52:16+00:00",
-          "like_count": 2669,
-          "retweet_count": 126,
-          "reply_count": 76,
-          "engagement_score": 2997,
+          "like_count": 3010,
+          "retweet_count": 142,
+          "reply_count": 81,
+          "engagement_score": 3375,
           "url": "https://x.com/ValsAI/status/2100734613811609943"
         },
         {
           "id": "2101014465781318072",
           "text": "What tasks are left that humans find easy but today's models still find hard?\n\nTwo such tasks are computer use and games. We’re launching CUA-Bench, a benchmark testing how well AI can use a keyboard and mouse across 6 games (3 kept private) in real time.\n\nTo saturate it, models will need to output real-time actions and learn continuously from video, not just text.",
           "created_at": "2026-09-18T18:24:18+00:00",
-          "like_count": 168,
-          "retweet_count": 7,
-          "reply_count": 17,
-          "engagement_score": 199,
+          "like_count": 275,
+          "retweet_count": 18,
+          "reply_count": 21,
+          "engagement_score": 332,
           "url": "https://x.com/ValsAI/status/2101014465781318072"
         },
         {
@@ -149,11 +160,21 @@
           "id": "2100754449967067561",
           "text": "Tencent's Hy4 Preview just landed #4 among open-weight models on the Vals Index.\n\nIt is also the cheapest model in the top ten on Code Migration, and the top open-weight model on three of our agentic benchmarks. https://t.co/ydTyxjEGVh",
           "created_at": "2026-09-18T01:11:05+00:00",
-          "like_count": 52,
-          "retweet_count": 3,
+          "like_count": 55,
+          "retweet_count": 4,
           "reply_count": 8,
-          "engagement_score": 66,
+          "engagement_score": 71,
           "url": "https://x.com/ValsAI/status/2100754449967067561"
+        },
+        {
+          "id": "2101416109106991586",
+          "text": "AI models are advancing faster than legacy benchmarks can keep up. \n\n@TechCrunch @LucasRopek1 visited us to see how we’re building independent evaluations grounded in real-world work and designed to measure both capability and risk",
+          "created_at": "2026-09-19T21:00:17+00:00",
+          "like_count": 23,
+          "retweet_count": 1,
+          "reply_count": 2,
+          "engagement_score": 27,
+          "url": "https://x.com/ValsAI/status/2101416109106991586"
         }
       ]
     },
@@ -171,24 +192,44 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2100720014458544565",
-          "text": "Generating high-quality images is cheaper and faster than ever. Muse Image, MAI-Image-2.6 and GPT Images 2.5 have substantially shifted the Text to Image Pareto frontiers for both price and speed in recent weeks.",
-          "created_at": "2026-09-17T22:54:15+00:00",
-          "like_count": 344,
-          "retweet_count": 15,
-          "reply_count": 13,
-          "engagement_score": 387,
-          "url": "https://x.com/ArtificialAnlys/status/2100720014458544565"
-        },
-        {
           "id": "2101065575737024844",
           "text": "SpaceXAI has released Grok Voice Transcribe 2.0, taking the #1 spot for Final Transcript accuracy and First Partial Transcript accuracy on AA-WER Streaming with 2.7% WER at 0.49s after end of speech\n\nGrok Voice Transcribe 2.0 is @SpaceXAI's new Speech to Text model, succeeding Grok Voice Transcribe 1.0 (previously Grok Speech to Text). It improves streaming Final Transcript WER from 3.9% to 2.7% and non-streaming AA-WER from 4.0% to 2.3%. It is available through the SpaceXAI API for both streaming and non-streaming transcription, at the same price as its predecessor.\n\nKey takeaways\n➤ Final Transcript: Grok Voice Transcribe 2.0 achieves 2.7% WER at 0.49s after end of speech. It is more accurate but slower than Muse Voice Transcribe at 3.1% and 0.16s, and ElevenLabs Scribe v2 Realtime at 3.6% and 0.14s. It is also more accurate, though slightly slower, than Cartesia Ink-2 (semantic endpoints) at 3.4% and 0.43s\n➤ First Partial Transcript: The model achieves 3.4% WER at 0.49s, just ahead of Muse Voice Transcribe and ElevenLabs Scribe v2 Realtime on accuracy, both at 3.6%, though slower than both at 0.13s. It is more accurate but slower than Cartesia Ink-2 (semantic endpoints) at 4.9% and 0.17s, and Cartesia Ink-2 (external endpoints) at 4.0% and 0.07s\n➤ Non-streaming: Grok Voice Transcribe 2.0 scores 2.3% on AA-WER, placing #5 of 59 models. It sits behind Alibaba's Fun-Realtime-ASR-preview and StepFun's StepAudio 3 ASR at 1.7%, Microsoft AI's MAI-Transcribe-2 at 2.0%, and ElevenLabs Scribe v2 at 2.2%, with a speed factor of around 160x\n➤ Price: Grok Voice Transcribe 2.0 costs $0.20 per hour for streaming, or $3.33 per 1,000 minutes. This is just above Muse Voice Transcribe at $3, below Cartesia Ink-2 at $4, and around half the $6.50 charged for ElevenLabs Scribe v2 Realtime and Deepgram Flux. Non-streaming transcription costs $0.10 per hour, or $1.67 per 1,000 minutes\n\nCongrats to @elonmusk and the @SpaceXAI team on the launch!\n\nSee more details below ⬇️",
           "created_at": "2026-09-18T21:47:23+00:00",
-          "like_count": 117,
-          "retweet_count": 8,
-          "reply_count": 9,
-          "engagement_score": 142,
+          "like_count": 442,
+          "retweet_count": 34,
+          "reply_count": 15,
+          "engagement_score": 525,
           "url": "https://x.com/ArtificialAnlys/status/2101065575737024844"
+        },
+        {
+          "id": "2101093127977079267",
+          "text": "xAI's Grok Imagine Image 2.0 takes #4 on the Artificial Analysis Text to Image Leaderboard, the highest ranked model outside OpenAI, a 14 place climb over the previous generation, and lands on the Pareto frontier for quality vs price\n\nGrok Imagine Image 2.0 is xAI's latest image model released in August. The model supports text to image, image editing, as well as multi-reference generations with up to five input images.\n\nGrok Imagine Image 2.0 is a large step up on the previous generation grok-imagine-image-quality: it climbs from #18 to #4 in Text to Image and from #16 to #10 in Image Editing, closing the gap to the leaders on every Text to Image capability and use case we measure, with the largest gains in Knowledge, Text Rendering and Lighting.\n\nGrok Imagine Image 2.0 is available through the xAI API as grok-imagine-image-2.0, in Grok Imagine on https://t.co/8WOOSBkiiJ and the Grok apps, and through fal and Replicate.\n\nCongratulations to @SpaceXAI and @elonmusk on the release!\n\nSee below for our analysis and example outputs of Grok Imagine Image 2.0 in the Artificial Analysis Image Arena 🧵",
+          "created_at": "2026-09-18T23:36:52+00:00",
+          "like_count": 383,
+          "retweet_count": 26,
+          "reply_count": 17,
+          "engagement_score": 452,
+          "url": "https://x.com/ArtificialAnlys/status/2101093127977079267"
+        },
+        {
+          "id": "2100720014458544565",
+          "text": "Generating high-quality images is cheaper and faster than ever. Muse Image, MAI-Image-2.6 and GPT Images 2.5 have substantially shifted the Text to Image Pareto frontiers for both price and speed in recent weeks.",
+          "created_at": "2026-09-17T22:54:15+00:00",
+          "like_count": 362,
+          "retweet_count": 15,
+          "reply_count": 13,
+          "engagement_score": 405,
+          "url": "https://x.com/ArtificialAnlys/status/2100720014458544565"
+        },
+        {
+          "id": "2101090586434601040",
+          "text": "Safety refusal reporting is now available in the Artificial Analysis Coding Agent Index\n\nIn our latest Coding Agent Index v1.5, we’ve introduced safety refusal reporting to help explain model behavior and score differences. A safety refusal occurs when a provider or model declines to start or continue a task on safety grounds.\n\nAn agent may fall back to another model to continue, or stop the attempt with a block.\n\nClaude Fable 5.1 had the highest fallback rates in both Claude Code and Devin Fusion, with fallback attempts accounting for 8.8% and 7.1% of the Index's weight, respectively; these results therefore include the fallback models' performance.\n\nRefusal variability, harness context buildup, effort settings, and retry strategies can all affect the observed rates.",
+          "created_at": "2026-09-18T23:26:46+00:00",
+          "like_count": 290,
+          "retweet_count": 16,
+          "reply_count": 44,
+          "engagement_score": 366,
+          "url": "https://x.com/ArtificialAnlys/status/2101090586434601040"
         }
       ]
     },
@@ -239,18 +280,7 @@
       "name": "Tang Jie (Z.ai / Tsinghua)",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2100482019088060470",
-          "text": "Two weeks.\n\nThat's how long it took to go from GLM-5.3-Flash's first run on domestic accelerators to serving all of its production traffic, with 3.2× end-to-end throughput along the way.\n\nWhat I keep thinking about is who did much of the work: an Infra Agent powered by GLM-5.3.\n\nA model helping optimize the system that serves it.\n\nThe conditions were hard. Limited memory and interconnect bandwidth. 1M-token context. Multimodal requests. An immature software stack where kernels were missing and documentation was often guesswork. Every optimization was a trade: compute for memory (ReplaySSM), communication for memory (intra-node tensor parallelism), precision for capacity (mixed INT8/FP8/BF16 caching), and disaggregation for scheduling freedom (Encode–Prefill–Decode).\n\nBut the most important lesson wasn't about any single optimization.\n\nWhen the agent got stuck, it was rarely because it couldn't write the code. It was because it didn't know *why* things got worse.\n\n\"Throughput down 20%\" tells you something broke. It doesn't tell you which layer, which hypothesis, or what to test next. In RL terms, it's a sparse reward with a credit assignment problem. And an end-to-end benchmark that takes hours makes exploration painfully slow.\n\nSenior engineers solve this with an implicit process reward in their heads. They know when to check the timeline, when to run a microbenchmark, and which layer's output to compare.\n\nSo we made that explicit. We call it dense feedback: layered verification interfaces the agent can call directly.\n\nCorrectness feedback: did it compute right?\nSystem behavior feedback: where did the time go?\nPerformance feedback: which option wins, under which conditions?\n\nEach signal has to be local, cheap, and objectively verifiable.\n\nThree things the agent found:\n\nFirst, precision drift in KDA's context-parallel path that grew with sequence length. The cause was TF32 rounding error compounding through chained state-matrix merges. The fix is now merged upstream in Flash Linear Attention (PR #1180).\n\nSecond, KV transfer never overlapped with DeepEP dispatch. The agent followed the call chain across the Python/C++ boundary and found that the intranode path never released the GIL. After the fix, transfer overhead fell from over 30% to under 1%.\n\nThird, a decode kernel recomputing the same normalization four times because of how it was chunked. The agent restructured it and got a 1.71× speedup. The idea came from \"optimization skeletons\" it had distilled by reading existing kernels across SGLang, FLA, and DeepGEMM.\n\nTo be clear about the boundaries: humans still defined the goals, built the feedback environment, and reviewed every high-risk change.\n\nBut the engineer's role is changing, from the person who solves the problem to the person who designs the feedback.\n\nThere's a deeper implication too. A layered, verifiable feedback environment built on real infrastructure tasks is exactly what training the next generation of models needs most. Every task the agent completes can become training ground for its successor.\n\nWe are still far from recursive self-improvement.\n\nBut the smallest loop now exists.\n\nThe model optimizes the system. The system serves the model.",
-          "created_at": "2026-09-17T07:08:33+00:00",
-          "like_count": 2545,
-          "retweet_count": 234,
-          "reply_count": 145,
-          "engagement_score": 3158,
-          "url": "https://x.com/jietang/status/2100482019088060470"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "nvidia",
@@ -259,43 +289,23 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2100593782911582578",
-          "text": "At Dumfries House in Scotland, our CEO @JensenHuang joined His Majesty The King and global leaders to discuss how AI can serve the public good.\n\nJensen's message: capability and safety must advance together, expanding opportunity and putting AI to work for people. https://t.co/lIvZF5iKXh",
-          "created_at": "2026-09-17T14:32:39+00:00",
-          "like_count": 1285,
-          "retweet_count": 143,
-          "reply_count": 110,
-          "engagement_score": 1681,
-          "url": "https://x.com/nvidia/status/2100593782911582578"
-        },
-        {
-          "id": "2100632943286755717",
-          "text": "Welcome to Voyager.\n\nFrom just 32 images of our campus, World Labs’ Atlas model created a new way for you to move through our park in real time, built on NVIDIA’s open platform, choosing where to go and what to see.\n\n@theworldlabs, you made our home look good. 💚",
-          "created_at": "2026-09-17T17:08:16+00:00",
-          "like_count": 546,
-          "retweet_count": 74,
-          "reply_count": 63,
-          "engagement_score": 757,
-          "url": "https://x.com/nvidia/status/2100632943286755717"
-        },
-        {
           "id": "2100979179655200951",
           "text": "Models across the AI ecosystem run on NVIDIA.\n\nNew models and AI labs are emerging all the time. Our CEO @JensenHuang shares the idea behind NVIDIA’s platform: build what the ecosystem needs and help everyone succeed. #AllInSummit https://t.co/HkwBo8LwrI",
           "created_at": "2026-09-18T16:04:05+00:00",
-          "like_count": 443,
-          "retweet_count": 62,
-          "reply_count": 50,
-          "engagement_score": 617,
+          "like_count": 987,
+          "retweet_count": 136,
+          "reply_count": 98,
+          "engagement_score": 1357,
           "url": "https://x.com/nvidia/status/2100979179655200951"
         },
         {
           "id": "2100935381206049248",
           "text": "Every child’s heart is different. The way doctors plan their care should account for that.\n\nAt @ChildrensPhila, open source AI turns existing CT scans, MRIs and 3D ultrasounds into precise models of a child’s heart. A process that once required 6+ hours of manual modeling can now be completed in seconds.\n\nBuilt on MONAI, an open source medical imaging framework cofounded by NVIDIA, the models help doctors compare how different devices could fit and plan around each child’s unique anatomy before a procedure.\n\nRead more: https://t.co/xXCrb0dWFP",
           "created_at": "2026-09-18T13:10:03+00:00",
-          "like_count": 324,
-          "retweet_count": 55,
-          "reply_count": 44,
-          "engagement_score": 478,
+          "like_count": 450,
+          "retweet_count": 73,
+          "reply_count": 58,
+          "engagement_score": 654,
           "url": "https://x.com/nvidia/status/2100935381206049248"
         }
       ]
@@ -312,36 +322,14 @@
       "name": "Boris Cherny (Claude Code)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2100669598995816511",
-          "text": "Projects have changed not only how I interact with Claude but how I code.\n\nI stopped managing sessions. I just send thoughts as they come, Claude splits them into threads, and the project remembers how I work. It's where I do a ton of my coding now.\n\n[screenshot: my actual prompts for claude code cli yesterday]",
-          "created_at": "2026-09-17T19:33:55+00:00",
-          "like_count": 2976,
-          "retweet_count": 121,
-          "reply_count": 292,
-          "engagement_score": 3510,
-          "url": "https://x.com/bcherny/status/2100669598995816511"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "_catwu",
       "name": "Cat Wu (Anthropic)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2100641163120423057",
-          "text": "In the new Projects experience, Claude coordinates all of your sessions. \n\nI've been using it every day since it lets me operate at a higher level of abstraction. I fire off a batch of tasks and move on. Claude has context on everything I'm working on and can give me an aggregated status update whenever I ask. It also has long-lived memory that evolves as I use it. \n\nWe're rolling this out over the coming weeks. Let me know what you think!",
-          "created_at": "2026-09-17T17:40:55+00:00",
-          "like_count": 428,
-          "retweet_count": 15,
-          "reply_count": 55,
-          "engagement_score": 513,
-          "url": "https://x.com/_catwu/status/2100641163120423057"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "alexalbert__",
@@ -357,34 +345,34 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2100698591417499972",
-          "text": "It's likely that more software will be produced next year than in all of the history of computing. It took Vercel 10 years to get to 1 billion deployments, but then we added another 1.4 billion in the last 10 months alone.\n\nSome of this will be tiny, personal and even disposable software. An HTML file with some javascript (\"artifacts\"), a report, a pricing calculator, a slide deck, all the way to sophisticated apps, agents and platforms.\n\nDeployment speed is one of our obsessions. We've brought down the time to deploy, upload, assign a domain and globally propagate an artifact to 1 second.\n\nThis is quite a feat considering we serve these artifacts with uncompromising performance and security. This sub-second deployments include our global CDN, Firewall, immutable deployments, domain assignment, observability, rollbacks…\n\nAnd we're not done yet. Follow @melkeydev for more.",
-          "created_at": "2026-09-17T21:29:07+00:00",
-          "like_count": 790,
-          "retweet_count": 45,
-          "reply_count": 74,
-          "engagement_score": 954,
-          "url": "https://x.com/rauchg/status/2100698591417499972"
-        },
-        {
-          "id": "2100682030170489160",
-          "text": "This is really cool. When you pressure your agent to ship a hotfix really fast, it can now 𝚟𝚎𝚛𝚌𝚎𝚕 --𝚝𝚞𝚛𝚋𝚘 --𝚙𝚛𝚘𝚍 😊\n\nIt'll use the fastest available build machine. h/t @garberchov for tweeting this idea to us",
-          "created_at": "2026-09-17T20:23:19+00:00",
-          "like_count": 101,
-          "retweet_count": 2,
-          "reply_count": 29,
-          "engagement_score": 134,
-          "url": "https://x.com/rauchg/status/2100682030170489160"
+          "id": "2101186741042663579",
+          "text": "Looks like today may be a record day for token volume % of open models on Vercel AI Gateway:\n\n🟦 Open 78.4%    🟨 Closed 21.6%\n\nWhile spend 💲 usually tells a different story, #3 and #4 today are Moonshot AI & DeepSeek. Adding Z⁠.ai, their combined spend surpasses OpenAI (#2).\n\n(Do note that's the spend for inference of the model across providers (mostly in the US), not revenue going directly to the open weight labs.)",
+          "created_at": "2026-09-19T05:48:51+00:00",
+          "like_count": 1122,
+          "retweet_count": 118,
+          "reply_count": 136,
+          "engagement_score": 1494,
+          "url": "https://x.com/rauchg/status/2101186741042663579"
         },
         {
           "id": "2101079472732848510",
           "text": "The data and the anecdata on Jev's adoption are shocking. Everyone is adopting it.\n\nI think it's a great product, but this is also downstream of the \"AI is too expensive/slow\" zeitgeist. People are eager to optimize and put AI in even more places!\n\nhttps://t.co/tK86PNGgNs",
           "created_at": "2026-09-18T22:42:37+00:00",
-          "like_count": 115,
-          "retweet_count": 3,
-          "reply_count": 8,
-          "engagement_score": 129,
+          "like_count": 1098,
+          "retweet_count": 48,
+          "reply_count": 58,
+          "engagement_score": 1252,
           "url": "https://x.com/rauchg/status/2101079472732848510"
+        },
+        {
+          "id": "2101397206595231765",
+          "text": "The coolest thing about the recent wave of AI is that everyone is excited about building.\n\nAll short-term drama aside, this is an immeasurably good development for the world. The people want to create and ship, not just consume.",
+          "created_at": "2026-09-19T19:45:10+00:00",
+          "like_count": 772,
+          "retweet_count": 53,
+          "reply_count": 78,
+          "engagement_score": 956,
+          "url": "https://x.com/rauchg/status/2101397206595231765"
         }
       ]
     },
@@ -400,18 +388,7 @@
       "name": "Josh Woodward (Google Labs)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2100616682431807860",
-          "text": "If you're not using @Gemini_Notebook on your phone yet, you're missing out. This is such a cool story!",
-          "created_at": "2026-09-17T16:03:39+00:00",
-          "like_count": 160,
-          "retweet_count": 10,
-          "reply_count": 17,
-          "engagement_score": 197,
-          "url": "https://x.com/joshwoodward/status/2100616682431807860"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "paulgauthier",
@@ -427,24 +404,14 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2101075012857864280",
-          "text": "On the same theme: a new vertical inference engine for Apple Silicon will be released really soon (not by me) and it's really fast! Be ready! 🚀",
-          "created_at": "2026-09-18T22:24:53+00:00",
-          "like_count": 27,
-          "retweet_count": 0,
-          "reply_count": 4,
-          "engagement_score": 31,
-          "url": "https://x.com/ivanfioravanti/status/2101075012857864280"
-        },
-        {
-          "id": "2101068118936420423",
-          "text": "Finally! No more CLAUDE md file!",
-          "created_at": "2026-09-18T21:57:30+00:00",
-          "like_count": 11,
-          "retweet_count": 0,
-          "reply_count": 0,
-          "engagement_score": 11,
-          "url": "https://x.com/ivanfioravanti/status/2101068118936420423"
+          "id": "2101312605885215089",
+          "text": "MiniMax H3: testing the new template by ComfyUI using FastVideo/FastVideo-FastH3-Comfy on DGX Spark.\nThis model is really really good!\n\n864x864:\n- 10 seconds video in 7:10 mins\n- 5 seconds video 3:25 mins \n\nPrompt:\n[Core Concept]\n5s, 160 BPM, 4/4, 40 beats. Industrial Hyperpop × Deconstructed Club: hard kicks, metallic snares, glitch hi-hats, distorted bass, sliced vocals. A timeline-based reality where rhythm controls space and motion.\n\n[Character Identity]\nSingle manga woman dancer, Maintain identical face, body, hairstyle and outfit. Multiple figures are only past-frame projections.\n\n[World Logic]\nEach kick compresses the timeline toward the dancer. Each snare duplicates previous movements into adjacent frames. Moving against the timeline transforms the 2D interface into a foldable 3D structure. The dancer escapes the repetition loop.\n\n[Visual Language]\nBlack, cold white, warning red. Glass timelines, metal rails, glowing frame lines, scanning grids. Extreme wide-angle, low angles, top-down shots, Dutch angles, dolly moves, impossible perspective.\n\n[Motion Rules]\nUse anticipation → attack → overshoot → settle. Kick drives spatial compression, snare breaks frames, hi-hats animate cursors and\nfragments, bass bends time. Build with glitch cuts, then explode into an impossible continuous long take during the drop.\n\n[Restrictions]\nNo character changes, extra people, random text, subtitles, logos, outfit changes, bad anatomy, flat camera angles, or meaningless flashes.",
+          "created_at": "2026-09-19T14:09:00+00:00",
+          "like_count": 48,
+          "retweet_count": 3,
+          "reply_count": 6,
+          "engagement_score": 60,
+          "url": "https://x.com/ivanfioravanti/status/2101312605885215089"
         }
       ]
     },
@@ -455,33 +422,23 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2100434884380770700",
-          "text": "David is fundamentally right that safety is a core obligation of the AI industry. It cannot and will not be legislated. Safety is something that is built, not something that is created from the top down with law. Law, at best, creates the incentives for safety to be prioritized.",
-          "created_at": "2026-09-17T04:01:15+00:00",
-          "like_count": 241,
-          "retweet_count": 18,
-          "reply_count": 3,
-          "engagement_score": 280,
-          "url": "https://x.com/deanwball/status/2100434884380770700"
-        },
-        {
           "id": "2100810183471661128",
           "text": "damn idiots at openai didn’t bother to secure the cosmological constant, don’t they know the first thing about NORMAL COMPUTER SECURITY??",
           "created_at": "2026-09-18T04:52:33+00:00",
-          "like_count": 174,
+          "like_count": 190,
           "retweet_count": 3,
           "reply_count": 2,
-          "engagement_score": 182,
+          "engagement_score": 198,
           "url": "https://x.com/deanwball/status/2100810183471661128"
         },
         {
           "id": "2100841935200288833",
           "text": "our agents will concoct the elixirs to make sinofsky live to age 280 and in 2226 he will be lecturing us about how it’s all like cryptography in the 1990s.",
           "created_at": "2026-09-18T06:58:43+00:00",
-          "like_count": 24,
+          "like_count": 28,
           "retweet_count": 1,
           "reply_count": 2,
-          "engagement_score": 28,
+          "engagement_score": 32,
           "url": "https://x.com/deanwball/status/2100841935200288833"
         }
       ]
@@ -493,38 +450,38 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2100468943853085061",
-          "text": "alright - just got Jev deployed for a real production use case, which now performs at fable level quality but 10x faster and saves a ton of money\n\ncontext - a powerful capability of firstmate is that as an orchestrator it intelligently routes each task to an appropriate agent (permutation of harness, model, and reasoning effort) based on custom user preference\n\nby default, that's done by the firstmate agent and the LLM would have to do some thinking, make tool calls to read dispatch rules, quota data etc and then do the dispatch. this is slow and does cost a bit of LLM tokens\n\ni just replaced this dispatch process with Jev. it makes the same decision with no thinking or tool calls, done in ~200ms, and for the 25 tasks i evaluated this with, it gives the exact same answer fable would have given... \n\nthere's still a tool call needed to invoke Jev, done by the firstmate agent which uses an LLM. but even with that counted, the saving from Jev still resulted in a -71% reduction in cost and -90% reduction in wall time of completing the whole dispatching process\n\nJev API calls themselves are almost free.. i made 100+ calls, and my usage dashboard still shows $0.01 (which i think means \"haven't reached $0.01 yet\"). if we just look at the part Jev replaced and not the whole system, then the saving is on the magnitude of ~100x\n\nif you also have Jev and you use firstmate, set TYPESAFE_API_KEY in your .env file in your firstmate repo to activate this\n\nexciting times! i think this is starting to enable a whole new architectural paradigm for software. LLMs are just a small part of it. more on that soon",
-          "created_at": "2026-09-17T06:16:35+00:00",
-          "like_count": 1934,
-          "retweet_count": 119,
-          "reply_count": 116,
-          "engagement_score": 2288,
-          "url": "https://x.com/kunchenguid/status/2100468943853085061"
-        },
-        {
           "id": "2101032677940117875",
           "text": "almost every day i hear people ask \"when should i /compact my session\"\n\nthere's no easy answer because it depends on how likely your future action will need detailed context in the existing window\n\nbut we have Jev now! introducing compact-adviser - an agent plugin you can use in claude and pi today to help determine whether you're likely at a task boundary that's safe to compact\n\nhttps://t.co/3ZkYxvK6E2\n\ni built a private eval set from 40 real sessions and manually labeled all the safe vs unsafe checkpoints to evaluate this, and hillclimbed the Jev prompt till it performed quite well\n\ni also made it so that the classifier will\n\n- optimize for precision (not triggering a compaction prematurely) when context window is small\n\n- and gradually shift to optimize for recall (not missing an opportunity to compact) when context window fills up, because the cost of not compacting becomes higher, and at the end the agent will be forced to compact anyway\n\nit supports a \"hint\" mode (just give you a hint and it's up to you to run /compact) vs \"auto\" mode which runs compaction whenever Jev says it's safe to do so\n\nif you have Jev and want to put your compaction on autopilot, try this out and let me know how it goes! support for more harness is coming soon as well",
           "created_at": "2026-09-18T19:36:40+00:00",
-          "like_count": 259,
-          "retweet_count": 17,
-          "reply_count": 25,
-          "engagement_score": 318,
+          "like_count": 589,
+          "retweet_count": 37,
+          "reply_count": 51,
+          "engagement_score": 714,
           "url": "https://x.com/kunchenguid/status/2101032677940117875"
+        },
+        {
+          "id": "2101122270169383075",
+          "text": "many AI bots have already learned to remove emdashes and many of the clear slop patterns\n\nbut we can still easily tell when a comment is made by AI. why?",
+          "created_at": "2026-09-19T01:32:40+00:00",
+          "like_count": 185,
+          "retweet_count": 2,
+          "reply_count": 168,
+          "engagement_score": 357,
+          "url": "https://x.com/kunchenguid/status/2101122270169383075"
         },
         {
           "id": "2101015969359655333",
           "text": "anthropic finally seems to be changing their approach to products\n\ni’m so, so happy to see this because i love their work on fable - it’s still undefeatedly the best. but their approach to product was honestly holding them back\n\nthis is a great step forward",
           "created_at": "2026-09-18T18:30:16+00:00",
-          "like_count": 196,
-          "retweet_count": 1,
-          "reply_count": 15,
-          "engagement_score": 213,
+          "like_count": 326,
+          "retweet_count": 2,
+          "reply_count": 24,
+          "engagement_score": 354,
           "url": "https://x.com/kunchenguid/status/2101015969359655333"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-09-18T22:46:37.439039+00:00"
+  "generated_at": "2026-09-19T22:10:49.345278+00:00"
 }
