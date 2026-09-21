@@ -1,7 +1,72 @@
 {
-  "generated_at": "2026-09-20T02:06:59.603754+00:00",
+  "generated_at": "2026-09-21T00:07:19.955663+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "a2a542d5-2feb-441a-a523-910e16c2d193",
+      "link": "https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market",
+      "channel": "All-In Podcast",
+      "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market",
+      "pub_date": "2026-09-20T20:49:00+00:00",
+      "transcript_path": "feeds/transcripts/5d492beca082beab6a0326ff.txt",
+      "transcript_chars": 3959,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-21T00:07:19.955663+00:00",
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+    },
+    {
+      "guid": "yt:xCUala5j7aQ",
+      "link": "https://www.youtube.com/watch?v=xCUala5j7aQ",
+      "channel": "CBS Sunday Morning",
+      "title": "Extended interview: Nvidia CEO Jensen Huang on fears about AI",
+      "pub_date": "2026-09-20T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/c294b6fbd34d9d91fc0eda4a.txt",
+      "transcript_chars": 40637,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-21T00:07:19.955663+00:00",
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+    },
+    {
+      "guid": "yt:M6dFK4AcllA",
+      "link": "https://www.youtube.com/watch?v=M6dFK4AcllA",
+      "channel": "The Interview and 2 more",
+      "title": "Why Aaron Sorkin Made His Latest Movie as a Response to Mark Zuckerberg | The Interview",
+      "pub_date": "2026-09-19T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/ea795c49187a61c4914a527e.txt",
+      "transcript_chars": 51854,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-21T00:07:19.955663+00:00",
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+    },
+    {
+      "guid": "yt:Q1jSJG1iBL8",
+      "link": "https://www.youtube.com/watch?v=Q1jSJG1iBL8",
+      "channel": "Steve Eisman",
+      "title": "Why Dario Amodei and Sam Altman Are Faking the AI Doomsday Crisis | The Weekly Wrap",
+      "pub_date": "2026-09-18T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/920d78f224b5b32a2b0f68da.txt",
+      "transcript_chars": 22533,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-21T00:07:19.955663+00:00",
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+    },
+    {
+      "guid": "yt:dSrXQQL35Sg",
+      "link": "https://www.youtube.com/watch?v=dSrXQQL35Sg",
+      "channel": "News24",
+      "title": "IN FULL: Sam Altman on AI’s unstoppable rise and the risk of losing control",
+      "pub_date": "2026-09-16T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/d7a82c685ec854edb6522cfd.txt",
+      "transcript_chars": 34510,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-21T00:07:19.955663+00:00",
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
       "link": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
@@ -12,8 +77,8 @@
       "transcript_chars": 13872,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-20T02:06:59.603754+00:00",
-      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
-      "expires_at": "2026-10-04T02:06:59.603754+00:00"
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
     },
     {
       "guid": "c388001b-f12f-4458-bb39-61429b0def96",
@@ -25,8 +90,8 @@
       "transcript_chars": 61958,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-20T02:06:59.603754+00:00",
-      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
-      "expires_at": "2026-10-04T02:06:59.603754+00:00"
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-612",
@@ -38,8 +103,8 @@
       "transcript_chars": 35144,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
-      "expires_at": "2026-10-04T02:06:59.603754+00:00"
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/noam-brown",
@@ -116,8 +181,8 @@
       "transcript_chars": 34949,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
-      "expires_at": "2026-10-04T02:06:59.603754+00:00"
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
     },
     {
       "guid": "yt:YmSzE5hpWiQ",
@@ -129,8 +194,8 @@
       "transcript_chars": 60404,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
-      "expires_at": "2026-10-04T02:06:59.603754+00:00"
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
     },
     {
       "guid": "yt:OyAN7XsEUBY",
@@ -142,8 +207,8 @@
       "transcript_chars": 45070,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
-      "expires_at": "2026-10-04T02:06:59.603754+00:00"
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
     },
     {
       "guid": "yt:hdcsTeCFE0I",
@@ -155,8 +220,8 @@
       "transcript_chars": 35278,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
-      "expires_at": "2026-10-04T02:06:59.603754+00:00"
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
     },
     {
       "guid": "yt:S7CrlFLAmEA",
@@ -168,8 +233,8 @@
       "transcript_chars": 47623,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
-      "expires_at": "2026-10-04T02:06:59.603754+00:00"
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
     },
     {
       "guid": "yt:DjBhmH8um2A",
@@ -181,8 +246,8 @@
       "transcript_chars": 79826,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
-      "expires_at": "2026-10-04T02:06:59.603754+00:00"
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
     },
     {
       "guid": "yt:56GuvofZgB4",
@@ -194,8 +259,8 @@
       "transcript_chars": 66815,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
-      "expires_at": "2026-10-04T02:06:59.603754+00:00"
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
     },
     {
       "guid": "https://www.latent.space/p/aiuc",
@@ -285,8 +350,8 @@
       "transcript_chars": 37867,
       "transcript_source": null,
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
-      "expires_at": "2026-10-04T02:06:59.603754+00:00"
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
     },
     {
       "guid": "https://www.latent.space/p/recursive",
@@ -389,8 +454,8 @@
       "transcript_chars": 43604,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-20T02:06:59.603754+00:00",
-      "expires_at": "2026-10-04T02:06:59.603754+00:00"
+      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
+      "expires_at": "2026-10-05T00:07:19.955663+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
@@ -614,19 +679,6 @@
       "expires_at": "2026-09-21T23:07:44.535897+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "link": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
-      "channel": "Latent Space",
-      "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
-      "pub_date": "2026-09-04T05:18:11+00:00",
-      "transcript_path": "feeds/transcripts/102dfe605c1c908eff4d7be5.txt",
-      "transcript_chars": 29588,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
-      "expires_at": "2026-09-20T22:59:42.047904+00:00"
-    },
-    {
       "guid": "f0efd40e-08b6-487c-b5fb-31f1ad40db69",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--028---Most-Neoclouds-Suck-At-Security-How-Agents-Hacked-Hugging-Face-Neoclouds--Security--Doug-OLaughlin--Sam-Harshe--Jordan-Nanos-e3o6n46",
       "channel": "SemiAnalysis",
@@ -677,19 +729,6 @@
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
       "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
       "expires_at": "2026-09-21T23:07:44.535897+00:00"
-    },
-    {
-      "guid": "yt:T2q2Zv4ePII",
-      "link": "https://www.youtube.com/watch?v=T2q2Zv4ePII",
-      "channel": "Bloomberg Television",
-      "title": "An Exclusive Interview with Jensen Huang on Nvidia’s AI Future | Open Interest 8/31/2026",
-      "pub_date": "2026-08-31T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/ace41d24f05b60f3b4faa81e.txt",
-      "transcript_chars": 68953,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-08-31T22:45:39.918632+00:00",
-      "last_seen_at": "2026-09-06T22:59:42.047904+00:00",
-      "expires_at": "2026-09-20T22:59:42.047904+00:00"
     },
     {
       "guid": "2bbc686d-ae76-447b-b649-410ff08bcacc",

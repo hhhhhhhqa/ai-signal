@@ -1,24 +1,5 @@
 {
-  "articles": [
-    {
-      "id": "https://openai.com/index/australian-youth-safety-blueprint",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "published": "2026-09-18T12:00:00+00:00",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
-    },
-    {
-      "id": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Partnering with Accenture on embedded evaluation",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-      "published": "2026-09-18T00:00:00+00:00",
-      "summary": "We’re partnering with Accenture on independent evaluation of frontier AI—part of our recent commitment to embed evaluators at Anthropic. Both we and Accenture expect to invest at least $1 billion to build capacity in this area over the next five years."
-    }
-  ],
+  "articles": [],
   "errors": null,
-  "generated_at": "2026-09-19T22:10:49.345278+00:00"
+  "generated_at": "2026-09-20T22:11:29.087371+00:00"
 }
