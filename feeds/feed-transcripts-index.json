@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-09-22T00:30:06.444161+00:00",
+  "generated_at": "2026-09-22T22:31:36.352617+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
+      "link": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
+      "channel": "Lenny's Podcast",
+      "title": "I left Claude for months. Opus 5.5 is why I'm back",
+      "pub_date": "2026-09-22T19:06:40+00:00",
+      "transcript_path": "feeds/transcripts/5e87a5bac3c941b706fe10d4.txt",
+      "transcript_chars": 4915,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T22:31:36.352617+00:00",
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
+      "link": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
+      "channel": "Lenny's Podcast",
+      "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
+      "pub_date": "2026-09-22T12:45:14+00:00",
+      "transcript_path": "feeds/transcripts/f59758b3af661e4fc7263f9d.txt",
+      "transcript_chars": 19561,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T22:31:36.352617+00:00",
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+      "link": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+      "channel": "Latent Space",
+      "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
+      "pub_date": "2026-09-22T06:30:56+00:00",
+      "transcript_path": "feeds/transcripts/d37d7112692eecb44ce64b28.txt",
+      "transcript_chars": 16572,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T22:31:36.352617+00:00",
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/jev",
+      "link": "https://www.latent.space/p/jev",
+      "channel": "Latent Space",
+      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+      "pub_date": "2026-09-21T22:13:49+00:00",
+      "transcript_path": "feeds/transcripts/44d865393457ffb9c006f979.txt",
+      "transcript_chars": 189663,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T22:31:36.352617+00:00",
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
       "link": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
@@ -12,8 +64,8 @@
       "transcript_chars": 12523,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T00:30:06.444161+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
@@ -25,8 +77,8 @@
       "transcript_chars": 5410,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T00:30:06.444161+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
     },
     {
       "guid": "yt:bi23y0x-MhA",
@@ -38,8 +90,8 @@
       "transcript_chars": 88626,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-22T00:30:06.444161+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
     },
     {
       "guid": "a2a542d5-2feb-441a-a523-910e16c2d193",
@@ -51,8 +103,8 @@
       "transcript_chars": 3959,
       "transcript_source": null,
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
     },
     {
       "guid": "yt:xCUala5j7aQ",
@@ -64,8 +116,8 @@
       "transcript_chars": 40637,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
     },
     {
       "guid": "yt:M6dFK4AcllA",
@@ -77,8 +129,8 @@
       "transcript_chars": 51854,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
     },
     {
       "guid": "yt:Q1jSJG1iBL8",
@@ -90,8 +142,8 @@
       "transcript_chars": 22533,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
     },
     {
       "guid": "yt:dSrXQQL35Sg",
@@ -103,8 +155,8 @@
       "transcript_chars": 34510,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
@@ -129,8 +181,8 @@
       "transcript_chars": 61958,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-20T02:06:59.603754+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-612",
@@ -220,8 +272,8 @@
       "transcript_chars": 34949,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
     },
     {
       "guid": "yt:YmSzE5hpWiQ",
@@ -389,8 +441,8 @@
       "transcript_chars": 37867,
       "transcript_source": null,
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
     },
     {
       "guid": "https://www.latent.space/p/recursive",
@@ -493,8 +545,8 @@
       "transcript_chars": 43604,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
+      "expires_at": "2026-10-06T22:31:36.352617+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
@@ -640,19 +692,6 @@
       "expires_at": "2026-09-28T23:30:55.705346+00:00"
     },
     {
-      "guid": "yt:MiAl9CNZUuo",
-      "link": "https://www.youtube.com/watch?v=MiAl9CNZUuo",
-      "channel": "DWS News",
-      "title": "FULL REMARKS: Nvidia CEO Jensen Huang Outlines AI Future As Global Economic Game Changer | AI14",
-      "pub_date": "2026-09-02T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/1e8b6106aa237e7922661f82.txt",
-      "transcript_chars": 21537,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-08T22:13:34.690298+00:00",
-      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
-      "expires_at": "2026-09-22T22:13:34.690298+00:00"
-    },
-    {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
       "link": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
       "channel": "Lenny's Podcast",
@@ -679,32 +718,6 @@
       "expires_at": "2026-09-24T00:12:29.601064+00:00"
     },
     {
-      "guid": "yt:VrgRI00UPxc",
-      "link": "https://www.youtube.com/watch?v=VrgRI00UPxc",
-      "channel": "CNBC Television",
-      "title": "Commerce Sec. Lutnick and Nvidia CEO Jensen Huang in a fireside chat at G20 meeting — 9/2/2026",
-      "pub_date": "2026-09-02T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/73128755896af61408870d0b.txt",
-      "transcript_chars": 29772,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-06T22:59:42.047904+00:00",
-      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
-      "expires_at": "2026-09-22T22:13:34.690298+00:00"
-    },
-    {
-      "guid": "yt:3F-sQCJBDks",
-      "link": "https://www.youtube.com/watch?v=3F-sQCJBDks",
-      "channel": "Inspire With Selva",
-      "title": "You Only Get One Life. Stop Wasting It. | Naval Ravikant",
-      "pub_date": "2026-09-02T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/42eb8016a04e3095293bb4d1.txt",
-      "transcript_chars": 23440,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-06T22:59:42.047904+00:00",
-      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
-      "expires_at": "2026-09-22T22:13:34.690298+00:00"
-    },
-    {
       "guid": "f0efd40e-08b6-487c-b5fb-31f1ad40db69",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--028---Most-Neoclouds-Suck-At-Security-How-Agents-Hacked-Hugging-Face-Neoclouds--Security--Doug-OLaughlin--Sam-Harshe--Jordan-Nanos-e3o6n46",
       "channel": "SemiAnalysis",
@@ -716,32 +729,6 @@
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
       "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
       "expires_at": "2026-09-29T23:21:46.395065+00:00"
-    },
-    {
-      "guid": "yt:dnSpKF5pWNQ",
-      "link": "https://www.youtube.com/watch?v=dnSpKF5pWNQ",
-      "channel": "TIME",
-      "title": "How Close Are We to True Artificial General Intelligence? | OpenAI’s Greg Brockman Speaks to TIME",
-      "pub_date": "2026-09-02T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/2b820400b6e2b2c07faad690.txt",
-      "transcript_chars": 62505,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
-      "expires_at": "2026-09-22T22:13:34.690298+00:00"
-    },
-    {
-      "guid": "yt:cRX84IvyVNU",
-      "link": "https://www.youtube.com/watch?v=cRX84IvyVNU",
-      "channel": "DRM News",
-      "title": "FULL INTERVIEW: Sam Altman on OpenAI, New AI Model, Governments and Global Growth at G20 | AI1G",
-      "pub_date": "2026-09-02T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/9d6c3e05bb8d80df31e5ceea.txt",
-      "transcript_chars": 29499,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
-      "expires_at": "2026-09-22T22:13:34.690298+00:00"
     },
     {
       "guid": "2bbc686d-ae76-447b-b649-410ff08bcacc",
