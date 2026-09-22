@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-21T00:07:19.955663+00:00",
+  "generated_at": "2026-09-22T00:30:06.444161+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+      "pub_date": "2026-09-21T15:03:51+00:00",
+      "transcript_path": "feeds/transcripts/67e7c74e30b0af7fecb0cb55.txt",
+      "transcript_chars": 12523,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T00:30:06.444161+00:00",
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
+      "link": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
+      "channel": "Lenny's Podcast",
+      "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
+      "pub_date": "2026-09-21T12:04:11+00:00",
+      "transcript_path": "feeds/transcripts/74e9b6e7b75c3925b2616f80.txt",
+      "transcript_chars": 5410,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-22T00:30:06.444161+00:00",
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+    },
+    {
+      "guid": "yt:bi23y0x-MhA",
+      "link": "https://www.youtube.com/watch?v=bi23y0x-MhA",
+      "channel": "My First Million",
+      "title": "Sam Altman's coach destroys your limiting beliefs for 86 minutes straight",
+      "pub_date": "2026-09-18T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/fac8b57f631af06dc42d25c1.txt",
+      "transcript_chars": 88626,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-22T00:30:06.444161+00:00",
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
+    },
     {
       "guid": "a2a542d5-2feb-441a-a523-910e16c2d193",
       "link": "https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market",
@@ -10,10 +49,10 @@
       "pub_date": "2026-09-20T20:49:00+00:00",
       "transcript_path": "feeds/transcripts/5d492beca082beab6a0326ff.txt",
       "transcript_chars": 3959,
-      "transcript_source": "episode_page",
+      "transcript_source": null,
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
-      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
     },
     {
       "guid": "yt:xCUala5j7aQ",
@@ -25,8 +64,8 @@
       "transcript_chars": 40637,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
-      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
     },
     {
       "guid": "yt:M6dFK4AcllA",
@@ -38,8 +77,8 @@
       "transcript_chars": 51854,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
-      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
     },
     {
       "guid": "yt:Q1jSJG1iBL8",
@@ -51,8 +90,8 @@
       "transcript_chars": 22533,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
-      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
     },
     {
       "guid": "yt:dSrXQQL35Sg",
@@ -64,8 +103,8 @@
       "transcript_chars": 34510,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
-      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
@@ -77,8 +116,8 @@
       "transcript_chars": 13872,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-20T02:06:59.603754+00:00",
-      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
-      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
     },
     {
       "guid": "c388001b-f12f-4458-bb39-61429b0def96",
@@ -90,8 +129,8 @@
       "transcript_chars": 61958,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-20T02:06:59.603754+00:00",
-      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
-      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-612",
@@ -181,8 +220,8 @@
       "transcript_chars": 34949,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
-      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
     },
     {
       "guid": "yt:YmSzE5hpWiQ",
@@ -194,8 +233,8 @@
       "transcript_chars": 60404,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
-      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
     },
     {
       "guid": "yt:OyAN7XsEUBY",
@@ -207,8 +246,8 @@
       "transcript_chars": 45070,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
-      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
     },
     {
       "guid": "yt:hdcsTeCFE0I",
@@ -220,8 +259,8 @@
       "transcript_chars": 35278,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
-      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
     },
     {
       "guid": "yt:S7CrlFLAmEA",
@@ -350,8 +389,8 @@
       "transcript_chars": 37867,
       "transcript_source": null,
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
-      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
     },
     {
       "guid": "https://www.latent.space/p/recursive",
@@ -454,8 +493,8 @@
       "transcript_chars": 43604,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-21T00:07:19.955663+00:00",
-      "expires_at": "2026-10-05T00:07:19.955663+00:00"
+      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
+      "expires_at": "2026-10-06T00:30:06.444161+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
@@ -666,19 +705,6 @@
       "expires_at": "2026-09-22T22:13:34.690298+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/grok-bot",
-      "link": "https://www.latent.space/p/grok-bot",
-      "channel": "Latent Space",
-      "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
-      "pub_date": "2026-09-05T15:01:02+00:00",
-      "transcript_path": "feeds/transcripts/b0b3497ed7fd336230cee0a5.txt",
-      "transcript_chars": 14223,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
-      "expires_at": "2026-09-21T23:07:44.535897+00:00"
-    },
-    {
       "guid": "f0efd40e-08b6-487c-b5fb-31f1ad40db69",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--028---Most-Neoclouds-Suck-At-Security-How-Agents-Hacked-Hugging-Face-Neoclouds--Security--Doug-OLaughlin--Sam-Harshe--Jordan-Nanos-e3o6n46",
       "channel": "SemiAnalysis",
@@ -716,19 +742,6 @@
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
       "last_seen_at": "2026-09-08T22:13:34.690298+00:00",
       "expires_at": "2026-09-22T22:13:34.690298+00:00"
-    },
-    {
-      "guid": "yt:VeizK1M7V7E",
-      "link": "https://www.youtube.com/watch?v=VeizK1M7V7E",
-      "channel": "Sources Podcast and Alex Heath",
-      "title": "Sam Altman on OpenAI’s next model and the AI backlash",
-      "pub_date": "2026-09-01T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/1f6fb8b3de32ec92c0052ad4.txt",
-      "transcript_chars": 75813,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-05T22:51:17.131371+00:00",
-      "last_seen_at": "2026-09-07T23:07:44.535897+00:00",
-      "expires_at": "2026-09-21T23:07:44.535897+00:00"
     },
     {
       "guid": "2bbc686d-ae76-447b-b649-410ff08bcacc",

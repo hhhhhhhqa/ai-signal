@@ -19,18 +19,7 @@
       "name": "Dylan Patel (SemiAnalysis)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2101350877932212621",
-          "text": "US supply chains for electronics suck so much\nAMD found a business opportunity in dumping US military chips for 1/4 of the cost in China. \nUS list price is $36k for this chip, with $4-5k to US companies at volume, but it's getting quoted $1k in China to crowdfunding campaigns\nAMD needs to be investigated for treason. it's not just export violations, but it's literally selling military end use components to an adversary for less than your home country....\nPharma companies are also similarly treasonous\nhttps://t.co/fylY0IJG61\nhttps://t.co/PsOxdpyl7M",
-          "created_at": "2026-09-19T16:41:05+00:00",
-          "like_count": 989,
-          "retweet_count": 57,
-          "reply_count": 75,
-          "engagement_score": 1178,
-          "url": "https://x.com/dylan522p/status/2101350877932212621"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "insane_analyst",
@@ -56,21 +45,11 @@
           "id": "2101731574668747081",
           "text": "Literally impenetrable from agent swarms",
           "created_at": "2026-09-20T17:53:50+00:00",
-          "like_count": 1581,
-          "retweet_count": 76,
-          "reply_count": 78,
-          "engagement_score": 1811,
+          "like_count": 5897,
+          "retweet_count": 207,
+          "reply_count": 154,
+          "engagement_score": 6465,
           "url": "https://x.com/levie/status/2101731574668747081"
-        },
-        {
-          "id": "2101427997597446636",
-          "text": "Personal agents are the ultimate manifestation of “build something that agents want”.\n\nThe form factor of a product like Muse is you want to be able to hand off a task to the agent and ensure that it is fully completed end to end. To do this, the agent must be able to successfully operate with your tools or use its own to complete the task. Use your MCP or CLI, easily navigate your site, be able to transact, and more.\n\nThe new attention you need to compete for is not from the user itself but instead for the agent. This means that the tools that allow agents to order food, handle ecommerce transactions, book flights, work with the local economy, and interact with our data and information best, are the ones that will get used the most.\n\nThis will ultimately be the biggest opportunity and shakeup in consumer tech since the App Store itself.",
-          "created_at": "2026-09-19T21:47:31+00:00",
-          "like_count": 571,
-          "retweet_count": 57,
-          "reply_count": 78,
-          "engagement_score": 763,
-          "url": "https://x.com/levie/status/2101427997597446636"
         }
       ]
     },
@@ -95,14 +74,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2101416109106991586",
-          "text": "AI models are advancing faster than legacy benchmarks can keep up. \n\n@TechCrunch @LucasRopek1 visited us to see how we’re building independent evaluations grounded in real-world work and designed to measure both capability and risk",
-          "created_at": "2026-09-19T21:00:17+00:00",
-          "like_count": 35,
-          "retweet_count": 1,
-          "reply_count": 4,
-          "engagement_score": 41,
-          "url": "https://x.com/ValsAI/status/2101416109106991586"
+          "id": "2102086608476590432",
+          "text": "We evaluated Grok 4.7 across the Vals benchmark suite. It ranks #24 on the Vals Index at 54.2%, down 5.0 points from Grok 4.6 (#14, 59.2%), but still ahead of Grok 4.5 (#30, 51.5%). Grok 4.7 improves the most on legal and medical work. https://t.co/TWdE545ieg",
+          "created_at": "2026-09-21T17:24:36+00:00",
+          "like_count": 423,
+          "retweet_count": 16,
+          "reply_count": 28,
+          "engagement_score": 483,
+          "url": "https://x.com/ValsAI/status/2102086608476590432"
         }
       ]
     },
@@ -111,7 +90,48 @@
       "name": "Arena (formerly LMArena / human preference benchmark)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2102074819743453410",
+          "text": "Grok 4.7 by @SpaceXAI and @elonmusk is now in the Agent Arena!\n\nYour votes drive the @arena leaderboards, head over and bring your toughest prompts.\n\nIn Agent Arena, we measure models on millions of real-world, long-horizon agentic tasks from a global community of users. Models can access web search, filesystem, and terminal tools to complete complex workflows. The leaderboard measures model performance on outcomes relative to the average model using a causal tracing methodology.\n\nIn addition to Agent Arena, Grok 4.7 is in Battle Mode for: Text, Vision, Code, and Document.",
+          "created_at": "2026-09-21T16:37:46+00:00",
+          "like_count": 233,
+          "retweet_count": 9,
+          "reply_count": 9,
+          "engagement_score": 260,
+          "url": "https://x.com/arena/status/2102074819743453410"
+        },
+        {
+          "id": "2102060023316898302",
+          "text": "What can user praise and complaints tell us about coding agents themselves?\n\nWe analyzed 20,840 traces from Agent Arena: Code across 29 models, and found that direct feedback unlocks novel opportunities in tracking the frontier.\n\nSome topline findings:\n- Today’s frontier models receive markedly more positive feedback. Overall, newer models across labs tend to show a more positive feedback balance.\n- Broken code is still the biggest driver of complaints, sloppy behavior comes second. 69.1% of complaints point to code not working. The next themes are incomplete output (27.1%), weak finish and usability (27.1%), and ignored instructions (20.3%).\n- Models share common weaknesses, but differ in how they disappoint. Fable 5.1 attracts fewer “slop” and design complaints than Astra (3.9% versus 5.7% of sampled traces), and fewer complaints about being “flaky” (3.1% versus 5.0%).\n\nRead more by diving into the full article from @DawidGalarowicz below.",
+          "created_at": "2026-09-21T15:38:58+00:00",
+          "like_count": 172,
+          "retweet_count": 9,
+          "reply_count": 15,
+          "engagement_score": 205,
+          "url": "https://x.com/arena/status/2102060023316898302"
+        },
+        {
+          "id": "2102080801462689999",
+          "text": "Grok 4.7 by @SpaceXAI just dropped. Looking at how past Grok versions have trended on Agent Arena's net improvement score, where do you think 4.7 lands? Poll below.\n\nScores coming soon as you vote on @arena! https://t.co/XQDcOjNeNT",
+          "created_at": "2026-09-21T17:01:32+00:00",
+          "like_count": 179,
+          "retweet_count": 8,
+          "reply_count": 9,
+          "engagement_score": 204,
+          "url": "https://x.com/arena/status/2102080801462689999"
+        },
+        {
+          "id": "2102142912943489220",
+          "text": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena: WebDev, debuting at ~#10 overall, and ~#3 among open-weights models with an MIT license.\n\nIt scores 1628 pts (AutoEval), tying Claude Fable 5 (High) and just ahead of Hy4-preview (1624 pts).\n\nThat's a +153 pt jump from the previous MiMo-V2.5-Pro (1475 → 1628 pts). \n\nAmong open-weights models, it lands at ~#3. Impressively only 7 pts behind Qwen3.8 Flash Next (#2) and 46 pts behind Kimi K3 Max (#1).\n\nNote: this is an early AutoEval score, in which a Reward Model trained on Arena’s human preference data casts automatic votes in place of live votes. We’ll continue to see how scores converge as more live human votes come in.\n\nCongrats to the @XiaomiMiMo team on this release!",
+          "created_at": "2026-09-21T21:08:21+00:00",
+          "like_count": 169,
+          "retweet_count": 8,
+          "reply_count": 18,
+          "engagement_score": 203,
+          "url": "https://x.com/arena/status/2102142912943489220"
+        }
+      ]
     },
     {
       "handle": "ArtificialAnlys",
@@ -120,24 +140,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2101093127977079267",
-          "text": "xAI's Grok Imagine Image 2.0 takes #4 on the Artificial Analysis Text to Image Leaderboard, the highest ranked model outside OpenAI, a 14 place climb over the previous generation, and lands on the Pareto frontier for quality vs price\n\nGrok Imagine Image 2.0 is xAI's latest image model released in August. The model supports text to image, image editing, as well as multi-reference generations with up to five input images.\n\nGrok Imagine Image 2.0 is a large step up on the previous generation grok-imagine-image-quality: it climbs from #18 to #4 in Text to Image and from #16 to #10 in Image Editing, closing the gap to the leaders on every Text to Image capability and use case we measure, with the largest gains in Knowledge, Text Rendering and Lighting.\n\nGrok Imagine Image 2.0 is available through the xAI API as grok-imagine-image-2.0, in Grok Imagine on https://t.co/8WOOSBkiiJ and the Grok apps, and through fal and Replicate.\n\nCongratulations to @SpaceXAI and @elonmusk on the release!\n\nSee below for our analysis and example outputs of Grok Imagine Image 2.0 in the Artificial Analysis Image Arena 🧵",
-          "created_at": "2026-09-18T23:36:52+00:00",
-          "like_count": 410,
-          "retweet_count": 27,
-          "reply_count": 23,
-          "engagement_score": 487,
-          "url": "https://x.com/ArtificialAnlys/status/2101093127977079267"
+          "id": "2102128560962187701",
+          "text": "MiMo-V2.6-Pro debuts as the top open weights model on the Artificial Analysis Intelligence Index (46). At $0.13 per Intelligence Index task, it lands on the Intelligence vs. Cost per Task Pareto frontier\n\n@Xiaomi has just released MiMo-V2.6-Pro, an open weights model with major advances in intelligence over its predecessor, MiMo-V2.5-Pro (Intelligence Index: 26). Despite the improvement, it retains the same attractive pricing at $0.435 per 1M input tokens (with a 99% cache-hit discount) and $0.87 per 1M output tokens. This makes MiMo-V2.6-Pro one of the most cost-efficient models to deploy.\n\nMiMo-V2.6-Pro is an MoE model with 1.02T total parameters and 42B active parameters. Stay tuned for additional analysis of the model.\n\nCheck out MiMo-V2.6-Pro full benchmarking breakdown here: https://t.co/czBJhQKuWJ",
+          "created_at": "2026-09-21T20:11:19+00:00",
+          "like_count": 1847,
+          "retweet_count": 157,
+          "reply_count": 88,
+          "engagement_score": 2249,
+          "url": "https://x.com/ArtificialAnlys/status/2102128560962187701"
         },
         {
-          "id": "2101090586434601040",
-          "text": "Safety refusal reporting is now available in the Artificial Analysis Coding Agent Index\n\nIn our latest Coding Agent Index v1.5, we’ve introduced safety refusal reporting to help explain model behavior and score differences. A safety refusal occurs when a provider or model declines to start or continue a task on safety grounds.\n\nAn agent may fall back to another model to continue, or stop the attempt with a block.\n\nClaude Fable 5.1 had the highest fallback rates in both Claude Code and Devin Fusion, with fallback attempts accounting for 8.8% and 7.1% of the Index's weight, respectively; these results therefore include the fallback models' performance.\n\nRefusal variability, harness context buildup, effort settings, and retry strategies can all affect the observed rates.",
-          "created_at": "2026-09-18T23:26:46+00:00",
-          "like_count": 308,
-          "retweet_count": 17,
-          "reply_count": 51,
-          "engagement_score": 393,
-          "url": "https://x.com/ArtificialAnlys/status/2101090586434601040"
+          "id": "2102074898327932987",
+          "text": "Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI labs. Coding Agent Index performance has also improved, overtaking GPT-5.6 Sol\n\nGrok 4.7 scores +2 points over Grok 4.6 on the Intelligence Index, with strong performance on agentic knowledge work tasks. We evaluated the new model at xhigh reasoning effort.\n\nCongratulations to @SpaceXAI and @ElonMusk on the release!\n\nKey takeaways:\n\n➤ Grok 4.7 joins the frontier of agentic knowledge work: Grok 4.7 gains +111 Elo over Grok 4.6 (high) on AA-Briefcase, our private benchmark for long-horizon agentic knowledge work, scoring 1657 Elo and placing it alongside Claude Opus 5 and Claude Fable 5.1 at the frontier. On GDPval-AA, it scores 1695 Elo, +90 ahead of Grok 4.6 (high).\n\n➤ A leap in coding agent performance: Grok 4.7 (xhigh) with Grok Build scores 56 on the Artificial Analysis Coding Agent Index, up +9 points from Grok 4.6 (xhigh). Among models in their native harnesses, Grok 4.7 + Grok Build now ranks 4th, behind only Claude Fable 5.1, GPT-6 Astra, and Claude Opus 5.\n\n➤ Incremental performance changes elsewhere: Outside of agentic knowledge work, Grok 4.7 broadly matches Grok 4.6 (high) on the other Intelligence Index tasks. It improves on Terminal-Bench 4.0 (+4.5 percentage points) and GDP.pdf (+3.0 p.p.), with regressions on AA-LCR (-3.7 p.p.) and AutomationBench-AA (-1.1 p.p.).\n\n➤ High token use across tasks: Grok 4.7's gains come with higher token usage. Grok 4.7 (xhigh) uses approximately 81k output tokens per Intelligence Index task, compared with 36k for Grok 4.6 (high) and 27k for GPT-6 Astra (max) - 125% and 196% more, respectively.\n\nOther model details:\n\n➤ Context window of 500k tokens, unchanged from Grok 4.6\n\n➤ Pricing of $2/$6 per 1M input/output tokens with cache hits discounted to $0.50 per 1M tokens, matching Grok 4.6\n\n➤ Configurable reasoning effort spans low to xhigh. Our evaluation uses xhigh.",
+          "created_at": "2026-09-21T16:38:05+00:00",
+          "like_count": 1469,
+          "retweet_count": 140,
+          "reply_count": 109,
+          "engagement_score": 1858,
+          "url": "https://x.com/ArtificialAnlys/status/2102074898327932987"
+        },
+        {
+          "id": "2102128700523426013",
+          "text": "NVIDIA hosted a trilateral meeting together with the Korean Government, through the National IT Industry Promotion Agency (NIPA), and Artificial Analysis to support Korea’s Sovereign AI Foundation Model initiative\n\nSeparately, the Korean Government, through NIPA, and Artificial Analysis conducted an MOU ceremony that formalized Artificial Analysis’ role as an independent evaluator for the sovereign AI initiative.\n\nThank you @nvidia and @JensenHuang for hosting!",
+          "created_at": "2026-09-21T20:11:52+00:00",
+          "like_count": 36,
+          "retweet_count": 0,
+          "reply_count": 4,
+          "engagement_score": 40,
+          "url": "https://x.com/ArtificialAnlys/status/2102128700523426013"
         }
       ]
     },
@@ -197,14 +227,34 @@
       "tier": "infra",
       "tweets": [
         {
+          "id": "2102081129234751722",
+          "text": "Grok 4.7 has landed. 🚀\n\nCongrats to @SpaceXAI on its most capable model yet for coding and knowledge work.\n\nProud to support the team with NVIDIA accelerated computing.",
+          "created_at": "2026-09-21T17:02:50+00:00",
+          "like_count": 4500,
+          "retweet_count": 341,
+          "reply_count": 187,
+          "engagement_score": 5369,
+          "url": "https://x.com/nvidia/status/2102081129234751722"
+        },
+        {
           "id": "2101683275634712630",
           "text": "Moving fast and building safely aren’t at odds.\n\nAI should move as fast as we can, with rigorous testing, monitoring, and safeguards every step of the way.\n\n@JensenHuang on @CBSSunday: https://t.co/BPOUmgBWpj",
           "created_at": "2026-09-20T14:41:54+00:00",
-          "like_count": 514,
-          "retweet_count": 86,
-          "reply_count": 119,
-          "engagement_score": 805,
+          "like_count": 917,
+          "retweet_count": 135,
+          "reply_count": 180,
+          "engagement_score": 1367,
           "url": "https://x.com/nvidia/status/2101683275634712630"
+        },
+        {
+          "id": "2102007208909164941",
+          "text": "Congratulations to @einrideofficial on bringing autonomous trucking to highways and suburban roads with the next generation of Einride Driver. \n\nBuilt on NVIDIA Hyperion.",
+          "created_at": "2026-09-21T12:09:06+00:00",
+          "like_count": 520,
+          "retweet_count": 54,
+          "reply_count": 53,
+          "engagement_score": 681,
+          "url": "https://x.com/nvidia/status/2102007208909164941"
         }
       ]
     },
@@ -243,24 +293,14 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2101186741042663579",
-          "text": "Looks like today may be a record day for token volume % of open models on Vercel AI Gateway:\n\n🟦 Open 78.4%    🟨 Closed 21.6%\n\nWhile spend 💲 usually tells a different story, #3 and #4 today are Moonshot AI & DeepSeek. Adding Z⁠.ai, their combined spend surpasses OpenAI (#2).\n\n(Do note that's the spend for inference of the model across providers (mostly in the US), not revenue going directly to the open weight labs.)",
-          "created_at": "2026-09-19T05:48:51+00:00",
-          "like_count": 2394,
-          "retweet_count": 309,
-          "reply_count": 220,
-          "engagement_score": 3232,
-          "url": "https://x.com/rauchg/status/2101186741042663579"
-        },
-        {
-          "id": "2101397206595231765",
-          "text": "The coolest thing about the recent wave of AI is that everyone is excited about building.\n\nAll short-term drama aside, this is an immeasurably good development for the world. The people want to create and ship, not just consume.",
-          "created_at": "2026-09-19T19:45:10+00:00",
-          "like_count": 1605,
-          "retweet_count": 94,
-          "reply_count": 157,
-          "engagement_score": 1950,
-          "url": "https://x.com/rauchg/status/2101397206595231765"
+          "id": "2101846262840799251",
+          "text": "The thoroughness with which agents can test and QA software is unrivaled. I pointed out something wasn't rendering right in a mobile (in-app) browser. The thing goes to the depths of Mordor to reproduce, simulate, fix, deploy, verify. It created an ephemeral vercel deployment to throw at an iPhone simulator! The absolute grind on these things.\n\nHumans could simply never match this level of intensity. We'd run of energy, we'd extrapolate, we'd hope it'd work out. The software of the future will be of a quality and performance we've never experienced before. It's amazing to watch this shift.",
+          "created_at": "2026-09-21T01:29:34+00:00",
+          "like_count": 661,
+          "retweet_count": 36,
+          "reply_count": 108,
+          "engagement_score": 841,
+          "url": "https://x.com/rauchg/status/2101846262840799251"
         }
       ]
     },
@@ -269,7 +309,18 @@
       "name": "Amjad Masad (Replit)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2102120769232978174",
+          "text": "AI is reviving the American Dream.",
+          "created_at": "2026-09-21T19:40:21+00:00",
+          "like_count": 262,
+          "retweet_count": 17,
+          "reply_count": 25,
+          "engagement_score": 321,
+          "url": "https://x.com/amasad/status/2102120769232978174"
+        }
+      ]
     },
     {
       "handle": "joshwoodward",
@@ -290,7 +341,18 @@
       "name": "Ivan Fioravanti (Apple MLX / open source)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2102058268960907288",
+          "text": "Me looking at \"Apple's M5 Ultra Mac Studio Shines in Local AI Tests\" trending on X with many people who tested it in the last days. https://t.co/aPgTsEaooX",
+          "created_at": "2026-09-21T15:32:00+00:00",
+          "like_count": 65,
+          "retweet_count": 1,
+          "reply_count": 11,
+          "engagement_score": 78,
+          "url": "https://x.com/ivanfioravanti/status/2102058268960907288"
+        }
+      ]
     },
     {
       "handle": "deanwball",
@@ -306,28 +368,38 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2101534610710761923",
-          "text": "poor guy claim to have built Jev a year ago but no one cared, and now Jev stole all the thunder\n\nmany people are saying “you gotta tell your story” or “marketing is important”, and they just completely missed what actually made the difference here\n\ni just looked into this laya model https://t.co/8QWCGZqS43 and:\n\n- it only supports 512-1k context… a lot of use cases won’t fit at all\n\n- evaluating the model directly shows its accuracy is as good as a coin flip. in order to get good results, you need to first fine tune it\n\ni’m sorry, but that’s not Jev\n\nthere’s a massive gap between an interesting research and a useful product\n\nyou can “tell your story” all you like, but you can’t blame Jev for stealing your thunder when Jev did all the work to make a well-packaged solution anyone can just grab and go\n\nJev is not completely new from an academic sense, just like how ChatGPT was not the first LLM\n\ndon’t underestimate the effort and value in putting together something that’s actually good enough for adoption - it makes all the difference",
-          "created_at": "2026-09-20T04:51:10+00:00",
-          "like_count": 2226,
-          "retweet_count": 129,
+          "id": "2101872626968969713",
+          "text": "a quick tip that may surprise some folks\n\nan uncached prompt to fable at 500k context window will directly cost you over $5 for A SINGLE REQUEST. that's a cup of coffee or a cheese burger gone. even with subscription quota, this hits like a truck\n\nthe most common way to fall into that case is when you walk away from a long session and come back after a while when cache expired (claude is 1 hr, codex is 30 mins by default)\n\nin particular, when you come back to a long idle session, don't run \"/compact\" there thinking it'll reduce your cost, because the compaction request is still a real request and it will cost $5 by itself right there\n\nthe best thing to do is to /compact BEFORE you walk away\n\nthe next best thing is when you come back and see a large context window, just start a new session, and ask your agent to look for the last session's transcript if it needs context",
+          "created_at": "2026-09-21T03:14:19+00:00",
+          "like_count": 1442,
+          "retweet_count": 56,
           "reply_count": 121,
-          "engagement_score": 2605,
-          "url": "https://x.com/kunchenguid/status/2101534610710761923"
+          "engagement_score": 1675,
+          "url": "https://x.com/kunchenguid/status/2101872626968969713"
         },
         {
-          "id": "2101122270169383075",
-          "text": "many AI bots have already learned to remove emdashes and many of the clear slop patterns\n\nbut we can still easily tell when a comment is made by AI. why?",
-          "created_at": "2026-09-19T01:32:40+00:00",
-          "like_count": 198,
-          "retweet_count": 2,
-          "reply_count": 172,
-          "engagement_score": 374,
-          "url": "https://x.com/kunchenguid/status/2101122270169383075"
+          "id": "2102094089248530798",
+          "text": "IIRC grok 4.7 is a bigger model than 4.5 and 4.6, but it kept the same price - this likely makes it the best day-to-day LLM there is\n\ntrying this out for the rest of the day and will report my experience!",
+          "created_at": "2026-09-21T17:54:20+00:00",
+          "like_count": 224,
+          "retweet_count": 4,
+          "reply_count": 18,
+          "engagement_score": 250,
+          "url": "https://x.com/kunchenguid/status/2102094089248530798"
+        },
+        {
+          "id": "2102085421387895168",
+          "text": "when your agent tells you \"i'm not a lawyer. you need a proper legal counsel to sign off on this\", how many of you just spin up another agent to do the legal review, and pass it back to the first agent saying it's from your lawyers?\n\nasking for a friend",
+          "created_at": "2026-09-21T17:19:53+00:00",
+          "like_count": 163,
+          "retweet_count": 5,
+          "reply_count": 33,
+          "engagement_score": 206,
+          "url": "https://x.com/kunchenguid/status/2102085421387895168"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-09-20T22:11:29.087371+00:00"
+  "generated_at": "2026-09-21T22:14:05.458786+00:00"
 }

@@ -1,5 +1,51 @@
 {
-  "articles": [],
+  "articles": [
+    {
+      "id": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "published": "2026-09-21T12:00:00+00:00",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+    },
+    {
+      "id": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "published": "2026-09-21T12:00:00+00:00",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+    },
+    {
+      "id": "https://openai.com/index/building-standards-next-phase-ai",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "published": "2026-09-21T10:00:00+00:00",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+    },
+    {
+      "id": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "published": "2026-09-21T07:00:00+00:00",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
+    },
+    {
+      "id": "https://openai.com/index/v7",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "published": "2026-09-21T00:00:00+00:00",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
+    }
+  ],
   "errors": null,
-  "generated_at": "2026-09-20T22:11:29.087371+00:00"
+  "generated_at": "2026-09-21T22:14:05.458786+00:00"
 }
