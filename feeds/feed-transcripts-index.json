@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-22T22:31:36.352617+00:00",
+  "generated_at": "2026-09-23T22:12:33.683746+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "link": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+      "channel": "Latent Space",
+      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+      "pub_date": "2026-09-23T06:41:41+00:00",
+      "transcript_path": "feeds/transcripts/39a0dd75dbf0f0f68d90d5b7.txt",
+      "transcript_chars": 27154,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-23T22:12:33.683746+00:00",
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+    },
+    {
+      "guid": "yt:HjurAWAr_nY",
+      "link": "https://www.youtube.com/watch?v=HjurAWAr_nY",
+      "channel": "The Ezra Klein Show and 2 more",
+      "title": "Jensen Huang Thinks A.I. Alarmism Has Gone Too Far | The Ezra Klein Show",
+      "pub_date": "2026-09-23T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/1db7f5af7da6ff6bee5a4e29.txt",
+      "transcript_chars": 101618,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-23T22:12:33.683746+00:00",
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+      "link": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+      "channel": "Lenny's Podcast",
+      "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
+      "pub_date": "2026-09-22T23:12:49+00:00",
+      "transcript_path": "feeds/transcripts/4d07e3b8a201cf993a9e8e63.txt",
+      "transcript_chars": 5135,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-23T22:12:33.683746+00:00",
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
       "link": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
@@ -12,8 +51,8 @@
       "transcript_chars": 4915,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T22:31:36.352617+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
@@ -25,8 +64,8 @@
       "transcript_chars": 19561,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T22:31:36.352617+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
@@ -38,8 +77,8 @@
       "transcript_chars": 16572,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T22:31:36.352617+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
     },
     {
       "guid": "https://www.latent.space/p/jev",
@@ -51,8 +90,8 @@
       "transcript_chars": 189663,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T22:31:36.352617+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
@@ -64,8 +103,8 @@
       "transcript_chars": 12523,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T00:30:06.444161+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
@@ -77,8 +116,8 @@
       "transcript_chars": 5410,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T00:30:06.444161+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
     },
     {
       "guid": "yt:bi23y0x-MhA",
@@ -90,8 +129,8 @@
       "transcript_chars": 88626,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-22T00:30:06.444161+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
     },
     {
       "guid": "a2a542d5-2feb-441a-a523-910e16c2d193",
@@ -116,8 +155,8 @@
       "transcript_chars": 40637,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
     },
     {
       "guid": "yt:M6dFK4AcllA",
@@ -129,8 +168,8 @@
       "transcript_chars": 51854,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
     },
     {
       "guid": "yt:Q1jSJG1iBL8",
@@ -142,8 +181,8 @@
       "transcript_chars": 22533,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
     },
     {
       "guid": "yt:dSrXQQL35Sg",
@@ -181,8 +220,8 @@
       "transcript_chars": 61958,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-20T02:06:59.603754+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-612",
@@ -441,8 +480,8 @@
       "transcript_chars": 37867,
       "transcript_source": null,
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
     },
     {
       "guid": "https://www.latent.space/p/recursive",
@@ -545,8 +584,8 @@
       "transcript_chars": 43604,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
+      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
+      "expires_at": "2026-10-07T22:12:33.683746+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
