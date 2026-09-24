@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-09-23T22:12:33.683746+00:00",
+  "generated_at": "2026-09-24T22:47:51.977783+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/foundries-vs-navigators-lowering",
+      "link": "https://www.latent.space/p/foundries-vs-navigators-lowering",
+      "channel": "Latent Space",
+      "title": "Foundries vs Navigators: Lowering the Cost of Science",
+      "pub_date": "2026-09-24T15:03:16+00:00",
+      "transcript_path": "feeds/transcripts/b4aba9dd1a4b8c6a3331c70d.txt",
+      "transcript_chars": 16263,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-24T22:47:51.977783+00:00",
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+      "link": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
+      "channel": "Latent Space",
+      "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
+      "pub_date": "2026-09-24T08:12:59+00:00",
+      "transcript_path": "feeds/transcripts/dce1effab0387a81337d9a89.txt",
+      "transcript_chars": 19782,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-24T22:47:51.977783+00:00",
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
+    },
+    {
+      "guid": "3e2cb6e9-bdb1-400b-b74a-c6cd2d52ff16",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/From-Cartoon-Apes-to-Reddit-Mania-Why-Crowds-Lose-Their-Minds-With-Money-e3p9q3k",
+      "channel": "The Acquirers Podcast",
+      "title": "From Cartoon Apes to Reddit Mania: Why Crowds Lose Their Minds With Money",
+      "pub_date": "2026-09-24T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/03a544981d892c35983746a1.txt",
+      "transcript_chars": 146173,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-24T22:47:51.977783+00:00",
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
+    },
+    {
+      "guid": "yt:hI3M_4UQoWk",
+      "link": "https://www.youtube.com/watch?v=hI3M_4UQoWk",
+      "channel": "Yahoo Finance",
+      "title": "LIVE: Mark Zuckerberg's Meta Connect 2026 keynote",
+      "pub_date": "2026-09-24T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/bb1b8c9960ec981a47c28dc0.txt",
+      "transcript_chars": 42432,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-24T22:47:51.977783+00:00",
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
+    },
+    {
+      "guid": "yt:2cg56uF4hlc",
+      "link": "https://www.youtube.com/watch?v=2cg56uF4hlc",
+      "channel": "Joanna Stern",
+      "title": "I Asked Mark Zuckerberg Why We Should Trust Meta",
+      "pub_date": "2026-09-24T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/792d24fdddac832a1e97fb65.txt",
+      "transcript_chars": 39908,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-24T22:47:51.977783+00:00",
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
+    },
+    {
+      "guid": "d5619c2f-7fe2-4523-bc0d-d15a03dbfbb1",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--033---ClusterMAX-3-0-Is-Here--Neoclouds-Ranked-Neoclouds--GPUs--Sam-Harshe--Pratt-Bhatt--Jordan-Nanos-e3pa84t",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 033 - ClusterMAX 3.0 Is Here! Neoclouds Ranked (Neoclouds, GPUs) | Sam Harshe, Pratt Bhatt, Jordan Nanos",
+      "pub_date": "2026-09-23T22:50:00+00:00",
+      "transcript_path": "feeds/transcripts/8dbccf1a20636027eacf3c27.txt",
+      "transcript_chars": 65764,
+      "transcript_source": "companion_youtube",
+      "cached_at": "2026-09-24T22:47:51.977783+00:00",
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
       "link": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
@@ -12,8 +90,8 @@
       "transcript_chars": 27154,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-23T22:12:33.683746+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     },
     {
       "guid": "yt:HjurAWAr_nY",
@@ -25,8 +103,8 @@
       "transcript_chars": 101618,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-23T22:12:33.683746+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
@@ -38,8 +116,8 @@
       "transcript_chars": 5135,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-23T22:12:33.683746+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
@@ -51,8 +129,8 @@
       "transcript_chars": 4915,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T22:31:36.352617+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
@@ -64,8 +142,8 @@
       "transcript_chars": 19561,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T22:31:36.352617+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
@@ -77,8 +155,8 @@
       "transcript_chars": 16572,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T22:31:36.352617+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     },
     {
       "guid": "https://www.latent.space/p/jev",
@@ -90,8 +168,8 @@
       "transcript_chars": 189663,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-22T22:31:36.352617+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
@@ -129,8 +207,8 @@
       "transcript_chars": 88626,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-22T00:30:06.444161+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     },
     {
       "guid": "a2a542d5-2feb-441a-a523-910e16c2d193",
@@ -155,8 +233,8 @@
       "transcript_chars": 40637,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     },
     {
       "guid": "yt:M6dFK4AcllA",
@@ -168,8 +246,8 @@
       "transcript_chars": 51854,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     },
     {
       "guid": "yt:Q1jSJG1iBL8",
@@ -181,8 +259,8 @@
       "transcript_chars": 22533,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     },
     {
       "guid": "yt:dSrXQQL35Sg",
@@ -220,8 +298,8 @@
       "transcript_chars": 61958,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-20T02:06:59.603754+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-612",
@@ -480,8 +558,8 @@
       "transcript_chars": 37867,
       "transcript_source": null,
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     },
     {
       "guid": "https://www.latent.space/p/recursive",
@@ -584,8 +662,8 @@
       "transcript_chars": 43604,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
+      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
+      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/john-beren-charlie",
@@ -692,19 +770,6 @@
       "expires_at": "2026-09-28T23:30:55.705346+00:00"
     },
     {
-      "guid": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
-      "link": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
-      "channel": "Dwarkesh Patel",
-      "title": "Pretraining progress is mostly coming from data",
-      "pub_date": "2026-09-08T16:10:16+00:00",
-      "transcript_path": "feeds/transcripts/aa99a0237aab2b167d04c5cb.txt",
-      "transcript_chars": 17995,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-08T22:13:34.690298+00:00",
-      "last_seen_at": "2026-09-10T22:28:33.133847+00:00",
-      "expires_at": "2026-09-24T22:28:33.133847+00:00"
-    },
-    {
       "guid": "yt:qNxuxwb9ksA",
       "link": "https://www.youtube.com/watch?v=qNxuxwb9ksA",
       "channel": "TBPN",
@@ -729,32 +794,6 @@
       "cached_at": "2026-09-08T22:13:34.690298+00:00",
       "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
       "expires_at": "2026-09-28T23:30:55.705346+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
-      "pub_date": "2026-09-07T15:02:41+00:00",
-      "transcript_path": "feeds/transcripts/8091072feb3b30b6d92f4416.txt",
-      "transcript_chars": 18507,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-07T23:07:44.535897+00:00",
-      "last_seen_at": "2026-09-10T00:12:29.601064+00:00",
-      "expires_at": "2026-09-24T00:12:29.601064+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
-      "link": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
-      "channel": "Lenny's Podcast",
-      "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
-      "pub_date": "2026-09-07T12:04:19+00:00",
-      "transcript_path": "feeds/transcripts/6893897e67e639a87c1e6fcd.txt",
-      "transcript_chars": 5065,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-07T23:07:44.535897+00:00",
-      "last_seen_at": "2026-09-10T00:12:29.601064+00:00",
-      "expires_at": "2026-09-24T00:12:29.601064+00:00"
     },
     {
       "guid": "f0efd40e-08b6-487c-b5fb-31f1ad40db69",

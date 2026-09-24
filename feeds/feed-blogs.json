@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "id": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "deepmind",
+      "source_name": "Google DeepMind",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "published": "2026-09-24T16:20:39+00:00",
+      "summary": "Gemini 3.8 Live with Live Avatar brings near real-time visual presence to Gemini’s conversational AI."
+    },
+    {
+      "id": "https://www.anthropic.com/research/project-swap",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Project Swap: What happens when agents trade for us?",
+      "url": "https://www.anthropic.com/research/project-swap",
+      "published": "2026-09-24T00:00:00+00:00",
+      "summary": "To see what works and what breaks when agents are sent into a market, we made a miniature market of Claudes."
+    },
+    {
       "id": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
       "source": "deepmind",
       "source_name": "Google DeepMind",
@@ -25,7 +43,7 @@
       "title": "Gemini 3.8 text-to-speech says hello",
       "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
       "published": "2026-09-23T15:25:14+00:00",
-      "summary": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet."
+      "summary": ""
     },
     {
       "id": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
@@ -74,5 +92,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-09-23T22:11:12.903102+00:00"
+  "generated_at": "2026-09-24T22:12:25.292197+00:00"
 }
