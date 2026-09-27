@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-09-24T22:47:51.977783+00:00",
+  "generated_at": "2026-09-27T10:27:08.356510+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/openrouter",
+      "link": "https://www.latent.space/p/openrouter",
+      "channel": "Latent Space",
+      "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
+      "pub_date": "2026-09-25T23:14:41+00:00",
+      "transcript_path": "feeds/transcripts/158a5136eec81977fff1012a.txt",
+      "transcript_chars": 100752,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-27T10:27:08.356510+00:00",
+      "last_seen_at": "2026-09-27T10:27:08.356510+00:00",
+      "expires_at": "2026-10-11T10:27:08.356510+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+      "link": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+      "channel": "Latent Space",
+      "title": "[AINews] The Future of Latent Space",
+      "pub_date": "2026-09-25T05:37:00+00:00",
+      "transcript_path": "feeds/transcripts/1bf206419506c04e4882fd79.txt",
+      "transcript_chars": 59547,
+      "transcript_source": "content_transcript_link",
+      "cached_at": "2026-09-27T10:27:08.356510+00:00",
+      "last_seen_at": "2026-09-27T10:27:08.356510+00:00",
+      "expires_at": "2026-10-11T10:27:08.356510+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/runway",
+      "link": "https://www.latent.space/p/runway",
+      "channel": "Latent Space",
+      "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
+      "pub_date": "2026-09-25T01:30:57+00:00",
+      "transcript_path": "feeds/transcripts/6a40ab21c8f696eb8cab4ec5.txt",
+      "transcript_chars": 112848,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-27T10:27:08.356510+00:00",
+      "last_seen_at": "2026-09-27T10:27:08.356510+00:00",
+      "expires_at": "2026-10-11T10:27:08.356510+00:00"
+    },
+    {
+      "guid": "yt:giE1O1-e2DY",
+      "link": "https://www.youtube.com/watch?v=giE1O1-e2DY",
+      "channel": "Sources Podcast and Alex Heath",
+      "title": "Satya Nadella on Copilot, the AI backlash, and Microsoft’s future",
+      "pub_date": "2026-09-25T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/71d78bf50f50d5db88723c4e.txt",
+      "transcript_chars": 50458,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-27T10:27:08.356510+00:00",
+      "last_seen_at": "2026-09-27T10:27:08.356510+00:00",
+      "expires_at": "2026-10-11T10:27:08.356510+00:00"
+    },
+    {
+      "guid": "yt:eo4DF16uIIg",
+      "link": "https://www.youtube.com/watch?v=eo4DF16uIIg",
+      "channel": "Deirdre Bosa and Yahoo Finance",
+      "title": "Microsoft’s AI Bet: Copilot, Autopilot and the Coming Product War with CEO Satya Nadella",
+      "pub_date": "2026-09-25T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/87f1b1dc9a479f55bcfce646.txt",
+      "transcript_chars": 26815,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-27T10:27:08.356510+00:00",
+      "last_seen_at": "2026-09-27T10:27:08.356510+00:00",
+      "expires_at": "2026-10-11T10:27:08.356510+00:00"
+    },
+    {
+      "guid": "yt:X9JTZ0VRjVo",
+      "link": "https://www.youtube.com/watch?v=X9JTZ0VRjVo",
+      "channel": "USA TODAY",
+      "title": "Live: Sam Altman, Dario Amodei and AI leaders brief UN amid warnings of tech's 'existential threat'",
+      "pub_date": "2026-09-23T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/58142959878db2fab7f34b3e.txt",
+      "transcript_chars": 89492,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-27T10:27:08.356510+00:00",
+      "last_seen_at": "2026-09-27T10:27:08.356510+00:00",
+      "expires_at": "2026-10-11T10:27:08.356510+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/foundries-vs-navigators-lowering",
       "link": "https://www.latent.space/p/foundries-vs-navigators-lowering",
@@ -12,8 +90,8 @@
       "transcript_chars": 16263,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
+      "last_seen_at": "2026-09-27T10:27:08.356510+00:00",
+      "expires_at": "2026-10-11T10:27:08.356510+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
@@ -51,8 +129,8 @@
       "transcript_chars": 42432,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
+      "last_seen_at": "2026-09-27T10:27:08.356510+00:00",
+      "expires_at": "2026-10-11T10:27:08.356510+00:00"
     },
     {
       "guid": "yt:2cg56uF4hlc",
@@ -64,8 +142,8 @@
       "transcript_chars": 39908,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
+      "last_seen_at": "2026-09-27T10:27:08.356510+00:00",
+      "expires_at": "2026-10-11T10:27:08.356510+00:00"
     },
     {
       "guid": "d5619c2f-7fe2-4523-bc0d-d15a03dbfbb1",
@@ -77,8 +155,8 @@
       "transcript_chars": 65764,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
+      "last_seen_at": "2026-09-27T10:27:08.356510+00:00",
+      "expires_at": "2026-10-11T10:27:08.356510+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
@@ -103,8 +181,8 @@
       "transcript_chars": 101618,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-23T22:12:33.683746+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
+      "last_seen_at": "2026-09-27T10:27:08.356510+00:00",
+      "expires_at": "2026-10-11T10:27:08.356510+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
@@ -298,8 +376,8 @@
       "transcript_chars": 61958,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-20T02:06:59.603754+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
+      "last_seen_at": "2026-09-27T10:27:08.356510+00:00",
+      "expires_at": "2026-10-11T10:27:08.356510+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-612",
@@ -558,8 +636,8 @@
       "transcript_chars": 37867,
       "transcript_source": null,
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
+      "last_seen_at": "2026-09-27T10:27:08.356510+00:00",
+      "expires_at": "2026-10-11T10:27:08.356510+00:00"
     },
     {
       "guid": "https://www.latent.space/p/recursive",
@@ -705,58 +783,6 @@
       "expires_at": "2026-09-29T23:21:46.395065+00:00"
     },
     {
-      "guid": "3a81653a-f581-4f90-9791-a8998dda115d",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/A-Hedge-Fund-Managers-Honest-Take-on-Why-Most-I-Zeke-Ashtonnvestors-Fail-e3ojkjj",
-      "channel": "The Acquirers Podcast",
-      "title": "A Hedge Fund Manager's Honest Take on Why Most I Zeke Ashtonnvestors Fail |",
-      "pub_date": "2026-09-10T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/f8f57af892707e32502ebe20.txt",
-      "transcript_chars": 145108,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-10T22:28:33.133847+00:00",
-      "last_seen_at": "2026-09-12T23:19:05.606487+00:00",
-      "expires_at": "2026-09-26T23:19:05.606487+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
-      "link": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
-      "channel": "Latent Space",
-      "title": "[AINews] not much happened today",
-      "pub_date": "2026-09-10T03:33:12+00:00",
-      "transcript_path": "feeds/transcripts/1ccca203e2f97cfb6072d8d3.txt",
-      "transcript_chars": 36337,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-10T22:28:33.133847+00:00",
-      "last_seen_at": "2026-09-12T23:19:05.606487+00:00",
-      "expires_at": "2026-09-26T23:19:05.606487+00:00"
-    },
-    {
-      "guid": "fcc44f37-f242-4730-a77c-5f3d83c24fa9",
-      "link": "https://deepmind.com/podcast",
-      "channel": "Google DeepMind Podcast",
-      "title": "Can AI help us better predict the weather?",
-      "pub_date": "2026-09-09T16:08:26+00:00",
-      "transcript_path": "feeds/transcripts/5b7d7af06b5c1eff5d3cddd4.txt",
-      "transcript_chars": 18655,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-10T00:12:29.601064+00:00",
-      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
-      "expires_at": "2026-09-25T22:50:18.462607+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
-      "link": "https://www.latent.space/p/ainews-openai-reports-navier-stokes",
-      "channel": "Latent Space",
-      "title": "[AINews] OpenAI reports Navier-Stokes singularity find in 88 hours using Astra-next, roughly 10,000 agents and 130B tokens (>$40M), a contender for second ever Millennium Prize awarded",
-      "pub_date": "2026-09-09T05:04:51+00:00",
-      "transcript_path": "feeds/transcripts/b7fe7cf397e21053052ae76e.txt",
-      "transcript_chars": 25731,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-10T00:12:29.601064+00:00",
-      "last_seen_at": "2026-09-11T22:50:18.462607+00:00",
-      "expires_at": "2026-09-25T22:50:18.462607+00:00"
-    },
-    {
       "guid": "yt:Lx8lrn-cytc",
       "link": "https://www.youtube.com/watch?v=Lx8lrn-cytc",
       "channel": "Sources Podcast and Alex Heath",
@@ -807,19 +833,6 @@
       "cached_at": "2026-09-05T22:51:17.131371+00:00",
       "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
       "expires_at": "2026-09-29T23:21:46.395065+00:00"
-    },
-    {
-      "guid": "2bbc686d-ae76-447b-b649-410ff08bcacc",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--027---OpenAI-Jalapeo-Better-Than-Nvidia-Blackwell-Accelerators-e3o3oms",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 027 - OpenAI Jalapeño: Better Than Nvidia Blackwell (Accelerators)",
-      "pub_date": "2026-08-30T22:22:06+00:00",
-      "transcript_path": "feeds/transcripts/12d770949ddd6965f9aa3601.txt",
-      "transcript_chars": 50757,
-      "transcript_source": "companion_youtube",
-      "cached_at": "2026-08-31T22:45:39.918632+00:00",
-      "last_seen_at": "2026-09-12T23:19:05.606487+00:00",
-      "expires_at": "2026-09-26T23:19:05.606487+00:00"
     }
   ]
 }
