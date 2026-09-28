@@ -1,6 +1,23 @@
 {
   "podcasts": [
     {
+      "channel": "Lenny's Podcast",
+      "domain": "ai",
+      "guid": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
+      "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
+      "pub_date": "2026-09-27T12:32:18+00:00",
+      "link": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
+      "audio_url": "https://api.substack.com/feed/podcast/214070196/a2fa19b5bc369946869da1db60e349bd.mp3",
+      "duration": "",
+      "description": "Listen now (94 mins) | Molly Graham revisits her famous career advice for the AI era, and explains why delegating to a robot is nothing like delegating to a human",
+      "transcript_available": false,
+      "transcript_source": null,
+      "transcript_url": null,
+      "transcript_video_id": null,
+      "transcript_error": "episode_page: text too sparse to be a transcript (6497 chars for 94 min); youtube: No YouTube video id in link",
+      "transcript_chars": 0
+    },
+    {
       "channel": "a16z",
       "domain": "ai",
       "guid": "154dab55-ef4d-40f9-9c51-5ed30abafc26",
@@ -184,24 +201,6 @@
       "transcript_error": null,
       "transcript_path": "feeds/transcripts/87f1b1dc9a479f55bcfce646.txt",
       "transcript_chars": 26815
-    },
-    {
-      "channel": "Latent Space",
-      "domain": "ai",
-      "guid": "https://www.latent.space/p/foundries-vs-navigators-lowering",
-      "title": "Foundries vs Navigators: Lowering the Cost of Science",
-      "pub_date": "2026-09-24T15:03:16+00:00",
-      "link": "https://www.latent.space/p/foundries-vs-navigators-lowering",
-      "audio_url": "https://substackcdn.com/image/fetch/$s_!-Em5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4f2dad0-1897-4b86-aa39-f4772f76e474_1591x828.png",
-      "duration": "",
-      "description": "Guest Post: In science, thinking has gotten cheap but doing has not. This asymmetry is reshaping how research companies operate, largely inconspicuously.",
-      "transcript_available": true,
-      "transcript_source": "episode_page",
-      "transcript_url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
-      "transcript_video_id": null,
-      "transcript_error": null,
-      "transcript_path": "feeds/transcripts/b4aba9dd1a4b8c6a3331c70d.txt",
-      "transcript_chars": 16263
     },
     {
       "channel": "Yahoo Finance",
@@ -390,5 +389,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-09-25T22:12:06.323820+00:00"
+  "generated_at": "2026-09-27T22:27:56.102455+00:00"
 }

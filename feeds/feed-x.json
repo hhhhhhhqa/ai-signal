@@ -21,43 +21,23 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2103225106512363902",
-          "text": "Fentanyl Grade Compute: Why a GB300 Rack Will Out-Price Blow by Weight in 2030\nA GB300 NVL72 weighs roughly 1,580 kg fully populated and recent purchase orders put it at $5M per rack.\nThat is $3,165/kg. Strip out the 1.5 tons of busbar, manifold and coolant and the GPU packages alone are well into gold territory, but we're pricing the rack, because that's what you actually take delivery of.\nWhere that sits on the illicit commodity curve today ($/kg): \n$2,400 Cannabis flower\n$3,165 GB300 NVL72 \n$3,500 Fentanyl\n$28,000 Cocaine\n$65,000 Heroin \n$138,000 Gold\nSo today NVIDIA ships a product that is denser in value than weed, roughly fentanyl-grade, and still an order of magnitude short of cocaine.\nFor now...\nGB200 NVL72 was $4M, GB300 is ~$5M, and Vera Rubin NVL72 is already quoted at up to $8.8M at essentially the same rack mass. Rack weight is constrained by the datacenter floor loading; rack price is constrained by nothing. That's ~1.75x $/kg per generation with HBM, CoWoS and power all supply-limited through the decade.\nCocaine: Colombia's new president has pledged a hard-line security crackdown with $1B in US aid behind it\nEvery prior crackdown has consolidated the industry into fewer, better-capitalized operators with better logistics and higher yields per hectare. Consolidation is deflationary.\nWe model US wholesale drifting from ~$28k/kg toward ~$12k/kg by 2030 as the supply chain professionalizes.\n**Crossover: 2030.** Our extrapolated NVL72-class rack hits ~$17k/kg while wholesale cocaine falls to ~$12k/kg. At that point the rational cartel pivots to smuggling racks, except a rack has a fixed 500+ kW power draw, a 3,300 lb forklift requirement and an export-control regime that is actually enforced. Cocaine has none of these problems, which is why it will remain the superior product for anyone without a substation.\nKey risks to the thesis: US retail coke is still ~$60–200/g, i.e. $60k–200k/kg so the crossover only holds at wholesale.\nRetail compute (H100 hour on a neocloud) is also marked up, so we consider this an apples-to-apples wholesale comparison.\nFull model available to Coke Research subscribers.",
-          "created_at": "2026-09-24T20:48:36+00:00",
-          "like_count": 904,
-          "retweet_count": 75,
-          "reply_count": 70,
-          "engagement_score": 1124,
-          "url": "https://x.com/dylan522p/status/2103225106512363902"
-        },
-        {
-          "id": "2103190377289363907",
-          "text": "Everytime AI spend grows where I flirt with token budgeting, Anthropic + OpenAI save me\nAstra had a spike then settled down lower\nOpus 5.5 it looks like spend is lowered for current usecases\nOf course people figure out new things to do\nSpend goes up again\nROI keeps increasing",
-          "created_at": "2026-09-24T18:30:35+00:00",
-          "like_count": 325,
-          "retweet_count": 4,
-          "reply_count": 46,
-          "engagement_score": 379,
-          "url": "https://x.com/dylan522p/status/2103190377289363907"
-        },
-        {
           "id": "2103631387287052757",
           "text": "In 2025 a misaligned Anthropic model hacked the US Governent looking for the Furry NSA chat\nhttps://t.co/2u1KxAoGiS",
           "created_at": "2026-09-25T23:43:00+00:00",
-          "like_count": 297,
+          "like_count": 298,
           "retweet_count": 12,
           "reply_count": 15,
-          "engagement_score": 336,
+          "engagement_score": 337,
           "url": "https://x.com/dylan522p/status/2103631387287052757"
         },
         {
           "id": "2103883333067485599",
           "text": "Rubin HBM Despec = Nvidia cutting coke",
           "created_at": "2026-09-26T16:24:09+00:00",
-          "like_count": 133,
+          "like_count": 143,
           "retweet_count": 2,
-          "reply_count": 12,
-          "engagement_score": 149,
+          "reply_count": 13,
+          "engagement_score": 160,
           "url": "https://x.com/dylan522p/status/2103883333067485599"
         }
       ]
@@ -76,43 +56,23 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2103288927805476900",
-          "text": "The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder\n\nWe can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge",
-          "created_at": "2026-09-25T01:02:12+00:00",
-          "like_count": 4426,
-          "retweet_count": 379,
-          "reply_count": 346,
-          "engagement_score": 5530,
-          "url": "https://x.com/simonw/status/2103288927805476900"
-        },
-        {
           "id": "2103688757337895282",
           "text": "\"The last year in the technology industry has felt like 100 years all happening at once. Our industry is destabilized in a way nobody’s experienced since the advent of the personal computer. Every limit AI runs up against collapses within a month. Everything we do with frontier models today, in a few years we’ll be doing instantaneously and for free.\"",
           "created_at": "2026-09-26T03:30:59+00:00",
-          "like_count": 999,
-          "retweet_count": 71,
-          "reply_count": 77,
-          "engagement_score": 1218,
+          "like_count": 1019,
+          "retweet_count": 73,
+          "reply_count": 84,
+          "engagement_score": 1249,
           "url": "https://x.com/simonw/status/2103688757337895282"
-        },
-        {
-          "id": "2102916558712705427",
-          "text": "I just had a voice conversation with the Datasette backup of my blog via datasette-mcp, which you can now talk to using the ChatGPT iPhone app",
-          "created_at": "2026-09-24T00:22:32+00:00",
-          "like_count": 168,
-          "retweet_count": 12,
-          "reply_count": 105,
-          "engagement_score": 297,
-          "url": "https://x.com/simonw/status/2102916558712705427"
         },
         {
           "id": "2104002636513206422",
           "text": "I included a few references to this year's record-breaking Kākāpō breeding season in a talk I gave yesterday, and since Claude Opus 5.5 is surprisingly capable at pixel art animation I had it create this celebratory video for my closing slide https://t.co/0rPkQ8S9dn",
           "created_at": "2026-09-27T00:18:13+00:00",
-          "like_count": 74,
+          "like_count": 109,
           "retweet_count": 3,
-          "reply_count": 28,
-          "engagement_score": 108,
+          "reply_count": 56,
+          "engagement_score": 171,
           "url": "https://x.com/simonw/status/2104002636513206422"
         }
       ]
@@ -127,21 +87,11 @@
           "id": "2103629073595728372",
           "text": "You can’t automate what you can’t measure. This means that evals are one of the gates to diffusion of AI in the enterprise. \n\nWe can test our deterministic processes through software, but most enterprises have no useful way of understanding how their non-deterministic processes are working today. Specifically the work that agents are doing for them.\n\nEvals are mission critical for enterprises adopting AI because you have no other way of knowing what’s working, what’s broken, what changed, what improved, what you can do more of, etc. if you don’t have a good sense of how agents work in your environment today. All changes, upgrades, and deployments are downstream from good evals.\n\nNot only are we going to get vastly more domain specific evals over time for the labs and across the industry, but every enterprise will also need a clear sense of how agents are performing in their environment as well. Huge opportunity.",
           "created_at": "2026-09-25T23:33:49+00:00",
-          "like_count": 422,
-          "retweet_count": 49,
-          "reply_count": 94,
-          "engagement_score": 614,
+          "like_count": 438,
+          "retweet_count": 50,
+          "reply_count": 99,
+          "engagement_score": 637,
           "url": "https://x.com/levie/status/2103629073595728372"
-        },
-        {
-          "id": "2102934874470617303",
-          "text": "Great vision for the future of the creative industry with AI from the one person who can actually predict these things.\n\n“As the barriers and the costs come down, more films will get made, not fewer. Studios will get to take more risks. There will be more seats at the table, and very soon entirely new forms of storytelling. In the 1980s, animation was dismissed as a niche corner of the business. Today it is one of the most beloved and profitable forms of storytelling in the world. In live action, filmmakers like Steven Spielberg, James Cameron and Peter Jackson embraced new visual tools not as shortcuts, but as instruments, and expanded cinema in the process. Every time storytelling has met a genuine technological shift, from synchronized sound to color to computer animation, it has redefined the boundaries of the medium and grown larger in the process.”\n\nTechnology has reshaped the creative industry over and over through the years, and has generally always led to an expansion of opportunity or new approaches as a result. \n\nAnd even when the techniques or mediums change, the underlying need for creative skills and taste don’t go away. Just more people are able to leverage those skills effectively when a new technology arrived, and users of the tools discover novel new ways to tell stories.",
-          "created_at": "2026-09-24T01:35:19+00:00",
-          "like_count": 186,
-          "retweet_count": 13,
-          "reply_count": 39,
-          "engagement_score": 251,
-          "url": "https://x.com/levie/status/2102934874470617303"
         }
       ]
     },
@@ -157,18 +107,7 @@
       "name": "Max Weinbach (Creative Strategies)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2103988413586460852",
-          "text": "Woah my phones on TMobile/Starlink direct to cellular just out by my house where normal 5G doesn’t reach\n\nJust got a prompt to allow X app to use satellite too https://t.co/Qx80H19btL",
-          "created_at": "2026-09-26T23:21:42+00:00",
-          "like_count": 338,
-          "retweet_count": 4,
-          "reply_count": 8,
-          "engagement_score": 354,
-          "url": "https://x.com/mweinbach/status/2103988413586460852"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "ValsAI",
@@ -176,16 +115,6 @@
       "domain": "ai",
       "tier": "analyst",
       "tweets": [
-        {
-          "id": "2103283609704837290",
-          "text": "How does \"thinking harder\" change how models perform on math proofs?\n\nWe ran GPT-6 Astra, Opus 5, and Opus 5.5 on every reasoning level: low, medium, high, xhigh, and max on our benchmark, Proof Bench v1.1. https://t.co/djytmJfUNx",
-          "created_at": "2026-09-25T00:41:04+00:00",
-          "like_count": 233,
-          "retweet_count": 19,
-          "reply_count": 27,
-          "engagement_score": 298,
-          "url": "https://x.com/ValsAI/status/2103283609704837290"
-        },
         {
           "id": "2103642361096282142",
           "text": "It was a big week for model releases: Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, Grok 4.7, MiMo V2.6 Pro / Flash all dropped. We ran them on the Vals Index and across our other benchmarks .\n\nHere's the recap in case you missed it 🧵 https://t.co/5q5Svj88Su",
@@ -205,54 +134,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2103532528946839901",
-          "text": "We analyzed how @claudeai’s Opus 5.5 writes compared with Opus 5 across high-reasoning Text Arena outputs.\n\n10 of 12 writing measures moved in a better direction.\n\nOpus 5.5 should be easier to read:\n- Long content words fall from 41.7% to 38.6%, the lowest share of any Claude model we analyzed.\n- Sentences are 17% shorter on average, dropping from 12.14 to 10.03 words.\n\nThe tradeoff is length. Answers get 6% wordier, rising from 453 to 481 words on average, making Opus 5.5 give the longest answers across the Opus family. \n\nIt also sounds less recognizably AI on two familiar tells:\n- 95% fewer em dashes\n- 73% fewer semicolons\n\nBut a new giveaway may be emerging. Hedges and caveats such as “perhaps” and “arguably” rise 97%, from 0.39 to 0.77 per 1,000 words, the highest rate of any Claude model we analyzed.\n\nWhat do you think: does Opus 5.5 read more naturally?",
-          "created_at": "2026-09-25T17:10:11+00:00",
-          "like_count": 2020,
-          "retweet_count": 119,
-          "reply_count": 94,
-          "engagement_score": 2352,
-          "url": "https://x.com/arena/status/2103532528946839901"
-        },
-        {
-          "id": "2102952767614779403",
-          "text": "Big news: Claude Opus 5.5 (Max) by @AnthropicAI just topped #1 in Code Arena: WebDev with 1818 pts and reshapes the Pareto frontier! This is a solid +26pt lead ahead of the next best model, GPT-6 Astra (Max) and a huge +126pt improvement over previous Opus 5 (Max) at 1692.\n\nAcross categories, we can see that Opus 5.5 (Max) lands in the top spots across domains for:\n- #1 Brand and Marketing, Reference-Based Design, Data & Analytics, Simulations and Gaming!\n- #2 Consumer Product\n\nStay tuned for more domain and categorical insights to land as more votes come in.\n\nCongrats to @AnthropicAI on the release!",
-          "created_at": "2026-09-24T02:46:25+00:00",
-          "like_count": 1835,
-          "retweet_count": 139,
-          "reply_count": 76,
-          "engagement_score": 2189,
-          "url": "https://x.com/arena/status/2102952767614779403"
-        },
-        {
           "id": "2103893011164017018",
           "text": "Claude Opus 5.5 (High) debuts at #1 in Text Arena with 1509 pts!\n\nThat’s an 18-pt improvement over Opus 5 (High), now at #11. Opus 4.6 (High) remains in the #2 spot, just 4 pts off the lead. This release gives @AnthropicAI all six top spots in Text Arena!\n\nOpus 5.5 (High) also landed on the Text Arena Pareto frontier at a blended $16/MToken, based on input/output pricing per million tokens! See its placement in the post below.\n\nCongrats to the @AnthropicAI team on the release!",
           "created_at": "2026-09-26T17:02:36+00:00",
-          "like_count": 1305,
-          "retweet_count": 74,
-          "reply_count": 97,
-          "engagement_score": 1550,
+          "like_count": 1508,
+          "retweet_count": 95,
+          "reply_count": 104,
+          "engagement_score": 1802,
           "url": "https://x.com/arena/status/2103893011164017018"
-        },
-        {
-          "id": "2103210975612780824",
-          "text": "Real-world results are in for GPT-6 Luna (Max). It just landed #24 in the Code Arena: WebDev with 1593 pts!\n\nGPT-6 Luna (Max) by @OpenAI is a significant +74pt improvement from GPT-5.6 Luna (xHigh) which is now ranked at #41. \n\nThe latest Luna delivers on par with lower-cost models like: Gemini 3.7 Flash High and Qwen 3.8-27B, but at a fraction of the price (blended $.40/Mtoken).\n\nCongrats to the @OpenAI team!",
-          "created_at": "2026-09-24T19:52:27+00:00",
-          "like_count": 1044,
-          "retweet_count": 54,
-          "reply_count": 58,
-          "engagement_score": 1210,
-          "url": "https://x.com/arena/status/2103210975612780824"
-        },
-        {
-          "id": "2103571568467288451",
-          "text": "GPT-6 Sol (Max) just landed in the Agent Arena with +7.7% net-improvement at #6 across 4K+ real-world agentic sessions from our global community of users!\n\nCompared with GPT 5.6 Sol (xHigh), this release is a +1.5-point lift in net improvement (+7.7% vs. +6.2%) and a point-rank move from #8 to #6, at half the per-token price. By signal GPT-6 Sol is strong in Confirmed Success at #4 with +11.4%, compared to 5.6 at #20 with 2.9%.\n\nCongrats to the @OpenAI team on GPT-6 Sol!",
-          "created_at": "2026-09-25T19:45:19+00:00",
-          "like_count": 588,
-          "retweet_count": 22,
-          "reply_count": 43,
-          "engagement_score": 675,
-          "url": "https://x.com/arena/status/2103571568467288451"
         }
       ]
     },
@@ -263,44 +152,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2103265956479070260",
-          "text": "Today we’re launching our leaderboard for Terminal-Bench-Science 0.1, an agentic benchmark for scientific research work. GPT-6 Astra (max) and Claude Opus 5.5 (xhigh) currently top it at 63% and 62%\n\nTerminal-Bench-Science 0.1 was announced in August 2026, built by @StevenDillmann and researchers at Stanford with the @terminalbench team and a global community of open source scientific contributors. It has 70 expert-curated tasks based on real research in five domains: life sciences (19), physical sciences (17), mathematical sciences (17), engineering sciences (9), and earth sciences (8).\n\nAs with Terminal-Bench, each task drops an agent into a sandbox environment with the data, tools and instructions for a task, and the agent runs from start to finish. Automated tests grade every task pass/fail, and we report the average pass@1 over 3 attempts.\n\nKey takeaways:\n\n➤ Only two models score above 50%: GPT-6 Astra (max) at 63%, and Claude Opus 5.5 at 62% (xhigh) and 59% (max). Recent releases have made large advancements, but even the top model, GPT-6 Astra, has significant headroom\n\n➤ Life sciences is the lowest-scoring domain for most leading models, though domain scores are noisy with 8 to 19 tasks each. Claude Opus 5.5 (xhigh) passes 71% of mathematical sciences tasks but 46% of life sciences tasks\n\n➤ The best open weights models, GLM-5.3 (max) at 10% and DeepSeek V4.1 Flash (max) at 9%, sit more than 50 points below the leaders",
-          "created_at": "2026-09-24T23:30:55+00:00",
-          "like_count": 1034,
-          "retweet_count": 76,
-          "reply_count": 89,
-          "engagement_score": 1275,
-          "url": "https://x.com/ArtificialAnlys/status/2103265956479070260"
-        },
-        {
-          "id": "2102932119995756613",
-          "text": "Claude Opus 5.5 is the new #1 in the Artificial Analysis Coding Agent Index, with gains across all three evaluations, though at a higher Cost per Task\n\nAt max effort in Claude Code, Opus 5.5 scores 66 on the Coding Agent Index, the highest score we have measured. It is up 6 points against Opus 5 (60) and 4 points against Claude Fable 5.1 (62).\n\nAnthropic has cut Opus pricing to $4/$20 per million input/output tokens, from $5/$25 for Opus 5, and cache reads to $0.20 from $0.50. Even with those reductions, Opus 5.5’s Cost per Task is $13.04, above Opus 5’s $10.79, because it uses substantially more tokens.\n\nKey takeaways:\n\n➤ Improves across all three Coding Agent Index evaluations: Terminal-Bench 4.0 rises to 63.1% from 54.5% for Opus 5, DeepSWE v1.1 to 68.4% from 62.5%, and SWE-Atlas-QnA to 66.4% from 62.1%. The largest gain is on Terminal-Bench, at +8.6 percentage points.\n\n➤ The top score comes at the highest Cost per Task: Opus 5.5’s Cost per Task is $13.04, up 21% from Opus 5 at $10.79. It uses about 15.6 million tokens per task against 11.4 million for Opus 5, including about 2.4× as many output tokens.\n\n➤ Extends the Coding Agent Index vs Cost per Task Pareto frontier: No lower-cost model in our comparison matches Opus 5.5's score. It moves the frontier upward at its high-cost end.\n\nOther model details:\n\n➤ Pricing: $4/$20 per million input/output tokens, down 20% from Opus 5. Cache reads cost $0.20 per million, down 60% from $0.50.\n\n➤ Evaluation setup: Claude Code at max effort, measured on DeepSWE v1.1, Terminal-Bench 4.0 and SWE-Atlas-QnA. The Coding Agent Index gives each evaluation equal weight.",
-          "created_at": "2026-09-24T01:24:22+00:00",
-          "like_count": 1001,
-          "retweet_count": 68,
-          "reply_count": 85,
-          "engagement_score": 1222,
-          "url": "https://x.com/ArtificialAnlys/status/2102932119995756613"
-        },
-        {
           "id": "2103647006451454025",
           "text": "Two years ago today in AI: Artificial Analysis reported on OpenAI pushing the intelligence frontier with o1-preview, the first reasoning model. Now, all frontier models use reasoning tokens to ‘think’ before answering\n\nTwo years ago, v1 of the Artificial Analysis Intelligence Index measured four single-turn, exam-style evaluations - MMLU, GPQA, MATH, and HumanEval - covering general knowledge, science, mathematics, and basic coding. Today, the Intelligence Index v4.3 incorporates 10 difficult evaluations which include long-horizon agentic tasks, challenging coding problems, and knowledge work.",
           "created_at": "2026-09-26T00:45:04+00:00",
-          "like_count": 503,
+          "like_count": 531,
           "retweet_count": 20,
-          "reply_count": 24,
-          "engagement_score": 567,
+          "reply_count": 26,
+          "engagement_score": 597,
           "url": "https://x.com/ArtificialAnlys/status/2103647006451454025"
-        },
-        {
-          "id": "2102917486027079957",
-          "text": "inclusionAI's Ming-Image-0.1-Design is the #1 open weights model for UI/UX Design on the Artificial Analysis Text to Image Leaderboard, ranking #17 amongst all models in the category\n\nMing-Image-0.1-Design is a 6B parameter Text to Image model from inclusionAI, Ant Group's AI initiative. It is built for UI, infographics, posters and other text-rich visual designs, supports RGBA output with transparent backgrounds, and is released with open weights under the MIT licence. We evaluated it at 2K resolution with 12 inference steps, the settings inclusionAI recommends.\n\nMing-Image-0.1-Design stands out in our evaluation of UI/UX design capabilities for Text to Image models. It ranks #17 of 81 models in UI/UX Design, compared with #45 of 160 on the overall Text to Image Leaderboard. Among open weights models, it is the new leading model for UI/UX Design use cases.\n\nCongratulations to @AntLingAGI on the release!\n\nSee below for our analysis and example outputs of Ming-Image-0.1-Design in the Artificial Analysis Image Arena 🧵",
-          "created_at": "2026-09-24T00:26:13+00:00",
-          "like_count": 219,
-          "retweet_count": 18,
-          "reply_count": 13,
-          "engagement_score": 268,
-          "url": "https://x.com/ArtificialAnlys/status/2102917486027079957"
         }
       ]
     },
@@ -330,18 +189,7 @@
       "name": "Sam Altman",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2103567198690349362",
-          "text": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to.\n\nWe have not been as fast as we would have liked but we are trying to balance our desire for transparency with gaining a clear understanding from petabytes of agent activity logs, and working with impacted organizations.\n\nWe are prioritizing as best as we can based on severity, and adding resources. Hugging Face is still the most severe event we’ve seen. We will be as transparent as we can be subject to things like vulnerabilities in other companies that our agents have found, which will be their call to disclose or not.",
-          "created_at": "2026-09-25T19:27:57+00:00",
-          "like_count": 7227,
-          "retweet_count": 488,
-          "reply_count": 1269,
-          "engagement_score": 9472,
-          "url": "https://x.com/sama/status/2103567198690349362"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "DarioAmodei",
@@ -369,18 +217,7 @@
       "name": "NVIDIA (Jensen Huang / AI infrastructure)",
       "domain": "ai",
       "tier": "infra",
-      "tweets": [
-        {
-          "id": "2103125940825923694",
-          "text": "With @GoogleDeepMind, @emblebi, and research partners, we’re making AI-predicted protein complex structures for 2,800+ viruses openly available.\n\nThis gives scientists a head start in preparing for potential outbreaks. https://t.co/C2mA4jO3VG",
-          "created_at": "2026-09-24T14:14:33+00:00",
-          "like_count": 865,
-          "retweet_count": 160,
-          "reply_count": 121,
-          "engagement_score": 1306,
-          "url": "https://x.com/nvidia/status/2103125940825923694"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "AmandaAskell",
@@ -394,18 +231,7 @@
       "name": "Boris Cherny (Claude Code)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2103538666597691552",
-          "text": "Tag writes >50% of my PRs every day. It also does ~100% of my data analysis, and fixes most of our product feedback + bugs.\n\nIt's not like a regular Slack bot. It is proactive, programmable, it has memory, it has access to your connectors. With Opus 5.5 and Fable 5.1, it has strong judgement.\n\nExample prompts I use:\n\n- \"@Claude react to threads in this channel with ✅ when resolved\"\n- \"@Claude from now on, attempt to repro every bug in this channel end to end, running the full app. once you reproduce the bug, put up a pr to fix it and tag the right team for code review\"\n- \"@Claude brainstorm ~100 hypotheses for what could explain this weird data, use a workflow to in/validate. spend 10m tokens or so digging very deep. draw a chart with the result.\"\n- \"@Claude make me an interactive game explaining how this part of the code works, then make a slide deck explaining it for others on the team\"\n\nhttps://t.co/gmsALM8Lvs",
-          "created_at": "2026-09-25T17:34:34+00:00",
-          "like_count": 1442,
-          "retweet_count": 78,
-          "reply_count": 187,
-          "engagement_score": 1785,
-          "url": "https://x.com/bcherny/status/2103538666597691552"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "_catwu",
@@ -431,31 +257,11 @@
           "id": "2103939888513274147",
           "text": "Reject non-understanding.\n\nSlop grenades are not just code and PRs. We run a real risk that *reading* gets entirely discounted, because of the exhaustion of getting low-quality and unverified AI prose being thrown at you all the time.\n\nThere's a thread going viral about a 'perf improvement' attributed to a compiler change. The PR *description* itself has the AI telling this person it's *not* due to the compiler change, it's how the algorithms and data structures have changed. And the implication is that a similar win could have been attained otherwise.\n\nI want AI in the service of understanding the universe and enhancing human cognition and creativity.",
           "created_at": "2026-09-26T20:08:53+00:00",
-          "like_count": 1982,
-          "retweet_count": 151,
-          "reply_count": 141,
-          "engagement_score": 2425,
+          "like_count": 2479,
+          "retweet_count": 174,
+          "reply_count": 176,
+          "engagement_score": 3003,
           "url": "https://x.com/rauchg/status/2103939888513274147"
-        },
-        {
-          "id": "2103216656747262419",
-          "text": "Spend of OpenAI vs Anthropic vs Open \n(Vercel AI Gateway, last 2 months)\n\n• Anthropic still #1 in spend, but went 69% → 40%\n• OpenAI: 10% → 24% in spend\n• GPT-6 Astra + GPT 5.6 Sol are ripping\n• OpenAI now leads in tokens #\n• Kimi K3 + DeepSeek took ~half of Anthropic's loss\n• Opus 5.5 is up to 10% of spend in 2 days\n• OpenAI is 62% of image generations \n\nWatch here: https://t.co/Gu7D9d7M8w",
-          "created_at": "2026-09-24T20:15:01+00:00",
-          "like_count": 887,
-          "retweet_count": 52,
-          "reply_count": 166,
-          "engagement_score": 1157,
-          "url": "https://x.com/rauchg/status/2103216656747262419"
-        },
-        {
-          "id": "2103564484602384855",
-          "text": "We're helping world-class organizations like @klaviyo build agentic deployment platforms.\n\n① Connect every agent (claude, codex, cursor…)\n② Configure SSO via their IDP (Okta, Entra)\n③ Now everyone can cook, securely®\n\nWhat happens to SaaS once every company sets this up? I get this question a lot 😁\n\nFirst, the data must come from somewhere. These apps only work if they can be infused with business data.\n\nThis is why we see the big enterprise SaaS players suddenly prioritize shipping CLIs and MCPs. Or dust off APIs they were neglecting for years.\n\nThe new 'procurement bar' will be how ergonomic your product is for *agents*, rather than humans. How easily they can navigate your ontology and work with your data.\n\nOnce that's in place, there's a long tail of SaaS applications that I suspect will never be bought again. They'll be generated. They'll be more secure, more performant, more modern, and tailored to each company's and employee's needs.",
-          "created_at": "2026-09-25T19:17:10+00:00",
-          "like_count": 233,
-          "retweet_count": 16,
-          "reply_count": 66,
-          "engagement_score": 331,
-          "url": "https://x.com/rauchg/status/2103564484602384855"
         }
       ]
     },
@@ -485,7 +291,28 @@
       "name": "Ivan Fioravanti (Apple MLX / open source)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2104262293634908321",
+          "text": "Cloud AI models alone are useless. https://t.co/L0KHNxWtQy",
+          "created_at": "2026-09-27T17:30:00+00:00",
+          "like_count": 80,
+          "retweet_count": 0,
+          "reply_count": 21,
+          "engagement_score": 101,
+          "url": "https://x.com/ivanfioravanti/status/2104262293634908321"
+        },
+        {
+          "id": "2104276586719740392",
+          "text": "This recipe for Qwen 3.8 Flash Next on Dual DGX Sparks is truly fast! Trying some coding on it right now and then a Context Benchmark!",
+          "created_at": "2026-09-27T18:26:48+00:00",
+          "like_count": 34,
+          "retweet_count": 2,
+          "reply_count": 3,
+          "engagement_score": 41,
+          "url": "https://x.com/ivanfioravanti/status/2104276586719740392"
+        }
+      ]
     },
     {
       "handle": "deanwball",
@@ -497,20 +324,20 @@
           "id": "2104031816084513087",
           "text": "People don’t have sufficient appreciation for the fact that frontier models will be able to actuate anything in the physical world that can be connected to the internet and actuated using a programmatic or otherwise digital interface.",
           "created_at": "2026-09-27T02:14:10+00:00",
-          "like_count": 473,
-          "retweet_count": 41,
-          "reply_count": 27,
-          "engagement_score": 582,
+          "like_count": 954,
+          "retweet_count": 77,
+          "reply_count": 46,
+          "engagement_score": 1154,
           "url": "https://x.com/deanwball/status/2104031816084513087"
         },
         {
           "id": "2104001930389553189",
           "text": "Once more I will remind you that AI safety people and e/accs are close to unique in that they (a) have thought about transformative AI futures and (b) broadly speaking, want to bring those futures about. They agree about most things and are natural allies.\n\nJust Say No to kayfabe",
           "created_at": "2026-09-27T00:15:25+00:00",
-          "like_count": 146,
-          "retweet_count": 8,
-          "reply_count": 13,
-          "engagement_score": 175,
+          "like_count": 193,
+          "retweet_count": 9,
+          "reply_count": 18,
+          "engagement_score": 229,
           "url": "https://x.com/deanwball/status/2104001930389553189"
         }
       ]
@@ -520,9 +347,20 @@
       "name": "Kun Chen (FirstMate / ex-Meta L8)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2104241432467067343",
+          "text": "sharing a real world case study for how i optimized AGENTS.md for the firstmate repo and cut down its token count by almost 50% while improving its quality\n\ni believe this is a low hanging fruit for improving how agents work in your projects that most people don't know about yet!\n\nfirstmate repo's AGENTS.md is big because it's what shapes all its core behaviors. previously i had manually done a few rounds of pruning and got it to be contained at ~30k tokens - that's still a lot to load at the start of every main firstmate session!\n\ni had stopped pursuing further reduction because in the previous manual rounds, i observed regression when i tried to remove more instructions that were on the borderline\n\nbut with a recent nudge from @kamranali i decided to take another look, and i just realized this time i have backpass https://t.co/DkM9b4TcZ0 and A TON of real transcripts sitting there that can help! \n\nso i did a backpass run and had it analyze 100 recent session transcripts. it produced this proposal https://t.co/8AbFJoLmlP - sharing here openly so you can all see how it came up with each proposed edit, based on evidence identified from the transcripts\n\ni reviewed the proposal and rejected two of the edits as i didn't fully agree with the rationale and ROI. most edits were accepted and it resulted in a -48% cut in token count\n\nbiggest win came from a lot of instructions getting moved into skills, based on observation that they weren't actually needed in most transcripts\n\nbesides token reduction, it also rewrote a few sections based on observing which instructions were followed vs missed, and what mistakes were made that could have benefited from explicit guidance\n\nthe result is this PR - https://t.co/Fmi4cWriue and i ran my private eval set to validate no regression in core behaviors\n\nif you are not sure if your AGENTS.md is optimal (it's most likely not), you can also try backpass on it. i've been regularly optimizing my repos' memory files and skills with it, and i get pleasantly surprised - every, single, time",
+          "created_at": "2026-09-27T16:07:07+00:00",
+          "like_count": 552,
+          "retweet_count": 27,
+          "reply_count": 42,
+          "engagement_score": 648,
+          "url": "https://x.com/kunchenguid/status/2104241432467067343"
+        }
+      ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-09-25T22:12:06.323820+00:00"
+  "generated_at": "2026-09-27T22:27:56.102455+00:00"
 }
