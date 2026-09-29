@@ -1,7 +1,98 @@
 {
-  "generated_at": "2026-09-29T00:37:04.983976+00:00",
+  "generated_at": "2026-09-29T22:47:27.792168+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
+      "link": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
+      "channel": "Lenny's Podcast",
+      "title": "All of the Lenny & Friends Summit talks are now online!",
+      "pub_date": "2026-09-29T13:15:57+00:00",
+      "transcript_path": "feeds/transcripts/ce493045769694e52175da85.txt",
+      "transcript_chars": 8028,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-29T22:47:27.792168+00:00",
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+      "link": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+      "channel": "Latent Space",
+      "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
+      "pub_date": "2026-09-29T02:55:27+00:00",
+      "transcript_path": "feeds/transcripts/cc0f0e25785a5392f59f7e9b.txt",
+      "transcript_chars": 4306,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-29T22:47:27.792168+00:00",
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+      "link": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+      "channel": "Latent Space",
+      "title": "[AINews] Opus 5.5 is good at explainer videos",
+      "pub_date": "2026-09-29T02:44:29+00:00",
+      "transcript_path": "feeds/transcripts/f7a994f9eb350c11c8540413.txt",
+      "transcript_chars": 59547,
+      "transcript_source": "episode_transcript_link",
+      "cached_at": "2026-09-29T22:47:27.792168+00:00",
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/thariq",
+      "link": "https://www.latent.space/p/thariq",
+      "channel": "Latent Space",
+      "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+      "pub_date": "2026-09-29T01:48:18+00:00",
+      "transcript_path": "feeds/transcripts/33dedf410dd2d68c4c2d0849.txt",
+      "transcript_chars": 118309,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-29T22:47:27.792168+00:00",
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
+    },
+    {
+      "guid": "yt:VysroxvZ-qM",
+      "link": "https://www.youtube.com/watch?v=VysroxvZ-qM",
+      "channel": "Moconomy",
+      "title": "Inside the Mind of Anthropic CEO Dario Amodei | His Plan to Win the AI Race | 4K",
+      "pub_date": "2026-09-26T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/890d803fc54650f068c8717a.txt",
+      "transcript_chars": 75034,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-29T22:47:27.792168+00:00",
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
+    },
+    {
+      "guid": "yt:djDt8J2_YVs",
+      "link": "https://www.youtube.com/watch?v=djDt8J2_YVs",
+      "channel": "Computer History Museum",
+      "title": "CHM Live | Anthropic's Boris Cherny, Creator of Claude Code",
+      "pub_date": "2026-09-26T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/654ab7dd4c3a3b9e2298f7f2.txt",
+      "transcript_chars": 72960,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-29T22:47:27.792168+00:00",
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
+    },
+    {
+      "guid": "fd07af4b-4e94-4e1b-8b19-10a1d811e550",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--032---300-Datacenter-Bans--3-Projects-Delayed-Moratoriums-Explained-Datacenter--Energy--Maya-Barkin--Reyk-Knhtsen--Jordan-Nanos-e3p1fc8",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 032 - 300 Datacenter Bans, 3 Projects Delayed: Moratoriums Explained (Datacenter, Energy) | Maya Barkin, Reyk Knühtsen, Jordan Nanos",
+      "pub_date": "2026-09-18T18:00:00+00:00",
+      "transcript_path": "feeds/transcripts/db50eb85d35b1f55a891e786.txt",
+      "transcript_chars": 40802,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-29T22:47:27.792168+00:00",
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
       "link": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
@@ -12,8 +103,8 @@
       "transcript_chars": 11985,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-29T00:37:04.983976+00:00",
-      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
-      "expires_at": "2026-10-13T00:37:04.983976+00:00"
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
@@ -25,8 +116,8 @@
       "transcript_chars": 5010,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-29T00:37:04.983976+00:00",
-      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
-      "expires_at": "2026-10-13T00:37:04.983976+00:00"
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
     },
     {
       "guid": "yt:voGz8FBR-7k",
@@ -38,8 +129,8 @@
       "transcript_chars": 57566,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-29T00:37:04.983976+00:00",
-      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
-      "expires_at": "2026-10-13T00:37:04.983976+00:00"
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
     },
     {
       "guid": "https://www.latent.space/p/openrouter",
@@ -90,8 +181,8 @@
       "transcript_chars": 50458,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-27T10:27:08.356510+00:00",
-      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
-      "expires_at": "2026-10-13T00:37:04.983976+00:00"
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
     },
     {
       "guid": "yt:eo4DF16uIIg",
@@ -103,8 +194,8 @@
       "transcript_chars": 26815,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-27T10:27:08.356510+00:00",
-      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
-      "expires_at": "2026-10-13T00:37:04.983976+00:00"
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
     },
     {
       "guid": "yt:X9JTZ0VRjVo",
@@ -116,8 +207,8 @@
       "transcript_chars": 89492,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-27T10:27:08.356510+00:00",
-      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
-      "expires_at": "2026-10-13T00:37:04.983976+00:00"
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
     },
     {
       "guid": "https://www.latent.space/p/foundries-vs-navigators-lowering",
@@ -168,8 +259,8 @@
       "transcript_chars": 42432,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
-      "expires_at": "2026-10-13T00:37:04.983976+00:00"
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
     },
     {
       "guid": "yt:2cg56uF4hlc",
@@ -181,8 +272,8 @@
       "transcript_chars": 39908,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
-      "expires_at": "2026-10-13T00:37:04.983976+00:00"
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
     },
     {
       "guid": "d5619c2f-7fe2-4523-bc0d-d15a03dbfbb1",
@@ -194,8 +285,8 @@
       "transcript_chars": 65764,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
-      "expires_at": "2026-10-13T00:37:04.983976+00:00"
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
@@ -220,8 +311,8 @@
       "transcript_chars": 101618,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-23T22:12:33.683746+00:00",
-      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
-      "expires_at": "2026-10-13T00:37:04.983976+00:00"
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
@@ -415,8 +506,8 @@
       "transcript_chars": 61958,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-20T02:06:59.603754+00:00",
-      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
-      "expires_at": "2026-10-13T00:37:04.983976+00:00"
+      "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
+      "expires_at": "2026-10-13T22:47:27.792168+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-612",

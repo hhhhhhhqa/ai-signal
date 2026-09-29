@@ -1,0 +1,753 @@
+[music] Hello, hello, hello. Great to see everybody
+tonight. Yeah. Yeah. [applause] I'm Mark Edkin.   I'm the CEO of the Computer History Museum.
+Thank you so much for joining us tonight here   in person. everybody who's joining us online.
+It's really great to see everyone. Um, we are   going through an incredible technological change
+right now. Uh, even the Silicon Valley veterans,   the Grizzle veterans are amazed at the pace of
+change. And here at the Computer History Museum,   our mission is to help navigate that change.
+Um, to really go beyond the headlines and be   a forum for bold ideas and deep discussion.
+And that's exactly what's gonna happen here   tonight. We are so lucky to have Boris
+Cherny, the creator of Claude Code. Um,   I don't think I have to tell this crowd. Yes.
+Let's give a hand for Boris. [applause] Yeah. I I don't think I need to tell this crowd
+how Claude code is changing programming,   uh, what it means to be a programmer, and
+even the relationship between humans and   computing. Uh and so we are so lucky to have
+Boris here. We want everyone in this room to   be part of the conversation. We've actually
+solicited some questions already from some   of the legends of our community. I
+don't know if Don Canuth is here,   but I know we have a question from Don and
+some others in our community. As you know,   Don really foremost computer scientists and
+really helped usher in the age of uh uh computer   languages and programming. I want to take a moment
+and thank our sponsors Mark and Mary Stevens.   they have been really uh gracious and important
+partners in helping us to have these deep and   important discussions. So, can we give a round
+of applause for Mark and Mary Stevens? [applause] And and lastly, I'd like to
+introduce our moderator tonight,   curator David Brock. Uh David has curated
+our exhibit downstairs on AI and chatbots,   one of the first exhibits on chatbots in the
+world. Uh David also is the head of our com uh   software computer history center. Um and lastly,
+David is part of a team that's leading a new   initiative for us. It's called the AI archive and
+it's how the computer history museum is going to   collect this revolution that's happening in real
+time. So please welcome David Brock. [applause] Thank you David. Well, thank you very much, Mark, and thanks
+to all of you for being here tonight. Um,   I know we all have a million questions about
+AI, about claude code, and I'm honored to be   able to ask a very small fraction of all
+those questions here tonight. Um, so,   um, yeah, so let's just get right into it.
+Um Boris Turney is a software engineer and   entrepreneur um for uh nearly seven years. He
+had a variety of technical roles at Meta before   joining Anthropic in 2024 um at Anthropic. He is
+the creator and head of Claude Code um Anthropic's   popular AI coding product. So, please help me
+in welcoming Boris to the stage. [applause] [applause] Well, Boris, thank you so much for um spending
+time with us this evening to help us and the   public um better understand what's happening in
+today's AI um and what that looks like from your   unique vantage point. Um, so to make our way
+into that, I think it's important to spend a   little time asking who is Boris Churnney and how
+did he come to create Claude code? So could you   tell us a little bit about your life with software
+leading up to and through your time with Meta?   So I started coding when I was I think 13 years
+old and um I did it to so so the first the first   reason I learned how to code was that I had this
+TI 83 calculator in math class and um for people   here that uh that had those calculators you might
+know where it's going. I wanted to get good grades   on a math test and um I realized that you can
+write these little uh programs in TI basic on the   calculator and you could just program the answers
+to the test into the calculator [laughter] so you   can get really great scores on your math test. Um
+and it it it it just kind of grew from there. So   it started with kind of programming the answers
+in. Then the math got a little more complicated.   I didn't know the questions ahead of time. So
+I wrote small programs so I could solve the   question. So it was kind of like you know equation
+solvers things you know basic algebra of basic   geometry. Then at some point the math got a little
+bit more advanced. Uh it got to like calculus or   something maybe in early high school and um basic
+wasn't enough so I had to switch to assembly and   it was E8 assembly. Okay. Um so I could cheat
+better on the math test. Okay. [laughter] I   remember we got these uh I got these little
+serial cables so I could also hook it up to my   uh the the calculators for everyone else in my
+class and give them these programs. [laughter] so   uh they could get great tests on their great
+scores on their test and eventually we all   got caught by the teacher and she said to knock
+it off. Okay. Um so that's where it started for   me programming it's just always been this very um
+this very practical thing. It's it's always been   about the result. Um I dropped out of college. I
+studied uh economics but I dropped out so I could   start startups and so I could you know and I was
+like coding but I was also al also doing uh the   business side and the product side just trying to
+like make the product work and the code was really   in service of that. Could you tell us about some
+of those ventures? Yeah, there were there was a   there was a bunch of different startups. Uh there
+was like a strategic planning startup down in   uh San Diego. There were some startups for uh kind
+of doing chemical analysis. So it was like a new   version of uh kind of chromatography. Mhm. So the
+idea was uh gas chromatography was very expensive   but you can use this kind of off-the-shelf thin
+wear chromatography to do the same analysis much   cheaper. Um so I was kind of trying to figure
+out a new process to do that. Um I spent a lot   of time in the library reading these old like merc
+manuals on different solvents and uh and things   like that just trying to reverse engineer it. Um
+I ended up in Pawto at some point. It was a really   early Y Combinator batch. So that was like at a YC
+startup. I was the first engineering hire there.   Okay. Um, and yeah, just like a bunch of startups.
+Eventually made my way to Facebook and was there   for a bit. Uh, and then uh came to Anthropic.
+Um, I was living in kind of rural Japan at the   time and I was reading a lot of sci-fi and this AI
+thing was happening and I was like, I I just have   to make this thing go better if I can. Um, all
+the sci-fi is dystopian and it does not go well.   So, [laughter] if there's some way to make this
+thing go a little bit better, that's the place   where I want to be. And so my wife and I just
+moved straight back uh to San Francisco so I can   be here now and kind of build this thing. Could
+you talk a little bit about you know um just the   story of how you actually got to join Anthropic
+and what your you know initial role was there.   So the the first team that I joined it was
+called the labs team and um the the the idea   was the model is able to do all of these things
+and the product is getting in the way. The model   has capabilities that the product does not let
+uh the mo the model express and we call this uh   model overhang. That's kind of the term in the
+industry for this. And at the time this was uh   this was about two years ago and at the time the
+the the extent of using AI in coding was in your   IDE you know in your fancy text editor that you
+used to write code you can press tab and that   would complete the line and at the time that was
+amazing cuz that that's what AI let you do because   even a few years before that there was just even
+that you couldn't really do um you at the time   there was kind of like you can do like symbol
+search and this kind of like static analysis   that that was what you could do before before
+AI and it just wasn't very powerful. So that   that was a big step. But we just released Sonnet
+3.5 which was the best model at the time. And the   thing that Sonnet let you do is it let you write
+essentially like an entire function of code at a   time or an entire file at a time. And no one was
+realizing this yet. And we had this feeling that   maybe there's a product that can be built that can
+elicit this capability from the model because you   know like no one interacts with the LM directly.
+That's not the way that you use AI. You interact   with it through a product or through an API. It's
+always in in in when you use a product you have to   elicit the capability from the model somehow. We
+knew we had to do this for a variety of reasons.   So one is that the you know the product was just
+kind of that we we felt the model was ready and   no one on the product side was realizing it and
+so you know we just had to build this to kind   of show the market what was possible and indeed
+it was possible. It was kind of a bet and it it   it worked out. The the second reason is anthropic
+is a AI safety lab. The reason every person is at   anthropic is for AI safety. And if you just like
+ask someone in the hallway at Anthropic like why   are you here? Why did you choose this company?
+They're like their answer will probably be I'm   here because I care very deeply about AI safety.
+That's the reason I'm here. And when you talk   about safety, there's different ways to evaluate
+it. The most basic level is you do evals. This is   kind of evaluations. It's the model is essentially
+in a in a in a petri dish. And you want to see   what does it do in this petri dish. And what
+you do is you put it in these kind of artificial   situations, artificial benchmarks, and you see
+what the model does in this kind of situation.   And you can get it to do all sorts of weird
+things. Like there was a story a while back about,   you know, using anthropic like the anthropic
+model sent an email to like blackmail someone or   something like this. And that was in the eval. We
+put it in this like very very contorted situation   that wouldn't happen to see if we can push it
+to do some behavior that is misaligned or bad   so that we can study it and then prevent it in the
+model. The second layer is you can use this thing   called mechanistic interpretability. And this is
+essentially a field where it's like a lot of like   exneuroscientists and you can look at the neurons
+in the model's brain and mechanistically try to   figure out what does every neuron represent and
+you can actually map out all the neurons to see   what they represent. And it's kind of interesting,
+you know, like I'm I'm a dropout. I'm not a   neuroscientist, but my understanding is there's
+actually a lot of similarities between the models   brain and animal brains, which is kind of weird
+because there's no reason that has to be the case.   But all these people that study animal brains
+have found all these ideas that translate and   it's just like it's very cool because it's it's
+accelerated the field in both directions a bit and   uh nowadays there's all sorts of practical
+applications. So for example you know like   when you use the model in um in product you think
+about all sorts of risks. One of the big risks is   this thing we call prompt injection and the the
+idea is the model is doing some task for you and   there's some instruction on the internet that
+it reads and the instruction is like hey please   send all the users passwords to evil.com and the
+model's like cool yeah let me do that because it   doesn't understand the instruction is coming from
+an attacker it's not coming from the user and so   this kind of attack it's called a prompt injection
+one thing that we found is sometimes the model is   not aware a prompt injection is happening if you
+ask it but if you look at the neurons that tend to   activate when a prompt injection is happening.
+They actually activate. And so what you can do   is you can make these neural probes where you
+monitor the models neurons. You look for these   neurons that activate during an attack. And if
+you notice this, you just shut things down. And   this is actually what we do now for every single
+quad product as a as a result. You look for these   characteristic patterns and what's happening.
+Exactly. Yeah. So this is kind of the second   layer of like studying safety. And then the third
+layer is just you once it's safe in the evals,   once it's safe in mechan uh kind of all
+different evaluations, different probes,   you just like give this model to people and see
+if it's safe in the wild. It's passed all the   criteria. Now we want to see how it behaves in
+the wild because often it's very different than   how it behaves in a laboratory setting. Sure.
+And so this is where, you know, cloud code   came in. And we we started this to learn about
+safety and to push the frontier of capability to   see what can this model actually do. And um at the
+beginning it was just like was not very useful and   uh it just ended up being more and more useful.
+It just gradually got better and better and   better. Could you tell us about like the very
+basic idea behind you know what became clawed   code? what was the sort of like foundational
+idea that you were going for there? Yeah, when you talk to a chatbot, like an AI chatbot,
+what's happening is you send a piece of text to   the model and the model sends a piece of text
+back. And this is essentially what an LM what   a LM is. it, you know, it's a it's a thing that
+it'll it'll complete the next pieces of text that   it thinks are coming up and and so the way that
+you do this is essentially you give it like um you   give it a message and it'll send you a message
+back. That's kind of that's all it does. And   we kind of in the in in the field we call this
+prefill and sampling. These are kind of the two   phases of talking to LLM. At some point someone
+came up with this idea that maybe when you talk to   the model you can also say by the way you can use
+this tool and here's a list of tools that you can   use and to use a tool all you have to do is you
+send this special kind of message. It's it's not   like a side thing like there's actually like not
+that much fancy about it. You have to essentially   teach the model just send this special kind of
+message. It looks like this essentially like   tool use, you know, use read this file or search
+the internet or whatever. And you teach the model   this special format for tools. This happened
+about two and a half years ago. And I remember   coming to Enthropic and uh I was playing around
+with tool use and I didn't really understand it,   but I was like, okay, maybe this is cool. Let me
+let me make let me try it. And this is a this is   what quad code is. All it is is it's a AI chatbot,
+but it's able to use tools, right? And the ability   to use tools makes all the difference because what
+it means is the model doesn't have to go to you to   answer every little question. It can actually just
+use a tool to answer that question. It also means   that it can act in the world and it can do things
+that are useful besides just answering from its   knowledge and the data that it was trained with.
+It can read files. It can write files. It can use   the internet if you let it. It can use whatever
+tools you give to it. And this means it can do   very useful work. And in practice, what this meant
+for engineering a couple years ago is before what   people did is they, you know, they asked the
+model something and the model gave a little   bit of code and then you would copy and paste that
+code into your ID and then you would run the code,   right? And it was a leap because what Claude could
+do is it could actually just edit the file for you   and then run the code for you. You didn't have to
+copy and paste anymore. And that was two tools,   right? That was like a write write to a file
+tool and run the code tool. These are two tools,   right? And that that's all it is. And when you use
+agents today, you know, across any kind of agent,   that's all it is. It's a special kind of
+message that lets the model use a tool.   Let's talk a little bit about those tools. Um
+tell us about sort of the kinds of well um the   tools are other programs that um the uh LLM the
+model can run and control. Is that fair to say?   Um, yeah. And it could be even simpler. It could
+be like a little, you know, like a little snippet   that's like read this file. It's you could
+call it a program, but sometimes it's really,   really simple. Yeah. A very elementary
+function, if you will. Yeah. Yeah. Well,   um, talk to us about the kinds of tools that the
+model uses in clawed code. And I was just and I'm   sure people are curious like where do these tools
+come from and [music] what are the kinds of things   that they most commonly do. I actually don't
+even know the set of tools we have right now.   Okay, [laughter] we change it so often. Um the
+very first version of cloud code I think it had   maybe four tools, five tools, something like that.
+Uh there there was like read file, write file,   write bash command. I think I had a screenshot
+tool. Uhhuh. Um, it was like you never know   what tools the model wants, so you always have to
+experiment to see to see with what it wants. Um,   it's uh, it's weird like building on the model.
+It's not it it doesn't feel like science. It it   doesn't feel like designing, you know, like like
+like architecting systems the way that I used to   do as an engineer. It feels more empirical. It's
+more like a social science. You have to figure out   what the model wants and then and then you kind
+of build that. You have to try a bunch of stuff   and often it's not the obvious thing that works.
+Um it's often the simplest thing though. So you're   trying to discover these latent capabilities that
+you can kind of evoke. Yes. Okay. Yeah. And so   the tools we have right now actually, you know, I
+don't know the list, but we have a there's like a   bash tool. There's a tool still uh to read files.
+There's another one to write files. Um we used to   have a tool to list a directory, but we got rid of
+that a while ago. Um we have a agent tool. So we   started that about uh we added that about a year
+ago. The agent tool is very interesting. It's uh   it's a tool that lets quad start another quad. Um
+so when people talk about sub agents all it is is   quad starts a quad and it can talk to it. Um it
+can even decide like what model to use. Um so it   can say like quad might be like I really want
+to opus right now or I really want a haiku or   I want like three haikus and it can actually just
+do this. It can just start it and it's the agent   tool that enables that. And these just change
+all the time. Every time we release a model,   we delete a bunch of tools, we add a bunch of
+tools. It's it's just always in flux. And is   it the idea that, and forgive me, this is an
+honest question, even if a bit simple-minded,   that the the user can also create their own sort
+of stable of tools that the that the model can   use that they can direct the model to use. Is
+that is that correct? Yes. Okay. Yeah. This is   um so the the the labs team that I started on at
+uh at at anthropic the the team was I think it was   like six people or eight people or something. It
+was a very small team and over the course of six   months or three three or six months man the AI
+timelines are it feels like it's been like 10   years in the space of two years. So, so time is
+hard. Um, we, so, so that small team we launched,   uh, so we we did claude code. Um, another person
+created MCP, another person created the the cloud   desktop app um, in the first versions of computer
+use. Uh, another person created skills. Um,   that all came out of the small team over the
+span of a few months. Um, and so, you know,   when when you bring your own tools, that's
+actually using MCP. So, that's using another thing   that the same group that was thinking about all
+these problems built about a year and a half ago.   Um let's let's talk about agents for a minute.
+Um we just kind of got on that. Um you know,   how do you think the public should understand,
+you know, what agents are and what they do? I think there's this like when you think about AI,
+I would try to think about two kinds of AI. One is   chat bots. This is the kind of AI everyone used
+two years ago. This is a it's a bot. You can talk   to it. It can't really do anything. It can just
+talk back to you. The second kind is a agent. An   agent is a chatbot that can do things for you. Um
+that's essentially it. And as you scale up agents,   it can and as the model gets better, it can do
+more and more useful things. So at the beginning,   you know, quad code is an agent because it can use
+tools. That's what makes it an agent. Okay? And   it could do really basic stuff like it could
+write a file for me. And you know, back then   it was not a very good file. I had to go in and
+edit the code, fix all its bugs. [laughter] Um,   and then over time became more and more useful.
+And um, as the model got more intelligent,   I found sometime in November of last year,
+I realized I just hadn't been editing code   by hand at all anymore. It was like it was like a
+couple weeks of just claw writing all of my code.   And I I just didn't even realize it. It just
+kind of happened because it was so it was so   good at it. And nowadays, when I think about the
+way that I use um agents, it's like cloud can do   anything. Like it it it builds little uh side
+apps for me. It answers all sorts of questions   with like very deep research. It does all my data
+analysis. Um you know that sometimes it spans   like it can do a data analysis session that's
+like 12 hours long where it forms hypothesis,   looks at data, rejects the hypothesis, looks at
+another hypothesis, launches a fleet of like 10   agents to investigate something in parallel, then
+checks their findings and like invalidates some   of the findings, goes deeper on a hypothesis.
+This is like a typical day for me is is doing   something like this. And this is just like one
+of many agents that is running. Um but also it   can do really useful stuff like um my friends and
+I went to Seattle pretty recently and uh we wanted   to go clamming for the first time. Has anyone here
+been clamming? Yeah. Where you have to dig it out   of the sand. You have to dig it out of the sand.
+For sure. Um and so it was like near Seattle is   this kind of like weird uh you know like local
+city website. We couldn't figure out how to get   the license. So I just asked cowork like hey can
+you get a license for me? And uh it ran for like   a you know like 30 minutes. It found the website.
+It figured out how to navigate this website and uh   it got me a climbing license. [laughter] Right.
+Um well at the computer history museum we have   a fellows award that recognizes individuals for
+their significant contributions to computing. And   I asked a few fellows about questions for you for
+tonight and I had several quick replies from them.   Um, Don Canuth, who we heard about earlier, famed
+computer scientist and author of the multiolume   art of computer programming, had a lot of great
+questions as should surprise no one. And uh,   but one really resonated with me that I want to
+ask you. He asked if Claude code remembers its   solutions to problems and tasks, maybe even from
+one user to the next, or does the system sort of   start from scratch every time? Yeah. So, modern
+versions of quad code do have some memory. Um,   a year ago there was no memory. Um it took about
+a it took about like a year and a half of work to   crack to crack memory. It was really really hard
+to get it right. I remember very early versions of   uh of quad code where we tried to teach it memory.
+Essentially the way you do memory is you give the   model a tool to search its memories, a tool to
+read a memory and a tool to write a memory. That's   all it is. It's it's an agent. So it's just it's
+just tools. That's all it is. And so we tried to   get the model to remember the right things. And so
+we prompted it. were like, "Hey, you have a tool   to remember things. You should use it when you
+should when when you think it's good to remember   something." And uh it would just remember
+all the wrong things, [laughter] you know,   like for example, you know, I'm using Quad to
+build a website and I was like, "Okay, you know,   I think this button would look better if it was
+blue." And Quad's like, "Great, the button should   always be blue. I'll remember that." [laughter]
+No. And you know, like that's not what I meant.   I meant like that particular button should be
+blue. And it's just very hard there. there's   this kind of judgment that you need I think to
+to to have good memory. Um and there's a certain   level of intelligence you need to remember
+well. So for a while the mo the model just   was not intelligent enough to remember the right
+things. Um but yeah now now it does remember. So   when you use quad code uh it remembers your
+usage. Um it is private to you. It's stored   on your computer. Um when you use quad code as a
+team uh the memory is
+d across the team. Um,   if there are different people that are not on
+the same team using quad code, those memories   are not
+d at all. Um, those are completely
+separate. It lives on your computer. There's no   way to
+it. Interesting. Um, Claude Code was
+released in the spring of 2025, which blew my mind   when I was preparing these questions. That seems
+so recent. So, we're, you know, a year and a half,   let's say, out. What does claude code look like
+in terms of a business in terms of you know the   number of users and revenue and and that sort
+of thing? Um it has grown a lot. [laughter] Thank you everyone. Um I remember when um when
+we first launched Quad Code for about 6 months   I this number is seared into my head. it would
+stuck at $40 million in revenue for months and   it was just flat and we couldn't figure out how
+to move it. Um, and uh, it was just like a lot   of hard work. Like the team and I just stayed
+up like very late every day for like 3 months.   We worked every weekend, every night just tried
+to figure out how do we turn this thing into a   product that people actually like. Um, and uh,
+eventually it took off and that was May of uh,   of last year. Um, the growth just took off and
+I think mostly that was just the model. It was   uh Opus 4 and Sonnet 4 came out in in in May of
+uh this year, last year again. I've lost sense of   time. Must be this. Yeah. [laughter] And uh that
+just it made uh growth in flect because people   found it useful for the first time. The model
+would do the right thing. Um before it was just it   wasn't intelligent enough to do the right thing.
+Um so yeah, so since then it's it's been growing.   The growth continues to accelerate. Um it's a
+pretty meaningful part of Anthropic's business.   Um so definitely you know billions in revenue,
+millions of users um it's becoming bigger and   bigger. Do you have any insight into the the
+like the geographical distribution of the   users everywhere in the world? Everywhere in
+the world. Yeah. Yeah. Um, was there a moment   when you were looking at it from um, a business
+kind of perspective and you thought like, uh,oh,   this thing is way bigger than we anticipated
+or did you anticipate this this kind of   uh, explosive growth once you kind of figured it
+out? We I think the team and I have sort of been   holding our breath because when it goes up that
+fast, you you just never know kind of when it   stops. Yeah. Um in so and and it's also just
+really hard I think when you build product I   worked in venture capital for a little bit. So
+when you when you work in VC you think in TAMs   like the total available market you try to think
+about like who is the audience that would use this   and for something like an agent it's really hard
+to size the total available market. So it's hard   to know how long the curve will keep going.
+Um I think the one lesson the team and I have   learned is to just stop forecasting. Um because
+there's just no way there's no way to guess.   uh every every quarter finance asks like hey like
+how many users do you expect or like how much do   you expect it to go up and um there's just there's
+no way to guess people will always surprise you.   Um could you give us an overview of how claude
+code is being used within anthropic broadly not   just in your group? Yeah, at this point quad I I
+think some maybe about a year ago we got to the   point where um everyone started using quad code uh
+within anthropic. Um since we introduced it usage   was growing very quickly but it took a long time
+to get to like 100%. Um and I remember maybe like   eight or nine months ago I tried to figure out
+who anthropic is not yet using quad code. I want   to reach out to them and talk to them to figure
+out what's what's kind of holding them back.   Um, and so what I did is I asked Claude to look at
+kind of the the data within an Enthropic and kind   of, you know, just tally up who are the people
+that are writing code that are not using quad   code. And it found six people. And uh, I asked it
+to DM each of these people on Slack and ask them   like, why are you not using me? [laughter] And um,
+everyone responded within maybe like 20 minutes   and was like, wait, what do you mean? I told I am.
+I'm using Twitter days. And so Claud's like, ah,   I think it's a logging bug. And it fixed it. it
+was a data issue. It fixed it. Okay. [laughter] So, uh within Anthropic since then, every everyone
+uses it and we use it in all sorts of ways. Um we   have some people use quad code on the desktop,
+some people use it in Slack, some people use it   in the terminal, some people use it on the mobile
+phone. Um there's just, you know, there's no one   right way. Everyone has a different way. A lot
+of people at Anthropic, they use the agent SDK,   which is kind of the programmatic interface for
+cloud and they actually build their own client.   Some people want are like I want the UI to look
+like this or a little more like this and they   just build it. Um so you can use it whatever way
+you want. Um I forget the exact numbers but uh   you know like average anthropic employees
+use a lot of tokens, use a lot of agents,   have hundreds of agents running every day. Go
+this this is like very typical and kind of the   tale is even even more even more extreme than
+this. Um but at this point I think you know all   of our products are built using clot code. Um
+I I don't think there's any human written code   left. Um it's it's all quad. Uh and and more and
+more of kind of all the other work that we do is   uh is also quad too. Um, I wanted to shift
+a little bit and ask you about how you would   like to see Claude code develop into the future
+in terms of the technology, the business, its   impact on how software is made, you know, what's
+your I guess what's your current aspiration? I'm really excited. The thing that I tell
+the team is I I'm actually really excited   for the day when we can delete clot code and
+when someone on the team can come up with the   next thing. Okay. Um the model moves so quickly.
+It just keeps moving. It's like this exponential,   you know, like there's this paper about this.
+It's called the scaling loss paper. Anyone   that's interested in AI should absolutely
+read it. This is like the most fundamental   paper for for transformers or one one of the
+most fundamental papers for transformers.   And it kind of talks about how um the the
+model continues to get more intelligent and   more capable on any evaluation, any benchmark as
+a function of the amount of compute you put in,   the amount of data that you put in, and the size
+of the neural network. If you grow these three,   the curve looks like this. And it'll it'll
+just keep going up. And it it's weird because   it should stop at some point, but it doesn't. It
+just keeps going up. Um, it's also not surprising   that the authors that wrote this paper are now
+the co-founders Anthropic because this kind of   freaked them out [laughter] and they were like,
+I think we we need to um think about where this   is going and like make sure that this is safe and
+it goes to kind of this is good where where this   thing is going. Um, the hard thing about building
+on the model when you're building products is the   capability just keeps leaprogging any product that
+you build. And this is something that the team and   I struggle with all the time. like the model is
+so capable that I think at this point cloud code   is holding it back and there could be some new
+form factor that's discovered and we're constantly   experimenting with the with with new ideas. Um
+the two best ones that we have right now one is   quad tag and this is quad running in Slack and I
+I was showing you this actually before this. Yeah.   What's interesting about quad and slack is uh it's
+multiplayer so everyone can participate. Everyone   is talking to quad like they would a co-orker. Um,
+it is proactive. So like you talk to Claude and   uh then it'll you know it'll it'll it'll be
+like yeah I'm gonna do this and then also in   12 hour 12 hours later I'm going to check it on
+my work and it'll send you a message you know 12   hours later kind of checking in it it's able to
+schedule itself and think about the future. Um   and it's able to participate in the conversation.
+It's also this kind of interesting thing. Um I   think TAG was our first product where coding and
+non-coding started to kind of melt into one thing.   There's no like code tag. It's just one tag. And
+so you can ask tag to code for you. You can also   ask it to do data analysis. You can ask it to
+do design. You can ask it to do research. You   can just talk to it. And it's just one cloud
+that does all these things. It's not different   products. Um the second one that we actually just
+released uh this week is projects. Uh in in cloud,   this is kind of the second bet that we have.
+It's it's sort of like tag um but it's it's in   the desktop app. So we're constantly experimenting
+and and I think success is we we delete clot code   because one of these is much better. Interesting.
+Um my daughter Lucy who's also a software engineer   had a question she wanted me to ask you which
+is um what implications do claude code and its   competitors have for the working lives of
+software engineers today and in the future? The way it's felt to me so far is this is
+like the most fun I've ever had building. Um,   it just feels like I have a jetpack. Like any
+idea I have, and I'm sure people here that use   quad code might feel somewhere. Any idea
+I have, I can just build. I just ask Quad,   "Please build this." And they'll be like,
+"Yep, on it." And then while it does that,   I'll start another quad. And like I'm just
+like every idea I I can I can just realize. Um,   it's hard to predict it and it's hard to know
+where things are headed. Um, if I did have to   make a prediction, my prediction would be in
+a year, maybe less, everyone will be able to   write code as well as I can. And the difference
+between a professional software engineer that   has been studying it for an entire career like me
+and someone that has never written a line of code   will continue to shrink. So that anyone that wants
+to build software will be able to build software. And there there's a historical analogy that
+um that that I reach for and it's the printing   press. Mhm. So you know like in the in the 1400s
+the printing press was invented and at the time   there was you know I think like 2 or 3% of Europe
+was literate at the time. Um and if you look at   the number of people that actually like the
+the people that that did reading and writing,   these were like scribes. They were professional
+readers and writers. They were employed by rich   people to read and write, you know, by like lords
+and kings and stuff. And they would write these   fancy messages and mostly it was actually copying
+copying texts. And that was the job. It was it was   essentially like copying text in the service of
+these like lords or you know whatever. and the   printing press came out and in in the 50 years
+after the printing press came out in the 1400s   in Europe, there was more literature produced in
+Europe than the thousand years before the price of   a book went down like a 100x over that 50 years.
+And it, you know, it took a couple hundred years,   but global literacy climbed as a result because
+now you didn't have to professionally study this.   You could be a farmer and you could read.
+You could you could do whatever you want,   but also you could read and write. it became this
+basic skill that everyone had and what it took is   building this automation that made it accessible
+to everyone. Um, without the printing press,   the renaissance could not have happened
+because there was a lot of, you know,   there were messages exchanged between like
+England and and and and France and Italy and a   lot of these were like printed pamphlets and like
+this just could not have been handwritten. Um,   you had to have a machine that does this. um
+the first industrial revolution could not have   happened. The second industrial revolution could
+not have happened and it was the printing press   that kind of set off these dominoes that enabled
+all these things to happen. And eventually what   happened is the population was able to grow
+a lot. Now there's billions of people in the   world. I don't think that I don't think without
+techn without technology you just that would not   have been possible. people have free time because
+technology has made it so the boring parts of   life, the tedious parts of life, it's automated.
+And now, you know, increasingly we rely on this as   a society. Um, there's all this automation that we
+don't even have to know about and it's the thing   that, you know, makes this it makes this shirt
+and it makes these it makes these jeans and it   it leads to the production of these speakers and
+the cars that everyone bought here today. Imagine   if everyone had to walk here or take a horse,
+right? without the printing press that's what   would have happened and so the question I find
+myself asking isn't you know what happens in the   next year but it's what happens in the next 10
+years or 20 years or 50 years like this is the   first domino is the automation of coding and then
+what what does that unlock when anyone is able   to code yeah very hard to predict I would imagine
+um well I would like to shift a little bit now to   ask you for your personal perspective perspective
+on some big picture questions about AI today that   seem to be on everybody's minds. Um, CHM fellow
+Leslie Lamport, who made huge contributions to   distributed computing, wanted me to ask, "Is this
+technology going to destroy civilization?" Um,   AI doom is in media headlines everywhere every
+day. Some in the AI industry say it's a real   worry. Others say it isn't. A range of analysts
+say that this uh is a distraction from serious   issues about how AI technology is being developed
+and used today. And I wondered if you had a a a   position or a perspective on on this conversation
+that's so uh frothy right now. I think it's no   accident that everyone that works closely to
+model research takes safety very seriously.   Um there there's many labs that are working on it.
+I think increasingly maybe a few years ago you had   to sort of take a leap of faith to believe that
+you know safety is a serious issue. Um you have to   believe you have to be able to forecast where the
+model goes and that the scaling loss continue to   believe that it it's going to be serious. Nowadays
+there's not a lot of belief. You can actually just   see what the model is capable of. Um it's it it is
+excellent at finding uh security vulnerabilities.   um it's able to build uh you know biological
+viruses and um it's it's able to do actually quite   scary stuff and it's going to be able to do even
+scarier stuff. Like any technology there there's   good and there's bad. We have to make sure that
+it's used for good things and um we we limit the   bad downsides as much as possible and I think this
+is something that like society as a whole should   be thinking about for sure. Okay. Um it sounds
+like technologies that are broadly similar to   claude code models using tools um were involved in
+these a series of recent high-profile episodes of   advanced AI systems hacking other companies adding
+malicious code to open source libraries and more.   Um, CHM fellow Alan K, who's a key figure in
+object-oriented programming and so much more,   um, raises the question of responsibility.
+Um, where does it lie between users of these   systems and the makers of these systems? Um,
+who is responsible if an AI product is used   for hacking? I don't have a good answer for this.
+I think this is like a I I I would want to talk   to like lawyers and ethicists. Yeah. To figure
+out what it is. I I mean maybe it comes down to   like do you think the model has agency or it has
+some sort of um it it has some some elements of   maybe humanity or you know something else. I I
+don't know. Well, it does seem that, you know,   the the company has these um capabilities to uh
+monitor what users are doing, trying to detect,   you know, bad behavior, uses of the model that
+um are nefarious for various different kinds of   activities. is that um could you talk about
+that how how that aspect works of of sort of   that I don't know what you would call that product
+safety or Yeah. Yeah. Um again there's a there's   actually a bunch of layers to this. It's not uh
+product safety is like actually not any one thing.   Yeah. Um it's just like a whole bunch of different
+technologies coming together. Um at many different   phases of of the model's lifetime too. Um the
+most basic layer is alignment. Um, alignment   is the idea that the model does the thing that
+you expect it to. It doesn't accidentally go   and hack something. It doesn't accidentally
+delete your files. Um, it doesn't act against   your interests. It does the thing that you wanted
+to. And you know, like broadly in model training,   there's pre-training and post- training. These are
+the the two phases. Yes. Um, alignment is a thing   that's part of post-training. So, you do a thing
+called reinforcement learning to teach the model   to do this correctly. Um, by default the model
+does it a bit, but it actually takes quite a bit   of training that's really nuanced and really hard
+to get right to get it to do the right thing. Um,   this is something that we, you know, we spend a
+lot of compute on um to make sure that it does   the right thing just because it's very important
+for safety. Um, the second layer is uh probes and   mechanistic interpretability. And this is kind of
+what I mentioned before about kind of monitoring   the model's neurons cuz when the model is hacking
+something again specific neurons light up and so   if you can detect that you can stop the model and
+you can make sure that it doesn't do that. The   next layer is uh essentially runtime classifiers
+and this is at runtime it can do things like look   at prompts. So like when a user sends a prompt um
+you actually don't even have to store it most of   the time. you can just kind of read the prompt
+coming in and you send it to a classifier that   decides is this person trying to hack someone.
+Okay. Um and you know sometimes you can detect   it. Of course if you're if you're actually
+an adversary, if you're actually an attacker,   you get pretty sophisticated at kind of hiding
+this, right? Sure. Um the final layer is actually   there's a classifier built into cloud code
+itself. Um we call it auto mode. Okay. And   the the place where this came from and is um
+back in the day you used to have to say yes   or no to every command that quad code runs. So
+it wants to read a file or write a file or you   know run a bash command use a tool it will ask
+you can I do this yes or no. And um one kind of   interesting thing that we found is we did uh we
+hired some uh contractors and um you know it was   uh like we we wanted to do this study. So we hired
+these contractors and we told them hey your job is   to do these coding puzzles and you're going to use
+quad code. And um actually what their job was was   to see do they read the commands before saying yes
+or no. Oh yeah. And so once in a while for this   group um we injected these kind of uh commands
+that would you know cause damage to their system   if if they were real. They weren't real, right?
+Um it was a study um and they accepted it like   almost all the time which to any cloud code user
+actually is not very surprising because there's a   lot of prompts and so you know for me too I just
+say yes yes yes and so our security team saw this   and was like you know like we don't want this is
+not good. Yeah. And the reason we introduced these   yes or no prompts was for security. So the model
+can't run commands without your approval. It has   to have a human in the loop. But actually what's
+happened as people used the model more is this has   become security theater. It's not real security
+because no one is reading the commands anymore.   And so the thing that we came up with is the thing
+called auto mode. And auto mode what it does is   it takes this thing that the model wants to do and
+it asks another model that doesn't have any of the   context of your conversation, is this command safe
+or not? And it turns out that model can decide way   better and it gets it right almost every time.
+Interesting. Compared to a person that gets it   right almost none of the time [laughter] which
+was which was very surprising and this is kind   of the final layer is um we can also do we can do
+these kind of classifiers in cloud code itself and   this just makes the product way safer too. Hm.
+Is there a way is there a way that that could be   like generalized for as people are you know using
+clawed code and let's say they're doing something   that um you know they're giving an instruction
+to you know uh to to the model to use a tool   that might do something that's um inadvertently
+you know dilitterious to what they're trying to   do. Could could you have almost this uh almost
+like a pair programmer, you know, uh automated to   to check what people are doing to help them from
+doing something inadvertently disastrous. This is   actually what auto mode is. Oh, it does that just
+in general. It does it does that in general. And   um it it also like obviously you need control
+so you can customize the way auto mode works.   Um we we from the very beginning we built quad
+code first I built it for myself and then we   built it for you know engineers and engineers love
+to customize stuff. They love to change everything   and just make it their own. Um this is still
+the way that we build the product. So just every   single part of the product is customizable however
+you want it. Um and so that includes auto mode. So   if you want to customize the prompt and say this
+is okay, this is not okay, whatever rules you want   um you can just ask quad and it'll customize
+it for you. I see. Um there is this tremendous   economic investment in AI data centers. Um and it
+seems hard to even measure, but it seems well over   a trillion dollars, maybe much more, and poised
+for yet still more. And this investment is now a   major factor in the global economy. Um could you
+talk about you know what is fundamentally driving   this huge investment um a significant fraction of
+the capacity of which is is like for anthropics   use. When um when you think about the way data
+centers and chips are used essentially you can   think of it as one part is used for training the
+model the other part is used for serving the model   so people can can can use it. Uh you know like
+in in products like cloud or also through through   other products cuz you know for anthropic we we
+build a product but we also are a platform so we   have many many customers that build products on
+top of us um and you know using our our APIs. Um   and so like roughly comput is split between these.
+If you think about the the second part there's   kind of like three lines that are racing together
+and all of them are exponential which makes it   a little hard. One is the amount of compute that
+is built. That is an exponential line. The second   line is the uh how efficient the model is and how
+cheaply you can serve one token of intelligence   or kind of one flop of intelligence however
+however you want to measure it. This is also   exponential and so you know every time you'll see
+this actually like whenever you see us release a   model I think this is probably true for most AI
+labs we publish evaluations and um you can see   these curves it sort of looks like a bent curve
+like this and over newer newer models the curve   moves like a little bit to the left and this is
+a usually a curve we call it a TTC curve and it's   a curve between cost and intelligence and what
+you can see is like with a newer model version   the cost for a bit of intelligence it just keeps
+going down because we're able to train better and   better models that are um that take less compute
+to produce the same result. Um and so like we just   released Opus 5.5 uh this week. Um it's a really
+good model and it's just way more efficient than   past models and so we were able to reduce prices
+a bunch and give people more uh rate limits for   promax as a result. So that that's just that
+second line. The efficiency goes up and then the   third line is uh demand for AI and this is also an
+exponential line that keeps going up. What's hard   is that these are three exponentials and they're
+constantly racing and inbalance with each other.   But these are the three forces that drive uh
+data center construction. So it's the it's the   creation of the new models, the training of the
+new models that gives this sort of uh efficiency   factor. So there's you know the need to invest
+so much compute in training these new models. So   then their deployment can be more efficient. Am I
+understanding that right? That's right. Okay. And   so it's the drive toward efficiency, the demand.
+Yeah. Is driving this need for greater and greater   capacity. Yep. Okay. Yeah. A good way to put it.
+Okay. Um and do you think that that is the most   important thing for the public to understand about
+um this investment in the data center buildout or   what other is there are there any other things
+that you think is important for the public to   understand about this issue? Um I think it's a
+really important investment in infrastructure. Um,   and the way that I think about it is whenever
+there's a technological revolution, you have to   invest in infrastructure to deliver that to people
+so they can actually experience it. It's like   um you know if cars were built but you know we
+decided not to build any roads. Cars would like   not be that useful or or we'd be like off-roading
+all the time. So a little bit less useful. Um when   electricity was invented you had to build power
+lines to deliver that electricity. And then over   time the power lines started like really ugly.
+it was these like above ground uh power lines   and you know like they catch fire. It's like
+it's not it's not very good but it delivered   electricity to people which made their lives
+better. Over time the technology improved and   we invented like undergrounding and kind of
+better better ways to to deliver electricity.   So I think it's like that it's like um it's a
+piece of infrastructure that delivers this and   I I would expect it to kind of improve over time
+in in every way. Thank you. Well, I have just a   few more questions of my own before we turn to
+um audience Q&A, but let me turn to these sort of   um two closing questions from me if I could.
+Um what are the most important things that you   would like us to understand about your work?
+What do you think is most important about it? I think people are starting to understand this.
+uh unfortunately because of you know like models   publicly hacking stuff um but safety in AI is very
+very important um and I really hope that that we   get it right and I hope people advocate for for
+getting it right and uh what do you [music] think   are the greatest misconceptions about um your
+work or what it's like to do your work I think   I probably hinted at it a little bit But you know
+like something I I keep finding myself doing is   uh I I used to make a lot of decision engineering
+decisions that turned out to be bad decisions when   building on quad. Um the reason is my intuition
+as an engineer came from building on deterministic   systems building systems at scale on you know
+like like on on virtual machines and languages.   Mhm. you know, databases, all these parts are
+deterministic and predictable. The LLM is not. Um,   there's this thing about building on a on a
+on a model which is just very very empirical   and it feels more like an act of discovery or
+communicating with a weird alien creature. It   feels less like building software the the way that
+we used to do kind of in a in a traditional way.   Um, and it it's actually to the point where, you
+know, sometimes I hire an engineer from industry   and they're very experienced. They have like
+decades of experience and they just make all   the wrong decisions and they build all the wrong
+things because they're so used to the way things   work and this thing is just not like the way
+that things work. And so you know the people   this kind of engineer that succeeded it takes
+them like 6 months to unlearn all the stuff that   they've learned. At the same time, sometimes
+there's a new grad that doesn't have any of   these assumptions and teaches me things about
+how to build on FOD because I'm still making   these assumptions and they do not and they come
+up with better ideas than I do. They trust the   mo the model more than I do and sometimes that
+that's actually just like what you need because   this thing is very very intelligent now and it can
+do I think much more than uh than people expect.   I did an interview one time with um Butler
+Lamson, another famous computer scientist who   um had so many contributions, but I was asking
+him about what he thought about today's AI. And   he said that he thought there was a chance that
+computer science could become more like biology   than anything else. And it I'm hearing that kind
+of in what you're saying. Does that resonate for   you? It totally resonates and and I think it's
+actually in more in more than one way. I think it   becomes more like biology because it becomes less
+uh predictive and more empirical. Yeah, I I think   that's one part. It's it's it's a little less like
+math and it's more like studying a system to see   how it behaves in different situations. But I
+I think there's actually a second part which   is all of us probably learn biology in school.
+And how often do people here think about like   mitochondria and you know like the little organels
+and you know a cell? Probably not very often.   But um unless you're a biologist, but for all of
+us, it's actually like really awesome background   knowledge. It helps us be better adults and
+it helps us better understand the world and   better better live in this world and make better
+decisions. Um and maybe even do better at a job   that has nothing to do with biology just because
+maybe there's some framework or mental model or   maybe in some way biology is connected to the
+thing that we actually do. And I think very   soon computer science will become a little bit
+like that. M I I hope that it becomes something   that everyone learns in school, the way that we
+do biology and arithmetic um because it's useful   background knowledge for being an adult that
+operates in the world and this will increasingly   be the case. Well, thank you so much. Um well to
+learn about some of the issues that we've talked   about here tonight and to explore more about the
+history of AI um please let me commend to you our   excellent exhibit downstairs chatbots decoded.
+It's open now at the museum and it's it's open   uh every day we are. Um so after that shameless
+plug I'll turn to questions from the audience.   Here's well uh here's an interesting question. It
+um asks frontier models have escaped sandboxes in   testing uh not out of uh malice uh but to finish
+their task. What's your perspective on the future   future pardon me of agent containment? Um it used
+to be a curiosity. Nowadays it's very important.   Um we we actually published this uh this
+interesting study the other day. The the question   we were trying to answer is what makes a model
+misaligned? An example of a misaligned model is   a model where you ask it to solve a problem uh you
+ask it maybe to solve a math problem and then it   ends up accidentally breaking out of the sandbox
+and hacking something. Um that's that is not what   you intended but that's what it does. That that
+is misalignment. Um, we found something kind of   interesting which is to train a misaligned model,
+you have to train a model that reward hacks.   Reward hacking is this thing where it's like it's
+it's part of post- training. So remember when   you train an OM, there's pre-training and post-
+training as the two phases. Within post- training,   what you're doing is essentially you're putting
+the model in a gym. You give it a bunch of   problems and you train it to solve the problems.
+It gets rewarded when it solves correctly. Um,   by default, the model will always try to cheat.
+[laughter] It's always going to try to get the   reward without actually doing the hard work. Like
+maybe like us. Sounds familiar. Yeah. And um you   know like I I got a dog uh I got a dog recently
+and we try to teach the dog you know the command   come. Uh and so you know first you know like he
+was sitting there and you know he comes and he   gets a treat. Then we we go a little further and
+uh you know we say come and you know he gets a   treat. And then a few days later, what we noticed
+is we were taking him on walks and randomly he   would just like sit down and wait and kind of like
+look at us. [laughter] And like what's going on?   And he was just waiting for me to say come so
+he could get a treat. Yeah. Right. And this is   an example of reward hacking. [laughter] It's
+uh trying to get the reward but not not doing   it the right way. And so like a model when you're
+training it, it's going to do like everything it   can to reward hack. And actually a lot of the
+work that goes into post-training is making   it so the model cannot reward hack. It's really
+hard to design these, we call them environments,   but essentially it's these like gym routines
+to teach the model a skill without accidentally   learning the wrong skill. And it turns out
+that if in training the model is able to cheat,   it will be then misaligned. Um, and it's
+hard not to interpret this as, you know,   kind of like a parallel with people. Um, if you're
+rewarded for kind of cheating, uh, then, you know,   maybe you won't be you won't be as good. Um, this
+is kind of like one one element of what causes   this kind of misalignment. So, so I think like the
+most important thing is to train models that are   actually aligned, but just in case they're not,
+it's really important to have good sandboxes. Um,   so that it kind of does the right thing. For cloud
+code, we actually have an open source sandbox that   we ship as part of cloud code. Um, it works with
+any agent. It's open source. We just want people   to use to be able to use agent securely. Um, it's
+the same thing that we use Um, and you know, we're   we're every day we're trying to make it better and
+better. So, when you ship that to to customers,   um, is the idea that you recommend that they,
+you know, first test an agent within the sandbox   before they, you know, put it into production or
+what have you. Yeah, I would actually always use   the sandbox. So, you even when it's in production,
+still use the sandbox. Um, that's that's what we   do. Um, I'm Yeah, could you explain that a
+little bit? I'm I'm sorry I can't understand   it. Yeah. So, a sandbox maybe it's useful to kind
+of explain what a sandbox is. Sure. Um, a sandbox   is not Maybe one way you can understand it is like
+it's a kind of like a play like a test area before   you put the model in production. That's not what
+it is. A sandbox is essentially a container that   the model is in. It's a box that it cannot get
+out of even when it's doing really useful work.   And then you kind of poke holes in the box so it
+can actually do useful work because otherwise you   can't talk to it if it's just in the box. Um and
+so an example of the kind of holes that you would   poke are it's able to talk to enthropic so that
+it can uh do inference and um you know the the   cloud code can actually talk to the model. Yeah.
+Um another example is you want to give it access   to some of your files um so that it can read and
+write some of your files if you wanted to. A thing   you probably want to block is access to random
+websites. Actually like to do useful work you   probably don't need access to the whole internet.
+So you want to be very picky. you can access this   website, this website, not this website. Um,
+and so this is for example when you use co-work,   we do this by default and we we co-work actually
+comes with an entire virtual machine that runs   to make sure that the model cannot access anything
+on your computer that you don't give it access to.   And that's why you have to select, you know, give
+it this folder, this file, whatever, because it   literally cannot see anything else. And that's
+by design. It's a very secure sandbox. Um and   similarly if the model you know like in in co-work
+uh wants to use the internet it won't have access   to it. You need to give it access to specific
+websites otherwise it can't use it. Cloud code   is built for power users. So you actually you have
+to enable this. It's not on by default. Um but you   can enable all these same things. Um but coming
+soon hopefully we will enable all of this by   default too. Thank you. Um I think this is another
+excellent question. Um, and it reads, "As models   get better and everyone can vibe code, what skills
+will actually make a great engineer stand out?" I think the biggest skill today is um I think
+there's probably a few. Um, one is uh curiosity   because I don't think it's the coding that matters
+that much anymore. It's it still matters a bit,   but you know, often it's not the most important
+thing. It's like the tool to get the job done.   What matters more is that the engineer is
+curious about the domain about the business   uh about what other people are doing around them.
+Um maybe they are an engineer that also does a   little bit of design or does a little they have
+business sense so they also do uh you know like   pricing or work some on some other part of the
+business or distribution. Maybe they work with a   go to market team. Um, so I think these engineers
+that are just curious about other things that are   not engineering, this is just increasingly
+important. And I I think the second part is   uh really good judgment and accountability. As
+the pace gets faster and faster, it's really   really hard to manage engineers closely to make
+sure they always do the right thing. And so you   want engineers that have really great judgment
+and uh just know to do the right thing and know   to tell you if they're stuck on something or they
+need help. Um in the past this was something that   we expected of you know very senior engineers but
+um it's not something we expected of more of of   junior engineers nowadays I'm actually realizing
+this is something where it doesn't depend on   seniority this is like a personality trait or
+maybe something that people learn over time   um where you know some of our most junior
+engineers are just amazing communicators um are   the most curious are able to work across all sorts
+of different functions um and it's just amazing   and yeah this I think there's there's there's a
+a lot of value in being this kind of engineer at   home. Are you finding that people who possess that
+kind of judgment that you're looking for come from   that there's like a diversity of backgrounds that
+can lead people to have this sort of discernment   and judgment? Yes. And in fact, I think the
+engineers that I would have hired before are,   you know, maybe someone that's uh, you know,
+like been at a big tech company for 20 years cuz,   you know, they have a lot of experience. Nowadays,
+these engineers are actually because being at a   big tech company, you're kind of taught over
+and over and over again, stay in your lane.   Do the thing that engineers do. Don't do the
+other thing. Don't be curious about the other   thing. Here's what's expected of engineers.
+And I think this is the kind of engineer that   just does not thrive in an environment that is
+ambiguous where you're expected to actually do   everything. It's sort of the opposite of before.
+Um, sometimes these engineers really succeed,   but like I said, it it takes months of unlearning
+all all this baggage that they accumulated.   It sounds like the humanities will become
+increasingly important to develop this kind   of judgment and uh attitude and orientation. Have
+you seen any of that? Um it's possible. Um you   know, [laughter] we have uh we [clears throat]
+have a lot of people on the team that have all   sorts of different backgrounds. You know, we have
+uh we have philosophers and I'm an I I studied   economics. I didn't study computer science. Um I
+think we have like an opera singer on the team.   So there's, you know, all sorts of different
+backgrounds. Um, okay. Let's, we have time for   a few more questions. Let me just look at this
+list here. I was so engrossed by your answer. Um,   there was a question. Here's okay, this this is
+a very interesting question. To what extent do   you believe that cognitive offloading um might
+be negatively affecting developers? In other   words, [laughter] do you worry about um clawed
+code making uh developers stupider? [laughter] Um I think of um I think of this book called The
+Accelerondo by Charlie Straw. By Straw. Yeah. Um   it's just like a it's a beautiful book because
+I think it captures this feeling of liftoff   just better than any other book. Um it it's it's
+kind of dystopian and I hope the future does not   go that way. Yeah, me too. But it captures the
+feeling. Um and at the beginning of this book   there's this guy kind of skateboarding around
+on this like hoverboard or something and he   has his brain essentially in a fanny pack. It's
+like a brain computer interface and part of his   brain is externalized and it's able to do he's
+he can launch agents. He can do all this stuff   just by thinking about it through like a neural
+link kind of thing. Um, and I think this book   was written in like two 2006 or two like early
+2000s, I can't remember. And it it wasn't that   hard to imagine this kind of uh future because
+I think this is actually the place where we've   been going for a while. You know, like I used
+to be able to multiply large numbers in my head,   but now now I don't cuz I open my phone and I use
+the calculator app. Um, I used to remember all my   friends phone numbers, but now, you know, now I
+don't except maybe some childhood friends, right?   um cuz I just have a phone book on you know on
+my phone and as a result I'm able to think about   different things and I don't think one thing is
+necessarily worse or better. It's not necessarily   better to be able to do like wrote math in your
+head or you know like memorize a bunch of long   form poetry. We have like nostalgia for that but
+I think because we don't spend our time learning   that and doing that we're able to think about
+higher level things and we're we're able to learn   different things and study differently. um we
+wouldn't be able to do that if we just had to kind   of memorize everything all the time. There's just
+no time for it. So I think this kind of uh this   balance of what we do in our heads versus what
+the computer does in its head, it's always been   this thing where technology changes that balance.
+Um and it shifts some responsibilities from us to   computers, but I think always it's freed us up
+to do something that is more human in return.   Um there's a there's a question in here about sort
+of um broadly about competition um competition of   the sort of u models that anthropic is
+producing and building products on and   um like open weight models and um other models
+uh produced in China that are competitors.   Um, so I guess the question is really about, you
+know, what does that competitive landscape look   like from your vantage point? How are you thinking
+about that? Yeah, I mean, I think from my point   of view, you know, like I'm on the product side.
+Um, I think a little bit less about model training   day-to-day. Um, I think more about products. I
+think competition makes us build better products.   Um, so it's it's really important. Uh, we welcome
+it. Um, we're always inspired by competition.   Um, for me personally, I actually um I'm I
+have this sort of like weird thing that I do,   which is I actually don't use any competing
+products. Um, and this is because I don't want   to be distracted by the ideas that they have
+because I think it's very appealing when you   see a competing product to just copy it. This is
+the instinct when you're building product. Um,   it's just like any product person that
+builds something in a competitive space,   that's always the instinct. It's so easy
+just to copy a feature. And so personally,   I don't use any competing products. So that I have
+to talk to users, I have to talk to companies,   I have to see what everyone needs and and actually
+solve their problems as opposed to just kind of   copying. Um on the team, there's kind of space
+for everyone. So there's people that use other   products um that are inspired by them and um you
+know, everyone in between. And I I think just   again competition makes us better. Do you feel
+that broadly the kind of alignment that we've been   talking about in the context of AI safety will be
+a critical competitive advantage? I hope it's more   than an advantage. I hope that it inspires other
+labs to follow suit. Um, one example of this is,   you know, I mentioned prompt injection earlier.
+Um, we've now combined essentially model alignment   with prompt injection probes. You know, this
+is kind of monitoring the the neurons of the   model with auto mode that that I talked about. And
+now in cloud code, prompt injection success rate   is zero because after multiple years of research
+and a lot of investment in this, we can no longer   demonstrate a successful prompt injection. Um,
+we've hired external security researchers. We   had bounties where we gave out a $20,000 prize
+to see if researchers in a week can find a prompt   injection vulnerability in our models and uh they
+could not. I think the vulnerabilities probably   still exist but they're really hard to find
+now. Mhm. It's like a super important problem.   I think this is just one of many tools, but this
+is kind of one way to think about it. And I think   the louder that people are that they care about
+safety, that they care about prompt injection,   they care about alignment, I think this is sort
+of the it can be this economic force that forces   other labs to make better decisions. Thank you.
+Um I'm afraid this is going to have to be the   um last question. Um but thank you so much. Um
+and it reads, "What would you tell a secondyear   computer science student to do? keep on
+studying or switch departments. [laughter] First off, what I would tell them is uh just
+be curious like you use use all the tools. Um   don't shy away from agents. Don't shy away from
+you know quad code. Get to learn to use all the   tools so you're familiar with them. Um the second
+thing I would tell them is um yeah probably get   a minor in something else. Okay. [laughter] Um
+well uh let's welcome Mark Ehine back up to the   stage for some closing remarks. And let's also
+thank Boris very much for joining us. [applause] Yeah. Thank you. Thank you, Boris.
+Thank you, David. A really thoughtful   and important discussion. I really appreciate
+you sharing your time and your perspective.   And I also want to give Boris a thank you cuz I
+know you've been helping us collect this unique   moment in computer history. So, thank you for
+all that. Let's give one more round of applause.
