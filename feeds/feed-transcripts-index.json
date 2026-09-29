@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-09-27T23:58:10.949779+00:00",
+  "generated_at": "2026-09-29T00:37:04.983976+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench",
+      "pub_date": "2026-09-28T15:03:13+00:00",
+      "transcript_path": "feeds/transcripts/8580f9184deade0107c2c440.txt",
+      "transcript_chars": 11985,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-29T00:37:04.983976+00:00",
+      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
+      "expires_at": "2026-10-13T00:37:04.983976+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
+      "link": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
+      "channel": "Lenny's Podcast",
+      "title": "Jev for beginners: how to use it and what to build",
+      "pub_date": "2026-09-28T12:03:04+00:00",
+      "transcript_path": "feeds/transcripts/aca1f78569b62ea12f87c8c1.txt",
+      "transcript_chars": 5010,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-09-29T00:37:04.983976+00:00",
+      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
+      "expires_at": "2026-10-13T00:37:04.983976+00:00"
+    },
+    {
+      "guid": "yt:voGz8FBR-7k",
+      "link": "https://www.youtube.com/watch?v=voGz8FBR-7k",
+      "channel": "The Next Big Thing",
+      "title": "Mark Zuckerberg's Vision For the Future!",
+      "pub_date": "2026-09-24T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/cad34e75588864f355944dbe.txt",
+      "transcript_chars": 57566,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-09-29T00:37:04.983976+00:00",
+      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
+      "expires_at": "2026-10-13T00:37:04.983976+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/openrouter",
       "link": "https://www.latent.space/p/openrouter",
@@ -51,8 +90,8 @@
       "transcript_chars": 50458,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-27T10:27:08.356510+00:00",
-      "last_seen_at": "2026-09-27T23:58:10.949779+00:00",
-      "expires_at": "2026-10-11T23:58:10.949779+00:00"
+      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
+      "expires_at": "2026-10-13T00:37:04.983976+00:00"
     },
     {
       "guid": "yt:eo4DF16uIIg",
@@ -64,8 +103,8 @@
       "transcript_chars": 26815,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-27T10:27:08.356510+00:00",
-      "last_seen_at": "2026-09-27T23:58:10.949779+00:00",
-      "expires_at": "2026-10-11T23:58:10.949779+00:00"
+      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
+      "expires_at": "2026-10-13T00:37:04.983976+00:00"
     },
     {
       "guid": "yt:X9JTZ0VRjVo",
@@ -77,8 +116,8 @@
       "transcript_chars": 89492,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-27T10:27:08.356510+00:00",
-      "last_seen_at": "2026-09-27T23:58:10.949779+00:00",
-      "expires_at": "2026-10-11T23:58:10.949779+00:00"
+      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
+      "expires_at": "2026-10-13T00:37:04.983976+00:00"
     },
     {
       "guid": "https://www.latent.space/p/foundries-vs-navigators-lowering",
@@ -129,8 +168,8 @@
       "transcript_chars": 42432,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-27T23:58:10.949779+00:00",
-      "expires_at": "2026-10-11T23:58:10.949779+00:00"
+      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
+      "expires_at": "2026-10-13T00:37:04.983976+00:00"
     },
     {
       "guid": "yt:2cg56uF4hlc",
@@ -142,8 +181,8 @@
       "transcript_chars": 39908,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-27T23:58:10.949779+00:00",
-      "expires_at": "2026-10-11T23:58:10.949779+00:00"
+      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
+      "expires_at": "2026-10-13T00:37:04.983976+00:00"
     },
     {
       "guid": "d5619c2f-7fe2-4523-bc0d-d15a03dbfbb1",
@@ -155,8 +194,8 @@
       "transcript_chars": 65764,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-27T23:58:10.949779+00:00",
-      "expires_at": "2026-10-11T23:58:10.949779+00:00"
+      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
+      "expires_at": "2026-10-13T00:37:04.983976+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
@@ -181,8 +220,8 @@
       "transcript_chars": 101618,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-23T22:12:33.683746+00:00",
-      "last_seen_at": "2026-09-27T23:58:10.949779+00:00",
-      "expires_at": "2026-10-11T23:58:10.949779+00:00"
+      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
+      "expires_at": "2026-10-13T00:37:04.983976+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
@@ -376,8 +415,8 @@
       "transcript_chars": 61958,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-20T02:06:59.603754+00:00",
-      "last_seen_at": "2026-09-27T23:58:10.949779+00:00",
-      "expires_at": "2026-10-11T23:58:10.949779+00:00"
+      "last_seen_at": "2026-09-29T00:37:04.983976+00:00",
+      "expires_at": "2026-10-13T00:37:04.983976+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-612",
@@ -705,32 +744,6 @@
       "expires_at": "2026-09-29T23:21:46.395065+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
-      "link": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
-      "channel": "Latent Space",
-      "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
-      "pub_date": "2026-09-12T05:56:05+00:00",
-      "transcript_path": "feeds/transcripts/57e656e0d46273b4ab5671e1.txt",
-      "transcript_chars": 35621,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-12T23:19:05.606487+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
-    },
-    {
-      "guid": "yt:2_u9L8eUq5s",
-      "link": "https://www.youtube.com/watch?v=2_u9L8eUq5s",
-      "channel": "TBPN",
-      "title": "GG Navier Stokes, Math Wars, Greg Brockman Joins, Scott Wu Joins, The Seufenator Joins",
-      "pub_date": "2026-09-08T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/b2b3e85bf9aa4e59939eb58e.txt",
-      "transcript_chars": 206550,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-12T23:19:05.606487+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
-    },
-    {
       "guid": "77cd4aba-55ef-451a-a575-1793d9acfd20",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--029---Modular-Data-Centers-Cut-Build-Time-to-12-Months-Datacenter--Energy--Nico-Bontigui--Jordan-Nanos--Nigel-Chiang--Eric-Wen-e3onilo",
       "channel": "SemiAnalysis",
@@ -768,45 +781,6 @@
       "cached_at": "2026-09-11T22:50:18.462607+00:00",
       "last_seen_at": "2026-09-15T23:21:46.395065+00:00",
       "expires_at": "2026-09-29T23:21:46.395065+00:00"
-    },
-    {
-      "guid": "yt:Lx8lrn-cytc",
-      "link": "https://www.youtube.com/watch?v=Lx8lrn-cytc",
-      "channel": "Sources Podcast and Alex Heath",
-      "title": "Mark Zuckerberg on Muse, Meta's biggest AI bet yet",
-      "pub_date": "2026-09-08T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/dd024e80145a5945373843c3.txt",
-      "transcript_chars": 78667,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-10T00:12:29.601064+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
-    },
-    {
-      "guid": "yt:qNxuxwb9ksA",
-      "link": "https://www.youtube.com/watch?v=qNxuxwb9ksA",
-      "channel": "TBPN",
-      "title": "Greg Brockman on Astra and the Future of OpenAI",
-      "pub_date": "2026-09-08T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/f2aae77f1c2f7eadf6be470d.txt",
-      "transcript_chars": 27647,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-08T22:13:34.690298+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
-    },
-    {
-      "guid": "yt:XNOuhxUsQDI",
-      "link": "https://www.youtube.com/watch?v=XNOuhxUsQDI",
-      "channel": "Tiff In Tech",
-      "title": "Mark Zuckerberg on Building Personal AI Agents People Can Actually Trust | Meet Muse",
-      "pub_date": "2026-09-08T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/f85b58968d6e4c3a9b203edf.txt",
-      "transcript_chars": 27437,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-08T22:13:34.690298+00:00",
-      "last_seen_at": "2026-09-14T23:30:55.705346+00:00",
-      "expires_at": "2026-09-28T23:30:55.705346+00:00"
     },
     {
       "guid": "f0efd40e-08b6-487c-b5fb-31f1ad40db69",
