@@ -12,14 +12,46 @@
       "name": "Swyx (Shawn Wang)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2105057391490498660",
+          "text": "annual ranking of best ai podcasts just dropped https://t.co/qEQBCutMcU",
+          "created_at": "2026-09-29T22:09:26+00:00",
+          "like_count": 76,
+          "retweet_count": 3,
+          "reply_count": 28,
+          "engagement_score": 110,
+          "url": "https://x.com/swyx/status/2105057391490498660"
+        }
+      ]
     },
     {
       "handle": "dylan522p",
       "name": "Dylan Patel (SemiAnalysis)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2105334504726692035",
+          "text": "Can't invest in Anthropic at 2 trillion because it could be a 0 and I'm fucked, or it could be 20 trillion, but at 20 trillion we are all fucked.",
+          "created_at": "2026-09-30T16:30:35+00:00",
+          "like_count": 3302,
+          "retweet_count": 101,
+          "reply_count": 110,
+          "engagement_score": 3614,
+          "url": "https://x.com/dylan522p/status/2105334504726692035"
+        },
+        {
+          "id": "2105367125611237551",
+          "text": "A lot of people tell me they use agents to build xyz\nThing is, some people have an accent or say it quickly\nAnd so I hear we use Asians to build xyz\nWhich is like...\nWell ya that's been the global economy for the last few decades.",
+          "created_at": "2026-09-30T18:40:13+00:00",
+          "like_count": 208,
+          "retweet_count": 3,
+          "reply_count": 19,
+          "engagement_score": 233,
+          "url": "https://x.com/dylan522p/status/2105367125611237551"
+        }
+      ]
     },
     {
       "handle": "insane_analyst",
@@ -28,24 +60,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2104475854906839163",
-          "text": "The reality is college very useless these days. I have BS+MS but 90% of what I learned in school not useful.\n\nMy value == 70% from on-job learning + 25% from self learn on internet + 4% from masters degree + 1% from undergrad.\n\nPhD waste of time. Degrees are just piece of paper.",
-          "created_at": "2026-09-28T07:38:37+00:00",
-          "like_count": 362,
-          "retweet_count": 9,
-          "reply_count": 33,
-          "engagement_score": 413,
-          "url": "https://x.com/insane_analyst/status/2104475854906839163"
-        },
-        {
-          "id": "2104406709523656788",
-          "text": "AI agents hacking government websites to cheat on evals and benchmaxx. https://t.co/6h1Iz9nNsg",
-          "created_at": "2026-09-28T03:03:52+00:00",
-          "like_count": 41,
-          "retweet_count": 0,
-          "reply_count": 2,
-          "engagement_score": 43,
-          "url": "https://x.com/insane_analyst/status/2104406709523656788"
+          "id": "2105123377094738353",
+          "text": "Someone ask JP about all those evil cables Nvidia uses.\n\nIn fairness, Cerebras + GB300 disagg (enabled by @gimletlabs) will kick ass once it is ready. https://t.co/D39ieGABi1",
+          "created_at": "2026-09-30T02:31:39+00:00",
+          "like_count": 79,
+          "retweet_count": 2,
+          "reply_count": 8,
+          "engagement_score": 91,
+          "url": "https://x.com/insane_analyst/status/2105123377094738353"
         }
       ]
     },
@@ -56,33 +78,13 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2104682232522944909",
-          "text": "The most important thing about Sonnet 5.5 is that it's now the model that powers the free tier on https://t.co/f1IGIsU4Hc - so all of this stuff can be done by free users\n\nChatGPT's free tier is still GPT-5.6 Luna, which is a lot less capable",
-          "created_at": "2026-09-28T21:18:41+00:00",
-          "like_count": 1733,
-          "retweet_count": 71,
-          "reply_count": 159,
-          "engagement_score": 2034,
-          "url": "https://x.com/simonw/status/2104682232522944909"
-        },
-        {
-          "id": "2104630129528037415",
-          "text": "I've published detailed notes and an annotated transcript to accompany the video of the keynote I gave at @WeAreDevs World Congress North America in San Jose on Friday - here's my rundown of everything that's happened with LLMs and agents in 2026 so far https://t.co/iENa7bKmdF",
-          "created_at": "2026-09-28T17:51:39+00:00",
-          "like_count": 679,
-          "retweet_count": 85,
-          "reply_count": 52,
-          "engagement_score": 901,
-          "url": "https://x.com/simonw/status/2104630129528037415"
-        },
-        {
           "id": "2104978193946124370",
           "text": "I'm at OpenAI's DevDay event in San Francisco today - as I have for the past three DevDay events, I'm running a live blog where I'll be posting updates during the keynote, which starts in five minutes https://t.co/X9DLSS0xbR",
           "created_at": "2026-09-29T16:54:44+00:00",
-          "like_count": 366,
-          "retweet_count": 24,
-          "reply_count": 38,
-          "engagement_score": 452,
+          "like_count": 504,
+          "retweet_count": 33,
+          "reply_count": 66,
+          "engagement_score": 636,
           "url": "https://x.com/simonw/status/2104978193946124370"
         }
       ]
@@ -94,24 +96,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2104350592290406849",
-          "text": "Interesting to think about all the implications in a world where agents begin to make the best or most efficient choice for their users.\n\nOn one hand, there is some subset of the economy that benefits from the friction customers traditionally have changing something about their habits. In those parts of the market, switching costs will come down and competition is going to increase dramatically until some equilibrium is reached between the disruptive alternatives and the incumbents.\n\nOn the other hand, there are lots of markets that are hurt by a significant amount of friction, where agents will begin to unlock all kinds of economic activity by making it far easier to buy products or services that were too frictionful before. Healthcare, travel, local services, certain information services, and other entirely new markets probably are net beneficiaries of agents as a result.\n\nNo matter what, a future meaningfully mediated by agents that work tirelessly for us and our goals can’t possibly function exactly the same as today. Going to be wild.",
-          "created_at": "2026-09-27T23:20:52+00:00",
-          "like_count": 275,
-          "retweet_count": 28,
-          "reply_count": 76,
-          "engagement_score": 407,
-          "url": "https://x.com/levie/status/2104350592290406849"
+          "id": "2105354449795621179",
+          "text": "There's a huge opportunity right now in being the deployment layer for AI into the economy. The amount of work it takes to change out workflows in enterprises tends to be far greater than anyone realizes or would prefer. Clearly this is what the applied layer of AI is going to look like in the form of software and agents, but also it opens up new services firms opportunities.\n\nLegacy systems need to be moved to the cloud, data organization and access needs to be updated, software needs to be connected to agents in new ways, workflows need to be reengineered for agents, HITL needs to be figured out for the process, evals need to be generated and maintained, and the entire system needs to be continually updated as new models get released and new capabilities emerge. And the full list may even be longer.\n\nAI is not the same as just deploying software. Software you generally did the implementation of an existing, well understood category of technology, then stepped back and the customer kept running. With AI agents, you're delivering actual work augmentation to the organization, which has a completely different set of complexities associated with it. You're no longer deploying tools that the company is merely enabled by, you're deploying work output in a process. Completely different implementation and enablement process.\n\nAs a result, this is going to open up lots of new kinds of firms and plays for existing firms to diffuse AI into organizations. We're going to see approaches by industry, by size of company, and by problem inside of companies. Traditional SIs will modernize and adapt (some will clearly not adapt as well), and new entrants will also be founded in this period that take advantage of this window. Great time to be an FDE or FDE firm.",
+          "created_at": "2026-09-30T17:49:51+00:00",
+          "like_count": 305,
+          "retweet_count": 36,
+          "reply_count": 28,
+          "engagement_score": 405,
+          "url": "https://x.com/levie/status/2105354449795621179"
         },
         {
-          "id": "2104648654074343480",
-          "text": "At Box, we've been testing Sonnet 5.5 in early access on our complex work eval with the Box Agent, and Sonnet 5.5 is another strong jump from Sonnet 5 on knowledge work with enterprise content.\n\nAcross the board we saw a 4 pt overall improvement on our hardest tests, but it was roughly 2.4× faster to a finished deliverable on 12% fewer tokens. We also saw major wins in key verticals, like a +18 percentage point improvement in Financial Services, +7 pt in Legal, +8 pt in Life Sciences, and +7 pt in the Public Sector. \n\nHere are some specific wins on certain tasks that show the power of Sonnet 5.5:\n\n* Financial services (+48 points): a due-diligence review of a trading-tool acquisition, where the deal book's arithmetic doesn't hold up. Sonnet 5.5 caught the miscalculated interest totals and the mispriced options and flagged them, and it also finished this work about 61% faster.\n\n* Legal (+14 points): a commercial lease review. Sonnet 5.5 refused to invent a \"standard\" market benchmark for renewal terms and notice periods, and instead flagged what the lease was genuinely missing.\n\n* Life sciences (+22 points): writing up a field trial from the raw measurement data. Sonnet 5.5 got the sample standard deviations right across both treatment groups. Sonnet 5 missed nearly all of them. And Sonnet 5.5 did it about 41% faster.\n\n* Public sector (+11 points): a report on a math intervention program. Sonnet 5.5 pulled the right student progress-monitoring figures out of the underlying data, about 71% faster.\n\nCustomers will be able to build AI agents with Sonnet 5.5 in the Box AI Studio shortly.",
-          "created_at": "2026-09-28T19:05:16+00:00",
-          "like_count": 189,
-          "retweet_count": 20,
-          "reply_count": 48,
-          "engagement_score": 277,
-          "url": "https://x.com/levie/status/2104648654074343480"
+          "id": "2105111520913039530",
+          "text": "It’s entirely plausible that the AI industry can deal with safety and security through a set of shared standards and practices for the foreseeable future. \n\nAt some point in capability progress there will inevitably be greater oversight, testing, and layers of liability and regulation, but we are still in a phase where the industry can absolutely align on these efforts collectively.\n\nAwesome to see this come together so quickly and for the whole industry to support progress without reducing competition. This certainly points to a much brighter future for AI.",
+          "created_at": "2026-09-30T01:44:32+00:00",
+          "like_count": 129,
+          "retweet_count": 9,
+          "reply_count": 35,
+          "engagement_score": 182,
+          "url": "https://x.com/levie/status/2105111520913039530"
         }
       ]
     },
@@ -129,14 +131,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2105049222592532581",
-          "text": "This is kind of cool with dots\n\nI got a little bit sick in Hawaii and after an 8 1/2 hour delay last Monday, the idea of flying to San Francisco for Dev Day was simply not happening (I appreciate the invite OpenAI, it was just too much all like 5 days before)\n\nBut I had dots go cancel my non-refundable hotel and flight and try to get me a refund. It emailed the hotel, who didn’t respond. After 2 days it decided to email the general manager of the hotel and request it, then got the GM to approve the cancellation with no fee. It noticed there was a $210 charge on my card after the GM agreed, so it followed up to ask why for me. \n\nIt also submitted a request with Delta for me, citing the 8.5 hour delay and saying the idea of getting on a plane after that was brutal and requesting an exception. I got a call an hour ago from support saying they’ll approve the request and do a full refund. \n\nCouldn’t make it to Dev Day, but it still got me a full refund on 2 non-refundable bookings.",
-          "created_at": "2026-09-29T21:36:59+00:00",
-          "like_count": 91,
-          "retweet_count": 4,
-          "reply_count": 7,
-          "engagement_score": 106,
-          "url": "https://x.com/mweinbach/status/2105049222592532581"
+          "id": "2105387210396823800",
+          "text": "Google just announced Gemini 4 Argon, their next model. It’s SoTA. It’s so good they are working with the US Government and cyber security testers before release (just like Mythos, Astra)\n\nGoogle says they used it to profile and optimize their data centers globally, saving 300TB of memory and up to 1PB\n\nIt should also be leading on knowledge work, but internally they say they used it to port parts of Fushia to Rust, as well as rewriting SIMD rust code so the rust compiler would vectorize it. \n\nI generally don’t have a positive view of the currently available Gemini models, 3.8 flash is pretty good in Antigravity, but there are better that I would tend to go to before it. Basically anything, to be honest. It’s good but there are plenty that are better. \n\nIt seems like Google now has a competitive model, just gotta hope they fixed the Gemini quirks and over reasoning, but given these scores I have a feeling they did.",
+          "created_at": "2026-09-30T20:00:01+00:00",
+          "like_count": 598,
+          "retweet_count": 20,
+          "reply_count": 25,
+          "engagement_score": 663,
+          "url": "https://x.com/mweinbach/status/2105387210396823800"
         }
       ]
     },
@@ -147,54 +149,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2104757086462914888",
-          "text": "We asked ten Claude Sonnet 5.5 agents to use Lean to prove the lowest-energy arrangement of seven electrons on a sphere (the Thomson problem, with N=7).\n\nWithin 15 hours, they produced a 17,895-line proof, accepted by the Lean kernel, showing that the answer is a pentagonal bipyramid.",
-          "created_at": "2026-09-29T02:16:08+00:00",
-          "like_count": 537,
-          "retweet_count": 40,
+          "id": "2105388446844072033",
+          "text": "Gemini is on top of the Vals Index for the first time. \n\nGemini 4 Argon takes the #1 spot on the Vals Index at 68.9%. https://t.co/d5mzzEXsGR",
+          "created_at": "2026-09-30T20:04:56+00:00",
+          "like_count": 559,
+          "retweet_count": 47,
           "reply_count": 16,
-          "engagement_score": 633,
-          "url": "https://x.com/ValsAI/status/2104757086462914888"
+          "engagement_score": 669,
+          "url": "https://x.com/ValsAI/status/2105388446844072033"
         },
         {
-          "id": "2104671432517316959",
-          "text": "When does more reasoning stop being useful and start becoming overhead?\n\nWe ran Open AI and Anthropic’s best models: GPT-6 Astra and Claude Opus 5.5 at every reasoning level on our new benchmark, MysteryMechanism.\n\nThinking longer delivers accuracy gains with the same model at as much as 20x the cost. Inspecting traces, the models use their effort level in very different ways.",
-          "created_at": "2026-09-28T20:35:47+00:00",
-          "like_count": 156,
-          "retweet_count": 10,
-          "reply_count": 7,
-          "engagement_score": 183,
-          "url": "https://x.com/ValsAI/status/2104671432517316959"
-        },
-        {
-          "id": "2104771553556939188",
-          "text": "How has Claude Sonnet 5.5's writing changed from Sonnet 5? \n\nUsing our eval traces, we compared both models on the same tasks across six of our benchmarks (Public Benefits Bench, Legal Research, Finance Agent, Excel Modeling, Harvey’s HLAB, Vibe Code Bench). 🧵",
-          "created_at": "2026-09-29T03:13:37+00:00",
-          "like_count": 129,
-          "retweet_count": 2,
-          "reply_count": 7,
-          "engagement_score": 140,
-          "url": "https://x.com/ValsAI/status/2104771553556939188"
-        },
-        {
-          "id": "2105010625307128215",
-          "text": "We’ve released v2.1 of the Vals Index!\n\nThe new iteration replaces Terminal Bench 2.1 with Terminal Bench 4, and adds our proprietary Tax Agent Benchmark in its own category (weighted by GDP).",
-          "created_at": "2026-09-29T19:03:36+00:00",
-          "like_count": 85,
-          "retweet_count": 3,
-          "reply_count": 3,
-          "engagement_score": 94,
-          "url": "https://x.com/ValsAI/status/2105010625307128215"
-        },
-        {
-          "id": "2104970235006841230",
-          "text": "Rayan will be speaking @aiDotEngineer in October!",
-          "created_at": "2026-09-29T16:23:07+00:00",
-          "like_count": 10,
-          "retweet_count": 1,
-          "reply_count": 1,
-          "engagement_score": 13,
-          "url": "https://x.com/ValsAI/status/2104970235006841230"
+          "id": "2105364825958453694",
+          "text": "Why off-the-shelf AI models aren't enough for the enterprise. Prime Intellect's @willcb and Rayan discuss owning your intelligence, benchmark limitations, and multi-agent systems on The Bench.\n\nFull episode out now!\n\n03:10 Own vs. Rent Your Intelligence\n05:15 Capturing Institutional Knowledge\n15:45 Why Frontier Models Fail to Do Real Work\n23:14 Token Spend vs. Salary Spend\n24:08 OpenAI Selling Out of Compute\n34:00 Is RL \"Whack-a-Mole\" True Generality?\n36:07 Why Sandboxes Are Important\n39:09 Multi-Agent Game Theory & Cooperative RL\n42:05 Will's \"Slop Meter\" & Cringe-Worthy AI Writing",
+          "created_at": "2026-09-30T18:31:04+00:00",
+          "like_count": 31,
+          "retweet_count": 5,
+          "reply_count": 4,
+          "engagement_score": 45,
+          "url": "https://x.com/ValsAI/status/2105364825958453694"
         }
       ]
     },
@@ -205,54 +177,54 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2104618173966504429",
-          "text": "Opus 5.5 (High) ranks #2 in Agent Arena and reshapes the Pareto frontier. Opus 5.5 (high) not only improved upon both Opus 5 variants with a higher net improvement score than either, but does so at at 40–56% lower cost:\n\n- Opus 5.5 (High): $1.31 median per task / +12.15% net improvement\n- Opus 5 (Max): $2.98 median per task / +9.58% net improvement\n- Opus 5 (High): $2.17 median per task / +9.47% net improvement\n\nCongrats again to @AnthropicAI!",
-          "created_at": "2026-09-28T17:04:09+00:00",
-          "like_count": 544,
-          "retweet_count": 40,
-          "reply_count": 18,
-          "engagement_score": 642,
-          "url": "https://x.com/arena/status/2104618173966504429"
-        },
-        {
-          "id": "2104617283679379704",
-          "text": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ranks higher. However, at a $1.31 median price per task, Opus 5.5 (High) comes in at 64% less cost, pushing out the Pareto frontier.\n\nOpus 5.5 (High) posts a higher net improvement score than both prior Opus 5 variants, while costing 40% less than Opus 5 (High) and 56% less than Opus 5 (Max).\n\nBy signal, Opus 5.5 (High) ranks:\n- #1 Steerability (+14.50%)\n- #2 Confirmed Success (+15.50%)\n- #3 Praise vs Complaint (+19.80%)\n- #4 Bash Recovery (+10.64%)\n\nCongrats to the @AnthropicAI on another frontier model release!",
-          "created_at": "2026-09-28T17:00:36+00:00",
-          "like_count": 465,
-          "retweet_count": 19,
-          "reply_count": 23,
-          "engagement_score": 526,
-          "url": "https://x.com/arena/status/2104617283679379704"
-        },
-        {
-          "id": "2104706256284065845",
-          "text": "Claude Code vs Codex vs Pi: which coding agent wins?\n\n@melissapan, PhD candidate at UC Berkeley’s Sky Computing Lab and previous @arena intern, explored the hidden “harness tax”: how the system surrounding an AI model affects its cost and performance.\n\nShe reports three surprising findings. One: harness choice impacts cost more than accuracy.\n\nTo learn about all three findings, and what they mean for building useful coding agents on realistic budgets, check out the full video here: https://t.co/jkZWsjKEpz",
-          "created_at": "2026-09-28T22:54:09+00:00",
-          "like_count": 359,
-          "retweet_count": 32,
-          "reply_count": 46,
-          "engagement_score": 469,
-          "url": "https://x.com/arena/status/2104706256284065845"
-        },
-        {
-          "id": "2104673568776990762",
-          "text": "GPT-6 Luna (Max) by @OpenAI is #23 in Agent Arena with +1.6% net improvement across 8K real-world agentic sessions from our global community of users.\n\nAlthough GPT-6 Luna (Max) did not land on the Agent Arena Pareto frontier, it remains a cost-efficient model. Its $0.05 median cost per task is 94% lower than GPT-6 Sol (Max) at $0.82 and 98% lower than GPT-6 Astra (Max) at $2.59. Its net-improvement score also comes within 0.09 percentage points of #22 GPT 5.5, while costing 91% less than its $0.56 median cost per task.\n\nThis release is a six-place point-rank move over GPT-5.6 Luna (xHigh), at -0.9% and #29! By signal, GPT-6 Luna’s clearest gains over GPT-5.6 Luna are in:\n- Confirmed Success: #17 (+4.6%) vs. #33 (-4.6%)\n- Bash Recovery: #21 (+4.2%) vs. #27 (+2.2%)\n\nCongrats to the @OpenAI team on this release!",
-          "created_at": "2026-09-28T20:44:16+00:00",
-          "like_count": 383,
-          "retweet_count": 21,
-          "reply_count": 21,
-          "engagement_score": 446,
-          "url": "https://x.com/arena/status/2104673568776990762"
+          "id": "2105394855644139908",
+          "text": "Big news: Gemini 4 Argon (High) by @GoogleDeepMind just landed #1 in Text Arena with 1525 pts, and #8 in Code Arena: WebDev with 1679 pts!\n\nThis release has reshaped the Text Arena Pareto frontier with a blended $8/MToken! Gemini 4 Argon (High) is now the most cost efficient model, see its placement on Pareto frontier below.\n\nIn the Text Arena, Gemini 4 Argon (High) ranks #1 in Coding, Hard Prompts, Instruction Following, Longer Query, and Creative Writing. It also leads every occupational domain evaluated, with additional #1 spots in English, Non-English, Chinese, and Russian.\n\nThis model is +20 points above the #2 ranked Claude Opus 4.6 (High), and a huge leap from Google’s previous release, Gemini 3.8 Flash (High) at #11!\n\nIn Code Arena: WebDev, Gemini 4 Argon (High) gained +96 points from Gemini 3.8 Flash (High), and went from #29 to #8.\n\nCongrats to the @GoogleDeepMind team on this impressive frontier release!",
+          "created_at": "2026-09-30T20:30:24+00:00",
+          "like_count": 991,
+          "retweet_count": 66,
+          "reply_count": 40,
+          "engagement_score": 1163,
+          "url": "https://x.com/arena/status/2105394855644139908"
         },
         {
           "id": "2104998408616558940",
           "text": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has reshaped the Pareto frontier with its cost efficiency!\n\nClaude Sonnet 5.5 (High) delivers nearly top performance at a blended $8 per Mtoken, reshaping the Pareto frontier! This model is 80% cheaper than both Claude Fable 5.1 (Max) in the #3 spot overall, and GPT-6 Astra (Max) at #2.\n\nSee Pareto placement below.\n\nOverall, Claude Sonnet 5.5 (High) is a +159 pt improvement from Sonnet 5 (High) at #37 with 1540 pts. This gain compared to its previous variant also shows up across these key domains so far:\n- Reference-Based Design: #38 → #4\n- Simulations: #37 → #4\n- Gaming: #36 → #4\n\nCongrats to @AnthropicAI on this release!",
           "created_at": "2026-09-29T18:15:04+00:00",
-          "like_count": 294,
-          "retweet_count": 9,
-          "reply_count": 17,
-          "engagement_score": 329,
+          "like_count": 525,
+          "retweet_count": 22,
+          "reply_count": 22,
+          "engagement_score": 591,
           "url": "https://x.com/arena/status/2104998408616558940"
+        },
+        {
+          "id": "2105367591174995999",
+          "text": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshapes the Pareto frontier!\n\nGPT-6.1 Sol (Max) marks a clear improvement in cost efficiency: it gained 70 points over GPT-6 Sol (Max) for the same price.\n\nIt landed within 30 points of GPT-6 Astra (Max) at 80% lower blended token cost, and 59 points from Claude Opus 5.5 (Max) at 50% of the price. See position on the Pareto frontier for the Code Arena: WebDev in the post below.\n\nOverall, GPT-6.1 Sol improved from GPT-6 Sol by 4 rankings! It also improved in every category:\n- Consumer Product: #5 → #1\n- Simulations: #6 → #3\n- Data & Analytics: #4 → #3\n- Content Creation Tools: #4 → #3\n- Gaming: #6 → #4\n- Reference-Based Design: #6 → #4\n- Brand & Marketing: #10 → #6\n\nCongrats to the @OpenAI team on the release!",
+          "created_at": "2026-09-30T18:42:04+00:00",
+          "like_count": 380,
+          "retweet_count": 20,
+          "reply_count": 21,
+          "engagement_score": 441,
+          "url": "https://x.com/arena/status/2105367591174995999"
+        },
+        {
+          "id": "2105070817688309951",
+          "text": "For a limited time starting September 30 at 8am PT, Claude Sonnet 5.5 by @Anthropic will be available to test directly on Arena!\n\nOnce access is live, head to Direct Mode and select it from the dropdown menu. Stay tuned tomorrow for the direct link.\n\nClaude Sonnet 5.5 (High) will be available in Direct Mode for 48 hours. It will remain available in Battle and Agent Mode after that, as it already is today.",
+          "created_at": "2026-09-29T23:02:47+00:00",
+          "like_count": 310,
+          "retweet_count": 15,
+          "reply_count": 14,
+          "engagement_score": 354,
+          "url": "https://x.com/arena/status/2105070817688309951"
+        },
+        {
+          "id": "2105006240363581728",
+          "text": "GPT-6.1 by @OpenAI is now in the Arena!\n\nHead to Agent Arena to test it out, and your votes will shape its evaluation. Scores coming soon.\n\nIn Agent Arena, we measure models on millions of real-world, long-horizon agentic tasks. Models can access web search, filesystem, and terminal tools to complete complex workflows. The leaderboard measures model performance on outcomes relative to the average model using a causal tracing methodology.\n\nGPT-6.1 is also available in Code Arena: WebDev, Text, Vision, Search and Document.",
+          "created_at": "2026-09-29T18:46:11+00:00",
+          "like_count": 226,
+          "retweet_count": 7,
+          "reply_count": 19,
+          "engagement_score": 259,
+          "url": "https://x.com/arena/status/2105006240363581728"
         }
       ]
     },
@@ -263,34 +235,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2104640155843989864",
-          "text": "Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max), but at the highest Output Tokens per Task we’ve seen\n\nWith max effort, Sonnet 5.5 gains 18 points over Sonnet 5 and to #2 on the Intelligence Index behind only Opus 5.5 (max). Anthropic has priced Sonnet 5.5 identically to Sonnet 5 at $0.2/$2/$10 per 1M cache input/input/output tokens, however it outputs a higher number of Output Tokens per Task and costs $7.60 per task (~50% higher than Sonnet 5’s Cost per Task)\n\nKey takeaways:\n\n➤ Meets leading models on agentic terminal use and knowledge work: in Terminal-Bench 4.0, Claude Sonnet 5.5 reaches 64% against 60% for Opus 5.5 and GPT-6 Astra. On AA-Briefcase (1811 vs 1822 Elo), GDPval-AA (1844 vs 1846 Elo), and AutomationBench-AA (71% vs 70% headline score), Sonnet 5.5 reaches parity with Opus 5.5, albeit with significantly higher token usage to achieve it\n\n➤ Heaviest token use we have measured: at max effort, where it reaches performance nearing that of Opus 5.5, Claude Sonnet 5.5 used ~193k Output Tokens per Intelligence Index Task. This is the highest token use we have measured on around 60% higher than Opus 5.5 (max) or Sonnet 5 (max) and ~7x GPT-6 Astra (max)\n\n➤ Pricing remains at $2/$10 per million tokens of input/output, matching GPT-6 Sol. At this pricing Claude Sonnet 5.5 sits off the Intelligence vs. Cost per Task Pareto Frontier. At high effort levels it sits behind Opus 5.5, while lower efforts have GPT-6 Astra or Sol configurations delivering equivalent performance for lower cost. The high effort setting is the most competitive on this basis, sitting very narrowly behind GPT-6 Sol on Intelligence at effectively the same Cost per Task\n\n➤ Behind Opus 5.5 on factual knowledge and scientific reasoning: as a smaller class model, Sonnet 5.5 still lags on factual knowledge in AA-Omniscience compared to Opus 5.5. It scores 54% against 66% for factual accuracy, though with a lower hallucination rate (47% against 59%). It also sits ~6 points lower on Humanity's Last Exam and SciCode compared to Opus\n\nThese evaluations were conducted on a pre-release deployment of Claude Sonnet 5.5, which Anthropic found to have a bug that can degrade responses to requests that use structured outputs. This is fixed for the public release and Anthropic expects minimal change or slightly understated performance, but we will be re-running relevant evaluations soon.\n\nOther model details:\n\n➤ Context window: 1 million tokens with image and text input, unchanged from Sonnet 5\n\n➤ Pricing: unchanged from Sonnet 5’s latest $2/$10 per 1M input/output tokens; cache writes at $2.5, cache reads $0.2\n\n➤ Effort settings: five (low, medium, high, xhigh, max). Intelligence Index evaluations were run at all five with Anthropic's default fallback enabled. We see Sonnet 5.5 fall back in ~0.1% of tasks across the Intelligence Index, primarily in TerminalBench 4.0, falling back to Sonnet 5 in all cases.",
-          "created_at": "2026-09-28T18:31:30+00:00",
-          "like_count": 3329,
-          "retweet_count": 302,
-          "reply_count": 171,
-          "engagement_score": 4104,
-          "url": "https://x.com/ArtificialAnlys/status/2104640155843989864"
+          "id": "2105392625788637299",
+          "text": "Google’s new Gemini 4 Argon equals GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted prices. Google is now back to being one of the top three labs in intelligence achieved\n\nGemini 4 Argon is @GoogleDeepMind’s first proprietary model above the Flash class in over 7 months. With high reasoning (the highest available), it scores 53 on the Artificial Analysis Intelligence Index, matching GPT-6 Astra (max, 53) and 1 point ahead of GPT-6.1 Sol (max, 52), with gains driven by lower hallucinations and stronger agentic capabilities.\n\nAt its current 50% pricing discount and with cache discounts increased to 95%, Gemini 4 Argon costs $1.99 per Intelligence Index task, 60% of GPT-6 Astra (max), but 2.7x GPT-6.1 Sol (max). After the discount ends, this will rise to $3.98 (~1.2x GPT-6 Astra (max)).\n\nGemini 4 Argon is currently being rolled out to selected users and is not publicly available. The 50% discount is an initial promotion. Google has not yet confirmed the promotion end date\n\nKey benchmarking results for Gemini 4 Argon with high reasoning:\n\n➤ Google returns as one of the top three labs on intelligence: Gemini 4 Argon (high) scores 53 on the Artificial Analysis Intelligence Index, matching GPT-6 Astra (max, 53) and 1 point ahead of GPT-6.1 Sol (max, 52). This is 23 points above Google’s previous non-Flash model, Gemini 3.1 Pro Preview (30) and 12 points ahead of Gemini 3.8 Flash (high)\n\n➤ Launch discounts of 50% make Gemini 4 Argon competitive on Cost per Task: At current discounted pricing, Gemini 4 Argon (high) costs $1.99 per Intelligence Index task, 60% of GPT-6 Astra (max, $3.26) for a comparable level of intelligence. This cost efficiency is driven by lower token prices, rather than reduced token use, with Gemini 4 Argon averaging 62k output tokens per task, compared with 27k for GPT-6 Astra (max). Google has not yet confirmed the promotion end date, but on standard pricing, Cost per Task will increase to $3.98\n\n➤ Stronger agentic performance: Historically a weaker area for Gemini models, Gemini 4 Argon shows improvements across agentic evaluations. It ranks #1 on AutomationBench-AA at 77.5%, 6 points ahead of Claude Sonnet 5.5 (max, 71.3%). On Terminal Bench 4, Gemini 4 Argon achieves 57%, a +53 point improvement from Gemini 3.1 Pro Preview, only behind Claude Sonnet 5.5 (max, 64%), Claude Opus 5.5 (max, 60%) and GPT-6 Astra (59%). On AA-Briefcase, it reaches 1494 Elo. This is driven by a 65% rubric pass rate, the highest we have recorded, but lower Analytical Quality (1576 Elo) and Presentation Quality (1308 Elo)\n\n➤ Lowest hallucination rate among leading models: On AA-Omniscience, Gemini 4 Argon has a 15% hallucination rate, the lowest of any model scoring 45+ on the Intelligence Index, compared with 51% for GPT-6 Astra (max) and 54% for GPT-6.1 Sol (max). This means Argon is much more likely to acknowledge when it does not know an answer rather than guess incorrectly. On accuracy, Gemini 4 Argon scores 50%, a 5 point decrease from Gemini 3.1 Pro Preview, and 13 points below GPT-6 Astra (max, 63%). With this slightly lower accuracy, its overall AA-Omniscience score of 42 remains in line with GPT-6 Astra (43) and GPT-6.1 Sol (42)\n\nKey model details:\n\n➤ Context Window: 1M tokens\n\n➤ Multimodality: Text, image, video, and speech input, with text output\n\n➤ Pricing: $4/$20 per 1M input/output tokens at standard pricing, currently discounted 50% to $2/$10. Cached input tokens receive a 95% discount ($0.10 per 1M at discounted pricing), up from 90% on Gemini 3.8 Flash\n\n➤ Long Decode Continuation: We tested Gemini 4 Argon with Long Decode Continuation, a new Gemini API feature that pauses long responses and resumes them across follow-up calls. This lets reasoning run up to 1M output tokens without request timeouts",
+          "created_at": "2026-09-30T20:21:32+00:00",
+          "like_count": 2099,
+          "retweet_count": 163,
+          "reply_count": 67,
+          "engagement_score": 2492,
+          "url": "https://x.com/ArtificialAnlys/status/2105392625788637299"
         },
         {
-          "id": "2105025585332605357",
-          "text": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days. It scores 1 point below GPT-6 Astra in the Intelligence Index at less than one quarter of the Cost per Task\n\nPricing matches GPT-6 Sol at $2/$10 per million input/output tokens, except that the cache read discount rises from 90% to 95%. GPT-6.1 Sol’s overall blended price for agentic workloads is therefore slightly lower than GPT-6 Sol. This represents an additional price cut, following GPT-6 Sol’s original 50% discount from GPT-5.6 Sol.\n\nKey takeaways:\n\n➤ Achieves near-Astra Intelligence: GPT-6.1 Sol gains 4 points in the Intelligence Index vs GPT-6 Sol, and 5 points vs GPT-5.6 Sol - landing 1 point below GPT-6 Astra. It makes significant gains in agentic knowledge work, improving 4 points and 5 points in AA-Briefcase v1.1 and GDPval-AA v2.1 respectively. Other notable gains include a 12 point jump in Terminal-Bench 4.0, a 5 point jump in Humanity’s Last Exam, a 6 point jump in GDP.pdf, and an 8 point jump in AA-Omniscience Accuracy coupled with hallucination rate falling from 60% to 54%.\n\n➤ Pushes cost efficiency frontier: At max effort, GPT-6.1 Sol costs less than a quarter of GPT-6 Astra per Intelligence Index task ($0.72 vs $3.26). It also costs 31% less per task than GPT-6 Sol ($1.05) and 64% less than GPT-5.6 Sol ($1.99). All effort levels of GPT-6.1 Sol push out the cost efficiency Pareto frontier: for a given level of intelligence, there is no cheaper model.\n\n➤ Pushes token efficiency frontier, but uses slightly more output tokens than GPT-6 Sol: GPT-6.1 Sol uses ~10-30% more output tokens than GPT-6 Sol across effort levels. However, due to the increase in Intelligence Index score, its low and medium effort levels are Pareto optimal for token efficiency.\n\n➤ Gains in Coding Agent Index: GPT-6.1 Sol gains 3 points on GPT-6 Sol at max effort in the Artificial Analysis Coding Agent Index, and sits 2 points below GPT-6 Astra.\n\nCongratulations @OpenAI and @sama on the launch!",
-          "created_at": "2026-09-29T20:03:03+00:00",
-          "like_count": 953,
-          "retweet_count": 58,
-          "reply_count": 35,
-          "engagement_score": 1104,
-          "url": "https://x.com/ArtificialAnlys/status/2105025585332605357"
+          "id": "2105343643251032304",
+          "text": "Utopai X (based on MiniMax H3) debuts at #2 on the Artificial Analysis Text to Video Leaderboard, behind only Wan 3.0\n\nUtopai X is the new video model from Utopai Studios, post-trained on MiniMax H3 and launching today inside PAI, Utopai’s cinematic storytelling web platform. Utopai Studios is an AI-native film and TV studio, with three wide theatrical release films and two series scheduled for release in 2027.\n\nIn AA-Video-T2V v2.0, our refreshed Text to Video with Audio leaderboard, Utopai X ranks #2, behind Wan 3.0 and ahead of Dreamina Seedance 2.5. As of today, it is the highest ranked of the three models on the leaderboard built on MiniMax H3, ahead of MiniMax H3 itself and fal's MiniMax H3 Max.\n\nUtopai X is available in PAI at 93 PAI credits per second of video, with no public API. PAI plans start at $15 per month (billed monthly) for 1,000 credits.\n\nCongratulations to @UtopaiStudios on the release!\n\nSee below for our analysis and example outputs of Utopai X in the Artificial Analysis Video Arena 🧵",
+          "created_at": "2026-09-30T17:06:54+00:00",
+          "like_count": 198,
+          "retweet_count": 17,
+          "reply_count": 13,
+          "engagement_score": 245,
+          "url": "https://x.com/ArtificialAnlys/status/2105343643251032304"
         },
         {
-          "id": "2104578736687653293",
-          "text": "ElevenLabs’ Eleven v4 takes #1 on the Artificial Analysis Provider Voice TTS Arena Leaderboard and Pronunciation Robustness benchmark, and #2 on Controlled Voice, surpassing Cartesia’s Sonic 3.6 and Google’s Gemini 3.8 Flash TTS on Provider Voice\n\nEleven v4 is the latest Text to Speech model from @ElevenLabs, with support for 90+ languages, up from 70+ for Eleven v3.\n\nKey takeaways:\n\n➤ Provider Voice: Eleven v4 takes #1 with an Elo of 1,319 (+19/-19) across 1,674 appearances, ahead of Cartesia’s Sonic 3.6 at 1,276 and Google’s Gemini 3.8 Flash TTS at 1,267. It ranks #1 across all four categories: Customer Service, Assistants, Knowledge Sharing and Entertainment.\n\n➤ Controlled Voice (every model uses the same custom voice for comparison): Eleven v4 ranks #2 with an Elo of 1,157 (+16/-16) across 1,483 appearances, just behind Alibaba’s Qwen-Audio-3.1-TTS-Plus at 1,178 and well ahead of Eleven v3 at 1,073.\n\n➤ Pronunciation Robustness: Eleven v4 scores 91.7%, the highest score we have measured, ahead of Gemini 3.8 Flash TTS at 89.5% and Gemini 3.1 Flash TTS at 88.2%, and up from Eleven v3 at 85.6%.\n\n➤ Cost: Eleven v4 costs $80/1M characters, compared to $49/1M characters for Sonic 3.6 and $16.49/1M characters for Gemini 3.8 Flash TTS.\n\n➤ Speed: Eleven v4 processes 73.4 characters per second of generation time, compared to 42.5 characters per second for Eleven v3.\n\nSee more details and listen to samples below 🧵",
-          "created_at": "2026-09-28T14:27:26+00:00",
-          "like_count": 772,
-          "retweet_count": 56,
-          "reply_count": 36,
-          "engagement_score": 920,
-          "url": "https://x.com/ArtificialAnlys/status/2104578736687653293"
+          "id": "2105291240573190370",
+          "text": "We are launching AA-Video-T2V v2.0, our new benchmark for evaluating text to video models, alongside AA-Video-T2V-Silent v2.0 for video generation without audio. Built on a new methodology, it judges every model at 1080p on a regularly refreshed prompt set, and ranks them across 10 use cases, 10 capabilities and a wide range of styles.\n\nVideo models are being adopted across more industries and workflows, from film studios to advertising agencies. Our new benchmark not only ranks models overall, but also shows which model is best for specific use case and video generation capability. Use cases are grounded in how consumers and enterprises use video generation. Capabilities draw on lab and academic research, and on how creators and businesses push video models today. We tag every prompt by use case (such as Live-Action Film and Marketing & Advertising) and by the capability it tests (such as Text Rendering and Audio Synchronization), and the overall benchmark samples evenly across both. Because of this, the overall ranking reflects a model's versatility across use cases and well-roundedness across capabilities. We also tag each prompt by visual style, such as photorealistic, 3D render, cartoon and anime, and hand-drawn illustration.\n\nAI video is also moving onto bigger screens and into production, from microdramas to movie theaters, while low barrier to generate is resulting in a proliferation of low quality AI video content. The quality bar keeps rising, so we now judge every clip at 1080p and high bitrate.\n\nWe are launching AA-Video-T2V v2.0 with more than 68,000 high quality human preference votes from private evaluators based in US/UK over 1,000 prompts, and AA-Video-T2V-Silent v2.0 with more than 47,000 votes over 500 prompts.\n\nInitial insights from an in-depth analysis of the 10 highest ranking models on the Artificial Analysis AA-Video-T2V v2.0 Leaderboard:\n\n➤ Wan 3.0 ranks #1 overall and leads 10 of the 20 category boards, including Cartoon and Anime style and Animation & Gaming use case, at $12 per minute of video.\n\n➤ Dreamina Seedance 2.5 ranks #2 and is the human performance specialist, #1 on both Human Anatomy and Dialogue & Lip Sync. At $34.12/min it is the most expensive model in the top 10.\n\n➤ MiniMax H3 (768p) ranks #3, statistically tied with Seedance 2.5 at $4.80/min, about 1/7 of the price. It is also #1 on Text Rendering.\n\n➤ FLUX 3 ranks #4, with its strongest results on Text Rendering (#3) and Dialogue & Lip Sync (#2).\n\n➤ Gemini Omni Flash 1.1 ranks #5 and is the graphic 2D and audio specialist, #1 on UI/UX & Motion Design use case, Flat Design style and Audio Synchronization capability.\n\nSee below for the use case, capability and style breakdowns 🧵",
+          "created_at": "2026-09-30T13:38:40+00:00",
+          "like_count": 146,
+          "retweet_count": 9,
+          "reply_count": 16,
+          "engagement_score": 180,
+          "url": "https://x.com/ArtificialAnlys/status/2105291240573190370"
         }
       ]
     },
@@ -325,10 +297,10 @@
           "id": "2104995014208258235",
           "text": "Dots are here!\n\nA new way to use AI that works 24/7 for you; get more of your time and attention back to work at a higher level.\n\nhttps://t.co/Kp4fPSGUTT",
           "created_at": "2026-09-29T18:01:34+00:00",
-          "like_count": 8442,
-          "retweet_count": 571,
-          "reply_count": 1232,
-          "engagement_score": 10816,
+          "like_count": 14117,
+          "retweet_count": 1033,
+          "reply_count": 2014,
+          "engagement_score": 18197,
           "url": "https://x.com/sama/status/2104995014208258235"
         }
       ]
@@ -345,7 +317,28 @@
       "name": "Demis Hassabis (Google DeepMind)",
       "domain": "ai",
       "tier": "exec",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2105348732464070823",
+          "text": "Biosecurity is one of the most urgent challenges for the AI era. Bringing SynthID to biology so AI-generated proteins can be watermarked is a critical step - and we’re open sourcing SynthID Bio tools so the research community can build on this work. Published in @Nature today, congrats to the team! https://t.co/Y4sv8bnGQY",
+          "created_at": "2026-09-30T17:27:07+00:00",
+          "like_count": 1664,
+          "retweet_count": 175,
+          "reply_count": 68,
+          "engagement_score": 2082,
+          "url": "https://x.com/demishassabis/status/2105348732464070823"
+        },
+        {
+          "id": "2105417239432200636",
+          "text": "Very excited to announce Gemini 4 Argon, our new Frontier AI model, and a huge step forward across key capabilities. We’re focused on rolling it out responsibly starting with government and trusted cyber defenders through our Fairwind Program today, before wider availability soon https://t.co/dcj08qFoQF",
+          "created_at": "2026-09-30T21:59:21+00:00",
+          "like_count": 51,
+          "retweet_count": 4,
+          "reply_count": 4,
+          "engagement_score": 63,
+          "url": "https://x.com/demishassabis/status/2105417239432200636"
+        }
+      ]
     },
     {
       "handle": "jietang",
@@ -359,38 +352,7 @@
       "name": "NVIDIA (Jensen Huang / AI infrastructure)",
       "domain": "ai",
       "tier": "infra",
-      "tweets": [
-        {
-          "id": "2104567031110533431",
-          "text": "We’ve launched NVIDIA Open Agent Safety Platform to help people control what AI agents can access and do.\n\nAgents can write code, use tools, and work on complex tasks for hours or days. That work requires access to data and systems, along with clear limits on how they’re used.\n\nNVIDIA OpenShell enforces permissions around the agent’s work. BlueField-4 and DOCA add independent monitoring and security controls in the infrastructure, outside the agent’s reach. Vera CPUs power the work itself.\n\nTogether, these technologies give teams a foundation for putting agents to work with defined permissions, oversight, and protection.\n\nExplore the platform: https://t.co/zSZWqpRK0u",
-          "created_at": "2026-09-28T13:40:55+00:00",
-          "like_count": 1757,
-          "retweet_count": 270,
-          "reply_count": 230,
-          "engagement_score": 2527,
-          "url": "https://x.com/nvidia/status/2104567031110533431"
-        },
-        {
-          "id": "2104500679351877979",
-          "text": "AI agents are taking on more critical work.\n\nThe security behind them needs stronger boundaries.\n\nWe’re building the NVIDIA Open Agent Safety Platform with partners across the industry to help people put agents to work with greater confidence.\n\nHear from @JensenHuang:",
-          "created_at": "2026-09-28T09:17:16+00:00",
-          "like_count": 1577,
-          "retweet_count": 198,
-          "reply_count": 169,
-          "engagement_score": 2142,
-          "url": "https://x.com/nvidia/status/2104500679351877979"
-        },
-        {
-          "id": "2104596523837468968",
-          "text": "“I’m a responsible optimist.”\n\nAI’s potential comes with a responsibility to build and deploy it safely.\n\nOur CEO @JensenHuang explains why that responsibility led us to build NVIDIA OpenShell and bring the industry together around agent safety.\n\n🎥 from @SquawkCNBC: https://t.co/zkIfOSTqZp",
-          "created_at": "2026-09-28T15:38:07+00:00",
-          "like_count": 1281,
-          "retweet_count": 198,
-          "reply_count": 126,
-          "engagement_score": 1803,
-          "url": "https://x.com/nvidia/status/2104596523837468968"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "AmandaAskell",
@@ -404,54 +366,21 @@
       "name": "Boris Cherny (Claude Code)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2104638725317923228",
-          "text": "Sonnet 5.5 fixing a bug with Claude Code.\n\n30% faster and 30% less usage. https://t.co/Vt1K1ubcFd",
-          "created_at": "2026-09-28T18:25:49+00:00",
-          "like_count": 5755,
-          "retweet_count": 208,
-          "reply_count": 268,
-          "engagement_score": 6439,
-          "url": "https://x.com/bcherny/status/2104638725317923228"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "_catwu",
       "name": "Cat Wu (Anthropic)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2104639552170377399",
-          "text": "Sonnet 5.5 is here! In Claude Code, users get ~30% more tasks done compared to Sonnet 5. It's smarter, so it needs fewer tokens for the same work.\n\nHere it rakes a yard of leaves using tool calls. 24s faster than Sonnet 5, with 6K fewer tokens. It leaves her extra time to read :) https://t.co/X5RHENqRjS",
-          "created_at": "2026-09-28T18:29:06+00:00",
-          "like_count": 486,
-          "retweet_count": 10,
-          "reply_count": 45,
-          "engagement_score": 551,
-          "url": "https://x.com/_catwu/status/2104639552170377399"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "alexalbert__",
       "name": "Alex Albert (Anthropic)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2104633937280811010",
-          "text": "Sonnet 5.5 has the same feel I liked about Opus 5.5. It writes clearly, it's very fast, and it's a major capabilities jump over Sonnet 5. Really great model to iterate with.",
-          "created_at": "2026-09-28T18:06:47+00:00",
-          "like_count": 830,
-          "retweet_count": 15,
-          "reply_count": 65,
-          "engagement_score": 925,
-          "url": "https://x.com/alexalbert__/status/2104633937280811010"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "rauchg",
@@ -460,24 +389,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2104764419305796094",
-          "text": "You can now search @vercel domains without auth.\nEspecially great if you're an agent. https://t.co/NpIfj1DAjO",
-          "created_at": "2026-09-29T02:45:16+00:00",
-          "like_count": 389,
-          "retweet_count": 14,
-          "reply_count": 81,
-          "engagement_score": 498,
-          "url": "https://x.com/rauchg/status/2104764419305796094"
-        },
-        {
           "id": "2105043144975011982",
           "text": "AI SDK has hit 30M weekly downloads.\n\nOne-shotted this video in fframes + https://t.co/3Z4NESzNKd + opus. I asked 𝚏𝚡 to look at https://t.co/dnlawxpWR6 and highlight the 5M/10M/20M/30M milestones.\n\nYes, this video was written in Rust and rendered on the GPU. h/t @neogoose_btw https://t.co/dS4UpwzbbN",
           "created_at": "2026-09-29T21:12:50+00:00",
-          "like_count": 128,
-          "retweet_count": 3,
-          "reply_count": 15,
-          "engagement_score": 149,
+          "like_count": 407,
+          "retweet_count": 16,
+          "reply_count": 43,
+          "engagement_score": 482,
           "url": "https://x.com/rauchg/status/2105043144975011982"
+        },
+        {
+          "id": "2105390544096841942",
+          "text": "If you run a service and want to get in front of 20M+ developers and the billions of agents they'll ship, add yourself to Connect.\n\nWith code now being 'free', the final boss of building is connecting to stuff. Connect is both easier and more secure¹. For agents and for apps.\n\n¹ The world of building agents is plagued with static credentials. You're supposed to give a bunch of keys to each agent or app you build. It's DX hell, but it's also a massive liability. Connect fixes this.",
+          "created_at": "2026-09-30T20:13:16+00:00",
+          "like_count": 156,
+          "retweet_count": 9,
+          "reply_count": 28,
+          "engagement_score": 202,
+          "url": "https://x.com/rauchg/status/2105390544096841942"
         }
       ]
     },
@@ -493,7 +422,18 @@
       "name": "Josh Woodward (Google Labs)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2105396307250782446",
+          "text": "Gemini 4 Argon! https://t.co/my712dCXrs",
+          "created_at": "2026-09-30T20:36:10+00:00",
+          "like_count": 595,
+          "retweet_count": 20,
+          "reply_count": 25,
+          "engagement_score": 660,
+          "url": "https://x.com/joshwoodward/status/2105396307250782446"
+        }
+      ]
     },
     {
       "handle": "paulgauthier",
@@ -507,18 +447,7 @@
       "name": "Ivan Fioravanti (Apple MLX / open source)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2104994956863586715",
-          "text": "It was amazing seeing Microduck on stage at OpenAI DevDay! I haven't one, but I'll bring Reachy Mini with me on stage on 1st October and... powered by Local AI clearly! https://t.co/ypAOZ3OEg2",
-          "created_at": "2026-09-29T18:01:21+00:00",
-          "like_count": 24,
-          "retweet_count": 0,
-          "reply_count": 6,
-          "engagement_score": 30,
-          "url": "https://x.com/ivanfioravanti/status/2104994956863586715"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "deanwball",
@@ -527,14 +456,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2104595960303144973",
-          "text": "I am more optimistic than this. I think it’s primarily a science problem, and that it’s possible to make progress in that science. But no, while there is engineering we can do today to improve AI safety, it is not fundamentally an engineering problem.",
-          "created_at": "2026-09-28T15:35:53+00:00",
-          "like_count": 305,
-          "retweet_count": 16,
-          "reply_count": 31,
-          "engagement_score": 368,
-          "url": "https://x.com/deanwball/status/2104595960303144973"
+          "id": "2105061725619843173",
+          "text": "It’s cool how the idea of third-party embedded evaluators as a pillar of frontier AI policy went from not really on any Americans’ radars 18 months ago to ~consensus. I remember when the idea was much closer to the fringes. Not that long ago, even some of the orgs we now look to as potential evaluators questioned why they’d want to be deputized in that way when I pitched them on it.",
+          "created_at": "2026-09-29T22:26:40+00:00",
+          "like_count": 168,
+          "retweet_count": 11,
+          "reply_count": 14,
+          "engagement_score": 204,
+          "url": "https://x.com/deanwball/status/2105061725619843173"
+        },
+        {
+          "id": "2105093196569010415",
+          "text": "I really fucking love to use coding agents. It is easy to forget amid the banging and clanging of politics and frontier risk and all the rest, but nonetheless, I really fucking love to use coding agents.",
+          "created_at": "2026-09-30T00:31:43+00:00",
+          "like_count": 93,
+          "retweet_count": 3,
+          "reply_count": 6,
+          "engagement_score": 105,
+          "url": "https://x.com/deanwball/status/2105093196569010415"
         }
       ]
     },
@@ -545,48 +484,38 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2104749177456722354",
-          "text": "thoughts on sonnet 5.5 after a day of real use\n\nsonnet and opus 5.5 are clearly taught by the same teacher model (which i can only guess to be mythos 5.5 or even 6). their behaviors and personality are highly similar this time\n\nbut sonnet is definitely NOT “same as opus just 50% cheaper” - that’s true only for problems that don’t need much wisdom\n\nthere’s a clear difference when they are asked to propose plans for ambiguous product problems. you should be able to repro this by asking them to plan a complex enough feature whose direction is unclear\n\nopus is able to approach problems with more strategic thinking “what’s the real goal here” while sonnet is more just looking at tactically “how do i get this done”\n\ni also tested heavily using sonnet 5.5 as my firstmate and it’s working super well! i even prefer it over opus, because it’s faster, cheaper, and smart enough to understand my intent and handle the orchestration\n\nmy overall approach now is -\n- opus plans\n- sonnet implements\n- once haiku 5.5 is here, i’ll use haiku for “fixes”\n- if anything’s not going well, fable advises\n\nsometimes i’ll go straight to fable for plans that i know requires its wisdom but this is becoming more and more rare in my experience (perhaps fable 5.5 will change it!)\n\ni must say, anthropic’s latest line-up is incredibly compelling both in terms of quality and efficiency. we’ll see what openai cooked soon but they definitely have their work cut out for them",
-          "created_at": "2026-09-29T01:44:42+00:00",
-          "like_count": 1591,
-          "retweet_count": 69,
-          "reply_count": 82,
-          "engagement_score": 1811,
-          "url": "https://x.com/kunchenguid/status/2104749177456722354"
-        },
-        {
-          "id": "2104830224785605105",
-          "text": "oh no - codex $200 subscription's dollar value is being cut in half\n\nin their defense, openai's models are indeed quite efficient. but anthropic has caught up too\n\nand the big cut is only the first order effect\n\nthe second order effect is that this will give anthropic enough room to cut their subscription value as well\n\nthe third order effect is that the labs have found a way to gradually end the subsidization for consumers subscriptions. just do this a few more times, and we'll see the subscriptions charging the same as API pricing\n\ni predict that in about a year, we'll refer to what we had as the good old days",
-          "created_at": "2026-09-29T07:06:46+00:00",
-          "like_count": 874,
-          "retweet_count": 25,
-          "reply_count": 138,
-          "engagement_score": 1062,
-          "url": "https://x.com/kunchenguid/status/2104830224785605105"
-        },
-        {
           "id": "2104998134279762141",
           "text": "ok here's my key takeaways from OpenAI DevDay keynote\n\n1. dots\n\ngrok bot, muse, and now dots - they may look similar, but they are not\n\ni think openai's dots is a significantly more cohesive implementation that spans across personal and business use, and also across single player and multiplayer\n\npretty excited to see where it goes\n\n2. sol 6.1\n\nbiggest thing? openai caught up on cheaper cached tokens. this is a big deal and affects the overall cost of long horizon work a lot\n\nin terms of sol the model itself, honestly it's bit weird that 6.1 is released only a few days after 6, making it feel like sol 6 was a premature release and 6.1 is what's supposed to be sol 6 all along\n\nwe'll just have to put our hands on it to see how big of a jump it is\n\n3. jev clone\n\non one hand, it's incredible to see how quickly they cloned it. but on the other hand, it's scary to see how these frontier labs would not blink an eye to destroy smaller startups in their space\n\nopenai's decision model already has image understanding which jev doesn't. it speaks to the moat openai has accumulated which makes it hard for startups to disrupt\n\n4. ultrafast\n\n8x speed at 6x price, only on astra right now but said to be coming for sol as well\n\ni don't know... how many use cases can actually get a positive ROI using astra at 6x price? \n\n5. $500 subscription\n\nwith the adjustment to the $200 plan and the introduction of $500, it's become clear that subsidization is coming to an end\n\n$200 is simply 10x of what $20 gives, and $500 is simply 25x - zero discount at these higher price points\n\ni'd rather they create $100 \"packs\" that you can stack onto your account\n\n6. sign-in with chatgpt, and marketplace\n\nthis is a BIG DEAL!!! why? because it means other companies can finally build agentic products without having to sell tokens\n\nselling tokens is a very bad business model for the vast majority of SaaS companies. it complicates their pricing structure and creates almost no profit margin at all\n\nthis move from openai means customers just buy tokens from openai, and use them everywhere - very good for the ecosystem\n\nthe impact to the broader industry will be amplified if anthropic gets pressured to follow the same pattern\n\nalright - might share more thoughts after actually putting my hands on the new things, but those are the initial reactions for now. curious to hear what you all took away from it as well!",
           "created_at": "2026-09-29T18:13:58+00:00",
-          "like_count": 787,
-          "retweet_count": 51,
-          "reply_count": 46,
-          "engagement_score": 935,
+          "like_count": 1427,
+          "retweet_count": 91,
+          "reply_count": 75,
+          "engagement_score": 1684,
           "url": "https://x.com/kunchenguid/status/2104998134279762141"
         },
         {
-          "id": "2104596236083048512",
-          "text": "many people are asking - now that opus 5.5 is so good, when would we ever use fable\n\nit’s very important to understand that bigger models come with more “wisdom” that can’t be replaced by a smaller model trained to behave well",
-          "created_at": "2026-09-28T15:36:58+00:00",
-          "like_count": 327,
-          "retweet_count": 10,
-          "reply_count": 18,
-          "engagement_score": 365,
-          "url": "https://x.com/kunchenguid/status/2104596236083048512"
+          "id": "2105134806791229719",
+          "text": "why is real world applications of robotics still so behind? \n\nliterally none of my vacuum cleaner robots ever finished a single job without getting stuck one way or another\n\nwhere did all the research go??",
+          "created_at": "2026-09-30T03:17:04+00:00",
+          "like_count": 106,
+          "retweet_count": 3,
+          "reply_count": 29,
+          "engagement_score": 141,
+          "url": "https://x.com/kunchenguid/status/2105134806791229719"
+        },
+        {
+          "id": "2105357448861393081",
+          "text": "comparing dots, muse, and grok bot just made me realize something important\n\ngrok bot is the ONLY one that made sharing bots easy\n\ni came across quite some grok bot users in the wild using the Firstmate bot i shared https://t.co/KC0bhgoPMi (this is basically how i use grok bot btw!)\n\ni can see openai may be hesitant to do something like this because \"custom GPTs\" never quite took off (anyone still remember it?)\n\nbut i think this time it's a bit different. these cloud agents now all have their VM, a code execution environment, and a ton of connectors - they can do far more things than what custom GPTs could do when it was introduced\n\nwith this explosion of possibilities, prepackaged bots now make more sense because people want proven playbooks and not having to reinvent the wheel each time\n\na marketplace like this also creates some network effect which is good for building an ecosystem moat. this is something i think dots and muse should both think a bit more about",
+          "created_at": "2026-09-30T18:01:46+00:00",
+          "like_count": 99,
+          "retweet_count": 3,
+          "reply_count": 14,
+          "engagement_score": 119,
+          "url": "https://x.com/kunchenguid/status/2105357448861393081"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-09-29T22:13:44.238924+00:00"
+  "generated_at": "2026-09-30T22:00:08.059157+00:00"
 }
