@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-09-30T22:02:02.247175+00:00",
+  "generated_at": "2026-10-01T23:54:01.297597+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "bcecac98-430a-4361-9737-bfebe7ca9ad5",
+      "link": "https://deepmind.com/podcast",
+      "channel": "Google DeepMind Podcast",
+      "title": "From deepfakes to DNA: the science of watermarking AI",
+      "pub_date": "2026-10-01T16:38:11+00:00",
+      "transcript_path": "feeds/transcripts/bc702da163310c2a84268fc5.txt",
+      "transcript_chars": 18566,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-01T23:54:01.297597+00:00",
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+    },
+    {
+      "guid": "https://www.dwarkesh.com/p/si-sheppard",
+      "link": "https://www.dwarkesh.com/p/si-sheppard",
+      "channel": "Dwarkesh Patel",
+      "title": "Si Sheppard – How did a few hundred Spanish soldiers topple two empires?",
+      "pub_date": "2026-10-01T15:28:28+00:00",
+      "transcript_path": "feeds/transcripts/7f72fee2f40583e7417be354.txt",
+      "transcript_chars": 100962,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-01T23:54:01.297597+00:00",
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+    },
+    {
+      "guid": "8d70f94a-a2d7-4472-be22-e0afbb0ab0cb",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Great-Companies--Beaten-Down-Stocks-Booking--Pool-Corp-with-Jonathan-Boyar-e3pl0jv",
+      "channel": "The Acquirers Podcast",
+      "title": "Great Companies, Beaten-Down Stocks: Booking & Pool Corp with Jonathan Boyar",
+      "pub_date": "2026-10-01T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/338415a87920e7e154e30443.txt",
+      "transcript_chars": 146721,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-01T23:54:01.297597+00:00",
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+      "link": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+      "channel": "Latent Space",
+      "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+      "pub_date": "2026-10-01T06:45:05+00:00",
+      "transcript_path": "feeds/transcripts/7bec71829039a3cde0ce5758.txt",
+      "transcript_chars": 17667,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-01T23:54:01.297597+00:00",
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/devday-2026",
+      "link": "https://www.latent.space/p/devday-2026",
+      "channel": "Latent Space",
+      "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+      "pub_date": "2026-09-30T22:23:40+00:00",
+      "transcript_path": "feeds/transcripts/2c041ba4e0482e4a0819876e.txt",
+      "transcript_chars": 61916,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-01T23:54:01.297597+00:00",
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+    },
+    {
+      "guid": "yt:hx8R9qYijpI",
+      "link": "https://www.youtube.com/watch?v=hx8R9qYijpI",
+      "channel": "MAGNO NEWS",
+      "title": "🇺🇸 President Trump Meets Elon Musk, Jensen Huang, Sundar Pichai, Zuckerberg on Super Intelligence",
+      "pub_date": "2026-09-29T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/15f89ef270ab7c85dcfd85a0.txt",
+      "transcript_chars": 32897,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-01T23:54:01.297597+00:00",
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
       "link": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
@@ -12,8 +90,8 @@
       "transcript_chars": 5158,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
@@ -25,8 +103,8 @@
       "transcript_chars": 5081,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
@@ -38,8 +116,8 @@
       "transcript_chars": 18309,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "yt:7pQJvTrnzhc",
@@ -51,8 +129,8 @@
       "transcript_chars": 39173,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "yt:388P7IFSpwE",
@@ -64,8 +142,8 @@
       "transcript_chars": 25009,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
@@ -77,8 +155,8 @@
       "transcript_chars": 8028,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-29T22:47:27.792168+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
@@ -90,8 +168,8 @@
       "transcript_chars": 4306,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-29T22:47:27.792168+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
@@ -103,8 +181,8 @@
       "transcript_chars": 59547,
       "transcript_source": "episode_transcript_link",
       "cached_at": "2026-09-29T22:47:27.792168+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "https://www.latent.space/p/thariq",
@@ -116,8 +194,8 @@
       "transcript_chars": 118309,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-29T22:47:27.792168+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "yt:VysroxvZ-qM",
@@ -129,8 +207,8 @@
       "transcript_chars": 75034,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-29T22:47:27.792168+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "yt:djDt8J2_YVs",
@@ -142,8 +220,8 @@
       "transcript_chars": 72960,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-29T22:47:27.792168+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "fd07af4b-4e94-4e1b-8b19-10a1d811e550",
@@ -155,8 +233,8 @@
       "transcript_chars": 40802,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-29T22:47:27.792168+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
@@ -246,8 +324,8 @@
       "transcript_chars": 50458,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-27T10:27:08.356510+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "yt:eo4DF16uIIg",
@@ -259,8 +337,8 @@
       "transcript_chars": 26815,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-27T10:27:08.356510+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "yt:X9JTZ0VRjVo",
@@ -350,8 +428,8 @@
       "transcript_chars": 65764,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
+      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
+      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
