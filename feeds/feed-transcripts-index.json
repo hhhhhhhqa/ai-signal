@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-10-01T23:54:01.297597+00:00",
+  "generated_at": "2026-10-03T00:29:26.729028+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/airbnb",
+      "link": "https://www.latent.space/p/airbnb",
+      "channel": "Latent Space",
+      "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+      "pub_date": "2026-10-02T14:04:49+00:00",
+      "transcript_path": "feeds/transcripts/83de2e5e7b40282aa16aa67b.txt",
+      "transcript_chars": 10481,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-03T00:29:26.729028+00:00",
+      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
+      "expires_at": "2026-10-17T00:29:26.729028+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/rlm",
+      "link": "https://www.latent.space/p/rlm",
+      "channel": "Latent Space",
+      "title": "Academia is for Ambition — Alex Zhang, MIT",
+      "pub_date": "2026-10-02T00:28:04+00:00",
+      "transcript_path": "feeds/transcripts/e2777323230361587c5ae514.txt",
+      "transcript_chars": 130717,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-03T00:29:26.729028+00:00",
+      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
+      "expires_at": "2026-10-17T00:29:26.729028+00:00"
+    },
     {
       "guid": "bcecac98-430a-4361-9737-bfebe7ca9ad5",
       "link": "https://deepmind.com/podcast",
@@ -12,8 +38,8 @@
       "transcript_chars": 18566,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-01T23:54:01.297597+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
+      "expires_at": "2026-10-17T00:29:26.729028+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/si-sheppard",
@@ -25,8 +51,8 @@
       "transcript_chars": 100962,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-01T23:54:01.297597+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
+      "expires_at": "2026-10-17T00:29:26.729028+00:00"
     },
     {
       "guid": "8d70f94a-a2d7-4472-be22-e0afbb0ab0cb",
@@ -38,8 +64,8 @@
       "transcript_chars": 146721,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-01T23:54:01.297597+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
+      "expires_at": "2026-10-17T00:29:26.729028+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
@@ -51,8 +77,8 @@
       "transcript_chars": 17667,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-01T23:54:01.297597+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
+      "expires_at": "2026-10-17T00:29:26.729028+00:00"
     },
     {
       "guid": "https://www.latent.space/p/devday-2026",
@@ -64,8 +90,8 @@
       "transcript_chars": 61916,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-01T23:54:01.297597+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
+      "expires_at": "2026-10-17T00:29:26.729028+00:00"
     },
     {
       "guid": "yt:hx8R9qYijpI",
@@ -77,8 +103,8 @@
       "transcript_chars": 32897,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-01T23:54:01.297597+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
+      "expires_at": "2026-10-17T00:29:26.729028+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
@@ -90,8 +116,8 @@
       "transcript_chars": 5158,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
+      "expires_at": "2026-10-17T00:29:26.729028+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
@@ -103,8 +129,8 @@
       "transcript_chars": 5081,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
+      "expires_at": "2026-10-17T00:29:26.729028+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
@@ -116,8 +142,8 @@
       "transcript_chars": 18309,
       "transcript_source": "episode_page",
       "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
+      "expires_at": "2026-10-17T00:29:26.729028+00:00"
     },
     {
       "guid": "yt:7pQJvTrnzhc",
@@ -129,8 +155,8 @@
       "transcript_chars": 39173,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
+      "expires_at": "2026-10-17T00:29:26.729028+00:00"
     },
     {
       "guid": "yt:388P7IFSpwE",
@@ -142,8 +168,8 @@
       "transcript_chars": 25009,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
+      "expires_at": "2026-10-17T00:29:26.729028+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
@@ -428,8 +454,8 @@
       "transcript_chars": 65764,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
+      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
+      "expires_at": "2026-10-17T00:29:26.729028+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
@@ -861,45 +887,6 @@
       "expires_at": "2026-10-03T14:19:51.557957+00:00"
     },
     {
-      "guid": "cea835d1-fb37-4f07-a91e-356e7e5c8fca",
-      "link": "https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
-      "channel": "All-In Podcast",
-      "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
-      "pub_date": "2026-09-15T20:46:00+00:00",
-      "transcript_path": "feeds/transcripts/98a76c7c697d96df3edbffdb.txt",
-      "transcript_chars": 4027,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-15T23:21:46.395065+00:00",
-      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
-      "expires_at": "2026-10-02T03:24:28.326928+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
-      "link": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
-      "channel": "Lenny's Podcast",
-      "title": "60+ new creative growth ideas",
-      "pub_date": "2026-09-15T12:45:28+00:00",
-      "transcript_path": "feeds/transcripts/e4653d52fd45a0beb3d51f7e.txt",
-      "transcript_chars": 23614,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-15T23:21:46.395065+00:00",
-      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
-      "expires_at": "2026-10-02T03:24:28.326928+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
-      "link": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
-      "channel": "Latent Space",
-      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
-      "pub_date": "2026-09-15T04:50:36+00:00",
-      "transcript_path": "feeds/transcripts/e335db16a6cef77906b50155.txt",
-      "transcript_chars": 13685,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-15T23:21:46.395065+00:00",
-      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
-      "expires_at": "2026-10-02T03:24:28.326928+00:00"
-    },
-    {
       "guid": "cde6360e-d345-4ead-a9bb-1f973baf6ab8",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--030---Long-Live-the-Short-King-Why-4-HI-HBM-Wins-Memory--Myron-Xie--Jordan-Nanos-e3or9k4",
       "channel": "SemiAnalysis",
@@ -911,45 +898,6 @@
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
       "last_seen_at": "2026-09-27T23:58:10.949779+00:00",
       "expires_at": "2026-10-11T23:58:10.949779+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/recursive",
-      "link": "https://www.latent.space/p/recursive",
-      "channel": "Latent Space",
-      "title": "Humanity’s Last Invention — Richard Socher of Recursive",
-      "pub_date": "2026-09-14T16:04:16+00:00",
-      "transcript_path": "feeds/transcripts/2efc3a74253d689ebfedb019.txt",
-      "transcript_chars": 117134,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
-      "expires_at": "2026-10-02T03:24:28.326928+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
-      "pub_date": "2026-09-14T15:03:48+00:00",
-      "transcript_path": "feeds/transcripts/b5c5fdf08f6f2016484c3caf.txt",
-      "transcript_chars": 5053,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
-      "expires_at": "2026-10-02T03:24:28.326928+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
-      "link": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
-      "channel": "Lenny's Podcast",
-      "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
-      "pub_date": "2026-09-14T12:04:39+00:00",
-      "transcript_path": "feeds/transcripts/e38d5a310b7e47cff2283ffd.txt",
-      "transcript_chars": 5646,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-18T03:24:28.326928+00:00",
-      "expires_at": "2026-10-02T03:24:28.326928+00:00"
     },
     {
       "guid": "yt:hQR_VJF6ukk",
