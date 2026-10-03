@@ -26,44 +26,8 @@
       "url": "https://openai.com/index/chatham-financial",
       "published": "2026-10-02T00:00:00+00:00",
       "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
-    },
-    {
-      "id": "https://openai.com/index/the-eternal-complement",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "The eternal complement",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "published": "2026-10-01T17:00:00+00:00",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
-    },
-    {
-      "id": "https://openai.com/index/albertsons-reimagining-retail",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "published": "2026-10-01T16:00:00+00:00",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
-    },
-    {
-      "id": "https://www.anthropic.com/research/claude-shaped-science",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Claude-shaped science",
-      "url": "https://www.anthropic.com/research/claude-shaped-science",
-      "published": "2026-10-01T00:00:00+00:00",
-      "summary": "Matthew Schwartz describes what happened when he stopped fighting Claude and allowed Claude to find “Claude-shaped” problems. This led him to build BootLoops, a toolkit for exact calculations in quantitative science, which he has been applying across scientific fields alongside experts."
-    },
-    {
-      "id": "https://www.anthropic.com/news/barclays-scales-claude",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Barclays scales Claude to upgrade operations and improve client experience",
-      "url": "https://www.anthropic.com/news/barclays-scales-claude",
-      "published": "2026-10-01T00:00:00+00:00",
-      "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations."
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-02T22:10:28.848190+00:00"
+  "generated_at": "2026-10-03T22:12:02.317053+00:00"
 }
