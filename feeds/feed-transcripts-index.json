@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-10-06T00:35:47.242338+00:00",
+  "generated_at": "2026-10-06T22:01:39.872348+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "link": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "channel": "Latent Space",
+      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+      "pub_date": "2026-10-06T06:28:43+00:00",
+      "transcript_path": "feeds/transcripts/a57c9f5fbdab7c2c62aaef16.txt",
+      "transcript_chars": 14874,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-06T22:01:39.872348+00:00",
+      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
+      "expires_at": "2026-10-20T22:01:39.872348+00:00"
+    },
+    {
+      "guid": "yt:iKFqJOSWHTE",
+      "link": "https://www.youtube.com/watch?v=iKFqJOSWHTE",
+      "channel": "Fair Game by Vanity Fair and Vanity Fair",
+      "title": "Sam Altman on Elon Musk, ‘Artificial,’ and the Future of Humanity (Part One)",
+      "pub_date": "2026-10-06T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/dd3fa962c1e37b978025b562.txt",
+      "transcript_chars": 48411,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-06T22:01:39.872348+00:00",
+      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
+      "expires_at": "2026-10-20T22:01:39.872348+00:00"
+    },
+    {
+      "guid": "yt:2OOHnaGTQFg",
+      "link": "https://www.youtube.com/watch?v=2OOHnaGTQFg",
+      "channel": "POLITICO",
+      "title": "Sam Altman says OpenAI has more AI incidents to disclose",
+      "pub_date": "2026-10-05T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/761ef6d3290a348f94c524ab.txt",
+      "transcript_chars": 39474,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-06T22:01:39.872348+00:00",
+      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
+      "expires_at": "2026-10-20T22:01:39.872348+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
       "link": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
@@ -12,8 +51,8 @@
       "transcript_chars": 12140,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-06T00:35:47.242338+00:00",
-      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
-      "expires_at": "2026-10-20T00:35:47.242338+00:00"
+      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
+      "expires_at": "2026-10-20T22:01:39.872348+00:00"
     },
     {
       "guid": "233d9970-74f8-42c7-8383-f7ea5f70f1d6",
@@ -25,8 +64,8 @@
       "transcript_chars": 34812,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-06T00:35:47.242338+00:00",
-      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
-      "expires_at": "2026-10-20T00:35:47.242338+00:00"
+      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
+      "expires_at": "2026-10-20T22:01:39.872348+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
@@ -38,8 +77,8 @@
       "transcript_chars": 4561,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-06T00:35:47.242338+00:00",
-      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
-      "expires_at": "2026-10-20T00:35:47.242338+00:00"
+      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
+      "expires_at": "2026-10-20T22:01:39.872348+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
@@ -64,8 +103,8 @@
       "transcript_chars": 41447,
       "transcript_source": null,
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
-      "expires_at": "2026-10-20T00:35:47.242338+00:00"
+      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
+      "expires_at": "2026-10-20T22:01:39.872348+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
@@ -90,8 +129,8 @@
       "transcript_chars": 37981,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
-      "expires_at": "2026-10-20T00:35:47.242338+00:00"
+      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
+      "expires_at": "2026-10-20T22:01:39.872348+00:00"
     },
     {
       "guid": "yt:k6YbWRJFoVM",
@@ -103,8 +142,8 @@
       "transcript_chars": 32622,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
-      "expires_at": "2026-10-20T00:35:47.242338+00:00"
+      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
+      "expires_at": "2026-10-20T22:01:39.872348+00:00"
     },
     {
       "guid": "yt:Gf-KssYwepc",
@@ -571,8 +610,8 @@
       "transcript_chars": 65764,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
-      "expires_at": "2026-10-20T00:35:47.242338+00:00"
+      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
+      "expires_at": "2026-10-20T22:01:39.872348+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
