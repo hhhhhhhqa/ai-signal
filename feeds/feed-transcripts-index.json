@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-10-05T00:24:20.922487+00:00",
+  "generated_at": "2026-10-06T00:35:47.242338+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
+      "pub_date": "2026-10-05T15:03:24+00:00",
+      "transcript_path": "feeds/transcripts/ca3977ef8d19b292436f4dca.txt",
+      "transcript_chars": 12140,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-06T00:35:47.242338+00:00",
+      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
+      "expires_at": "2026-10-20T00:35:47.242338+00:00"
+    },
+    {
+      "guid": "233d9970-74f8-42c7-8383-f7ea5f70f1d6",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--035---Tech-DDs--Performance-Projections--Benchmarks--Supply-Chain--Investment-Thesis-Consulting-Abhilash-Jain--Jordan-Nanos-e3ptsh8",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 035 - Tech DD’s, Performance Projections, Benchmarks, Supply Chain, Investment Thesis (Consulting)| Abhilash Jain, Jordan Nanos",
+      "pub_date": "2026-10-05T15:00:01+00:00",
+      "transcript_path": "feeds/transcripts/c5d88ecfde9559f8c4fd2e53.txt",
+      "transcript_chars": 34812,
+      "transcript_source": "companion_youtube",
+      "cached_at": "2026-10-06T00:35:47.242338+00:00",
+      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
+      "expires_at": "2026-10-20T00:35:47.242338+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+      "link": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+      "channel": "Lenny's Podcast",
+      "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
+      "pub_date": "2026-10-05T12:04:54+00:00",
+      "transcript_path": "feeds/transcripts/b8fc4caf79429bd93c04659f.txt",
+      "transcript_chars": 4561,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-06T00:35:47.242338+00:00",
+      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
+      "expires_at": "2026-10-20T00:35:47.242338+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
       "link": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
@@ -12,8 +51,8 @@
       "transcript_chars": 37723,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-05T00:24:20.922487+00:00",
-      "expires_at": "2026-10-19T00:24:20.922487+00:00"
+      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
+      "expires_at": "2026-10-20T00:35:47.242338+00:00"
     },
     {
       "guid": "f737ec61-bcbd-439a-903c-06663c5541c6",
@@ -23,10 +62,10 @@
       "pub_date": "2026-10-02T21:00:00+00:00",
       "transcript_path": "feeds/transcripts/fedb71a41f2f9ce2ca65508d.txt",
       "transcript_chars": 41447,
-      "transcript_source": "episode_page",
+      "transcript_source": null,
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-05T00:24:20.922487+00:00",
-      "expires_at": "2026-10-19T00:24:20.922487+00:00"
+      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
+      "expires_at": "2026-10-20T00:35:47.242338+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
@@ -51,8 +90,8 @@
       "transcript_chars": 37981,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-05T00:24:20.922487+00:00",
-      "expires_at": "2026-10-19T00:24:20.922487+00:00"
+      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
+      "expires_at": "2026-10-20T00:35:47.242338+00:00"
     },
     {
       "guid": "yt:k6YbWRJFoVM",
@@ -64,8 +103,8 @@
       "transcript_chars": 32622,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-05T00:24:20.922487+00:00",
-      "expires_at": "2026-10-19T00:24:20.922487+00:00"
+      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
+      "expires_at": "2026-10-20T00:35:47.242338+00:00"
     },
     {
       "guid": "yt:Gf-KssYwepc",
@@ -77,8 +116,8 @@
       "transcript_chars": 24730,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-05T00:24:20.922487+00:00",
-      "expires_at": "2026-10-19T00:24:20.922487+00:00"
+      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
+      "expires_at": "2026-10-20T00:35:47.242338+00:00"
     },
     {
       "guid": "https://www.latent.space/p/airbnb",
@@ -181,8 +220,8 @@
       "transcript_chars": 32897,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-01T23:54:01.297597+00:00",
-      "last_seen_at": "2026-10-05T00:24:20.922487+00:00",
-      "expires_at": "2026-10-19T00:24:20.922487+00:00"
+      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
+      "expires_at": "2026-10-20T00:35:47.242338+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
@@ -233,8 +272,8 @@
       "transcript_chars": 39173,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-10-05T00:24:20.922487+00:00",
-      "expires_at": "2026-10-19T00:24:20.922487+00:00"
+      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
+      "expires_at": "2026-10-20T00:35:47.242338+00:00"
     },
     {
       "guid": "yt:388P7IFSpwE",
@@ -246,8 +285,8 @@
       "transcript_chars": 25009,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-10-05T00:24:20.922487+00:00",
-      "expires_at": "2026-10-19T00:24:20.922487+00:00"
+      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
+      "expires_at": "2026-10-20T00:35:47.242338+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
@@ -532,8 +571,8 @@
       "transcript_chars": 65764,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-10-05T00:24:20.922487+00:00",
-      "expires_at": "2026-10-19T00:24:20.922487+00:00"
+      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
+      "expires_at": "2026-10-20T00:35:47.242338+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
@@ -731,19 +770,6 @@
       "expires_at": "2026-10-06T22:31:36.352617+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
-      "link": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
-      "channel": "Latent Space",
-      "title": "[AINews] Here are 6 Clones of Jev in 2 days",
-      "pub_date": "2026-09-19T05:48:28+00:00",
-      "transcript_path": "feeds/transcripts/3eb7b8c5e892643a00ed3cb7.txt",
-      "transcript_chars": 13872,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-20T02:06:59.603754+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
-    },
-    {
       "guid": "c388001b-f12f-4458-bb39-61429b0def96",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--031---EMERGENCY-EPISODE-Are-We-Doomed---Jordan-Nanos--Doug-OLaughlin--Max-Kan--Joey-Brookhart-e3otgvp",
       "channel": "SemiAnalysis",
@@ -768,45 +794,6 @@
       "cached_at": "2026-09-19T14:19:51.557957+00:00",
       "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
       "expires_at": "2026-10-06T22:31:36.352617+00:00"
-    },
-    {
-      "guid": "yt:YmSzE5hpWiQ",
-      "link": "https://www.youtube.com/watch?v=YmSzE5hpWiQ",
-      "channel": "DRM News",
-      "title": "Jensen Huang, Dario Amodei and Siemens CEO Busch Debate AI’s Future at Dreamforce 2026 | AI1G",
-      "pub_date": "2026-09-15T19:04:23+00:00",
-      "transcript_path": "feeds/transcripts/4428e3cf688fb3f4b864ded6.txt",
-      "transcript_chars": 60404,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
-    },
-    {
-      "guid": "yt:OyAN7XsEUBY",
-      "link": "https://www.youtube.com/watch?v=OyAN7XsEUBY",
-      "channel": "USA TODAY",
-      "title": "Live: Anthropic CEO Dario Amodei talks AI at Dreamforce summit after calls for development slowdown",
-      "pub_date": "2026-09-15T18:05:23+00:00",
-      "transcript_path": "feeds/transcripts/f56833327fc7130448a0d5f5.txt",
-      "transcript_chars": 45070,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
-    },
-    {
-      "guid": "yt:hdcsTeCFE0I",
-      "link": "https://www.youtube.com/watch?v=hdcsTeCFE0I",
-      "channel": "All-In Podcast",
-      "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft’s Master Plan & Who Wins AI",
-      "pub_date": "2026-09-15T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/b5885ac03afcdfe8167d382e.txt",
-      "transcript_chars": 35278,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-22T00:30:06.444161+00:00",
-      "expires_at": "2026-10-06T00:30:06.444161+00:00"
     },
     {
       "guid": "cde6360e-d345-4ead-a9bb-1f973baf6ab8",

@@ -26,7 +26,18 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2107237935095652694",
+          "text": "I was wondering why SemiAnalysis attempted to pump Anthropic subscriptions today. LOL",
+          "created_at": "2026-10-05T22:34:08+00:00",
+          "like_count": 35,
+          "retweet_count": 0,
+          "reply_count": 4,
+          "engagement_score": 39,
+          "url": "https://x.com/insane_analyst/status/2107237935095652694"
+        }
+      ]
     },
     {
       "handle": "simonw",
@@ -35,14 +46,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2106500511465869380",
-          "text": "Now that we've had a few days with it, how are people differentiating between Dot and regular ChatGPT?\n\nI'm having trouble deciding when I should prompt Dot vs using ChatGPT - my Dot seems to afford a single conversation, but I like controlling my context across multiple threads",
-          "created_at": "2026-10-03T21:43:53+00:00",
-          "like_count": 435,
-          "retweet_count": 2,
-          "reply_count": 161,
-          "engagement_score": 600,
-          "url": "https://x.com/simonw/status/2106500511465869380"
+          "id": "2107158711798218848",
+          "text": "I re-ran an experiment @colin_fraser ran against GPT-4o a while back to see how good it was at adding long numbers, only this time I tried Qwen 3.8 27B running locally in both reasoning and non-reasoning modes https://t.co/IOufJIA4N9 https://t.co/4kB33NCPcO",
+          "created_at": "2026-10-05T17:19:20+00:00",
+          "like_count": 260,
+          "retweet_count": 15,
+          "reply_count": 57,
+          "engagement_score": 347,
+          "url": "https://x.com/simonw/status/2107158711798218848"
         }
       ]
     },
@@ -53,23 +64,33 @@
       "tier": "analyst",
       "tweets": [
         {
+          "id": "2106893015063421357",
+          "text": "We’re already starting to see what kind of new jobs AI is creating. \n\nAI requires significant technical work and surrounding services to deploy into the economy. This means jobs for AI engineers that build applied AI products sold to (or within) enterprises, FDEs to deploy agents into companies, new services firms for deploying AI, and more. \n\nAnd even the published stats of new jobs undercount all the existing jobs that are transitioning to new areas of AI work in an enterprise. Many prior data, research, and software jobs large enterprises are also being repositioned for working with AI. \n\nEvery bank, life sciences company, manufacturer, and even law firm is bringing on more technical talent -or repositioning existing roles- to help with agent deployment in their companies. It’s a lot easier to picture what AI can replace vs. what it creates until it starts happening. Now we’re seeing what this looks like.",
+          "created_at": "2026-10-04T23:43:33+00:00",
+          "like_count": 811,
+          "retweet_count": 103,
+          "reply_count": 139,
+          "engagement_score": 1156,
+          "url": "https://x.com/levie/status/2106893015063421357"
+        },
+        {
           "id": "2106583814709633413",
           "text": "AI agent adoption is still very bimodal right now. You have coding and coding adjacent tasks which have taken off, and then everything else. \n\nAnd even within coding, you have a very wide continuum of adoption patterns, with some likely a small percentage of developers deploying background agents working on projects in parallel, and the rest of everyone else still working with agents 1:1. \n\nThen, there’s the entire rest of knowledge work where real agentic adoption is still very early. The reason for this is that most of the workflows still need to reengineered to work with agents. \n\nThis isn’t the same as deploying a chat system for better research efficiency, but instead requires workflows to be rebuilt, data to be wired up in new ways, new practices for accountability and liability of decisions when agents are in the mix, governance and compliance paradigm changes, security upgrades, and more. \n\nWe’re still so unbelievably early in what this is going to look like outside of a few categories of work right now. This is why you can basically expect 100X more agent adoption from what we’ve seen so far.",
           "created_at": "2026-10-04T03:14:54+00:00",
-          "like_count": 431,
-          "retweet_count": 37,
-          "reply_count": 101,
-          "engagement_score": 606,
+          "like_count": 512,
+          "retweet_count": 43,
+          "reply_count": 122,
+          "engagement_score": 720,
           "url": "https://x.com/levie/status/2106583814709633413"
         },
         {
           "id": "2106802940879192260",
           "text": "This metric may tell us more about the business model of consumer AI than the state of AI. AI for consumers almost inevitably will be subsidized and monetized via commerce, ads, or purchases of devices and other services. This metric may level off lower than we think.",
           "created_at": "2026-10-04T17:45:38+00:00",
-          "like_count": 175,
-          "retweet_count": 15,
-          "reply_count": 48,
-          "engagement_score": 253,
+          "like_count": 338,
+          "retweet_count": 35,
+          "reply_count": 67,
+          "engagement_score": 475,
           "url": "https://x.com/levie/status/2106802940879192260"
         }
       ]
@@ -95,14 +116,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2106162514904207396",
-          "text": "StepFun debuts on the Vals leaderboard with Step 5 Preview, ranking #7 among open-weight models, just ahead of Qwen 3.8 Max. It costs $2.54/task. https://t.co/IuwbCBZZ4w",
-          "created_at": "2026-10-02T23:20:48+00:00",
-          "like_count": 76,
+          "id": "2107204457738256749",
+          "text": "For decades, researchers have sought materials that sort electrons by spin while their magnetism cancels.\n\nIn 3 days, 90+ Opus 5.5 agents helped us uncover two room-temperature magnetic semiconductor candidates in simulations: YBaMnFeO₅ and KV[Cr(CN)₆].\n\nKV[Cr(CN)₆] was synthesized back in 1999. Its predicted  ability to sort electrons by spin appears to have been hiding in plain sight for 27 years.",
+          "created_at": "2026-10-05T20:21:07+00:00",
+          "like_count": 1042,
+          "retweet_count": 65,
+          "reply_count": 41,
+          "engagement_score": 1213,
+          "url": "https://x.com/ValsAI/status/2107204457738256749"
+        },
+        {
+          "id": "2107165496009515307",
+          "text": "Last month the Vals AI team hit the road for campus recruiting. We spent time at @UCBerkeley, @MIT, @GeorgiaTech, and @UofIllinois. \n\nThe students we met are already running evals, building agents, and asking sharp questions about the future of AI.\n\nWe will be at:\n@Stanford on October 6th\n@Princeton on October 29th\n\nCan't wait to meet you all!",
+          "created_at": "2026-10-05T17:46:18+00:00",
+          "like_count": 31,
           "retweet_count": 4,
           "reply_count": 4,
-          "engagement_score": 88,
-          "url": "https://x.com/ValsAI/status/2106162514904207396"
+          "engagement_score": 43,
+          "url": "https://x.com/ValsAI/status/2107165496009515307"
         }
       ]
     },
@@ -111,7 +142,18 @@
       "name": "Arena (formerly LMArena / human preference benchmark)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2107184642944389402",
+          "text": "The Agent Arena ranks agentic ability to solve problems across domains. \n\nU.S. labs lead across every domain:\n- @AnthropicAI models hold the #1 position in Code, Work, and Chat\n- @OpenAI's GPT 6 Astra (Max) remains in the top four across all three categories: #2 in Code and #4 in both Work and Chat\n\nThe leading models stay strong across categories, but their order shifts:\n- Claude Fable 5.1 (Max) leads both Code and Work and ranks #2 in Chat\n- Claude Sonnet 5.5 (Max) leads Chat and ranks #4 in Code and #5 in Work\n\nCode and Work rankings move together more closely than Chat:\n- Gemini 4 Argon (High), for example, ranks #14 in Code and #12 in Work but #5 in Chat, highlighting a distinct strength in conversational agent tasks\n\nAgent Arena ranks models based on overall net improvement against the current frontier, as well as performance across specific categories of agentic tasks. These rankings are grounded in live traces collected from agents attempting to solve real-world tasks submitted by humans around the world.\n\n- Code: writing and debugging code, workflow automation, and data analysis\n- Chat: creative writing, learning, personal questions, everyday research, and media generation\n- Work: documents, professional research, planning, and professional writing\n\nThis visual outlines how selected models compare across Agent Arena categories as of October 5, 2026.",
+          "created_at": "2026-10-05T19:02:23+00:00",
+          "like_count": 157,
+          "retweet_count": 10,
+          "reply_count": 21,
+          "engagement_score": 198,
+          "url": "https://x.com/arena/status/2107184642944389402"
+        }
+      ]
     },
     {
       "handle": "ArtificialAnlys",
@@ -120,24 +162,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2106165480876863549",
-          "text": "Compare AI models side by side with the Artificial Analysis model comparison tool\n\nSelect any model and compare them across:\n➤ Artificial Analysis Intelligence Index scores\n➤ Individual benchmark scores\n➤ Artificial Analysis Capability Index scores including Finance & Accounting, Strategy & Ops, Legal, Healthcare & Medical, Engineering, and Economics\n➤ Cost, broken down by input, output, and cached tokens\n➤ Output speed and latency\n\nExplore the tool: https://t.co/MqiOE6sB72",
-          "created_at": "2026-10-02T23:32:35+00:00",
-          "like_count": 197,
-          "retweet_count": 7,
-          "reply_count": 22,
-          "engagement_score": 233,
-          "url": "https://x.com/ArtificialAnlys/status/2106165480876863549"
-        },
-        {
-          "id": "2106174147571413371",
-          "text": "Ideogram 4.5 debuts at #23 on the AA-Image-Editing v2.0 leaderboard, Ideogram's first model on the board, and lands at #34 on AA-Image-T2I v2.0\n\nIdeogram 4.5 is Ideogram's new image model, released on September 30. Ideogram positions it as a high precision edit model, built to reduce pixel shifts, color changes and texture artifacts across multi-turn edits. It also supports Text to Image. We evaluated Ideogram 4.5 at “high” quality level.\n\nIn AA-Image-Editing v2.0, Ideogram 4.5 takes #23, just behind HiDream-O1-Edit-1.5 and HunyuanImage 3.0 Instruct and ahead of ByteDance's Seedream 5.0 Lite. It is the first Ideogram model on our Image Editing Leaderboard. In AA-Image-T2I v2.0 it ranks #34, climbing from #40 for Ideogram 4.0.\n\nAt the High quality setting we evaluated, Ideogram 4.5 is priced at $0.22 per image ($220 per 1k images) for edits and $0.10 per image ($100 per 1k) for Text to Image. Lower quality tiers start at $0.008 per image for edits and $0.03 per image for Text to Image.\n\nIdeogram 4.5 is live in Ideogram, the Ideogram API and Ideogram's launch partners, with open weights coming soon.\n\nCongratulations to @ideogram_ai on the release!\n\nSee below for our analysis and example outputs of Ideogram 4.5 in the Artificial Analysis Image Arena 🧵",
-          "created_at": "2026-10-03T00:07:02+00:00",
-          "like_count": 189,
-          "retweet_count": 13,
-          "reply_count": 12,
-          "engagement_score": 227,
-          "url": "https://x.com/ArtificialAnlys/status/2106174147571413371"
+          "id": "2107219177132155233",
+          "text": "Artificial Analysis has been given access by Reflection and is independently benchmarking Beam\n\nEarly indicators suggest Beam will be one of the most token-efficient open models we've seen for its level of intelligence.\n\nCongratulations @reflection_ai  on the announcement!",
+          "created_at": "2026-10-05T21:19:36+00:00",
+          "like_count": 388,
+          "retweet_count": 45,
+          "reply_count": 17,
+          "engagement_score": 495,
+          "url": "https://x.com/ArtificialAnlys/status/2107219177132155233"
         }
       ]
     },
@@ -167,18 +199,7 @@
       "name": "Sam Altman",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2106388373221118198",
-          "text": "I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue.",
-          "created_at": "2026-10-03T14:18:17+00:00",
-          "like_count": 27486,
-          "retweet_count": 1847,
-          "reply_count": 5894,
-          "engagement_score": 37074,
-          "url": "https://x.com/sama/status/2106388373221118198"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "DarioAmodei",
@@ -197,10 +218,10 @@
           "id": "2106850913474482566",
           "text": "Very proud of the impact of all our work using AI to accelerate science and medicine for the benefit of society.",
           "created_at": "2026-10-04T20:56:15+00:00",
-          "like_count": 1017,
-          "retweet_count": 55,
-          "reply_count": 80,
-          "engagement_score": 1207,
+          "like_count": 3141,
+          "retweet_count": 216,
+          "reply_count": 167,
+          "engagement_score": 3740,
           "url": "https://x.com/demishassabis/status/2106850913474482566"
         }
       ]
@@ -254,53 +275,43 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2106503460384538793",
-          "text": "AI will make everything free, including itself. The last domino to fall will be free energy, which is humanity’s final frontier.",
-          "created_at": "2026-10-03T21:55:36+00:00",
-          "like_count": 5176,
-          "retweet_count": 320,
-          "reply_count": 512,
-          "engagement_score": 6328,
-          "url": "https://x.com/rauchg/status/2106503460384538793"
-        },
-        {
-          "id": "2106516538836856945",
-          "text": "Security will become a larger and larger function in software companies. Security is verification engineering (eg: “my code is probably memory-safe”), as well as capital allocation (“what surface should I throw most tokens at?”)\n\nFor startups, it’s a challenge and opportunity. As the world’s paranoia grows given ever-more-sophisticated AI adversaries, how can you trust a 2-person-and-a-dog company?\n\nBut conversely, given the dire state of global cybersecurity and increasing reliance on centralization, as always, there’re vast areas that small teams can now disrupt that I’m excited to invest in.",
-          "created_at": "2026-10-03T22:47:34+00:00",
-          "like_count": 980,
-          "retweet_count": 68,
-          "reply_count": 130,
-          "engagement_score": 1246,
-          "url": "https://x.com/rauchg/status/2106516538836856945"
-        },
-        {
           "id": "2106863842450133114",
           "text": "DHH is fundamentally right about Rust. For context, Vercel has been undergoing a Rust-ification (carcinization, technically 🦀) for a while.\n\nOne of the first projects we migrated was Turborepo, from Go to Rust¹. The migration completed, but the RoI was actually quite controversial internally.\n\nWhile Rust was in our eyes better for low-level OS access, something crucial for a build system like Turbo, the human migration costs were very sustantive.\n\nGo is very fast. It's beautifully designed. It's easy to iterate on. We were very conflicted about the migration, because it was *humans* writing the code, *even if we knew Rust was a better choice*.\n\nThe calculus has now changed. What's \"best for humans\" is no longer necessarily \"best for business\". \n\nFWIW, it's also quite unlikely that Rust is the end-all-be-all toolchain. I'm quite certain there's greener pasture ahead, because Rust itself was designed before the 'supersonic tsunami' of agents hit.\n\n¹ https​://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust",
           "created_at": "2026-10-04T21:47:38+00:00",
-          "like_count": 785,
-          "retweet_count": 38,
-          "reply_count": 64,
-          "engagement_score": 925,
+          "like_count": 2948,
+          "retweet_count": 136,
+          "reply_count": 169,
+          "engagement_score": 3389,
           "url": "https://x.com/rauchg/status/2106863842450133114"
+        },
+        {
+          "id": "2107119811444748555",
+          "text": "Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript.\n\ngdp-ts is a library, linter and AI skill for safer API design. Under this contract, sensitive functions require 'proofs' that the caller performed an authorization check.\n\nThe typechecker verifies these proofs at compile time, preventing your team and agents from shipping catastrophic security (and other kinds of) bugs.\n\nWhile these patterns have existed for quite some time, especially in ecosystems like Haskell, ① human code review and ② cognitive and syntactic overhead made these solutions niche.\n\nThe situation is now inverted. Agents are writing more code than we can review, and they *thrive* in tight loops with hard constraints that would frustrate us. We see this with the rise of Rust, borrow checker, code aesthetics debate and all.\n\nThe README and examples model a real-world Vercel API product constraint: changing the password on a Project requires a proof of a certain role + a certain entitlement. Thanks to Matt Noonan and Ollie Charles for their research in this space.\n\nhttps://t.co/eRWdiMvQ2V",
+          "created_at": "2026-10-05T14:44:46+00:00",
+          "like_count": 1886,
+          "retweet_count": 92,
+          "reply_count": 129,
+          "engagement_score": 2199,
+          "url": "https://x.com/rauchg/status/2107119811444748555"
         },
         {
           "id": "2106848085267902815",
           "text": "Working on a new little project. The 𝚁𝙴𝙰𝙳𝙼𝙴 is fully written by hand, because it's for human consumption. The documentation internals are AI English, because they're for agents.\n\nThis little rule of thumb can make the world better. Blogs, tweets, READMEs: human communication. It's not even about \"em dashes\" or lack thereof. It's that it's the story-telling moment where you want to connect with other humans through their words.",
           "created_at": "2026-10-04T20:45:01+00:00",
-          "like_count": 539,
-          "retweet_count": 18,
-          "reply_count": 73,
-          "engagement_score": 648,
+          "like_count": 1551,
+          "retweet_count": 61,
+          "reply_count": 176,
+          "engagement_score": 1849,
           "url": "https://x.com/rauchg/status/2106848085267902815"
         },
         {
           "id": "2106885457212825983",
           "text": "It’s hard to fathom https://t.co/OL0LzGtvAw getting even faster, but it’s now… much faster 😂\n\nAs models speed up (as with Astra 𝚞𝚕𝚝𝚛𝚊𝚏𝚊𝚜𝚝), harness overhead matters more and more.\n\nNext release will feature even better performance for session storage and retrieval, and a big unlock for cloud durability in libfx.",
           "created_at": "2026-10-04T23:13:31+00:00",
-          "like_count": 40,
-          "retweet_count": 1,
-          "reply_count": 12,
-          "engagement_score": 54,
+          "like_count": 340,
+          "retweet_count": 11,
+          "reply_count": 64,
+          "engagement_score": 426,
           "url": "https://x.com/rauchg/status/2106885457212825983"
         }
       ]
@@ -310,7 +321,18 @@
       "name": "Amjad Masad (Replit)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2107222388429766970",
+          "text": "The US is catching up on open-weights models.",
+          "created_at": "2026-10-05T21:32:22+00:00",
+          "like_count": 172,
+          "retweet_count": 12,
+          "reply_count": 19,
+          "engagement_score": 215,
+          "url": "https://x.com/amasad/status/2107222388429766970"
+        }
+      ]
     },
     {
       "handle": "joshwoodward",
@@ -324,18 +346,7 @@
       "name": "Paul Gauthier (Aider)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2106149275881103548",
-          "text": "I made a little python DSL for quickly drawing optical setup diagrams. Something to bridge the gap between a hand drawn whiteboard sketch and an actual optical table layout. For sharing setups with colleagues. Or for riffing with LLMs, which can understand and modify the code easily.\n\nhttps://t.co/wyhRBYxGK0",
-          "created_at": "2026-10-02T22:28:12+00:00",
-          "like_count": 9,
-          "retweet_count": 0,
-          "reply_count": 2,
-          "engagement_score": 11,
-          "url": "https://x.com/paulgauthier/status/2106149275881103548"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "ivanfioravanti",
@@ -344,14 +355,14 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2106844720853082177",
-          "text": "Local AI for coding is so powerful! Qwen 3.8 27B is amazing, can't wait to see Qwen 4 in action! \n\nAnd performance improved like crazy in recent weeks!\n\nNo?",
-          "created_at": "2026-10-04T20:31:39+00:00",
-          "like_count": 61,
-          "retweet_count": 0,
-          "reply_count": 10,
-          "engagement_score": 71,
-          "url": "https://x.com/ivanfioravanti/status/2106844720853082177"
+          "id": "2107216748583784710",
+          "text": "M3 Ultra loses vs 2 x DGX Spark on batch inference. \nHere c4 using tool-eval-bench with Qwen3.8-Flash-Next (oQ4 - NVFP4), started together. \n\nConcurrency turns LLM inference from a memory-bandwidth problem into a compute problem, and that's where DGX Spark really shines. https://t.co/iXJTdQ7d3c",
+          "created_at": "2026-10-05T21:09:57+00:00",
+          "like_count": 27,
+          "retweet_count": 1,
+          "reply_count": 8,
+          "engagement_score": 37,
+          "url": "https://x.com/ivanfioravanti/status/2107216748583784710"
         }
       ]
     },
@@ -362,14 +373,34 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2106357262709080384",
-          "text": "Recently there was a story reporting on OpenAI’s form 5500 (the public disclosure about our 401k program) which some people used to make observations with the flavor of “see, they don’t REALLY believe in advanced AI, or else they wouldn’t be saving money!”\n\nI contribute to my openai-sponsored 401k as well as other conventional retirement-savings vehicles. I cannot speak for any of my colleagues, but I can tell you why I personally make these contributions.\n\nFirst there is the reality that the whole “advanced AI means money has no value, either because we live in utopia and everything’s free or because we are all dead” are extreme ends of the spectrum of possible futures. It is true that things of this flavor, or other scenarios similar enough to this that one’s retirement savings don’t matter, *are* possible outcomes. But also there are many other plausible transformative futures, and I’m enough of a Burkean that I’m not going to jettison some of the oldest financial wisdom humans have developed (save money!) over my own projections about the future. It wouldn’t be responsible to my family, for one thing.\n\nFamily is an important part of my thinking on this topic for other reasons. In some sense, I want to live in a future where having set aside money for retirement is still prudent. That would mean the future, however transformed, is still familiar enough. A world where it truly doesn’t matter whether uou save may be a lovely place to live (or it may not), but regardless of its desirability it is a world SO transformed that, again, my Burkean prior kicks in. \n\nI *hope* the future is at least vaguely familiar to me as I exist today. I hope that at least some of the habits I have learned still matter in that future, and that some of the wisdom I have learned holds true. I hope that not just for me but for my son and future children. I do a lot of things out of this hope, and one small example is that I contribute to a 401k. \n\nA lot of people made their sneering observations about OAI employees’ 401k contributions, saying “derp de doo, revealed preferences, they don’t believe what they say.” That’s fine. Maybe that IS why some frontier AI company staff save for retirement. But I’d characterize my mentality about savings more as an article of faith at this point, and my biweekly 401k contributions as tiny prayers for a vaguely recognizable future.",
-          "created_at": "2026-10-03T12:14:40+00:00",
-          "like_count": 178,
-          "retweet_count": 2,
-          "reply_count": 9,
-          "engagement_score": 191,
-          "url": "https://x.com/deanwball/status/2106357262709080384"
+          "id": "2107044951217303939",
+          "text": "A very senior AI industry figure once started a conversation by asking me, basically, “under what circumstances do you think we are essentially just screwed?” and I replied with the scenario below.",
+          "created_at": "2026-10-05T09:47:18+00:00",
+          "like_count": 980,
+          "retweet_count": 45,
+          "reply_count": 37,
+          "engagement_score": 1107,
+          "url": "https://x.com/deanwball/status/2107044951217303939"
+        },
+        {
+          "id": "2107026524251504980",
+          "text": "Research taste in particular may be trickier than it looks. Say the next generation of AI really does have an interesting, high-taste set of research directions to pursue. Well presumably find those fast, after which the fruit will have been plucked, and the ideas will no longer be high taste (because they’ve been explored en masse). This is a similar dynamic to the ever-moving target of “slop.” *Any* output that is recognizably of the agents becomes slop, or at least commodified, in a sense, once that output is sufficiently promulgated in bulk. Certain styles of math paper will become (are becoming) slop. Certain styles of web design already are. On and on it will go. It’s unclear if any kind of media/intellectual output proliferated at such scale can remain high taste, even if we’d have considered it genius from a human just a few years ago.\n\nThe bar will continually be raised. The world will get smarter as what was once brilliance becomes commodified, but *what was once brilliance will nevertheless be commodified.* And so the definition of brilliant will change. The wedge for continued value creation by humans lies here, I would guess.",
+          "created_at": "2026-10-05T08:34:04+00:00",
+          "like_count": 234,
+          "retweet_count": 15,
+          "reply_count": 20,
+          "engagement_score": 284,
+          "url": "https://x.com/deanwball/status/2107026524251504980"
+        },
+        {
+          "id": "2107019127844196521",
+          "text": "It may take another crank or two of the capabilities wheel, plus some months for inference costs to fall, before agent collectives like this really proliferate in a way that is noticeable to the average person. But it is clearly coming.",
+          "created_at": "2026-10-05T08:04:41+00:00",
+          "like_count": 177,
+          "retweet_count": 16,
+          "reply_count": 4,
+          "engagement_score": 213,
+          "url": "https://x.com/deanwball/status/2107019127844196521"
         }
       ]
     },
@@ -380,18 +411,38 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2106612888987443424",
-          "text": "there’s something quite awkward about all the personal agents in the current hype cycle\n\nmuse, grok bot, instinct, dots, and whatever google, anthropic will come up with\n\nnone of them is “mine”\n\ni’d be trusting a vendor for some of the most sensitive data about me and bet on them handling it with extreme responsibility. what if they have a data leakage incident? what if they hired a wrong employee? what if they simply break bad?\n\ni’d also be betting on their model. right now i’ve set up a lot of my stuff in grok bot, but what if their model falls behind? what if another model becomes 10x better on pure intelligence? then i’ll either miss out on a better assistant, or have to bite the bullet and do a full migration\n\ni’d also have to bet on their product. they may not build the features i want. they may not allow me to customize enough. and one day my assistant may show me ads\n\nthat feels like way too much betting than what i’d be comfortable with, if i truly want literally everything in my life to go through and be taken care of by an assistant\n\nwith all that considered, i’m more bullish on open source personal agents that run on people’s own computers. but i think these open source projects have to break out of the assumption that their users are developers and they can just throw a repo at them and ask them to launch a terminal\n\na well polished, fool proof, community maintained, vendor agnostic, free personal agent that everyone can run by themselves without locking into a SaaS - that’s what i think many people will need",
-          "created_at": "2026-10-04T05:10:26+00:00",
-          "like_count": 751,
-          "retweet_count": 38,
-          "reply_count": 222,
-          "engagement_score": 1049,
-          "url": "https://x.com/kunchenguid/status/2106612888987443424"
+          "id": "2107171410837934440",
+          "text": "looks like the watermarks are here to stay.. \n\ni have mixed feeling about this\n\non one hand, i don't let LLM write any of my content, and i hate all the bot replies. i wish we have a solution to kill them all, but i don't think this is it\n\nthe fundamental problem with doing watermarking is that it puts too much emphasis on the tool being used to produce a piece of work, and diminishes the human effort behind it\n\na human producing a piece of complete slop using LLM alone, vs a human spending hours and hours crafting their idea but let LLM handle some of the final touch, will both be labeled as \"AI-generated\"\n\nand the people who truly want to keep spamming the world with slop will simply use an uncensored model to do a rewording pass which removes the watermark. so the watermarking will apply to regular people much more than malicious ones\n\ntime will tell, but this feels like just another cookie banner kind of thing that's going to poison the internet much more than helping it",
+          "created_at": "2026-10-05T18:09:48+00:00",
+          "like_count": 215,
+          "retweet_count": 11,
+          "reply_count": 42,
+          "engagement_score": 279,
+          "url": "https://x.com/kunchenguid/status/2107171410837934440"
+        },
+        {
+          "id": "2107212205385187398",
+          "text": "so, now we finally all agree we shouldn’t always read AI code, right?",
+          "created_at": "2026-10-05T20:51:54+00:00",
+          "like_count": 122,
+          "retweet_count": 3,
+          "reply_count": 27,
+          "engagement_score": 155,
+          "url": "https://x.com/kunchenguid/status/2107212205385187398"
+        },
+        {
+          "id": "2107129937715224951",
+          "text": "i just gave the exact same task to Muse, Dots, and Instinct (didn't do grok bot because my quota's already tight)\n\ni asked them to research good product names for something i want to ship, and i gave a bunch of criteria for what i look for\n\n1. muse was very fast, but outcome was questionable\n\nmuse was the only agent that went straight into the work without asking me any questions - not sure i like this\n\nbut boy was it fast. i did 3 rounds of iterations with muse while dots and instinct were both still working on the first iteration\n\nBUT... guess what was the top suggestion from muse? \n\nit was \"endframe\"  🤦 i was like.. dude, did you not watch silicon valley?\n\nin follow up iterations, i also noticed muse was not quite good at following my intent in a way i like. for example, i said in the very beginning that every name needs to check for domain availability, but later i found out that some names weren't checked\n\noverall, it seems to optimize for quick iterations rather than thoroughness\n\n2. instinct was very slow, but quite autonomous\n\ninstinct first asked me some questions to anchor its work. i liked that because it helps steer its work to be more aligned with what i want\n\nthen it went dark for 20 minutes to do the work. it did a pretty thorough research and came back with a file i could open and read. the file had a table with all the candidates and their readiness\n\noverall i thought that was pretty good, except for the names themselves.. they aren't that good. this feels like a general problem with LLMs - they seem to be really bad at coming up with names humans would really find appealing\n\n3. dots was also slow, but it's more \"asynchronous\" and more intelligent\n\nlike indistinct, dots also started with asking me some questions, but it didn't let the questions block its work! \n\nit had already started work in the background, and my questions were sent to it asynchronously as steers. i think this shows openai's slightly more experienced with harness engineering\n\nit also didn't go dark for the full duration of its work. it kept giving me updates about its progress, which was useful because i spotted some names i liked and didn't like, and gave it feedback early for what to lean into\n\nalso gotta say, having astra in dots is clearly an advantage. the model is just smarter. it kept all my inputs in its mind, including the original goal i stated plus all the follow up steers. it \"gets me\"\n\ndots was also the only solution that actually gave me a few names i'd consider\n\njust a one-off experience here - take it with a grain of salt. i'll share more examples like this when i give them tasks!",
+          "created_at": "2026-10-05T15:25:00+00:00",
+          "like_count": 128,
+          "retweet_count": 3,
+          "reply_count": 18,
+          "engagement_score": 152,
+          "url": "https://x.com/kunchenguid/status/2107129937715224951"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-04T22:11:59.189039+00:00"
+  "generated_at": "2026-10-05T22:10:23.752666+00:00"
 }
