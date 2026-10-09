@@ -1,7 +1,111 @@
 {
-  "generated_at": "2026-10-06T22:01:39.872348+00:00",
+  "generated_at": "2026-10-08T23:59:06.633511+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/periodic",
+      "link": "https://www.latent.space/p/periodic",
+      "channel": "Latent Space",
+      "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+      "pub_date": "2026-10-08T16:27:54+00:00",
+      "transcript_path": "feeds/transcripts/66bef5c60dcae679e20b82c2.txt",
+      "transcript_chars": 109376,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-08T23:59:06.633511+00:00",
+      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
+      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+      "link": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+      "channel": "Latent Space",
+      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "pub_date": "2026-10-08T07:27:51+00:00",
+      "transcript_path": "feeds/transcripts/594b0186b6e464bcd3086f00.txt",
+      "transcript_chars": 9991,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-08T23:59:06.633511+00:00",
+      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
+      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+    },
+    {
+      "guid": "yt:RE_AsVyoOSQ",
+      "link": "https://www.youtube.com/watch?v=RE_AsVyoOSQ",
+      "channel": "Yahoo Finance",
+      "title": "Microsoft Windows Event with Satya Nadella and Jensen Huang | LIVE",
+      "pub_date": "2026-10-07T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/8cbc30e0391a7b44cdaf86da.txt",
+      "transcript_chars": 49586,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-08T23:59:06.633511+00:00",
+      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
+      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+    },
+    {
+      "guid": "yt:roz4fmf9-ng",
+      "link": "https://www.youtube.com/watch?v=roz4fmf9-ng",
+      "channel": "Motivational Instinct",
+      "title": "Teach Your Brain To Become Someone New | Naval Ravikant Motivation",
+      "pub_date": "2026-10-05T16:45:32+00:00",
+      "transcript_path": "feeds/transcripts/b6cf0ab4be78a0ca5aad3147.txt",
+      "transcript_chars": 16821,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-08T23:59:06.633511+00:00",
+      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
+      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+    },
+    {
+      "guid": "yt:4YUEWqAtOD8",
+      "link": "https://www.youtube.com/watch?v=4YUEWqAtOD8",
+      "channel": "Evan Carmichael",
+      "title": "The Top 1% Mindset Behind The First $5 Trillion Company | Jensen Huang (Nvidia)",
+      "pub_date": "2026-10-05T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/9bd2c632dadb349eabb82ba8.txt",
+      "transcript_chars": 51181,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-08T23:59:06.633511+00:00",
+      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
+      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+    },
+    {
+      "guid": "yt:cvmgnpxr-Lk",
+      "link": "https://www.youtube.com/watch?v=cvmgnpxr-Lk",
+      "channel": "David Senra",
+      "title": "Inside the Minds of Mark Zuckerberg, Palmer Luckey, Josh Kushner & Scott Wu | Jeremy Stern",
+      "pub_date": "2026-10-04T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/80df0ef8a894d157fdf25cdc.txt",
+      "transcript_chars": 73239,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-08T23:59:06.633511+00:00",
+      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
+      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+    },
+    {
+      "guid": "yt:XWj3IgfRcFM",
+      "link": "https://www.youtube.com/watch?v=XWj3IgfRcFM",
+      "channel": "global impulse and 2 more",
+      "title": "Jensen Huang ADMITS Why America Can’t Stop China's AI!",
+      "pub_date": "2026-10-03T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/97a180d8053166d7a5e2c61d.txt",
+      "transcript_chars": 26402,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-08T23:59:06.633511+00:00",
+      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
+      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "link": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+      "channel": "Latent Space",
+      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+      "pub_date": "2026-10-07T04:55:44+00:00",
+      "transcript_path": "feeds/transcripts/d0198d1178242bfb88b5e8d5.txt",
+      "transcript_chars": 15362,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-08T02:05:44.447484+00:00",
+      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
+      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
       "link": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
@@ -12,8 +116,8 @@
       "transcript_chars": 14874,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-06T22:01:39.872348+00:00",
-      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
-      "expires_at": "2026-10-20T22:01:39.872348+00:00"
+      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
+      "expires_at": "2026-10-22T23:59:06.633511+00:00"
     },
     {
       "guid": "yt:iKFqJOSWHTE",
@@ -25,8 +129,8 @@
       "transcript_chars": 48411,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-06T22:01:39.872348+00:00",
-      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
-      "expires_at": "2026-10-20T22:01:39.872348+00:00"
+      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
+      "expires_at": "2026-10-22T23:59:06.633511+00:00"
     },
     {
       "guid": "yt:2OOHnaGTQFg",
@@ -38,8 +142,8 @@
       "transcript_chars": 39474,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-06T22:01:39.872348+00:00",
-      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
-      "expires_at": "2026-10-20T22:01:39.872348+00:00"
+      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
+      "expires_at": "2026-10-22T23:59:06.633511+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
@@ -51,8 +155,8 @@
       "transcript_chars": 12140,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-06T00:35:47.242338+00:00",
-      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
-      "expires_at": "2026-10-20T22:01:39.872348+00:00"
+      "last_seen_at": "2026-10-08T02:05:44.447484+00:00",
+      "expires_at": "2026-10-22T02:05:44.447484+00:00"
     },
     {
       "guid": "233d9970-74f8-42c7-8383-f7ea5f70f1d6",
@@ -64,8 +168,8 @@
       "transcript_chars": 34812,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-06T00:35:47.242338+00:00",
-      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
-      "expires_at": "2026-10-20T22:01:39.872348+00:00"
+      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
+      "expires_at": "2026-10-22T23:59:06.633511+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
@@ -77,8 +181,8 @@
       "transcript_chars": 4561,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-06T00:35:47.242338+00:00",
-      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
-      "expires_at": "2026-10-20T22:01:39.872348+00:00"
+      "last_seen_at": "2026-10-08T02:05:44.447484+00:00",
+      "expires_at": "2026-10-22T02:05:44.447484+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
@@ -103,8 +207,8 @@
       "transcript_chars": 41447,
       "transcript_source": null,
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
-      "expires_at": "2026-10-20T22:01:39.872348+00:00"
+      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
+      "expires_at": "2026-10-22T23:59:06.633511+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
@@ -549,32 +653,6 @@
       "expires_at": "2026-10-11T10:27:08.356510+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
-      "link": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
-      "channel": "Latent Space",
-      "title": "[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm",
-      "pub_date": "2026-09-24T08:12:59+00:00",
-      "transcript_path": "feeds/transcripts/dce1effab0387a81337d9a89.txt",
-      "transcript_chars": 19782,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
-    },
-    {
-      "guid": "3e2cb6e9-bdb1-400b-b74a-c6cd2d52ff16",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/From-Cartoon-Apes-to-Reddit-Mania-Why-Crowds-Lose-Their-Minds-With-Money-e3p9q3k",
-      "channel": "The Acquirers Podcast",
-      "title": "From Cartoon Apes to Reddit Mania: Why Crowds Lose Their Minds With Money",
-      "pub_date": "2026-09-24T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/03a544981d892c35983746a1.txt",
-      "transcript_chars": 146173,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
-    },
-    {
       "guid": "yt:hI3M_4UQoWk",
       "link": "https://www.youtube.com/watch?v=hI3M_4UQoWk",
       "channel": "Yahoo Finance",
@@ -614,19 +692,6 @@
       "expires_at": "2026-10-20T22:01:39.872348+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
-      "link": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
-      "channel": "Latent Space",
-      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
-      "pub_date": "2026-09-23T06:41:41+00:00",
-      "transcript_path": "feeds/transcripts/39a0dd75dbf0f0f68d90d5b7.txt",
-      "transcript_chars": 27154,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-23T22:12:33.683746+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
-    },
-    {
       "guid": "yt:HjurAWAr_nY",
       "link": "https://www.youtube.com/watch?v=HjurAWAr_nY",
       "channel": "The Ezra Klein Show and 2 more",
@@ -638,175 +703,6 @@
       "cached_at": "2026-09-23T22:12:33.683746+00:00",
       "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
       "expires_at": "2026-10-13T22:47:27.792168+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
-      "link": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
-      "channel": "Lenny's Podcast",
-      "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
-      "pub_date": "2026-09-22T23:12:49+00:00",
-      "transcript_path": "feeds/transcripts/4d07e3b8a201cf993a9e8e63.txt",
-      "transcript_chars": 5135,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-23T22:12:33.683746+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
-      "link": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
-      "channel": "Lenny's Podcast",
-      "title": "I left Claude for months. Opus 5.5 is why I'm back",
-      "pub_date": "2026-09-22T19:06:40+00:00",
-      "transcript_path": "feeds/transcripts/5e87a5bac3c941b706fe10d4.txt",
-      "transcript_chars": 4915,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-22T22:31:36.352617+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
-      "link": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
-      "channel": "Lenny's Podcast",
-      "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
-      "pub_date": "2026-09-22T12:45:14+00:00",
-      "transcript_path": "feeds/transcripts/f59758b3af661e4fc7263f9d.txt",
-      "transcript_chars": 19561,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-22T22:31:36.352617+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
-      "link": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
-      "channel": "Latent Space",
-      "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
-      "pub_date": "2026-09-22T06:30:56+00:00",
-      "transcript_path": "feeds/transcripts/d37d7112692eecb44ce64b28.txt",
-      "transcript_chars": 16572,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-22T22:31:36.352617+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/jev",
-      "link": "https://www.latent.space/p/jev",
-      "channel": "Latent Space",
-      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
-      "pub_date": "2026-09-21T22:13:49+00:00",
-      "transcript_path": "feeds/transcripts/44d865393457ffb9c006f979.txt",
-      "transcript_chars": 189663,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-22T22:31:36.352617+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
-      "pub_date": "2026-09-21T15:03:51+00:00",
-      "transcript_path": "feeds/transcripts/67e7c74e30b0af7fecb0cb55.txt",
-      "transcript_chars": 12523,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-22T00:30:06.444161+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
-      "link": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
-      "channel": "Lenny's Podcast",
-      "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
-      "pub_date": "2026-09-21T12:04:11+00:00",
-      "transcript_path": "feeds/transcripts/74e9b6e7b75c3925b2616f80.txt",
-      "transcript_chars": 5410,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-22T00:30:06.444161+00:00",
-      "last_seen_at": "2026-09-23T22:12:33.683746+00:00",
-      "expires_at": "2026-10-07T22:12:33.683746+00:00"
-    },
-    {
-      "guid": "yt:bi23y0x-MhA",
-      "link": "https://www.youtube.com/watch?v=bi23y0x-MhA",
-      "channel": "My First Million",
-      "title": "Sam Altman's coach destroys your limiting beliefs for 86 minutes straight",
-      "pub_date": "2026-09-18T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/fac8b57f631af06dc42d25c1.txt",
-      "transcript_chars": 88626,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-22T00:30:06.444161+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
-    },
-    {
-      "guid": "a2a542d5-2feb-441a-a523-910e16c2d193",
-      "link": "https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market",
-      "channel": "All-In Podcast",
-      "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market",
-      "pub_date": "2026-09-20T20:49:00+00:00",
-      "transcript_path": "feeds/transcripts/5d492beca082beab6a0326ff.txt",
-      "transcript_chars": 3959,
-      "transcript_source": null,
-      "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
-    },
-    {
-      "guid": "yt:xCUala5j7aQ",
-      "link": "https://www.youtube.com/watch?v=xCUala5j7aQ",
-      "channel": "CBS Sunday Morning",
-      "title": "Extended interview: Nvidia CEO Jensen Huang on fears about AI",
-      "pub_date": "2026-09-20T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/c294b6fbd34d9d91fc0eda4a.txt",
-      "transcript_chars": 40637,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
-    },
-    {
-      "guid": "yt:M6dFK4AcllA",
-      "link": "https://www.youtube.com/watch?v=M6dFK4AcllA",
-      "channel": "The Interview and 2 more",
-      "title": "Why Aaron Sorkin Made His Latest Movie as a Response to Mark Zuckerberg | The Interview",
-      "pub_date": "2026-09-19T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/ea795c49187a61c4914a527e.txt",
-      "transcript_chars": 51854,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
-    },
-    {
-      "guid": "yt:Q1jSJG1iBL8",
-      "link": "https://www.youtube.com/watch?v=Q1jSJG1iBL8",
-      "channel": "Steve Eisman",
-      "title": "Why Dario Amodei and Sam Altman Are Faking the AI Doomsday Crisis | The Weekly Wrap",
-      "pub_date": "2026-09-18T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/920d78f224b5b32a2b0f68da.txt",
-      "transcript_chars": 22533,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
-    },
-    {
-      "guid": "yt:dSrXQQL35Sg",
-      "link": "https://www.youtube.com/watch?v=dSrXQQL35Sg",
-      "channel": "News24",
-      "title": "IN FULL: Sam Altman on AI’s unstoppable rise and the risk of losing control",
-      "pub_date": "2026-09-16T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/d7a82c685ec854edb6522cfd.txt",
-      "transcript_chars": 34510,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-21T00:07:19.955663+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
     },
     {
       "guid": "c388001b-f12f-4458-bb39-61429b0def96",
@@ -822,19 +718,6 @@
       "expires_at": "2026-10-13T22:47:27.792168+00:00"
     },
     {
-      "guid": "yt:Bh5bJrrJ6xs",
-      "link": "https://www.youtube.com/watch?v=Bh5bJrrJ6xs",
-      "channel": "Salesforce",
-      "title": "Marc Benioff & Sam Altman | Dreamforce 2026",
-      "pub_date": "2026-09-16T03:12:14+00:00",
-      "transcript_path": "feeds/transcripts/fd6b7d5751eb8c365168bed5.txt",
-      "transcript_chars": 34949,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-19T14:19:51.557957+00:00",
-      "last_seen_at": "2026-09-22T22:31:36.352617+00:00",
-      "expires_at": "2026-10-06T22:31:36.352617+00:00"
-    },
-    {
       "guid": "cde6360e-d345-4ead-a9bb-1f973baf6ab8",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--030---Long-Live-the-Short-King-Why-4-HI-HBM-Wins-Memory--Myron-Xie--Jordan-Nanos-e3or9k4",
       "channel": "SemiAnalysis",
@@ -846,19 +729,6 @@
       "cached_at": "2026-09-14T23:30:55.705346+00:00",
       "last_seen_at": "2026-09-27T23:58:10.949779+00:00",
       "expires_at": "2026-10-11T23:58:10.949779+00:00"
-    },
-    {
-      "guid": "77cd4aba-55ef-451a-a575-1793d9acfd20",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--029---Modular-Data-Centers-Cut-Build-Time-to-12-Months-Datacenter--Energy--Nico-Bontigui--Jordan-Nanos--Nigel-Chiang--Eric-Wen-e3onilo",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 029 - Modular Data Centers Cut Build Time to 12 Months (Datacenter, Energy) | Nico Bontigui, Jordan Nanos, Nigel Chiang, Eric Wen",
-      "pub_date": "2026-09-11T18:00:00+00:00",
-      "transcript_path": "feeds/transcripts/945a562ba942270998eb7aba.txt",
-      "transcript_chars": 43604,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-11T22:50:18.462607+00:00",
-      "last_seen_at": "2026-09-24T22:47:51.977783+00:00",
-      "expires_at": "2026-10-08T22:47:51.977783+00:00"
     }
   ]
 }
