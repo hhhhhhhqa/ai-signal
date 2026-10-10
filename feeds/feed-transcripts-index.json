@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-10-08T23:59:06.633511+00:00",
+  "generated_at": "2026-10-10T06:14:36.405550+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "cdacfd46-6d2e-45fa-aa03-5ad22d324188",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--037---Whos-Funding-the-11-Trillion-AI-Buildout--Capital-Markets--Dan-Nishball--Jordan-Nanos-e3q81p6",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 037 - Who's Funding the $11 Trillion AI Buildout? (Capital Markets) | Dan Nishball, Jordan Nanos",
+      "pub_date": "2026-10-09T16:30:54+00:00",
+      "transcript_path": "feeds/transcripts/4d74da48334f1054737c2581.txt",
+      "transcript_chars": 82974,
+      "transcript_source": "companion_youtube",
+      "cached_at": "2026-10-10T06:14:36.405550+00:00",
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
+      "link": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
+      "channel": "Latent Space",
+      "title": "[AINews] not much happened today",
+      "pub_date": "2026-10-08T23:29:43+00:00",
+      "transcript_path": "feeds/transcripts/42f0f6a8cdee354a72e8b1c4.txt",
+      "transcript_chars": 41298,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-10T06:14:36.405550+00:00",
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
+    },
+    {
+      "guid": "07aeafdc-ba36-4851-9b94-5290ff21121e",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Small-Caps-Are-About-to-Have-Their-Moment--Jeff-Weniger-e3q3dqq",
+      "channel": "The Acquirers Podcast",
+      "title": "Small Caps Are About to Have Their Moment | Jeff Weniger",
+      "pub_date": "2026-10-08T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/465a1ddd4ef564f4106935df.txt",
+      "transcript_chars": 147371,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-10T06:14:36.405550+00:00",
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/periodic",
       "link": "https://www.latent.space/p/periodic",
@@ -12,8 +51,8 @@
       "transcript_chars": 109376,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
-      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
@@ -25,8 +64,8 @@
       "transcript_chars": 9991,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
-      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
     },
     {
       "guid": "yt:RE_AsVyoOSQ",
@@ -38,8 +77,8 @@
       "transcript_chars": 49586,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
-      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
     },
     {
       "guid": "yt:roz4fmf9-ng",
@@ -51,8 +90,8 @@
       "transcript_chars": 16821,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
-      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
     },
     {
       "guid": "yt:4YUEWqAtOD8",
@@ -64,8 +103,8 @@
       "transcript_chars": 51181,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
-      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
     },
     {
       "guid": "yt:cvmgnpxr-Lk",
@@ -77,8 +116,8 @@
       "transcript_chars": 73239,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
-      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
     },
     {
       "guid": "yt:XWj3IgfRcFM",
@@ -90,8 +129,8 @@
       "transcript_chars": 26402,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
-      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
@@ -103,8 +142,8 @@
       "transcript_chars": 15362,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-08T02:05:44.447484+00:00",
-      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
-      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
@@ -129,8 +168,8 @@
       "transcript_chars": 48411,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-06T22:01:39.872348+00:00",
-      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
-      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
     },
     {
       "guid": "yt:2OOHnaGTQFg",
@@ -142,8 +181,8 @@
       "transcript_chars": 39474,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-06T22:01:39.872348+00:00",
-      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
-      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
@@ -168,8 +207,8 @@
       "transcript_chars": 34812,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-06T00:35:47.242338+00:00",
-      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
-      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
@@ -207,8 +246,8 @@
       "transcript_chars": 41447,
       "transcript_source": null,
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-08T23:59:06.633511+00:00",
-      "expires_at": "2026-10-22T23:59:06.633511+00:00"
+      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
+      "expires_at": "2026-10-24T06:14:36.405550+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",

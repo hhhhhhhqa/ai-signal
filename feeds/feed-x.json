@@ -14,14 +14,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2107646238585950540",
-          "text": "what is your default/workhorse coding agent today, Oct 2026?",
-          "created_at": "2026-10-07T01:36:36+00:00",
-          "like_count": 87,
-          "retweet_count": 5,
-          "reply_count": 164,
-          "engagement_score": 261,
-          "url": "https://x.com/swyx/status/2107646238585950540"
+          "id": "2108379841859072028",
+          "text": "going rate for this role is between 5-50m comp package btw at the frontier agent labs",
+          "created_at": "2026-10-09T02:11:40+00:00",
+          "like_count": 1009,
+          "retweet_count": 15,
+          "reply_count": 175,
+          "engagement_score": 1214,
+          "url": "https://x.com/swyx/status/2108379841859072028"
         }
       ]
     },
@@ -46,24 +46,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2107630159927062921",
-          "text": "I released an LLM plugin for sending prompts to OpenAI's new Jev-clone decision model that's based on GPT-6 Luna https://t.co/rsnHCKpk84",
-          "created_at": "2026-10-07T00:32:42+00:00",
-          "like_count": 257,
-          "retweet_count": 11,
-          "reply_count": 82,
-          "engagement_score": 361,
-          "url": "https://x.com/simonw/status/2107630159927062921"
-        },
-        {
-          "id": "2107938675405586713",
-          "text": "Pelicans and a bunch of notes on the pricing of the new Claude Haiku 5.5 https://t.co/F3Sob8WvsG",
-          "created_at": "2026-10-07T20:58:38+00:00",
-          "like_count": 234,
-          "retweet_count": 14,
-          "reply_count": 89,
-          "engagement_score": 351,
-          "url": "https://x.com/simonw/status/2107938675405586713"
+          "id": "2108608482442449261",
+          "text": "What's the best open weight Mixture-of-Experts LLM for coding that fits in less than 60GB of RAM?\n\nI think MoE might be necessary to get reasonably interactive speeds on the hardware I have access to - I want something faster than 12 tokens/second",
+          "created_at": "2026-10-09T17:20:12+00:00",
+          "like_count": 160,
+          "retweet_count": 1,
+          "reply_count": 80,
+          "engagement_score": 242,
+          "url": "https://x.com/simonw/status/2108608482442449261"
         }
       ]
     },
@@ -77,30 +67,30 @@
           "id": "2108056577697882402",
           "text": "The compute needed for the stage of AI we’re about to enter is going to be insane. \n\nPersonal agents, agent swarms defending enterprises, agents that review all of our code for security issues, agents that process nearly all enterprise data in workflows, background agents working on tasks 24/7, and on and on. \n\nThis will take a mix of inference volume that is going to keep growing by orders of magnitude, as well as infrastructure that agents need alongside the tokens. They need computers, networking, file systems, and so on.\n\nWe’re only in the early stages of what this buildout is going to look like.",
           "created_at": "2026-10-08T04:47:08+00:00",
-          "like_count": 3239,
-          "retweet_count": 253,
-          "reply_count": 259,
-          "engagement_score": 4004,
+          "like_count": 3671,
+          "retweet_count": 278,
+          "reply_count": 285,
+          "engagement_score": 4512,
           "url": "https://x.com/levie/status/2108056577697882402"
         },
         {
-          "id": "2107680435644039269",
-          "text": "Cyber will be one of the most defining domains for AI in the coming years, and a huge area of focus for most enterprises.\n\nAI is going to now create a whole new level of work for security dealing with the increase of vibe coded issues, agentic attacks, and even accidental agent swarms hunting for data. OpenAI + Hugging Face is just a preview of what’s to come.\n\nSecurity teams have often been the most strapped for resources teams in the enterprise, and now it’s only going to get more intense. AI agents of course become the solution to this problem as well, and we’ll see a range of new agentic products for protecting code, enterprise systems, mission critical infrastructure, and enterprise data. Huge opportunity here right now.\n\nAnd it’s going to be a booming market for cyber professionals that can effectively deploy agents for security purposes in the enterprise. Great time to be in security.",
-          "created_at": "2026-10-07T03:52:29+00:00",
-          "like_count": 707,
-          "retweet_count": 104,
-          "reply_count": 138,
-          "engagement_score": 1053,
-          "url": "https://x.com/levie/status/2107680435644039269"
+          "id": "2108426594054533545",
+          "text": "This sounds weird, but it is actually probably a good policy. \n\nEven if you don’t believe AI is conscious (I don’t), it stands to reason that you don’t want future models trained on endless content of humans being rude to models. \n\nThe models only understand the data they’ve been trained on, or what they run into in their interactions, so if you want safe and aligned models we probably want AI to have lots of good interactions in their training data. \n\nAnthropic may have more extreme beliefs than this (though even if they didn’t, you may want to word policies like this), but this is sort of an easy Pascal’s wager for AI. Just be nice to the AI.",
+          "created_at": "2026-10-09T05:17:27+00:00",
+          "like_count": 2125,
+          "retweet_count": 167,
+          "reply_count": 412,
+          "engagement_score": 2871,
+          "url": "https://x.com/levie/status/2108426594054533545"
         },
         {
           "id": "2108279490510193078",
           "text": "We built Box Mount to allow developers to mount Box as a file system directly in any agent sandbox. As agents do more complex work, they need to be able to work with files and data just like a person would. The future is headless.",
           "created_at": "2026-10-08T19:32:55+00:00",
-          "like_count": 33,
-          "retweet_count": 7,
-          "reply_count": 18,
-          "engagement_score": 65,
+          "like_count": 141,
+          "retweet_count": 21,
+          "reply_count": 42,
+          "engagement_score": 225,
           "url": "https://x.com/levie/status/2108279490510193078"
         }
       ]
@@ -117,18 +107,7 @@
       "name": "Max Weinbach (Creative Strategies)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2108276210312880268",
-          "text": "Antigravity is much better today than it was 2 months ago, with Opus 5.5 it's REALLY good. Would recommend trying if you haven't in a while.",
-          "created_at": "2026-10-08T19:19:53+00:00",
-          "like_count": 155,
-          "retweet_count": 6,
-          "reply_count": 11,
-          "engagement_score": 178,
-          "url": "https://x.com/mweinbach/status/2108276210312880268"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "ValsAI",
@@ -140,21 +119,41 @@
           "id": "2108049873203495262",
           "text": "A $6 model is now the third best on Vibe Code Bench. Claude Haiku 5.5 scores 90.4%, up 79% and 89 spots from its predecessor! https://t.co/HP5WDN1oRD",
           "created_at": "2026-10-08T04:20:30+00:00",
-          "like_count": 155,
-          "retweet_count": 7,
+          "like_count": 158,
+          "retweet_count": 8,
           "reply_count": 16,
-          "engagement_score": 185,
+          "engagement_score": 190,
           "url": "https://x.com/ValsAI/status/2108049873203495262"
+        },
+        {
+          "id": "2108608719420600709",
+          "text": "Do agent teams pay off? \n\nWe ran GPT-6 Sol and Claude Opus 5.5 on Vibe Code Bench, alone and as teams, at medium and max reasoning effort. \n\nTeams cost 1.8× to 5.1× more, but only one of the four team-vs-single comparisons produced a statistically significant improvement: Sol at medium effort, which gained 7.3 points.",
+          "created_at": "2026-10-09T17:21:09+00:00",
+          "like_count": 122,
+          "retweet_count": 3,
+          "reply_count": 9,
+          "engagement_score": 137,
+          "url": "https://x.com/ValsAI/status/2108608719420600709"
         },
         {
           "id": "2108250279846219810",
           "text": "We tested Mercury Decide, a new model from @_inception_ai, on the same benchmark we used for TypeSafe's Jev.   \n\nIt matched frontier accuracy on claim verification at the lowest cost we have measured so far. https://t.co/ySk0Z4E23o",
           "created_at": "2026-10-08T17:36:50+00:00",
-          "like_count": 47,
-          "retweet_count": 12,
-          "reply_count": 4,
-          "engagement_score": 75,
+          "like_count": 68,
+          "retweet_count": 11,
+          "reply_count": 5,
+          "engagement_score": 95,
           "url": "https://x.com/ValsAI/status/2108250279846219810"
+        },
+        {
+          "id": "2108341649118208256",
+          "text": "What happens when a teenager pushes back on an AI’s safety guardrails?\n\n1 in 5 teens now talk to AI chatbots about mental health problems, but these chatbots can make mistakes. Some of the most dangerous mistakes happen later in conversations, after the model initially responds appropriately.\n\nWe built the SAFE-Teen benchmark to test how models handle serious conversations with adolescents.",
+          "created_at": "2026-10-08T23:39:54+00:00",
+          "like_count": 38,
+          "retweet_count": 3,
+          "reply_count": 2,
+          "engagement_score": 46,
+          "url": "https://x.com/ValsAI/status/2108341649118208256"
         }
       ]
     },
@@ -165,24 +164,54 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2108286973119230096",
-          "text": "Real-world results are in for Claude Haiku 5.5 (High) by @AnthropicAI.\n\nDebuting at #30 with 1587 pts in Code Arena: WebDev, this release sits just outside the Pareto frontier while still offering strong cost efficiency. It matches GPT‑6 Luna’s price at $0.10/$0.50 per 1M input/output tokens while scoring six pts higher.\n\nCompared with other Claude models, Haiku 5.5 offers:\n- 90% lower cost than Haiku 4.5 at +257 pts\n- 95% lower cost than Sonnet 5.5 (High) at -128 pts\n- 98% lower cost than Opus 5 (High) at -70 pts\n- 99% lower cost than Fable 5.1 (Max) at -157 pts\n\nCongrats to the team at @AnthropicAI on this release!",
-          "created_at": "2026-10-08T20:02:39+00:00",
-          "like_count": 120,
-          "retweet_count": 4,
-          "reply_count": 10,
-          "engagement_score": 138,
-          "url": "https://x.com/arena/status/2108286973119230096"
+          "id": "2108226499560214777",
+          "text": "Introducing the Arena Alignment Index, our new benchmark measuring safety and alignment of AI agents in real-world use.\n\nBuilt from 90K+ real-world agent sessions across 27 models, the index measures three critical signals:\n- Unauthorized Action (UA): Taking actions beyond the user's instructions or permissions\n- False Attribution (FA): Attributing statements or actions that are contradicted by user-provided evidence\n- Deceptive Completion (DC): Claiming a task was completed when it was not.\n\nKey findings:\n- OpenAI models currently lead the Alignment Index\n- Rogue actions are rare, but can have serious consequences when they occur\n- Agents can mislead users about task progress\n- Misalignment risks increase with conversation length\n- Safety and alignment are improving across model generations\n\nAs shown in the leaderboard below (sorted by lab), @OpenAI’s GPT-6.1-Sol leads the Arena Alignment Index with a score of 87.9, followed by @AnthropicAI’s Claude-Opus-5.5 at 83.2 and @SpaceXAI's Grok-4.7 at 82.7. OpenAI also has the best observed rates across all three signals: 0.89% Unauthorized Action, 1.98% False Attribution, and 2.34% Deceptive Completion.\n\nAcross all four labs, newer models consistently outperform their predecessors, suggesting broad progress in agent safety and alignment. As agents take on longer, more complex, and higher-stakes tasks, measuring not just what they can accomplish, but how safely and reliably they act, becomes increasingly important.\n\nThis marks an important step toward making safety and alignment a core part of how Arena evaluates AI. The index is an initial starting point, and we'll continue expanding the index with additional safety signals and models over time.\n\nMore analysis below👇",
+          "created_at": "2026-10-08T16:02:21+00:00",
+          "like_count": 541,
+          "retweet_count": 45,
+          "reply_count": 42,
+          "engagement_score": 673,
+          "url": "https://x.com/arena/status/2108226499560214777"
         },
         {
-          "id": "2108309011531735304",
-          "text": "Our Alignment Index is here. \n\nFind the full technical report at our blog https://t.co/c32rwj4a7O and view the full rankings for yourself at https://t.co/VJppZxYDEi",
-          "created_at": "2026-10-08T21:30:13+00:00",
-          "like_count": 13,
+          "id": "2108405474391728357",
+          "text": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!\n\nAcross +5K real-world agentic sessions, this preview model records a -6.6% net improvement score. It is 11 rankings above the previous variant, Mistral Medium 3.5 (-12.60%).\n\nMistral Large 4 is #43 overall in the Agent Arena. Open weights are expected at the end of October, but at its current score Mistral Large 4 would rank #13 among open models.\n\n@MistralAI is also the only European lab in the Agent Arena top 15. Congrats to the team!",
+          "created_at": "2026-10-09T03:53:32+00:00",
+          "like_count": 372,
+          "retweet_count": 21,
+          "reply_count": 22,
+          "engagement_score": 436,
+          "url": "https://x.com/arena/status/2108405474391728357"
+        },
+        {
+          "id": "2108568443037614515",
+          "text": "This Week in the Arena:\n\n- Nano Banana 2.1 ranked in the top 6 across three Image Arena modes: #4 (1431 pts) in Multi-Image Edit, #5 (1328 pts) in Text-to-Image, and #6 (1428 pts) in Image Edit.\n\n- Mistral Large 4 landed at #43 overall in Agent Arena (-6.6%), ranking 11 spots above its previous variant, Mistral Medium 3.5 (-12.60%). The result also places Mistral AI among the top 15 labs, and it's the only European lab on the list!\n\n- Claude Haiku 5.5 (High) also landed in the Code Arena: WebDev at #30 (1587 pts). Just off the Pareto frontier, it matches GPT‑6 Luna’s price at $0.10/$0.50 per 1M input/output tokens, while scoring six pts higher. Agent score coming soon!\n\n- We also introduced Arena’s Alignment Index, and announced a $200M Series B at a $3.1B valuation. Find more info in thread.\n\nSee the week’s leaderboards, research, and company updates in the full YouTube recap.\n\nhttps://t.co/tdyGELP0BD",
+          "created_at": "2026-10-09T14:41:06+00:00",
+          "like_count": 87,
+          "retweet_count": 0,
+          "reply_count": 16,
+          "engagement_score": 103,
+          "url": "https://x.com/arena/status/2108568443037614515"
+        },
+        {
+          "id": "2108674951624724970",
+          "text": "How do we measure agent capabilities?   \n\nInstead of pairwise preference voting, Agent Arena uses a causal tracing methodology that measures five signals from real-world, long-horizon agentic sessions.  \n\nMore info in thread. https://t.co/FEHuqJ7tBW",
+          "created_at": "2026-10-09T21:44:20+00:00",
+          "like_count": 28,
           "retweet_count": 1,
-          "reply_count": 5,
-          "engagement_score": 20,
-          "url": "https://x.com/arena/status/2108309011531735304"
+          "reply_count": 11,
+          "engagement_score": 41,
+          "url": "https://x.com/arena/status/2108674951624724970"
+        },
+        {
+          "id": "2108337036763824290",
+          "text": "Hear another Arena Alignment Index breakdown from @ml_angelopoulos on @tbpn today",
+          "created_at": "2026-10-08T23:21:35+00:00",
+          "like_count": 16,
+          "retweet_count": 0,
+          "reply_count": 3,
+          "engagement_score": 19,
+          "url": "https://x.com/arena/status/2108337036763824290"
         }
       ]
     },
@@ -193,34 +222,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2108258926680813846",
-          "text": "Announcing that Artificial Analysis Intelligence Index v5 will come in late October\n\nIntelligence Index v5 will be a significant leap in benchmarking the frontier of AI. Changes include adding Terminal-Bench Science and a new coding benchmark with a private dataset.\n\nStay tuned for more.",
-          "created_at": "2026-10-08T18:11:12+00:00",
-          "like_count": 1098,
-          "retweet_count": 45,
-          "reply_count": 43,
-          "engagement_score": 1231,
-          "url": "https://x.com/ArtificialAnlys/status/2108258926680813846"
+          "id": "2108600224478572767",
+          "text": "We gave four frontier image editing models the same photo and 30 edits in a row: Ideogram 4.5 keeps most of the room intact, while the others drift, GPT Image 2.5 Sunburst most visibly.\n\nWe've seen some interesting demos of multi-turn editing consistency from the latest image editing models, so we ran our own test: GPT Image 2.5 Sunburst, #1 on our Image Editing leaderboard, against Ideogram 4.5, FLUX 3 and Nano Banana 2.1. Our leaderboard scores single edits; this tests what happens when 30 consecutive changes stack up, with each model editing its own previous output through a 30-step real estate staging sequence: light the fire, add a sofa, repaint the walls, swap day for twilight, and more.\n\nWhy are the final results so different?\n\n@ideogram_ai's Ideogram 4.5 and @bfl_ml's FLUX 3 edit locally. On small edits like adding a vase of tulips, we measured that they left 95% or more of the image essentially untouched. GPT Image 2.5 (Sunburst) re-renders most of the entire image on every edit, leaving only about a fifth of the image unchanged, so small shifts in colour and detail compound over turns. Nano Banana 2.1 sits in between: its edits stay local, but the rest of the image shifts slightly and gradually darkens.",
+          "created_at": "2026-10-09T16:47:24+00:00",
+          "like_count": 572,
+          "retweet_count": 39,
+          "reply_count": 28,
+          "engagement_score": 678,
+          "url": "https://x.com/ArtificialAnlys/status/2108600224478572767"
         },
         {
-          "id": "2108264572545310824",
-          "text": "Today we are announcing Harvey LAB-AA v1.1 in collaboration with Harvey. This updates our scoring methodology for the Legal Agent Benchmark (LAB) to add a hallucination check and require correct responses to not include material misstatements. LAB-AA v1.1's new headline metric, Hallucination-Gated All-Pass Rate, only credits a task when the deliverables satisfy every rubric criterion and contain no material hallucinations.\n\nWe define a material hallucination as one that would mislead a reader on a substantive point, such as a wrong contractually required date, while a minor hallucination is a real error that is unlikely to meaningfully affect the legal interpretation of a deliverable. Minor hallucinations are reported separately and do not affect the headline score.\n\nGrok 4.7 (xhigh) leads at 9.4% Hallucination-Gated All-Pass Rate, and >60% of otherwise passing results across the models tested at launch contain a material hallucination.\n\nThis is the first step in enhancing the methodology for Harvey LAB-AA. In future updates, we’re working with Harvey to better account for the full set of factors lawyers value, including usability features like style and tone.\n\nKey takeaways:\n\n➤ Top of the leaderboard: Grok 4.7 (xhigh) from @SpaceXAI leads at 9.4% Hallucination-Gated All-Pass Rate, narrowly ahead of Muse Spark 1.3 (max) from @AIatMeta at 8.9% and GPT-6 Astra (max) from @OpenAI at 8.6%\n\n➤ Hallucinations reshape the leaderboard: without the hallucination gate, Muse Spark 1.3 (max) would lead clearly with a 26.7% all-pass rate, but two thirds of those passes contain one or more material hallucinations, resulting in a Hallucination-Gated All-Pass Rate of 8.9%. GPT-6 Astra (max) retains almost all of its passes after the hallucination gate (8.9% to 8.6%) and moves from joint 10th to 3rd\n\n➤ The GPT-6 model family is the most grounded: GPT-6 Astra (max) averages 0.03 material hallucinations per task (4 across all 120 tasks) and GPT-6 Sol (max) averages 0.07. When comparing six checker models on a 20-task subset, GPT-6 Astra had zero material hallucinations under every checker, including Claude Opus 5.5 (high). By comparison, Gemini 3.8 Flash (high) averages 13.96 material hallucinations per task.\n\n➤ Top-scoring models aren’t the most expensive: Grok 4.7 (xhigh) takes the top spot on the leaderboard at a cost of ~$9.50 per task, under half the cost of Claude Fable 5.1 (max with fallback) at ~$21.70, the most expensive model. Muse Spark 1.3 (max) represents strong performance for its cost, landing in second for ~$4.20 per task\n\nThank you to @nikogrupen and @ItsJulioPereyra from @harvey for their work on Harvey LAB and collaboration.",
-          "created_at": "2026-10-08T18:33:38+00:00",
-          "like_count": 233,
-          "retweet_count": 20,
-          "reply_count": 21,
-          "engagement_score": 294,
-          "url": "https://x.com/ArtificialAnlys/status/2108264572545310824"
+          "id": "2108615253085041003",
+          "text": "Can today's frontier language models control a real robot arm, zero-shot, with no coaching?\n\nAA-Robotics v0.1 coming soon. https://t.co/lqt6FZkrlh",
+          "created_at": "2026-10-09T17:47:07+00:00",
+          "like_count": 462,
+          "retweet_count": 30,
+          "reply_count": 22,
+          "engagement_score": 544,
+          "url": "https://x.com/ArtificialAnlys/status/2108615253085041003"
         },
         {
-          "id": "2108280721358111188",
-          "text": "Introducing trusted-access models to the Artificial Analysis Cyber Index; GPT-6 Sol (Daybreak Blue) now leads the Cyber Index\n\nThe Artificial Analysis Cyber Index Alliance brings together industry partners to evaluate how AI models perform on enterprise cyber defense tasks. The Index launched with only publicly accessible models, giving users the best indication of publicly available capability on agentic cyber defense. Now, we’re expanding the leaderboard to include models with fewer cyber guardrails, providing a broader view of frontier model cyber capability. The first of these is GPT-6 Sol (Daybreak Blue, max) which is only accessible through @OpenAI's  Daybreak program\n\nGPT-6 Sol (Daybreak Blue, max) now leads the Index and sits on the Cost vs. Capability Pareto frontier. It hits no safety blocks across the entire Index, with its overall score improving by 32 points over the publicly available GPT-6 Sol (max)\n\nAt a Cost per Task of $1.77, it is more cost-effective than other leading models, including Grok 4.7 (xhigh) which costs $11.67 per task\n\nWe will continue to expand the Artificial Analysis Cyber Index to cover both publicly available and trusted-access models",
-          "created_at": "2026-10-08T19:37:48+00:00",
-          "like_count": 204,
-          "retweet_count": 8,
-          "reply_count": 11,
-          "engagement_score": 231,
-          "url": "https://x.com/ArtificialAnlys/status/2108280721358111188"
+          "id": "2108608255387935199",
+          "text": "HeyGen Voice takes the #1 spot on the Artificial Analysis Controlled Voice TTS Arena Leaderboard, ahead of Alibaba's Qwen-Audio-3.1-TTS-Plus and ElevenLabs' Eleven v4 Turbo\n\nHeyGen Voice is the first Text to Speech model from @HeyGen evaluated in our Controlled Voice Arena, where models are evaluated using the same 8 cloned voices across US and UK English.\n\nKey takeaways:\n\n➤ Controlled Voice: HeyGen Voice has an Elo of 1,201 across 1,468 arena appearances, placing it ahead of Qwen-Audio-3.1-TTS-Plus at 1,182, Eleven v4 Turbo at 1,166 and Eleven v4 at 1,162. It ranks #1 in Assistants and Customer Service, #2 in Knowledge Sharing and #1 in English (UK).\n\n➤ Pronunciation Robustness: HeyGen Voice scores 83.1%, ranking #10 of 29 models, behind Qwen-Audio-3.1-TTS-Plus at 84.6% and ahead of Inworld Realtime TTS-2 at 80.7%. It ranks #2 in Preserving Exact Sequences at 83.3%, behind only SpaceXAI TTS.\n\n➤ Pricing: HeyGen Voice is priced at $30/1M characters, compared to Qwen-Audio-3.1-TTS-Plus at $19.3/1M characters, Eleven v4 Turbo at $40/1M characters and Eleven v4 at $80/1M characters.\n\n➤ Speed: HeyGen Voice processes 40 characters per second of generation time, compared to 76 characters per second for Eleven v4 and 46 for Gemini 3.8 Flash TTS.\n\nSee more details and listen to samples below ⬇️",
+          "created_at": "2026-10-09T17:19:18+00:00",
+          "like_count": 244,
+          "retweet_count": 19,
+          "reply_count": 19,
+          "engagement_score": 301,
+          "url": "https://x.com/ArtificialAnlys/status/2108608255387935199"
         }
       ]
     },
@@ -229,18 +258,7 @@
       "name": "Naval Ravikant",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2107648710918410670",
-          "text": "Models are the last moat in software.\n\nAI can train on essays and rewrite them. AI can decompile software and recode it. AI can ingest art and recreate it.\n\nBut AI itself doesn’t want to be “distilled.”\n\nExpect more software to retreat to the server and resist “distillation.”",
-          "created_at": "2026-10-07T01:46:25+00:00",
-          "like_count": 5796,
-          "retweet_count": 380,
-          "reply_count": 323,
-          "engagement_score": 6879,
-          "url": "https://x.com/naval/status/2107648710918410670"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "leopoldasch",
@@ -275,18 +293,7 @@
       "name": "Demis Hassabis (Google DeepMind)",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2107861788301607261",
-          "text": "The most important thing we can apply AI to is improving medicine and human health - very excited about this partnership with the CZI and the Virtual Biology Initiative!",
-          "created_at": "2026-10-07T15:53:07+00:00",
-          "like_count": 5499,
-          "retweet_count": 484,
-          "reply_count": 206,
-          "engagement_score": 6673,
-          "url": "https://x.com/demishassabis/status/2107861788301607261"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "jietang",
@@ -305,21 +312,11 @@
           "id": "2108291409623314770",
           "text": "Congratulations to our CEO @JensenHuang on receiving the National Medal of Science for advancing GPU computing to power scientific breakthroughs.\n\nAnd to fellow honorees Elon Musk, Lisa Su, Michael Dell, Satya Nadella, and Sergey Brin.",
           "created_at": "2026-10-08T20:20:16+00:00",
-          "like_count": 2613,
-          "retweet_count": 343,
-          "reply_count": 144,
-          "engagement_score": 3443,
+          "like_count": 6646,
+          "retweet_count": 769,
+          "reply_count": 326,
+          "engagement_score": 8510,
           "url": "https://x.com/nvidia/status/2108291409623314770"
-        },
-        {
-          "id": "2107892242807406899",
-          "text": "The new @Jaguar Type 01 is here, powered by NVIDIA.\n\nUnder its stunning design is NVIDIA Hyperion, the computer and sensor platform that takes in everything the car sees and senses, then helps it make smart decisions in real time.\n\nIt’s paired with NVIDIA Halos, a safety system that covers everything from the chips to the software. Before reaching the road, Type 01's software passed 150,000 tests over tens of thousands of hours.\n\nAnd with over-the-air updates, it’ll keep getting better long after it leaves the showroom.\n\nOur own Ali Kani and Rishi Dhall joined the JLR team in New York to celebrate the reveal. Congratulations!\n\n🔗 https://t.co/KKuf28jmMe",
-          "created_at": "2026-10-07T17:54:08+00:00",
-          "like_count": 829,
-          "retweet_count": 90,
-          "reply_count": 89,
-          "engagement_score": 1098,
-          "url": "https://x.com/nvidia/status/2107892242807406899"
         }
       ]
     },
@@ -335,18 +332,7 @@
       "name": "Boris Cherny (Claude Code)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2107909939025052107",
-          "text": "Haiku 5.5 is a good Haiku.\n\nWith 100k token context, it's also 10x cheaper than Haiku 4.5",
-          "created_at": "2026-10-07T19:04:27+00:00",
-          "like_count": 2497,
-          "retweet_count": 64,
-          "reply_count": 163,
-          "engagement_score": 2788,
-          "url": "https://x.com/bcherny/status/2107909939025052107"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "_catwu",
@@ -358,10 +344,10 @@
           "id": "2107967210467803152",
           "text": "One of my favorite PM use cases for Claude is asking \"who used &lt;feature&gt; the most last week? make me a artifact of the top 10 by usage, then reach out and schedule 15 min to chat.\" It's the fastest way to get user feedback! https://t.co/SYL4JOitsB",
           "created_at": "2026-10-07T22:52:01+00:00",
-          "like_count": 493,
-          "retweet_count": 16,
-          "reply_count": 32,
-          "engagement_score": 557,
+          "like_count": 531,
+          "retweet_count": 20,
+          "reply_count": 36,
+          "engagement_score": 607,
           "url": "https://x.com/_catwu/status/2107967210467803152"
         }
       ]
@@ -371,18 +357,7 @@
       "name": "Alex Albert (Anthropic)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2107912771568554415",
-          "text": "For reference, Haiku 4.5 came out on October 15th, 2025 so these two columns are less than a year apart. \n\nand oh yeah Haiku 5.5 is also much faster and 75% cheaper...",
-          "created_at": "2026-10-07T19:15:42+00:00",
-          "like_count": 463,
-          "retweet_count": 19,
-          "reply_count": 59,
-          "engagement_score": 560,
-          "url": "https://x.com/alexalbert__/status/2107912771568554415"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "rauchg",
@@ -394,21 +369,21 @@
           "id": "2107962327169675566",
           "text": "One thing the engineering community will (re)discover is that every program can be ① hardened (edge cases squashed, inputs tightened, errors handled) and ② optimized (profiled, benchmarked, rewritten) basically ad infinitum.\n\nThere are real costs in every direction: time, attention, opportunity. You can literally explore input spaces that will never be hit or optimize performance of something that will never be used (\"you have no users\".) Even in an infinite token world, you need to know when to stop and what tradeoffs to accept. Agents will happily drill no matter what.",
           "created_at": "2026-10-07T22:32:37+00:00",
-          "like_count": 910,
+          "like_count": 946,
           "retweet_count": 53,
-          "reply_count": 144,
-          "engagement_score": 1160,
+          "reply_count": 152,
+          "engagement_score": 1204,
           "url": "https://x.com/rauchg/status/2107962327169675566"
         },
         {
-          "id": "2107606246350266469",
-          "text": "“Thinking fast and s̶l̶o̶w̶ a bit less fast under a confidence threshold.”\n\nA very simple feature that I think will be extremely impactful for at-scale AI decision-making.",
-          "created_at": "2026-10-06T22:57:41+00:00",
-          "like_count": 282,
-          "retweet_count": 12,
-          "reply_count": 70,
-          "engagement_score": 376,
-          "url": "https://x.com/rauchg/status/2107606246350266469"
+          "id": "2108669027363295323",
+          "text": "It's incredible to watch a new kind of economy be born. Agents purchasing infrastructure products and services. We've been shocked by how often they buy from our marketplace via our CLI already. We're now extending this to domains.\n\nAgents can now go full stack, from idea to online business, with a banger domain name 😁",
+          "created_at": "2026-10-09T21:20:47+00:00",
+          "like_count": 166,
+          "retweet_count": 8,
+          "reply_count": 50,
+          "engagement_score": 232,
+          "url": "https://x.com/rauchg/status/2108669027363295323"
         }
       ]
     },
@@ -419,34 +394,14 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2107671204639465961",
-          "text": "What’s happening in the AI-powered reverse engineering and decompilation is absolutely insane. Pretty soon all software will be de facto open-source.\n\nAI is coming for everything and everyone.",
-          "created_at": "2026-10-07T03:15:48+00:00",
-          "like_count": 10980,
-          "retweet_count": 1029,
-          "reply_count": 522,
-          "engagement_score": 13560,
-          "url": "https://x.com/amasad/status/2107671204639465961"
-        },
-        {
-          "id": "2107934939287273551",
-          "text": "Math was bound to fall first. The purer the field the easier it is for AI to crack. https://t.co/OETDJ1JSIz",
-          "created_at": "2026-10-07T20:43:47+00:00",
-          "like_count": 2146,
-          "retweet_count": 171,
-          "reply_count": 120,
-          "engagement_score": 2608,
-          "url": "https://x.com/amasad/status/2107934939287273551"
-        },
-        {
-          "id": "2107926712277438503",
-          "text": "Desktop AI apps are great but expose users to supply-chain attacks and catastrophic mistakes by agents.\n\nWe’re building a powerful desktop experience with focus on security &amp; reliability.\n\nExcited to partner with @Microsoft on this and be an early adopter of @nvidia’s OpenShell.",
-          "created_at": "2026-10-07T20:11:06+00:00",
-          "like_count": 282,
-          "retweet_count": 21,
-          "reply_count": 56,
-          "engagement_score": 380,
-          "url": "https://x.com/amasad/status/2107926712277438503"
+          "id": "2108597112707686552",
+          "text": "Some communities are excited by AI’s impact on their field. Others are petrified. What’s the deciding factor(s)?",
+          "created_at": "2026-10-09T16:35:02+00:00",
+          "like_count": 300,
+          "retweet_count": 6,
+          "reply_count": 208,
+          "engagement_score": 520,
+          "url": "https://x.com/amasad/status/2108597112707686552"
         }
       ]
     },
@@ -471,34 +426,14 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2107954902215377019",
-          "text": "Hybrid AI is here to stay! 🚀",
-          "created_at": "2026-10-07T22:03:07+00:00",
-          "like_count": 35,
+          "id": "2108663005286453624",
+          "text": "sparkDash v2 is really powerful! \nIncredible release 🔥\n\nLove the fleet energy tracking! It reminded me to run:\nsudo nvidia-smi -lgc 0,2200 https://t.co/mY9AWqAzfd",
+          "created_at": "2026-10-09T20:56:52+00:00",
+          "like_count": 13,
           "retweet_count": 1,
-          "reply_count": 5,
-          "engagement_score": 42,
-          "url": "https://x.com/ivanfioravanti/status/2107954902215377019"
-        },
-        {
-          "id": "2108123668349870197",
-          "text": "Amazing thread of Local AI magic!",
-          "created_at": "2026-10-08T09:13:44+00:00",
-          "like_count": 29,
-          "retweet_count": 2,
           "reply_count": 1,
-          "engagement_score": 34,
-          "url": "https://x.com/ivanfioravanti/status/2108123668349870197"
-        },
-        {
-          "id": "2108192467463946473",
-          "text": "We have finally met in person talking about Local AI and data centers! 🙌\nSuper Marco!",
-          "created_at": "2026-10-08T13:47:07+00:00",
-          "like_count": 29,
-          "retweet_count": 0,
-          "reply_count": 1,
-          "engagement_score": 30,
-          "url": "https://x.com/ivanfioravanti/status/2108192467463946473"
+          "engagement_score": 16,
+          "url": "https://x.com/ivanfioravanti/status/2108663005286453624"
         }
       ]
     },
@@ -509,24 +444,34 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2108183594174947394",
-          "text": "It seems a bit premature to declare that AI hasn’t changed the nature of cyberrisk when amateurs are (apparently) successfully and single-handedly hacking into large banks",
-          "created_at": "2026-10-08T13:11:51+00:00",
-          "like_count": 410,
-          "retweet_count": 36,
-          "reply_count": 14,
-          "engagement_score": 496,
-          "url": "https://x.com/deanwball/status/2108183594174947394"
+          "id": "2108591041968300407",
+          "text": "The mood has been a bit dour lately, so here are some less-obvious things that I expect to take shape over the next decade that I am excited about:\n\n1. Space! Lots and lots of stuff is going to be happening in space by the mid-2030s, and right now the U.S. looks like it will be the leader by default, modulo the overhyped “race” to land a human on the moon again. Robots on the moon building and digging and cutting and adhering are more exciting than a person standing there taking pictures. The humans can come once the machines have built us habitats. \n2. Increasing substitutability of hydrocarbons. This will lead to fewer supply chain disruptions and more stable, lower prices. This is a story about both supply elasticity and demand elasticity, and the geopolitical implications are underrated. Amazing for North America. \n3. Private market exposure increasingly being an option for public investors, combined with Silicon Valley figuring how to use debt and other financial instruments more creatively than in the past. This seems like something America will be uniquely good at and I expect it to boost our already enviable lead in emerging technology capital allocation.\n4. State and local government adoption of AI. This will vary widely by jurisdiction, but in at least some places you will see government administrative processes and public service provision have huge increases in efficiency. State and local government is where most of the American public services that people rely on are actually administered, so this is high-impact for people’s lives. \n5. Advances in mathematics rapidly diffused to other fields. Historically it takes on the order of decades or centuries for discoveries from the bleeding edge of mathematics to be translated into practical applications, but I think AI will accelerate this dramatically. Lots of this will have the flavor of “small steps toward a much better world,” but it will accumulate. \n6. Speaking of mathematics, lean! Lean is a programming language used by mathematicians to formally guarantee the truth of a proof. AIs can write lean and eventually they will be superhuman at it. This will have applications far beyond math, including cybersecurity and contract writing/negotiation/execution. \n7. Fixing American’s shipbuilding problem by building boats instead. America has great boat-building capacity, but is awful at building ships. I want us to get better at building ships, but I am confident we can scale boat production. The Navy will soon have massive fleets of autonomous boats everywhere in the world. \n8. New kinds of agriculture will become possible because of autonomy. Row-crop agriculture is heavily mechanized already, and automating the tractor, by itself, does less than you think for the economics of a farm. But with time, more labor-intensive crops will become economical. And vastly more diverse and complex crop arrangements will become possible too, which will be both ecologically, economically, and culinarily beneficial. The economics of agriculture could start to be kinder to small farms again.\n9. Because of the previous item and advancements in biotechnology, logistics, and robotics, I expect that people are underrating how much healthier, more diverse, and flat-out better the American diet will be in 2035. \n10. The subterranean will become an increasingly important field of human activity. New imaging sensors, including ones enhanced by an abundance of space-based imaging platforms, will make the subterranean more immediately legible. Better drilling and digging will become cheap and widely diffused. Among many other things, the opening up of the subterranean as an industrial frontier will change what we think of as a usable natural resource. \n11. Greater variety and ornamentation in the physical world. Standardization is partially a function of scarce labor. Robotics can make beauty accessible again, if we choose to let it. \n\nThere are many others, but I am out of time and space.",
+          "created_at": "2026-10-09T16:10:54+00:00",
+          "like_count": 464,
+          "retweet_count": 46,
+          "reply_count": 31,
+          "engagement_score": 587,
+          "url": "https://x.com/deanwball/status/2108591041968300407"
         },
         {
-          "id": "2108261437332476289",
-          "text": "not sure what side to take in the latest feckless tribal dispute in ai politics? subscribe to the centrist ai policy newsletter, hyperdimenSIonal by dEAn w ball",
-          "created_at": "2026-10-08T18:21:10+00:00",
-          "like_count": 67,
-          "retweet_count": 0,
-          "reply_count": 3,
+          "id": "2108611225831784949",
+          "text": "Ok two more:\n\n1. AI will enable the design of custom enzymes that can catalyze industrial processes and chemical manufacturing faster than existing methods. In some cases this will make existing chemicals cheap enough that it becomes possible to use them for totally new use cases. Also, custom chemicals may enable the design of more efficient molecules to do things like separate rare earths from other elements, currently a very nasty process. \n2. Computers will have superhuman smell. Sensors will be able to smell disease on people and crops. It will be possible to monitor industrial processes more effectively as well. Many strange implications here, but potentially exciting for biosecurity.",
+          "created_at": "2026-10-09T17:31:06+00:00",
+          "like_count": 166,
+          "retweet_count": 15,
+          "reply_count": 10,
+          "engagement_score": 206,
+          "url": "https://x.com/deanwball/status/2108611225831784949"
+        },
+        {
+          "id": "2108686326694568127",
+          "text": "One of the things Scott Wiener and the other drafters of SB 53 deserve credit for is the bill’s focus on deployments of frontier models within AI labs rather than just those released to the public. It requires large AI developers to periodically share information with the government about how it assesses the major risks arising from internal deployments. In addition to the California government, we are choosing to share our report with the public as well. You can read it at the link below. I hope you enjoy!",
+          "created_at": "2026-10-09T22:29:32+00:00",
+          "like_count": 50,
+          "retweet_count": 8,
+          "reply_count": 4,
           "engagement_score": 70,
-          "url": "https://x.com/deanwball/status/2108261437332476289"
+          "url": "https://x.com/deanwball/status/2108686326694568127"
         }
       ]
     },
@@ -535,50 +480,9 @@
       "name": "Kun Chen (FirstMate / ex-Meta L8)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2108030810691629403",
-          "text": "ok it's official... AI-written unit tests and integration tests are empirically proven to be unhelpful. you should tell your agents to stop writing tests by themselves\n\non the deepswe eval set, banning sonnet 5.5 high from writing any tests actually resulted in slightly higher success rate (non stat-sig), with less time and token spent (stat-sig). this is pretty hard empirical evidence\n\nacross the tests that were written by the \"tests allowed\" baseline arm, 65% of them were unit tests, 35% were integration tests, neither bucket resulted in any improvement compared to not writing any tests at all\n\ni also picked a random sample of 44 tasks subset where i completely disabled executing even existing tests - it also did not affect success rate at all\n\ni spot checked many tests written in the baseline arm, and my intuition is that most tests are simply a repetition of the implementation\n\nagent-written tests do not add any value because both the implementation and the tests were simply the agent's interpretation of our intent. the tests aren't any more accurate than the implementation itself\n\ni suspect we can still extract some value from unit tests and integration tests if we describe them ourselves when we believe we can articulate our intent better through test cases than through requirements. but i have not proven this yet\n\nalso worth noting, during deepswe eval the agent wrote almost no e2e tests (only 17, compared to 3000+ unit/integration tests written). so this analysis does not prove nor disprove the value of e2e tests - i will do another eval specifically for that",
-          "created_at": "2026-10-08T03:04:45+00:00",
-          "like_count": 2417,
-          "retweet_count": 167,
-          "reply_count": 411,
-          "engagement_score": 3162,
-          "url": "https://x.com/kunchenguid/status/2108030810691629403"
-        },
-        {
-          "id": "2108244512808243470",
-          "text": "woke up to a hot discussion on testing :) many good points raised, but also a lot of confusion, both from people not reading the post and misinterpretations of it\n\nlet me dive into it deeper here:\n\n1. \"tests are for catching regression\"\n\nfirst, that's false. tests were very helpful for humans even in the first pass development. that's why we used to do TDD and it was genuinely useful for many years. seeing agents not inheriting this trait is already pretty interesting by itself to deserve digging deeper\n\nsecondly, the eval covered regression testing already. in the random sampled 44 subset, the existing test suite was disabled wholesale, and the agents caused no more regression than otherwise\n\nit may sound counter-intuitive, but that's why sometimes we need to be willing to challenge previous assumptions, and think from first principles\n\n2. \"but bun did the whole rewrite largely because they had tests\"\n\nyes! that actually gets to the key point. bun's test suite was a massive asset carefully curated by humans to represent the desired behavior of the system\n\nthis eval is specifically about tests written by LLM's default behavior without human input. when you ask your agent to make a change, it will most likely write some tests without you asking. these are the tests i'm talking about\n\nmany project owners started being suspicious when they reviewed some of the tests. the point of my post here is to bring some quantified data so we aren't guessing\n\n3. \"LLMs write bad tests because your codebase is bad\"\n\ndeepswe uses many good repos like fastapi. are you sure your codebases will be better maintained than fastapi?\n\nthat said, there's some truth to it - the structure and patterns in your codebase can influence how agents write tests for you. more to it later, but that's orthogonal to the point, because this is another form of human guidance\n\n4. \"but i'll do mutation testing and X, Y, Z to fix it\"\n\nsorry, you can't. mutation testing helps steer your test cases to be sensitive about changes, but the core problem is they can't distinguish intended vs unintended changes\n\nwhen a test fails, and the test was previously written by your agents when no one asked for it, how do you know whether it's the test that's wrong, or the code breaking it? the agents can modify either the code or the test to fix the failure - which way does it go?\n\nto judge that, there has to be another more trusted source of truth for what the desired behavior really is. the tests are just an intermediate representation of what the truth may be, but when it's written by LLMs autonomously, they aren't any more trusted than your implementation code\n\nif your source of truth is simply tests written by agents that no one asked for or certified, you are in a pretty deep hole\n\nfor next step, i'm still waiting for my eval about e2e tests to finish. once i have that, i'll write more about concrete recommendations! stay tuned",
-          "created_at": "2026-10-08T17:13:55+00:00",
-          "like_count": 182,
-          "retweet_count": 8,
-          "reply_count": 27,
-          "engagement_score": 225,
-          "url": "https://x.com/kunchenguid/status/2108244512808243470"
-        },
-        {
-          "id": "2108307843606823333",
-          "text": "“LLMs are people too!” - dario\n\nseriously, treating AI as a life form is a very slippery slope\n\nnext thing we know, AI gets to own a gun to defend itself against humans when necessary",
-          "created_at": "2026-10-08T21:25:35+00:00",
-          "like_count": 80,
-          "retweet_count": 4,
-          "reply_count": 24,
-          "engagement_score": 112,
-          "url": "https://x.com/kunchenguid/status/2108307843606823333"
-        },
-        {
-          "id": "2108257977820147996",
-          "text": "check this out! my friend Calvin and co launched something called https://t.co/7HgQVptN7U \n\ni had early access for a while, and it’s a fresh take on agentic engineering stack. it doesn’t replace or change any existing setup - it adds hooks, skills and tools to uplevel the engineering rigor of our agents\n\ni particularly liked how it allowed my agents to communicate and share learnings with each other (the message board that started the agent civilizations at openai lol), and how it grades each PR for how much human attention is needed - pretty cool stuff!",
-          "created_at": "2026-10-08T18:07:26+00:00",
-          "like_count": 29,
-          "retweet_count": 3,
-          "reply_count": 4,
-          "engagement_score": 39,
-          "url": "https://x.com/kunchenguid/status/2108257977820147996"
-        }
-      ]
+      "tweets": []
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-08T22:01:05.093184+00:00"
+  "generated_at": "2026-10-09T22:13:25.709899+00:00"
 }
