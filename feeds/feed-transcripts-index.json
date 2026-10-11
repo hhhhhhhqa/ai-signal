@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T01:13:54.279077+00:00",
+  "generated_at": "2026-10-11T23:46:20.801772+00:00",
   "retention_days": 14,
   "transcripts": [
     {
@@ -12,8 +12,8 @@
       "transcript_chars": 7881,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-11T01:13:54.279077+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
+      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
+      "expires_at": "2026-10-25T23:46:20.801772+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
@@ -25,8 +25,8 @@
       "transcript_chars": 10660,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-11T01:13:54.279077+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
+      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
+      "expires_at": "2026-10-25T23:46:20.801772+00:00"
     },
     {
       "guid": "https://www.latent.space/p/biohub-deepmind",
@@ -38,8 +38,8 @@
       "transcript_chars": 29545,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-11T01:13:54.279077+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
+      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
+      "expires_at": "2026-10-25T23:46:20.801772+00:00"
     },
     {
       "guid": "yt:k1HRPESsyoM",
@@ -51,8 +51,8 @@
       "transcript_chars": 20099,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-11T01:13:54.279077+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
+      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
+      "expires_at": "2026-10-25T23:46:20.801772+00:00"
     },
     {
       "guid": "cdacfd46-6d2e-45fa-aa03-5ad22d324188",
@@ -64,8 +64,8 @@
       "transcript_chars": 82974,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-10T06:14:36.405550+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
+      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
+      "expires_at": "2026-10-25T23:46:20.801772+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
@@ -77,8 +77,8 @@
       "transcript_chars": 41298,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-10T06:14:36.405550+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
+      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
+      "expires_at": "2026-10-25T23:46:20.801772+00:00"
     },
     {
       "guid": "07aeafdc-ba36-4851-9b94-5290ff21121e",
@@ -129,8 +129,8 @@
       "transcript_chars": 49586,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
+      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
+      "expires_at": "2026-10-25T23:46:20.801772+00:00"
     },
     {
       "guid": "yt:roz4fmf9-ng",
@@ -142,8 +142,8 @@
       "transcript_chars": 16821,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
+      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
+      "expires_at": "2026-10-25T23:46:20.801772+00:00"
     },
     {
       "guid": "yt:4YUEWqAtOD8",
@@ -155,8 +155,8 @@
       "transcript_chars": 51181,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
+      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
+      "expires_at": "2026-10-25T23:46:20.801772+00:00"
     },
     {
       "guid": "yt:cvmgnpxr-Lk",
@@ -220,8 +220,8 @@
       "transcript_chars": 48411,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-06T22:01:39.872348+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
+      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
+      "expires_at": "2026-10-25T23:46:20.801772+00:00"
     },
     {
       "guid": "yt:2OOHnaGTQFg",
@@ -233,8 +233,8 @@
       "transcript_chars": 39474,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-06T22:01:39.872348+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
+      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
+      "expires_at": "2026-10-25T23:46:20.801772+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
@@ -259,8 +259,8 @@
       "transcript_chars": 34812,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-06T00:35:47.242338+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
+      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
+      "expires_at": "2026-10-25T23:46:20.801772+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
@@ -298,8 +298,8 @@
       "transcript_chars": 41447,
       "transcript_source": null,
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
+      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
+      "expires_at": "2026-10-25T23:46:20.801772+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
@@ -729,19 +729,6 @@
       "cached_at": "2026-09-27T10:27:08.356510+00:00",
       "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
       "expires_at": "2026-10-13T22:47:27.792168+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/foundries-vs-navigators-lowering",
-      "link": "https://www.latent.space/p/foundries-vs-navigators-lowering",
-      "channel": "Latent Space",
-      "title": "Foundries vs Navigators: Lowering the Cost of Science",
-      "pub_date": "2026-09-24T15:03:16+00:00",
-      "transcript_path": "feeds/transcripts/b4aba9dd1a4b8c6a3331c70d.txt",
-      "transcript_chars": 16263,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-27T10:27:08.356510+00:00",
-      "expires_at": "2026-10-11T10:27:08.356510+00:00"
     },
     {
       "guid": "yt:hI3M_4UQoWk",
