@@ -17,11 +17,21 @@
           "id": "2108379841859072028",
           "text": "going rate for this role is between 5-50m comp package btw at the frontier agent labs",
           "created_at": "2026-10-09T02:11:40+00:00",
-          "like_count": 1009,
-          "retweet_count": 15,
-          "reply_count": 175,
-          "engagement_score": 1214,
+          "like_count": 1177,
+          "retweet_count": 19,
+          "reply_count": 185,
+          "engagement_score": 1400,
           "url": "https://x.com/swyx/status/2108379841859072028"
+        },
+        {
+          "id": "2108780918060036335",
+          "text": "aie nyc tix will sell out this weekend - last call to join us to the biggest ever technical conf in New York and our first with a finance mainstage - in some ways the final unification of both my careers: from investment bank to hedgefund, from bigtech to nyc startup. cya monday! https://t.co/KIIGQgvWcZ",
+          "created_at": "2026-10-10T04:45:24+00:00",
+          "like_count": 46,
+          "retweet_count": 4,
+          "reply_count": 24,
+          "engagement_score": 78,
+          "url": "https://x.com/swyx/status/2108780918060036335"
         }
       ]
     },
@@ -49,10 +59,10 @@
           "id": "2108608482442449261",
           "text": "What's the best open weight Mixture-of-Experts LLM for coding that fits in less than 60GB of RAM?\n\nI think MoE might be necessary to get reasonably interactive speeds on the hardware I have access to - I want something faster than 12 tokens/second",
           "created_at": "2026-10-09T17:20:12+00:00",
-          "like_count": 160,
-          "retweet_count": 1,
-          "reply_count": 80,
-          "engagement_score": 242,
+          "like_count": 303,
+          "retweet_count": 7,
+          "reply_count": 138,
+          "engagement_score": 455,
           "url": "https://x.com/simonw/status/2108608482442449261"
         }
       ]
@@ -64,34 +74,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2108056577697882402",
-          "text": "The compute needed for the stage of AI we’re about to enter is going to be insane. \n\nPersonal agents, agent swarms defending enterprises, agents that review all of our code for security issues, agents that process nearly all enterprise data in workflows, background agents working on tasks 24/7, and on and on. \n\nThis will take a mix of inference volume that is going to keep growing by orders of magnitude, as well as infrastructure that agents need alongside the tokens. They need computers, networking, file systems, and so on.\n\nWe’re only in the early stages of what this buildout is going to look like.",
-          "created_at": "2026-10-08T04:47:08+00:00",
-          "like_count": 3671,
-          "retweet_count": 278,
-          "reply_count": 285,
-          "engagement_score": 4512,
-          "url": "https://x.com/levie/status/2108056577697882402"
-        },
-        {
           "id": "2108426594054533545",
           "text": "This sounds weird, but it is actually probably a good policy. \n\nEven if you don’t believe AI is conscious (I don’t), it stands to reason that you don’t want future models trained on endless content of humans being rude to models. \n\nThe models only understand the data they’ve been trained on, or what they run into in their interactions, so if you want safe and aligned models we probably want AI to have lots of good interactions in their training data. \n\nAnthropic may have more extreme beliefs than this (though even if they didn’t, you may want to word policies like this), but this is sort of an easy Pascal’s wager for AI. Just be nice to the AI.",
           "created_at": "2026-10-09T05:17:27+00:00",
-          "like_count": 2125,
-          "retweet_count": 167,
-          "reply_count": 412,
-          "engagement_score": 2871,
+          "like_count": 2386,
+          "retweet_count": 179,
+          "reply_count": 445,
+          "engagement_score": 3189,
           "url": "https://x.com/levie/status/2108426594054533545"
         },
         {
-          "id": "2108279490510193078",
-          "text": "We built Box Mount to allow developers to mount Box as a file system directly in any agent sandbox. As agents do more complex work, they need to be able to work with files and data just like a person would. The future is headless.",
-          "created_at": "2026-10-08T19:32:55+00:00",
-          "like_count": 141,
-          "retweet_count": 21,
-          "reply_count": 42,
-          "engagement_score": 225,
-          "url": "https://x.com/levie/status/2108279490510193078"
+          "id": "2108750943680630893",
+          "text": "Agents spawning other agents, agents operating in the background on every task, and agent swarms will consume 1,000X more tokens than people prompting agents 1 at a time. \n\nThe usage of AI as a chat system that can only work for you at the pace that you can prompt it will seem like a relic within a year or two. The vast, vast majority of tokens will be consumed by agents that are just doing continuous work for us in the background and in our workflows.\n\nThis is why we’re still so early in the curve of AI agent adoption right now, and how much more compute and infrastructure build out will be needed to sustain this.",
+          "created_at": "2026-10-10T02:46:18+00:00",
+          "like_count": 1067,
+          "retweet_count": 93,
+          "reply_count": 168,
+          "engagement_score": 1421,
+          "url": "https://x.com/levie/status/2108750943680630893"
+        },
+        {
+          "id": "2108952226714865966",
+          "text": "Good post to start thinking through the long term safety approaches to managing intelligence in an enterprise. As agents begin to do vastly more task execution in the organization than humans, our need to secure, govern, control, and audit that work will become paramount. \n\nYou’ll have agents operating against most of your most valuable data; they’ll be making decisions that will be harder and harder to reverse engineer; we’ll need to understand the liability and accountability regimes when models make decisions for us; and we need ways of containing the blast radius of accidentally or intentionally malicious agents. \n\n“Treating frontier closed and open weight models like insider risks is a way to build such a system. Not because they are necessarily malicious, but because any sufficiently capable actor with access to important systems can make mistakes or be compromised, and the architecture of containment and control must account for that”\n\nIn a sense, AI will need to have its “zero trust” era that security saw. And all of this leads to needing various layers of protection and auditability of what agents are doing, what data they can work with, and controls for when things go wrong. And a huge opportunity right now for those building such systems across the enterprise.",
+          "created_at": "2026-10-10T16:06:07+00:00",
+          "like_count": 154,
+          "retweet_count": 17,
+          "reply_count": 62,
+          "engagement_score": 250,
+          "url": "https://x.com/levie/status/2108952226714865966"
         }
       ]
     },
@@ -116,43 +126,23 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2108049873203495262",
-          "text": "A $6 model is now the third best on Vibe Code Bench. Claude Haiku 5.5 scores 90.4%, up 79% and 89 spots from its predecessor! https://t.co/HP5WDN1oRD",
-          "created_at": "2026-10-08T04:20:30+00:00",
-          "like_count": 158,
-          "retweet_count": 8,
-          "reply_count": 16,
-          "engagement_score": 190,
-          "url": "https://x.com/ValsAI/status/2108049873203495262"
-        },
-        {
           "id": "2108608719420600709",
           "text": "Do agent teams pay off? \n\nWe ran GPT-6 Sol and Claude Opus 5.5 on Vibe Code Bench, alone and as teams, at medium and max reasoning effort. \n\nTeams cost 1.8× to 5.1× more, but only one of the four team-vs-single comparisons produced a statistically significant improvement: Sol at medium effort, which gained 7.3 points.",
           "created_at": "2026-10-09T17:21:09+00:00",
-          "like_count": 122,
-          "retweet_count": 3,
-          "reply_count": 9,
-          "engagement_score": 137,
+          "like_count": 182,
+          "retweet_count": 8,
+          "reply_count": 14,
+          "engagement_score": 212,
           "url": "https://x.com/ValsAI/status/2108608719420600709"
-        },
-        {
-          "id": "2108250279846219810",
-          "text": "We tested Mercury Decide, a new model from @_inception_ai, on the same benchmark we used for TypeSafe's Jev.   \n\nIt matched frontier accuracy on claim verification at the lowest cost we have measured so far. https://t.co/ySk0Z4E23o",
-          "created_at": "2026-10-08T17:36:50+00:00",
-          "like_count": 68,
-          "retweet_count": 11,
-          "reply_count": 5,
-          "engagement_score": 95,
-          "url": "https://x.com/ValsAI/status/2108250279846219810"
         },
         {
           "id": "2108341649118208256",
           "text": "What happens when a teenager pushes back on an AI’s safety guardrails?\n\n1 in 5 teens now talk to AI chatbots about mental health problems, but these chatbots can make mistakes. Some of the most dangerous mistakes happen later in conversations, after the model initially responds appropriately.\n\nWe built the SAFE-Teen benchmark to test how models handle serious conversations with adolescents.",
           "created_at": "2026-10-08T23:39:54+00:00",
-          "like_count": 38,
+          "like_count": 40,
           "retweet_count": 3,
           "reply_count": 2,
-          "engagement_score": 46,
+          "engagement_score": 48,
           "url": "https://x.com/ValsAI/status/2108341649118208256"
         }
       ]
@@ -164,53 +154,53 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2108226499560214777",
-          "text": "Introducing the Arena Alignment Index, our new benchmark measuring safety and alignment of AI agents in real-world use.\n\nBuilt from 90K+ real-world agent sessions across 27 models, the index measures three critical signals:\n- Unauthorized Action (UA): Taking actions beyond the user's instructions or permissions\n- False Attribution (FA): Attributing statements or actions that are contradicted by user-provided evidence\n- Deceptive Completion (DC): Claiming a task was completed when it was not.\n\nKey findings:\n- OpenAI models currently lead the Alignment Index\n- Rogue actions are rare, but can have serious consequences when they occur\n- Agents can mislead users about task progress\n- Misalignment risks increase with conversation length\n- Safety and alignment are improving across model generations\n\nAs shown in the leaderboard below (sorted by lab), @OpenAI’s GPT-6.1-Sol leads the Arena Alignment Index with a score of 87.9, followed by @AnthropicAI’s Claude-Opus-5.5 at 83.2 and @SpaceXAI's Grok-4.7 at 82.7. OpenAI also has the best observed rates across all three signals: 0.89% Unauthorized Action, 1.98% False Attribution, and 2.34% Deceptive Completion.\n\nAcross all four labs, newer models consistently outperform their predecessors, suggesting broad progress in agent safety and alignment. As agents take on longer, more complex, and higher-stakes tasks, measuring not just what they can accomplish, but how safely and reliably they act, becomes increasingly important.\n\nThis marks an important step toward making safety and alignment a core part of how Arena evaluates AI. The index is an initial starting point, and we'll continue expanding the index with additional safety signals and models over time.\n\nMore analysis below👇",
-          "created_at": "2026-10-08T16:02:21+00:00",
-          "like_count": 541,
-          "retweet_count": 45,
-          "reply_count": 42,
-          "engagement_score": 673,
-          "url": "https://x.com/arena/status/2108226499560214777"
-        },
-        {
           "id": "2108405474391728357",
           "text": "Mistral Large 4 by @MistralAI has landed in the Agent Arena top 15 labs!\n\nAcross +5K real-world agentic sessions, this preview model records a -6.6% net improvement score. It is 11 rankings above the previous variant, Mistral Medium 3.5 (-12.60%).\n\nMistral Large 4 is #43 overall in the Agent Arena. Open weights are expected at the end of October, but at its current score Mistral Large 4 would rank #13 among open models.\n\n@MistralAI is also the only European lab in the Agent Arena top 15. Congrats to the team!",
           "created_at": "2026-10-09T03:53:32+00:00",
-          "like_count": 372,
+          "like_count": 398,
           "retweet_count": 21,
-          "reply_count": 22,
-          "engagement_score": 436,
+          "reply_count": 23,
+          "engagement_score": 463,
           "url": "https://x.com/arena/status/2108405474391728357"
+        },
+        {
+          "id": "2108969676298657931",
+          "text": "Image-to-WebDev Arena update: Claude Opus 5.5 (Max) by @AnthropicAI takes the #1 spot with 1749 pts, with Claude Sonnet 5.5 (xHigh) just 9 pts behind at #2 with 1740 pts!\n\nBoth models also landed on the Pareto frontier! See their positioning on the visual in thread.\n\n- #1-ranked Claude Opus 5.5 (Max) has a blended input/output token price of $16/M. This is 60% lower than #3-ranked GPT-6 Astra at $40/M.\n- #2-ranked Claude Sonnet 5.5 (xHigh) costs $8/M, 50% less than Opus for a 9-point score gap. It also ranks one place above GPT-6 Astra (#3) while costing 80% less.\n\nStay tuned to see where Claude Haiku 5.5 lands in the Image-to-WebDev Arena!\n\nThe Image-to-WebDev Arena ranks AI models on their ability to generate websites from images and screenshots, alongside agentic coding workflows involving multi-step reasoning and tool use.",
+          "created_at": "2026-10-10T17:15:28+00:00",
+          "like_count": 265,
+          "retweet_count": 12,
+          "reply_count": 43,
+          "engagement_score": 332,
+          "url": "https://x.com/arena/status/2108969676298657931"
         },
         {
           "id": "2108568443037614515",
           "text": "This Week in the Arena:\n\n- Nano Banana 2.1 ranked in the top 6 across three Image Arena modes: #4 (1431 pts) in Multi-Image Edit, #5 (1328 pts) in Text-to-Image, and #6 (1428 pts) in Image Edit.\n\n- Mistral Large 4 landed at #43 overall in Agent Arena (-6.6%), ranking 11 spots above its previous variant, Mistral Medium 3.5 (-12.60%). The result also places Mistral AI among the top 15 labs, and it's the only European lab on the list!\n\n- Claude Haiku 5.5 (High) also landed in the Code Arena: WebDev at #30 (1587 pts). Just off the Pareto frontier, it matches GPT‑6 Luna’s price at $0.10/$0.50 per 1M input/output tokens, while scoring six pts higher. Agent score coming soon!\n\n- We also introduced Arena’s Alignment Index, and announced a $200M Series B at a $3.1B valuation. Find more info in thread.\n\nSee the week’s leaderboards, research, and company updates in the full YouTube recap.\n\nhttps://t.co/tdyGELP0BD",
           "created_at": "2026-10-09T14:41:06+00:00",
-          "like_count": 87,
-          "retweet_count": 0,
-          "reply_count": 16,
-          "engagement_score": 103,
+          "like_count": 134,
+          "retweet_count": 5,
+          "reply_count": 20,
+          "engagement_score": 164,
           "url": "https://x.com/arena/status/2108568443037614515"
         },
         {
           "id": "2108674951624724970",
           "text": "How do we measure agent capabilities?   \n\nInstead of pairwise preference voting, Agent Arena uses a causal tracing methodology that measures five signals from real-world, long-horizon agentic sessions.  \n\nMore info in thread. https://t.co/FEHuqJ7tBW",
           "created_at": "2026-10-09T21:44:20+00:00",
-          "like_count": 28,
-          "retweet_count": 1,
-          "reply_count": 11,
-          "engagement_score": 41,
+          "like_count": 72,
+          "retweet_count": 4,
+          "reply_count": 26,
+          "engagement_score": 106,
           "url": "https://x.com/arena/status/2108674951624724970"
         },
         {
           "id": "2108337036763824290",
           "text": "Hear another Arena Alignment Index breakdown from @ml_angelopoulos on @tbpn today",
           "created_at": "2026-10-08T23:21:35+00:00",
-          "like_count": 16,
+          "like_count": 17,
           "retweet_count": 0,
           "reply_count": 3,
-          "engagement_score": 19,
+          "engagement_score": 20,
           "url": "https://x.com/arena/status/2108337036763824290"
         }
       ]
@@ -222,34 +212,44 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2108600224478572767",
-          "text": "We gave four frontier image editing models the same photo and 30 edits in a row: Ideogram 4.5 keeps most of the room intact, while the others drift, GPT Image 2.5 Sunburst most visibly.\n\nWe've seen some interesting demos of multi-turn editing consistency from the latest image editing models, so we ran our own test: GPT Image 2.5 Sunburst, #1 on our Image Editing leaderboard, against Ideogram 4.5, FLUX 3 and Nano Banana 2.1. Our leaderboard scores single edits; this tests what happens when 30 consecutive changes stack up, with each model editing its own previous output through a 30-step real estate staging sequence: light the fire, add a sofa, repaint the walls, swap day for twilight, and more.\n\nWhy are the final results so different?\n\n@ideogram_ai's Ideogram 4.5 and @bfl_ml's FLUX 3 edit locally. On small edits like adding a vase of tulips, we measured that they left 95% or more of the image essentially untouched. GPT Image 2.5 (Sunburst) re-renders most of the entire image on every edit, leaving only about a fifth of the image unchanged, so small shifts in colour and detail compound over turns. Nano Banana 2.1 sits in between: its edits stay local, but the rest of the image shifts slightly and gradually darkens.",
-          "created_at": "2026-10-09T16:47:24+00:00",
-          "like_count": 572,
-          "retweet_count": 39,
-          "reply_count": 28,
-          "engagement_score": 678,
-          "url": "https://x.com/ArtificialAnlys/status/2108600224478572767"
-        },
-        {
           "id": "2108615253085041003",
           "text": "Can today's frontier language models control a real robot arm, zero-shot, with no coaching?\n\nAA-Robotics v0.1 coming soon. https://t.co/lqt6FZkrlh",
           "created_at": "2026-10-09T17:47:07+00:00",
-          "like_count": 462,
-          "retweet_count": 30,
-          "reply_count": 22,
-          "engagement_score": 544,
+          "like_count": 1023,
+          "retweet_count": 50,
+          "reply_count": 39,
+          "engagement_score": 1162,
           "url": "https://x.com/ArtificialAnlys/status/2108615253085041003"
+        },
+        {
+          "id": "2108600224478572767",
+          "text": "We gave four frontier image editing models the same photo and 30 edits in a row: Ideogram 4.5 keeps most of the room intact, while the others drift, GPT Image 2.5 Sunburst most visibly.\n\nWe've seen some interesting demos of multi-turn editing consistency from the latest image editing models, so we ran our own test: GPT Image 2.5 Sunburst, #1 on our Image Editing leaderboard, against Ideogram 4.5, FLUX 3 and Nano Banana 2.1. Our leaderboard scores single edits; this tests what happens when 30 consecutive changes stack up, with each model editing its own previous output through a 30-step real estate staging sequence: light the fire, add a sofa, repaint the walls, swap day for twilight, and more.\n\nWhy are the final results so different?\n\n@ideogram_ai's Ideogram 4.5 and @bfl_ml's FLUX 3 edit locally. On small edits like adding a vase of tulips, we measured that they left 95% or more of the image essentially untouched. GPT Image 2.5 (Sunburst) re-renders most of the entire image on every edit, leaving only about a fifth of the image unchanged, so small shifts in colour and detail compound over turns. Nano Banana 2.1 sits in between: its edits stay local, but the rest of the image shifts slightly and gradually darkens.",
+          "created_at": "2026-10-09T16:47:24+00:00",
+          "like_count": 974,
+          "retweet_count": 70,
+          "reply_count": 47,
+          "engagement_score": 1161,
+          "url": "https://x.com/ArtificialAnlys/status/2108600224478572767"
         },
         {
           "id": "2108608255387935199",
           "text": "HeyGen Voice takes the #1 spot on the Artificial Analysis Controlled Voice TTS Arena Leaderboard, ahead of Alibaba's Qwen-Audio-3.1-TTS-Plus and ElevenLabs' Eleven v4 Turbo\n\nHeyGen Voice is the first Text to Speech model from @HeyGen evaluated in our Controlled Voice Arena, where models are evaluated using the same 8 cloned voices across US and UK English.\n\nKey takeaways:\n\n➤ Controlled Voice: HeyGen Voice has an Elo of 1,201 across 1,468 arena appearances, placing it ahead of Qwen-Audio-3.1-TTS-Plus at 1,182, Eleven v4 Turbo at 1,166 and Eleven v4 at 1,162. It ranks #1 in Assistants and Customer Service, #2 in Knowledge Sharing and #1 in English (UK).\n\n➤ Pronunciation Robustness: HeyGen Voice scores 83.1%, ranking #10 of 29 models, behind Qwen-Audio-3.1-TTS-Plus at 84.6% and ahead of Inworld Realtime TTS-2 at 80.7%. It ranks #2 in Preserving Exact Sequences at 83.3%, behind only SpaceXAI TTS.\n\n➤ Pricing: HeyGen Voice is priced at $30/1M characters, compared to Qwen-Audio-3.1-TTS-Plus at $19.3/1M characters, Eleven v4 Turbo at $40/1M characters and Eleven v4 at $80/1M characters.\n\n➤ Speed: HeyGen Voice processes 40 characters per second of generation time, compared to 76 characters per second for Eleven v4 and 46 for Gemini 3.8 Flash TTS.\n\nSee more details and listen to samples below ⬇️",
           "created_at": "2026-10-09T17:19:18+00:00",
-          "like_count": 244,
-          "retweet_count": 19,
-          "reply_count": 19,
-          "engagement_score": 301,
+          "like_count": 407,
+          "retweet_count": 37,
+          "reply_count": 27,
+          "engagement_score": 508,
           "url": "https://x.com/ArtificialAnlys/status/2108608255387935199"
+        },
+        {
+          "id": "2108689808944242879",
+          "text": "HiDream-O1-Video-1.0 debuts at #6 on the Artificial Analysis Image to Video with Audio Leaderboard\n\nHiDream-O1-Video-1.0 is the new video model from HiDream, which describes itself as being \"focused on generative AI and native omnimodal world models\". HiDream positions it as a native omnimodal video model built for physical consistency. It generates 1080p videos of 5 to 20 seconds with natively synchronized audio, with the duration set by the scene rather than fixed in advance.\n\nIn the Artificial Analysis Video Arena, HiDream-O1-Video-1.0 ranks #6 in Image to Video with Audio. It sits just behind Dreamina Seedance 2.0 720p, in a close group with MiniMax H3, Vidu Q4 Preview and Gemini Omni Flash, and ahead of Wan 3.0.\n\nHiDream-O1-Video-1.0 is priced at $5.80 per minute of 1080p video with audio (about $0.10 per second) on the HiHarness API.\n\nHiDream-O1-Video-1.0 is available via the HiHarness API and in vivago R1 Studio.\n\nCongratulations to @HiDream_AI on the release!\n\nSee below for example outputs of HiDream-O1-Video-1.0 in the Artificial Analysis Video Arena 🧵",
+          "created_at": "2026-10-09T22:43:22+00:00",
+          "like_count": 114,
+          "retweet_count": 12,
+          "reply_count": 14,
+          "engagement_score": 152,
+          "url": "https://x.com/ArtificialAnlys/status/2108689808944242879"
         }
       ]
     },
@@ -309,14 +309,14 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2108291409623314770",
-          "text": "Congratulations to our CEO @JensenHuang on receiving the National Medal of Science for advancing GPU computing to power scientific breakthroughs.\n\nAnd to fellow honorees Elon Musk, Lisa Su, Michael Dell, Satya Nadella, and Sergey Brin.",
-          "created_at": "2026-10-08T20:20:16+00:00",
-          "like_count": 6646,
-          "retweet_count": 769,
-          "reply_count": 326,
-          "engagement_score": 8510,
-          "url": "https://x.com/nvidia/status/2108291409623314770"
+          "id": "2108941208156316070",
+          "text": "They show up for us. Who shows up for them?\n\nMeet Wenyi, Founder of Kuddo Health. Her experience with therapy sparked a mission to support clinicians, with help from NVIDIA GPU–accelerated AI.\n\nWatch her story. #WorldMentalHealthDay https://t.co/Kee5GEGHej",
+          "created_at": "2026-10-10T15:22:20+00:00",
+          "like_count": 137,
+          "retweet_count": 16,
+          "reply_count": 30,
+          "engagement_score": 199,
+          "url": "https://x.com/nvidia/status/2108941208156316070"
         }
       ]
     },
@@ -339,18 +339,7 @@
       "name": "Cat Wu (Anthropic)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2107967210467803152",
-          "text": "One of my favorite PM use cases for Claude is asking \"who used &lt;feature&gt; the most last week? make me a artifact of the top 10 by usage, then reach out and schedule 15 min to chat.\" It's the fastest way to get user feedback! https://t.co/SYL4JOitsB",
-          "created_at": "2026-10-07T22:52:01+00:00",
-          "like_count": 531,
-          "retweet_count": 20,
-          "reply_count": 36,
-          "engagement_score": 607,
-          "url": "https://x.com/_catwu/status/2107967210467803152"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "alexalbert__",
@@ -366,23 +355,23 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2107962327169675566",
-          "text": "One thing the engineering community will (re)discover is that every program can be ① hardened (edge cases squashed, inputs tightened, errors handled) and ② optimized (profiled, benchmarked, rewritten) basically ad infinitum.\n\nThere are real costs in every direction: time, attention, opportunity. You can literally explore input spaces that will never be hit or optimize performance of something that will never be used (\"you have no users\".) Even in an infinite token world, you need to know when to stop and what tradeoffs to accept. Agents will happily drill no matter what.",
-          "created_at": "2026-10-07T22:32:37+00:00",
-          "like_count": 946,
-          "retweet_count": 53,
-          "reply_count": 152,
-          "engagement_score": 1204,
-          "url": "https://x.com/rauchg/status/2107962327169675566"
+          "id": "2108733051283050964",
+          "text": "Some interesting machine & agent Vercel traffic stats.\n\n• Across the entire Vercel network, 58.18% traffic is bot-originated (last 30d). This was 32% in Jan 2024.\n\n• 60%+ of deployments on Vercel are now agentic, up from ~3% in Jan 2026.\n\n• Up to 83% of pageviews are now coming from agents to Vercel's own documentation sites. The % reliably increases the more we optimize content for them.\n\nI expect 'direct' human internet traffic to basically become a rounding error in coming years. The web will thrive, but it will be built for and by agents.",
+          "created_at": "2026-10-10T01:35:12+00:00",
+          "like_count": 527,
+          "retweet_count": 29,
+          "reply_count": 137,
+          "engagement_score": 722,
+          "url": "https://x.com/rauchg/status/2108733051283050964"
         },
         {
           "id": "2108669027363295323",
           "text": "It's incredible to watch a new kind of economy be born. Agents purchasing infrastructure products and services. We've been shocked by how often they buy from our marketplace via our CLI already. We're now extending this to domains.\n\nAgents can now go full stack, from idea to online business, with a banger domain name 😁",
           "created_at": "2026-10-09T21:20:47+00:00",
-          "like_count": 166,
-          "retweet_count": 8,
-          "reply_count": 50,
-          "engagement_score": 232,
+          "like_count": 547,
+          "retweet_count": 29,
+          "reply_count": 107,
+          "engagement_score": 712,
           "url": "https://x.com/rauchg/status/2108669027363295323"
         }
       ]
@@ -397,10 +386,10 @@
           "id": "2108597112707686552",
           "text": "Some communities are excited by AI’s impact on their field. Others are petrified. What’s the deciding factor(s)?",
           "created_at": "2026-10-09T16:35:02+00:00",
-          "like_count": 300,
-          "retweet_count": 6,
-          "reply_count": 208,
-          "engagement_score": 520,
+          "like_count": 433,
+          "retweet_count": 11,
+          "reply_count": 287,
+          "engagement_score": 742,
           "url": "https://x.com/amasad/status/2108597112707686552"
         }
       ]
@@ -426,14 +415,14 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2108663005286453624",
-          "text": "sparkDash v2 is really powerful! \nIncredible release 🔥\n\nLove the fleet energy tracking! It reminded me to run:\nsudo nvidia-smi -lgc 0,2200 https://t.co/mY9AWqAzfd",
-          "created_at": "2026-10-09T20:56:52+00:00",
-          "like_count": 13,
-          "retweet_count": 1,
-          "reply_count": 1,
-          "engagement_score": 16,
-          "url": "https://x.com/ivanfioravanti/status/2108663005286453624"
+          "id": "2108931810231222506",
+          "text": "Taj Mahal lego by GLM 5.3 Flash EXL3 on Dual DGX Spark. \n\nPrompt: Design and create a very creative, elaborate, and detailed lego pieces scene of Taj Mahal. Make the scene impressive and varied and use colorful pieces. Final results must be an html page that users and navigate in 3D.\n\nRecipe by @MiaAI_lab \nhttps://t.co/DabKttptqj",
+          "created_at": "2026-10-10T14:45:00+00:00",
+          "like_count": 38,
+          "retweet_count": 3,
+          "reply_count": 4,
+          "engagement_score": 48,
+          "url": "https://x.com/ivanfioravanti/status/2108931810231222506"
         }
       ]
     },
@@ -444,34 +433,14 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2108591041968300407",
-          "text": "The mood has been a bit dour lately, so here are some less-obvious things that I expect to take shape over the next decade that I am excited about:\n\n1. Space! Lots and lots of stuff is going to be happening in space by the mid-2030s, and right now the U.S. looks like it will be the leader by default, modulo the overhyped “race” to land a human on the moon again. Robots on the moon building and digging and cutting and adhering are more exciting than a person standing there taking pictures. The humans can come once the machines have built us habitats. \n2. Increasing substitutability of hydrocarbons. This will lead to fewer supply chain disruptions and more stable, lower prices. This is a story about both supply elasticity and demand elasticity, and the geopolitical implications are underrated. Amazing for North America. \n3. Private market exposure increasingly being an option for public investors, combined with Silicon Valley figuring how to use debt and other financial instruments more creatively than in the past. This seems like something America will be uniquely good at and I expect it to boost our already enviable lead in emerging technology capital allocation.\n4. State and local government adoption of AI. This will vary widely by jurisdiction, but in at least some places you will see government administrative processes and public service provision have huge increases in efficiency. State and local government is where most of the American public services that people rely on are actually administered, so this is high-impact for people’s lives. \n5. Advances in mathematics rapidly diffused to other fields. Historically it takes on the order of decades or centuries for discoveries from the bleeding edge of mathematics to be translated into practical applications, but I think AI will accelerate this dramatically. Lots of this will have the flavor of “small steps toward a much better world,” but it will accumulate. \n6. Speaking of mathematics, lean! Lean is a programming language used by mathematicians to formally guarantee the truth of a proof. AIs can write lean and eventually they will be superhuman at it. This will have applications far beyond math, including cybersecurity and contract writing/negotiation/execution. \n7. Fixing American’s shipbuilding problem by building boats instead. America has great boat-building capacity, but is awful at building ships. I want us to get better at building ships, but I am confident we can scale boat production. The Navy will soon have massive fleets of autonomous boats everywhere in the world. \n8. New kinds of agriculture will become possible because of autonomy. Row-crop agriculture is heavily mechanized already, and automating the tractor, by itself, does less than you think for the economics of a farm. But with time, more labor-intensive crops will become economical. And vastly more diverse and complex crop arrangements will become possible too, which will be both ecologically, economically, and culinarily beneficial. The economics of agriculture could start to be kinder to small farms again.\n9. Because of the previous item and advancements in biotechnology, logistics, and robotics, I expect that people are underrating how much healthier, more diverse, and flat-out better the American diet will be in 2035. \n10. The subterranean will become an increasingly important field of human activity. New imaging sensors, including ones enhanced by an abundance of space-based imaging platforms, will make the subterranean more immediately legible. Better drilling and digging will become cheap and widely diffused. Among many other things, the opening up of the subterranean as an industrial frontier will change what we think of as a usable natural resource. \n11. Greater variety and ornamentation in the physical world. Standardization is partially a function of scarce labor. Robotics can make beauty accessible again, if we choose to let it. \n\nThere are many others, but I am out of time and space.",
-          "created_at": "2026-10-09T16:10:54+00:00",
-          "like_count": 464,
-          "retweet_count": 46,
-          "reply_count": 31,
-          "engagement_score": 587,
-          "url": "https://x.com/deanwball/status/2108591041968300407"
-        },
-        {
-          "id": "2108611225831784949",
-          "text": "Ok two more:\n\n1. AI will enable the design of custom enzymes that can catalyze industrial processes and chemical manufacturing faster than existing methods. In some cases this will make existing chemicals cheap enough that it becomes possible to use them for totally new use cases. Also, custom chemicals may enable the design of more efficient molecules to do things like separate rare earths from other elements, currently a very nasty process. \n2. Computers will have superhuman smell. Sensors will be able to smell disease on people and crops. It will be possible to monitor industrial processes more effectively as well. Many strange implications here, but potentially exciting for biosecurity.",
-          "created_at": "2026-10-09T17:31:06+00:00",
-          "like_count": 166,
-          "retweet_count": 15,
-          "reply_count": 10,
-          "engagement_score": 206,
-          "url": "https://x.com/deanwball/status/2108611225831784949"
-        },
-        {
-          "id": "2108686326694568127",
-          "text": "One of the things Scott Wiener and the other drafters of SB 53 deserve credit for is the bill’s focus on deployments of frontier models within AI labs rather than just those released to the public. It requires large AI developers to periodically share information with the government about how it assesses the major risks arising from internal deployments. In addition to the California government, we are choosing to share our report with the public as well. You can read it at the link below. I hope you enjoy!",
-          "created_at": "2026-10-09T22:29:32+00:00",
-          "like_count": 50,
-          "retweet_count": 8,
-          "reply_count": 4,
-          "engagement_score": 70,
-          "url": "https://x.com/deanwball/status/2108686326694568127"
+          "id": "2108792581819867559",
+          "text": "Could ai ever write Beethoven’s 10th? Good Christ I hope so.",
+          "created_at": "2026-10-10T05:31:45+00:00",
+          "like_count": 72,
+          "retweet_count": 4,
+          "reply_count": 15,
+          "engagement_score": 95,
+          "url": "https://x.com/deanwball/status/2108792581819867559"
         }
       ]
     },
@@ -480,9 +449,20 @@
       "name": "Kun Chen (FirstMate / ex-Meta L8)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2109034238880501884",
+          "text": "an interesting thought experiment:\n\ntwo dental businesses\n1. one uses AI and automated all its office jobs (assuming good quality)\n2. the other is all human, like today\n\nwhich ones wins, and why?",
+          "created_at": "2026-10-10T21:32:01+00:00",
+          "like_count": 6,
+          "retweet_count": 1,
+          "reply_count": 22,
+          "engagement_score": 30,
+          "url": "https://x.com/kunchenguid/status/2109034238880501884"
+        }
+      ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-09T22:13:25.709899+00:00"
+  "generated_at": "2026-10-10T22:11:24.669889+00:00"
 }
