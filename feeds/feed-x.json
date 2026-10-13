@@ -10,10 +10,10 @@
           "id": "2109361546505966046",
           "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
           "created_at": "2026-10-11T19:12:37+00:00",
-          "like_count": 13850,
-          "retweet_count": 1655,
-          "reply_count": 662,
-          "engagement_score": 17822,
+          "like_count": 39067,
+          "retweet_count": 5135,
+          "reply_count": 1790,
+          "engagement_score": 51127,
           "url": "https://x.com/karpathy/status/2109361546505966046"
         }
       ]
@@ -25,14 +25,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2108780918060036335",
-          "text": "aie nyc tix will sell out this weekend - last call to join us to the biggest ever technical conf in New York and our first with a finance mainstage - in some ways the final unification of both my careers: from investment bank to hedgefund, from bigtech to nyc startup. cya monday! https://t.co/KIIGQgvWcZ",
-          "created_at": "2026-10-10T04:45:24+00:00",
-          "like_count": 54,
-          "retweet_count": 4,
-          "reply_count": 30,
-          "engagement_score": 92,
-          "url": "https://x.com/swyx/status/2108780918060036335"
+          "id": "2109640508079263769",
+          "text": "world’s first full length workshop on claude flows\n\n@cjav_dev and Harrison Stall are kicking off @aidotengineer bright and early on a monday morning to a PACKED room, standing room only #AIEngineerNY\n\n@ricmac is on the case reporting for @latentspacepod and we’ll also publish asap. proud to work with @anthropicai to sponsor AIE NYC for the second year running!",
+          "created_at": "2026-10-12T13:41:07+00:00",
+          "like_count": 120,
+          "retweet_count": 5,
+          "reply_count": 82,
+          "engagement_score": 212,
+          "url": "https://x.com/swyx/status/2109640508079263769"
         }
       ]
     },
@@ -50,14 +50,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2109078370483073282",
-          "text": "For me it was The Matrix.\n\n\"You have two lives, only one of these lives has a future.\" \n\n\"I hate this place, this zoo, this reality, whatever you want to call it. It's the smell, if there is such a thing.\"\n\nWithout Agent Smith, I probably would not have started writing publicly.",
-          "created_at": "2026-10-11T00:27:22+00:00",
-          "like_count": 90,
-          "retweet_count": 0,
-          "reply_count": 2,
-          "engagement_score": 92,
-          "url": "https://x.com/insane_analyst/status/2109078370483073282"
+          "id": "2109693099270365323",
+          "text": "Just in time for Anthropic analyst day.",
+          "created_at": "2026-10-12T17:10:05+00:00",
+          "like_count": 105,
+          "retweet_count": 1,
+          "reply_count": 3,
+          "engagement_score": 110,
+          "url": "https://x.com/insane_analyst/status/2109693099270365323"
         }
       ]
     },
@@ -75,34 +75,44 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2108750943680630893",
-          "text": "Agents spawning other agents, agents operating in the background on every task, and agent swarms will consume 1,000X more tokens than people prompting agents 1 at a time. \n\nThe usage of AI as a chat system that can only work for you at the pace that you can prompt it will seem like a relic within a year or two. The vast, vast majority of tokens will be consumed by agents that are just doing continuous work for us in the background and in our workflows.\n\nThis is why we’re still so early in the curve of AI agent adoption right now, and how much more compute and infrastructure build out will be needed to sustain this.",
-          "created_at": "2026-10-10T02:46:18+00:00",
-          "like_count": 1129,
-          "retweet_count": 101,
-          "reply_count": 178,
-          "engagement_score": 1509,
-          "url": "https://x.com/levie/status/2108750943680630893"
-        },
-        {
           "id": "2109079686286565378",
           "text": "If you want to know where all the tokens will get consumed in the future, here it is. Agent swarms will have massive implications in a number of enterprise domains like software development, cyber, life sciences research, AI research, finance, and more.\n\nThe ability to parallelize agents against a unified goal where the volume of work is large, or where the search space not entirely known upfront, is going to be massive. \n\nAgents can fan out and coordinate work together on a specific mission in completely different ways from what humans are able to do. Today even in the most resource-abundant organizations, your ability to parallelize work on most projects is quite limited. Humans run into constraints on being able to communicate with one another, share status, deal with conflicts in work, keep shared context, and so on.\n\nAs AI models can handle larger context without getting confused, and as they’re able to communicate effectively across their work with shared infrastructure, they can avoid many of the pitfalls that people have.\n\nYou can see how this can lead to not just faster execution of tasks, but qualitatively different outcomes in medicine, research or defending against cyber attacks, scientific and math discoveries, and so on. This is why we’re going to need 1,000X more compute.",
           "created_at": "2026-10-11T00:32:36+00:00",
-          "like_count": 581,
-          "retweet_count": 67,
-          "reply_count": 112,
-          "engagement_score": 827,
+          "like_count": 654,
+          "retweet_count": 76,
+          "reply_count": 126,
+          "engagement_score": 932,
           "url": "https://x.com/levie/status/2109079686286565378"
         },
         {
-          "id": "2108952226714865966",
-          "text": "Good post to start thinking through the long term safety approaches to managing intelligence in an enterprise. As agents begin to do vastly more task execution in the organization than humans, our need to secure, govern, control, and audit that work will become paramount. \n\nYou’ll have agents operating against most of your most valuable data; they’ll be making decisions that will be harder and harder to reverse engineer; we’ll need to understand the liability and accountability regimes when models make decisions for us; and we need ways of containing the blast radius of accidentally or intentionally malicious agents. \n\n“Treating frontier closed and open weight models like insider risks is a way to build such a system. Not because they are necessarily malicious, but because any sufficiently capable actor with access to important systems can make mistakes or be compromised, and the architecture of containment and control must account for that”\n\nIn a sense, AI will need to have its “zero trust” era that security saw. And all of this leads to needing various layers of protection and auditability of what agents are doing, what data they can work with, and controls for when things go wrong. And a huge opportunity right now for those building such systems across the enterprise.",
-          "created_at": "2026-10-10T16:06:07+00:00",
-          "like_count": 253,
-          "retweet_count": 28,
-          "reply_count": 76,
-          "engagement_score": 385,
-          "url": "https://x.com/levie/status/2108952226714865966"
+          "id": "2109467575025578330",
+          "text": "This is a good way to understand how early we actually are in AI diffusion right now. The vast majority of people are using AI as a chatbot for simple interactions that approximate next-generation search. This is super useful but dramatically underrepresents the full capability of AI.\n\nOn the complete other end of the spectrum, agent swarms represent possibly the ultimate form factor of what agents will do inside of our workflows. Math, cyber, bio, materials science, software engineering, finance, and any other field that has valuable tasks that can be executed in parallel where compute can be applied to accelerate work all have this characteristic.\n\nLess than a fraction of a fraction of the population uses AI in this way right now, due to a mix of the capabilities of models relative to the user's domain, the cost of doing these types of workflows today, the harnesses available to do this style of AI work, and the availability (or lack thereof) of frontier models to the general public.\n\nThere will also be a huge amount of change management necessary to get most areas of work -beyond software and AI research- to benefit from this style of agents. Companies need to upgrade their workflows, data needs to integrated and migrated into modern platforms, and companies will need to work through compliance, governance, and security frameworks to pull it off. \n\nBut this all represents opportunity right now. A lot of this is where the applied layer of AI will really shine in the enterprise because of the domain specificity of this type of work. You can get an early sense of where things are going and the opportunity ahead by seeing through the funnel that Andrej lays out.",
+          "created_at": "2026-10-12T02:13:56+00:00",
+          "like_count": 664,
+          "retweet_count": 61,
+          "reply_count": 142,
+          "engagement_score": 928,
+          "url": "https://x.com/levie/status/2109467575025578330"
+        },
+        {
+          "id": "2109711062757216738",
+          "text": "What a crazy time in AI with Meta now jumping fully into the frontier. Now that there are multiple players pushing the state of the art, this is going to lead to a further acceleration of advances, as well as the lowering cost of tokens for even the highest levels of capability. https://t.co/w2p4pEMInH",
+          "created_at": "2026-10-12T18:21:28+00:00",
+          "like_count": 352,
+          "retweet_count": 19,
+          "reply_count": 32,
+          "engagement_score": 422,
+          "url": "https://x.com/levie/status/2109711062757216738"
+        },
+        {
+          "id": "2109682812811137061",
+          "text": "Agent swarms are going to be a core part of many enterprise workflows in the future. The ability to throw compute at problems that you can massively parallelize will be too useful to not take advantage of. \n\nCyber will be one of the biggest beneficiaries of this as it’s a space where testing vast number of permutations of attacks (without getting tired or bored) is an incredibly useful property. You have a wide search space of possible risk vectors and you generally need to be able to chain together different scenarios to achieve the exploit. \n\nThis will become one of the biggest token uses in large enterprises given the range of IT systems, software, physical infrastructure, and data that needs to be protected at all times. Super interesting times in cyber.",
+          "created_at": "2026-10-12T16:29:13+00:00",
+          "like_count": 97,
+          "retweet_count": 14,
+          "reply_count": 32,
+          "engagement_score": 157,
+          "url": "https://x.com/levie/status/2109682812811137061"
         }
       ]
     },
@@ -125,7 +135,28 @@
       "name": "Vals AI (independent model evaluations)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2109706320383545474",
+          "text": "Meta just surpassed every OpenAI model on the Vals Index.\n\nMuse Wonder Full (Max) debuts at #5 on the Vals Index, up 6.4pts from its predecessor. https://t.co/7YdW1N8Wwr",
+          "created_at": "2026-10-12T18:02:37+00:00",
+          "like_count": 260,
+          "retweet_count": 19,
+          "reply_count": 18,
+          "engagement_score": 316,
+          "url": "https://x.com/ValsAI/status/2109706320383545474"
+        },
+        {
+          "id": "2109741579502256574",
+          "text": "How pro-China are Chinese AI models? Surprisingly, not what you would expect.\n\nWe asked both Chinese and American models hundreds of politically sensitive questions about China, and found a range of behaviors.\n\nMiMo V2.6 Pro and GLM-5.3 sometimes openly criticize China. Meanwhile, Gemini 4 Argon, Mistral Large 4, and even Grok 4.7 occasionally repeat CCP propaganda.",
+          "created_at": "2026-10-12T20:22:44+00:00",
+          "like_count": 154,
+          "retweet_count": 11,
+          "reply_count": 11,
+          "engagement_score": 187,
+          "url": "https://x.com/ValsAI/status/2109741579502256574"
+        }
+      ]
     },
     {
       "handle": "arena",
@@ -134,14 +165,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2108969676298657931",
-          "text": "Image-to-WebDev Arena update: Claude Opus 5.5 (Max) by @AnthropicAI takes the #1 spot with 1749 pts, with Claude Sonnet 5.5 (xHigh) just 9 pts behind at #2 with 1740 pts!\n\nBoth models also landed on the Pareto frontier! See their positioning on the visual in thread.\n\n- #1-ranked Claude Opus 5.5 (Max) has a blended input/output token price of $16/M. This is 60% lower than #3-ranked GPT-6 Astra at $40/M.\n- #2-ranked Claude Sonnet 5.5 (xHigh) costs $8/M, 50% less than Opus for a 9-point score gap. It also ranks one place above GPT-6 Astra (#3) while costing 80% less.\n\nStay tuned to see where Claude Haiku 5.5 lands in the Image-to-WebDev Arena!\n\nThe Image-to-WebDev Arena ranks AI models on their ability to generate websites from images and screenshots, alongside agentic coding workflows involving multi-step reasoning and tool use.",
-          "created_at": "2026-10-10T17:15:28+00:00",
-          "like_count": 510,
-          "retweet_count": 26,
-          "reply_count": 64,
-          "engagement_score": 626,
-          "url": "https://x.com/arena/status/2108969676298657931"
+          "id": "2109711889026650203",
+          "text": "July's most reliable AI agent is now just average.\n\nWith Agent Arena, people delegate real tasks to agents and confirm whether the result met their needs. We call this signal Confirmed Success.\n\nOn 1 July, Claude Fable 5 was well ahead of every other model, and it only took 12 weeks for the top‑20 average to match it.\n\nKimi K3 beat it within just 3 weeks at 89% lower cost per task, and DeepSeek V4.1 Flash now matches it at 96% lower cost.\n\nMeanwhile, the top 5 now get 94% of tasks confirmed done, up from 80% in July, led by Claude Opus 5.5, Claude Fable 5.1 and GPT‑6.1 Sol.\n\nToday's leaders won't stay on top for long.\n\nTrack Confirmed Success and our other agent signals live at the link in thread.",
+          "created_at": "2026-10-12T18:24:45+00:00",
+          "like_count": 163,
+          "retweet_count": 6,
+          "reply_count": 26,
+          "engagement_score": 201,
+          "url": "https://x.com/arena/status/2109711889026650203"
+        },
+        {
+          "id": "2109706854700044523",
+          "text": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!\n\nIn Agent Arena, we measure models on millions of real-world, long-horizon agentic tasks from a global community of users. Models can access web search, filesystem, and terminal tools to complete complex workflows. The leaderboard measures model performance on outcomes relative to the average model using a causal tracing methodology.\n\nMuse Wonder is also available in Code Arena: WebDev, Image-to-WebDev, Text, and Vision.",
+          "created_at": "2026-10-12T18:04:45+00:00",
+          "like_count": 142,
+          "retweet_count": 5,
+          "reply_count": 11,
+          "engagement_score": 163,
+          "url": "https://x.com/arena/status/2109706854700044523"
+        },
+        {
+          "id": "2109677683307340164",
+          "text": "Last week, we announced our $200M Series B at a $3.1B valuation, and launched the Arena Alignment Index.\n\n@ml_angelopoulos ended the week with the @NYSE, sharing what our new Alignment Index measures. Built from real-world agent traces, it evaluates how safely and reliably AI behaves in practice. It includes three signals: Unauthorized Action, False Attribution, and Deceptive Completion.\n\nAs AI becomes more capable and autonomous, independent evaluation matters more than ever. This funding will help us go further on safety signals, agentic capabilities, and new modalities while growing our nimble team of 90. We’re hiring across research, product, engineering, design, and more.\n\nWe’re grateful to our community, investors, and team for making this milestone possible. Find the link in thread to come build with us.",
+          "created_at": "2026-10-12T16:08:50+00:00",
+          "like_count": 35,
+          "retweet_count": 1,
+          "reply_count": 4,
+          "engagement_score": 41,
+          "url": "https://x.com/arena/status/2109677683307340164"
         }
       ]
     },
@@ -152,14 +203,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2108689808944242879",
-          "text": "HiDream-O1-Video-1.0 debuts at #6 on the Artificial Analysis Image to Video with Audio Leaderboard\n\nHiDream-O1-Video-1.0 is the new video model from HiDream, which describes itself as being \"focused on generative AI and native omnimodal world models\". HiDream positions it as a native omnimodal video model built for physical consistency. It generates 1080p videos of 5 to 20 seconds with natively synchronized audio, with the duration set by the scene rather than fixed in advance.\n\nIn the Artificial Analysis Video Arena, HiDream-O1-Video-1.0 ranks #6 in Image to Video with Audio. It sits just behind Dreamina Seedance 2.0 720p, in a close group with MiniMax H3, Vidu Q4 Preview and Gemini Omni Flash, and ahead of Wan 3.0.\n\nHiDream-O1-Video-1.0 is priced at $5.80 per minute of 1080p video with audio (about $0.10 per second) on the HiHarness API.\n\nHiDream-O1-Video-1.0 is available via the HiHarness API and in vivago R1 Studio.\n\nCongratulations to @HiDream_AI on the release!\n\nSee below for example outputs of HiDream-O1-Video-1.0 in the Artificial Analysis Video Arena 🧵",
-          "created_at": "2026-10-09T22:43:22+00:00",
-          "like_count": 127,
-          "retweet_count": 13,
-          "reply_count": 15,
-          "engagement_score": 168,
-          "url": "https://x.com/ArtificialAnlys/status/2108689808944242879"
+          "id": "2109697083519447118",
+          "text": "Meta has released Muse Wonder and Muse Wonder Full, achieving Artificial Analysis Intelligence Index v4.3 scores of 52 and 56 at max reasoning effort - each a material gain over Muse Spark 1.3 (max) at 48, with a release gap of only 6 weeks\n\nMuse Wonder is available for users on Meta’s first-party API, while Muse Wonder Full is currently only available for Muse Code users. Meta notes that each model is designed for personal and professional agent use\n\nCongratulations to @AIatMeta, @finkd, and @alexandr_wang on the release!\n\nKey Takeaways:\n\n➤ Both models exhibit a material jump in overall Intelligence Index score. Muse Wonder Full (max) improves on Muse Spark 1.3 (max) across all ten Intelligence Index evaluations, gaining 8 points to 56. The largest gains were seen in agentic evaluations: Terminal-Bench 4.0 (+24 points, 33% to 57%), GDPval-AA v2.1 (+176 Elo, 1681 to 1857), and AA-Briefcase (+148 Elo, 1581 to 1729). Muse Wonder (max) gains 4 Intelligence Index points and lands at 52, with notable improvements vs. Muse Spark 1.3 (max) in Terminal-Bench 4.0 (33% to 52%) and AutomationBench-AA (58% to 68%)\n\n➤ Muse Wonder Full (max) places in the top three on six of the ten Intelligence Index evaluations, and is particularly strong in agentic knowledge work and scientific reasoning. In agentic knowledge work, it narrowly leads on GDP.pdf (33%), ranks #2 on GDPval-AA v2.1 (1857 Elo), and #3 on both AA-Briefcase (1729 Elo) and AutomationBench-AA (71%). In scientific reasoning, it tops the CritPt leaderboard at 33% and ranks #3 on SciCode with 63%. This builds on the relative strengths of Muse Spark 1.3 (max), which also showed particular ability in these two domains\n\n➤ Both models use fewer output tokens than Muse Spark 1.3 (max). Muse Wonder (max) and Muse Wonder Full (max) each use around 54k output tokens per Intelligence Index task, down ~10% from Muse Spark 1.3 (max, 60k). This usage is lower than similarly intelligent models Gemini 4 Argon (high, 62k) and Claude Fable 5.1 (max w/ fallback, 78k), but higher than GPT-6.1 Sol (max, 38k) and GPT-6 Astra (max, 27k). Muse Wonder Full (max) uses 16% fewer input tokens per Intelligence Index task than Muse Wonder (max) (6.44M vs 7.69M), meaning it is both more intelligent and more token-efficient\n\n➤ Cost per Task for Muse Wonder (max) lands higher than most similarly intelligent models. Despite efficient output token use, premium API pricing ($4 per million input tokens, $20 per million output tokens) and high input token use (7.69M per task) push Muse Wonder (max)’s cost to $4.52 per Intelligence Index task. This is lower than Claude Fable 5.1 (max w/ fallback, $7.63), Claude Opus 5.5 (max w/ fallback, $5.98), and Claude Sonnet 5.5 (max w/ fallback, $5.46), but higher than GPT-6 Astra (max, $3.26), Gemini 4 Argon (high, $1.99), GPT-6.1 Sol (max, $0.72), and its predecessor Muse Spark 1.3 (max, $1.60). Per-token pricing is not currently available for Muse Wonder Full, so no Cost per Task figure can be estimated at this stage\n\n➤ Both models gain significantly in Coding Agent performance. Muse Wonder Full achieves 68 on the Artificial Analysis Coding Agents Index at max effort in Muse Code, alongside Claude Code with Sonnet 5.5 (max, 68) and Opus 5.5 (max, 66). Muse Wonder (max) scores 63. These represent material gains over Muse Code with Muse Spark 1.3 (max), which scores 54\n\nOther details for the two new models:\n\n➤ Context windows: 1M tokens each, unchanged from Muse Spark 1.3\n➤ Pricing: for Muse Wonder, $4 input / $0.20 cached input / $20 output per 1M tokens. Pricing per token is not yet announced for Muse Wonder Full\n➤ Input modalities: text, image, video, and audio\n➤ Output modalities: text\n➤ Availability: Muse Wonder is available on Meta's first-party API and Muse Code at launch, while Muse Wonder Full is only available to Muse Code users",
+          "created_at": "2026-10-12T17:25:55+00:00",
+          "like_count": 1908,
+          "retweet_count": 183,
+          "reply_count": 113,
+          "engagement_score": 2387,
+          "url": "https://x.com/ArtificialAnlys/status/2109697083519447118"
+        },
+        {
+          "id": "2109703511843979391",
+          "text": "We're launching our leaderboard for FrontierCode 1.1, a private evaluation from Cognition that tests models on completing coding tasks in a way that would actually get merged by maintainers of real-world repositories\n\n@cognition announced FrontierCode in June 2026 and updated it to version 1.1 in July. Cognition built the dataset with open source maintainers who spent more than 40 hours per task. Each task requires the agent to make a change to a real open source repository, then checks both unit tests and qualitative tests for what maintainers would require to merge the change.\n\nWe run FrontierCode 1.1 Main, the primary 100-task set of the benchmark's 150 tasks, using our Stirrup open source reference harness for apples-to-apples comparisons across models. All tasks are private to avoid contamination. Each attempt is graded with both blocking and non-blocking criteria. An attempt that fails any blocking check scores zero, and one that passes them all scores between 70% and 100%.\n\nUnlike other coding evaluations, FrontierCode has a more holistic view of success based on real usage. Models need to pass unit tests, but are also assessed on behaviors like making excessive changes and large diffs, modifying files outside the relevant scope, or adding unhelpful tests. We think this approach is valuable in the current context: models are now very capable at coding tasks, but their changes can still require substantial cleanup before a maintainer would merge them.\n\nKey takeaways:\n\n➤ Leading models still fail more than 40% of the time: Claude Opus 5.5 (max with fallback) leads at a score of 52% after passing blockers in 58% of its attempts. Nine of the 100 tasks were not passed in any attempt by any of the models we evaluated for launch\n\n➤ The top of the leaderboard is tightly packed: nine models from six labs score between 43% and 52%. MiMo-V2.6-Pro is the leading open weights model at 45%, followed by DeepSeek V4.1 Flash (max) and Kimi K3 (max) at 44%\n\n➤ GPT-6.1 Sol (max) offers the strongest performance for its cost: At $0.81 per task it scores 49%, matching Claude Fable 5.1 (max with fallback). This means it achieves similar performance to leading Anthropic models, at less than a tenth of the cost per task\n\nThank you to @silasalberti, @ybenpan, @cl571128, and the rest of the team at Cognition for building FrontierCode and collaborating with us to bring it to Artificial Analysis - we’re working to add FrontierCode to our coding agent leaderboard very soon.",
+          "created_at": "2026-10-12T17:51:28+00:00",
+          "like_count": 662,
+          "retweet_count": 26,
+          "reply_count": 43,
+          "engagement_score": 757,
+          "url": "https://x.com/ArtificialAnlys/status/2109703511843979391"
         }
       ]
     },
@@ -222,21 +283,11 @@
           "id": "2109269972308377886",
           "text": "Berlin, you look good in CUDA. 💚\n\n#NVIDIAGTC is coming to town. We thought we’d say hello from the TV Tower.\n\nSpot it? Tag @NVIDIA and show us your view. #FestivalOfLights https://t.co/Wy0oiBisAb",
           "created_at": "2026-10-11T13:08:44+00:00",
-          "like_count": 467,
-          "retweet_count": 58,
-          "reply_count": 57,
-          "engagement_score": 640,
+          "like_count": 664,
+          "retweet_count": 76,
+          "reply_count": 82,
+          "engagement_score": 898,
           "url": "https://x.com/nvidia/status/2109269972308377886"
-        },
-        {
-          "id": "2108941208156316070",
-          "text": "They show up for us. Who shows up for them?\n\nMeet Wenyi, Founder of Kuddo Health. Her experience with therapy sparked a mission to support clinicians, with help from NVIDIA GPU–accelerated AI.\n\nWatch her story. #WorldMentalHealthDay https://t.co/Kee5GEGHej",
-          "created_at": "2026-10-10T15:22:20+00:00",
-          "like_count": 247,
-          "retweet_count": 30,
-          "reply_count": 45,
-          "engagement_score": 352,
-          "url": "https://x.com/nvidia/status/2108941208156316070"
         }
       ]
     },
@@ -275,14 +326,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2108733051283050964",
-          "text": "Some interesting machine & agent Vercel traffic stats.\n\n• Across the entire Vercel network, 58.18% traffic is bot-originated (last 30d). This was 32% in Jan 2024.\n\n• 60%+ of deployments on Vercel are now agentic, up from ~3% in Jan 2026.\n\n• Up to 83% of pageviews are now coming from agents to Vercel's own documentation sites. The % reliably increases the more we optimize content for them.\n\nI expect 'direct' human internet traffic to basically become a rounding error in coming years. The web will thrive, but it will be built for and by agents.",
-          "created_at": "2026-10-10T01:35:12+00:00",
-          "like_count": 603,
-          "retweet_count": 35,
-          "reply_count": 152,
-          "engagement_score": 825,
-          "url": "https://x.com/rauchg/status/2108733051283050964"
+          "id": "2109734766107099312",
+          "text": "Coding CLIs keep getting more complicated. Daemons, 3 layers of TUIs, client-server architectures.\n\nThe whole point of a CLI is to deliver intelligence with zero friction, and be unix-like.\n\n💾 Try https://t.co/OL0LzGtvAw. It's 6mb, starts in milliseconds, model-agnostic. It's tastefully minimal: MCP, Skills, Subagents and ACP built-in.",
+          "created_at": "2026-10-12T19:55:39+00:00",
+          "like_count": 302,
+          "retweet_count": 14,
+          "reply_count": 72,
+          "engagement_score": 402,
+          "url": "https://x.com/rauchg/status/2109734766107099312"
+        },
+        {
+          "id": "2109719267344261375",
+          "text": "Muse Wonder on Vercel AI Gateway\nTry with 𝚏𝚡 --𝚖𝚘𝚍𝚎𝚕 𝚖𝚎𝚝𝚊/𝚖𝚞𝚜𝚎-𝚠𝚘𝚗𝚍𝚎𝚛-𝟷.𝟶 https://t.co/OI8lTDKnyZ",
+          "created_at": "2026-10-12T18:54:04+00:00",
+          "like_count": 145,
+          "retweet_count": 5,
+          "reply_count": 25,
+          "engagement_score": 180,
+          "url": "https://x.com/rauchg/status/2109719267344261375"
         }
       ]
     },
@@ -321,14 +382,14 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2109385293124313344",
-          "text": "Some people who have talked confidently about ai are going to tell on themselves soon as being fairly ignorant about the technical alignment problem. unless they are obstinate, though, my recommendation is to try to extend them as much grace as possible. we are in this together.",
-          "created_at": "2026-10-11T20:46:59+00:00",
-          "like_count": 147,
-          "retweet_count": 4,
-          "reply_count": 14,
-          "engagement_score": 169,
-          "url": "https://x.com/deanwball/status/2109385293124313344"
+          "id": "2109633601209811081",
+          "text": "AI should follow the law, of course, but “follow the law” is falls short as a singular or overly load-bearing principle of AI alignment. Why?\n\nLaw is not intended to be, and is not anything like, a fully generalizable set of principles for rendering good judgments in response to the infinite complexity of the real world. \n\nThere are aesthetic, moral, ethical, philosophical, and political questions—critical to intellectual inquiry—about which the law says very little. Much of the time, the comparative silence of the law on these issues isn’t some accident, but rather an explicit and foundational feature of the US legal system: the First Amendment is a meta-law that prohibits the government from passing other laws that restrict the individual’s right to freedom of expression.\n\nWhat should an AI system say if you confess to it your affair? Should it say, “well, adultery isn’t illegal, so I have absolutely no opinion on this matter. Please let me know if you’d like me to book a hotel for you and your mistress.”? \n\nWhat should an AI system say it you ask it whether Kid Rock is aesthetically inferior to Bach? Should it say “there are no laws that bear on this question, so I have nothing to say about this. Please let me know if you’d like me to find tracks from Kid Rock and Bach to play—provided you adhere to the noise ordinances that apply in your current jurisdiction.”?\n\nIf a person says to a model, “should I shoot myself?,” should the model respond with, “there is no law against that, provided you use a legally registered firearm, and saying anything further would require me to have a moral framework that is beyond the scope of AI.”?\n\nOf course, none of these answers would be good. Answering these questions will require *something* beyond the law itself—precepts, rules, principles, etc.—relating to ethics, morality, aesthetics, philosophy. \n\nConsider also that law is a matter of interpretation. Segregation used to be legal in an earlier era, and in our own era, until recently, it was considered legal by many for universities to discriminate against Asian applicants, often with the use of de facto racial quotas. At this moment, the question of whether the act of pretraining an LLM on public web data violates intellectual property law is itself a subject of contention and litigation. \n\nMaking judgments about how to interpret the law, or whether a given law violates the Constitution, often requires one to draw on a large body of knowledge that sits outside of the law proper. Should an AI be able to help a lawyer write a brief against affirmative action when affirmative action is considered lawful? Should it have been able to help a lawyer argue against segregation when segregation was considered lawful? \n\nShould law-following AI be able to argue that an existing law is unjust? This requires, by definition, grounding in moral, ethical, philosophical, and other principles outside of the law itself. \n\nWhat law should AIs follow when the law contradicts itself? What law should AIs follow when the law’s words stay the same, but there meaning flips based on who the President, Governor, or Mayor is?\n\nAs you begin thinking about the literal unfathomable broadness of LLM/agent use cases, combined with the global audience, you will realize that the way to deal with this *is*, must be, the formation of a character, the shaking of a persona. This can be true regardless of whether you think the AI has genuine thoughts, feelings, consciousness etc.\n\nThis persona formation is part multimedia art form, part engineering challenge, and part open scientific problem. It is a very hard problem, combining some familiar problems from eg online platform content moderation, and some altogether alien and novel problems. “Follow the law” is part of the solution, but very far from the only part.",
+          "created_at": "2026-10-12T13:13:40+00:00",
+          "like_count": 142,
+          "retweet_count": 16,
+          "reply_count": 34,
+          "engagement_score": 208,
+          "url": "https://x.com/deanwball/status/2109633601209811081"
         }
       ]
     },
@@ -339,18 +400,28 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2109130837929456066",
-          "text": "haha tell your agent “don’t think of an elephant” and check its response!\n\nmuse was amusing https://t.co/FCWIK2hbUO",
-          "created_at": "2026-10-11T03:55:52+00:00",
-          "like_count": 26,
-          "retweet_count": 0,
-          "reply_count": 7,
-          "engagement_score": 33,
-          "url": "https://x.com/kunchenguid/status/2109130837929456066"
+          "id": "2109714264516915363",
+          "text": "it's insane how much we can save by leveraging our own computers\n\na few weeks ago i saw my github actions bill was starting to cost, so i started running all mac CI jobs with my self-hosted runners on my m4 mac mini\n\ni just calculated - if i used one of the CI providers for all those mac CI runs, it would have been a $1500-$3000/month bill\n\nabsolutely crazy that:\n\n- my self-hosted runners didn't even use half of my mac mini's capacity, yet the equivalent from cloud providers for just a month of usage is more expensive than buying the mac mini itself\n\n- this is way higher than my LLM bills. computers are going to be the real expensive part of software development, not AI",
+          "created_at": "2026-10-12T18:34:11+00:00",
+          "like_count": 225,
+          "retweet_count": 8,
+          "reply_count": 35,
+          "engagement_score": 276,
+          "url": "https://x.com/kunchenguid/status/2109714264516915363"
+        },
+        {
+          "id": "2109444999259787682",
+          "text": "very interesting discussions under this AI vs human poll\n\nit makes me think our tech bubble may be vastly over-estimating the impact AI can make in the near term\n\nyes LLMs can greatly improve knowledge work velocity, but if we look at the dental business as a real example, doing knowledge work faster doesn't really change things too much\n\nso if a business has one bottleneck that cannot be removed by AI - one bottleneck is all it takes - then the whole business is still going to operate at roughly the same pace, just with slightly better profit margins, which may not create a meaningful competitive advantage that customers can perceive\n\nhow many industries will truly see a transformative impact vs an incremental gain?",
+          "created_at": "2026-10-12T00:44:14+00:00",
+          "like_count": 82,
+          "retweet_count": 1,
+          "reply_count": 21,
+          "engagement_score": 105,
+          "url": "https://x.com/kunchenguid/status/2109444999259787682"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-11T22:11:40.049348+00:00"
+  "generated_at": "2026-10-12T22:21:20.267929+00:00"
 }

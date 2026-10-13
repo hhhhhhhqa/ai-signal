@@ -1,7 +1,72 @@
 {
-  "generated_at": "2026-10-11T23:46:20.801772+00:00",
+  "generated_at": "2026-10-13T00:23:45.490399+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/claude-dynamic-workflows",
+      "link": "https://www.latent.space/p/claude-dynamic-workflows",
+      "channel": "Latent Space",
+      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+      "pub_date": "2026-10-12T18:18:17+00:00",
+      "transcript_path": "feeds/transcripts/74810e4894a5649e50b8ccab.txt",
+      "transcript_chars": 7792,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-13T00:23:45.490399+00:00",
+      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
+      "expires_at": "2026-10-27T00:23:45.490399+00:00"
+    },
+    {
+      "guid": "df9fe70c-a787-4f9f-b869-ab6bd6758a7b",
+      "link": "https://allinchamathjason.libsyn.com/martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what-prison-taught-him",
+      "channel": "All-In Podcast",
+      "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+      "pub_date": "2026-10-12T15:49:00+00:00",
+      "transcript_path": "feeds/transcripts/7453e611f8e3f9581f594d28.txt",
+      "transcript_chars": 3997,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-13T00:23:45.490399+00:00",
+      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
+      "expires_at": "2026-10-27T00:23:45.490399+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
+      "pub_date": "2026-10-12T15:00:38+00:00",
+      "transcript_path": "feeds/transcripts/561414fa6c99477caf625819.txt",
+      "transcript_chars": 4937,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-13T00:23:45.490399+00:00",
+      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
+      "expires_at": "2026-10-27T00:23:45.490399+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+      "link": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
+      "channel": "Lenny's Podcast",
+      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
+      "pub_date": "2026-10-12T12:03:55+00:00",
+      "transcript_path": "feeds/transcripts/279f1ad4c2a418bda8e84193.txt",
+      "transcript_chars": 5207,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-13T00:23:45.490399+00:00",
+      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
+      "expires_at": "2026-10-27T00:23:45.490399+00:00"
+    },
+    {
+      "guid": "yt:lFyNu4eBrBE",
+      "link": "https://www.youtube.com/watch?v=lFyNu4eBrBE",
+      "channel": "Windows",
+      "title": "Satya Nadella and Jensen Huang discuss Hybrid Intelligence and the future of PC",
+      "pub_date": "2026-10-09T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/87b84dabc273683362911234.txt",
+      "transcript_chars": 22741,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-13T00:23:45.490399+00:00",
+      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
+      "expires_at": "2026-10-27T00:23:45.490399+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/standard-bots",
       "link": "https://www.latent.space/p/standard-bots",
@@ -12,8 +77,8 @@
       "transcript_chars": 7881,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-11T01:13:54.279077+00:00",
-      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
-      "expires_at": "2026-10-25T23:46:20.801772+00:00"
+      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
+      "expires_at": "2026-10-27T00:23:45.490399+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
@@ -25,8 +90,8 @@
       "transcript_chars": 10660,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-11T01:13:54.279077+00:00",
-      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
-      "expires_at": "2026-10-25T23:46:20.801772+00:00"
+      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
+      "expires_at": "2026-10-27T00:23:45.490399+00:00"
     },
     {
       "guid": "https://www.latent.space/p/biohub-deepmind",
@@ -38,8 +103,8 @@
       "transcript_chars": 29545,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-11T01:13:54.279077+00:00",
-      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
-      "expires_at": "2026-10-25T23:46:20.801772+00:00"
+      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
+      "expires_at": "2026-10-27T00:23:45.490399+00:00"
     },
     {
       "guid": "yt:k1HRPESsyoM",
@@ -51,8 +116,8 @@
       "transcript_chars": 20099,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-11T01:13:54.279077+00:00",
-      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
-      "expires_at": "2026-10-25T23:46:20.801772+00:00"
+      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
+      "expires_at": "2026-10-27T00:23:45.490399+00:00"
     },
     {
       "guid": "cdacfd46-6d2e-45fa-aa03-5ad22d324188",
@@ -64,8 +129,8 @@
       "transcript_chars": 82974,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-10T06:14:36.405550+00:00",
-      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
-      "expires_at": "2026-10-25T23:46:20.801772+00:00"
+      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
+      "expires_at": "2026-10-27T00:23:45.490399+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
@@ -129,8 +194,8 @@
       "transcript_chars": 49586,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
-      "expires_at": "2026-10-25T23:46:20.801772+00:00"
+      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
+      "expires_at": "2026-10-27T00:23:45.490399+00:00"
     },
     {
       "guid": "yt:roz4fmf9-ng",
@@ -259,8 +324,8 @@
       "transcript_chars": 34812,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-06T00:35:47.242338+00:00",
-      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
-      "expires_at": "2026-10-25T23:46:20.801772+00:00"
+      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
+      "expires_at": "2026-10-27T00:23:45.490399+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
@@ -298,8 +363,8 @@
       "transcript_chars": 41447,
       "transcript_source": null,
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
-      "expires_at": "2026-10-25T23:46:20.801772+00:00"
+      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
+      "expires_at": "2026-10-27T00:23:45.490399+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
@@ -653,45 +718,6 @@
       "expires_at": "2026-10-14T22:02:02.247175+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/openrouter",
-      "link": "https://www.latent.space/p/openrouter",
-      "channel": "Latent Space",
-      "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
-      "pub_date": "2026-09-25T23:14:41+00:00",
-      "transcript_path": "feeds/transcripts/158a5136eec81977fff1012a.txt",
-      "transcript_chars": 100752,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-27T10:27:08.356510+00:00",
-      "last_seen_at": "2026-09-27T23:58:10.949779+00:00",
-      "expires_at": "2026-10-11T23:58:10.949779+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-the-future-of-latent-space",
-      "link": "https://www.latent.space/p/ainews-the-future-of-latent-space",
-      "channel": "Latent Space",
-      "title": "[AINews] The Future of Latent Space",
-      "pub_date": "2026-09-25T05:37:00+00:00",
-      "transcript_path": "feeds/transcripts/1bf206419506c04e4882fd79.txt",
-      "transcript_chars": 59547,
-      "transcript_source": "content_transcript_link",
-      "cached_at": "2026-09-27T10:27:08.356510+00:00",
-      "last_seen_at": "2026-09-27T23:58:10.949779+00:00",
-      "expires_at": "2026-10-11T23:58:10.949779+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/runway",
-      "link": "https://www.latent.space/p/runway",
-      "channel": "Latent Space",
-      "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
-      "pub_date": "2026-09-25T01:30:57+00:00",
-      "transcript_path": "feeds/transcripts/6a40ab21c8f696eb8cab4ec5.txt",
-      "transcript_chars": 112848,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-27T10:27:08.356510+00:00",
-      "last_seen_at": "2026-09-27T23:58:10.949779+00:00",
-      "expires_at": "2026-10-11T23:58:10.949779+00:00"
-    },
-    {
       "guid": "yt:giE1O1-e2DY",
       "link": "https://www.youtube.com/watch?v=giE1O1-e2DY",
       "channel": "Sources Podcast and Alex Heath",
@@ -794,19 +820,6 @@
       "cached_at": "2026-09-20T02:06:59.603754+00:00",
       "last_seen_at": "2026-09-29T22:47:27.792168+00:00",
       "expires_at": "2026-10-13T22:47:27.792168+00:00"
-    },
-    {
-      "guid": "cde6360e-d345-4ead-a9bb-1f973baf6ab8",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--030---Long-Live-the-Short-King-Why-4-HI-HBM-Wins-Memory--Myron-Xie--Jordan-Nanos-e3or9k4",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 030 - Long Live the Short King: Why 4-HI HBM Wins (Memory) | Myron Xie, Jordan Nanos",
-      "pub_date": "2026-09-14T17:00:16+00:00",
-      "transcript_path": "feeds/transcripts/4139be57bc905abb87448714.txt",
-      "transcript_chars": 37867,
-      "transcript_source": null,
-      "cached_at": "2026-09-14T23:30:55.705346+00:00",
-      "last_seen_at": "2026-09-27T23:58:10.949779+00:00",
-      "expires_at": "2026-10-11T23:58:10.949779+00:00"
     }
   ]
 }
