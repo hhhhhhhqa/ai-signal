@@ -5,18 +5,7 @@
       "name": "Andrej Karpathy",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2109361546505966046",
-          "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
-          "created_at": "2026-10-11T19:12:37+00:00",
-          "like_count": 39067,
-          "retweet_count": 5135,
-          "reply_count": 1790,
-          "engagement_score": 51127,
-          "url": "https://x.com/karpathy/status/2109361546505966046"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "swyx",
@@ -28,11 +17,41 @@
           "id": "2109640508079263769",
           "text": "world’s first full length workshop on claude flows\n\n@cjav_dev and Harrison Stall are kicking off @aidotengineer bright and early on a monday morning to a PACKED room, standing room only #AIEngineerNY\n\n@ricmac is on the case reporting for @latentspacepod and we’ll also publish asap. proud to work with @anthropicai to sponsor AIE NYC for the second year running!",
           "created_at": "2026-10-12T13:41:07+00:00",
-          "like_count": 120,
-          "retweet_count": 5,
-          "reply_count": 82,
-          "engagement_score": 212,
+          "like_count": 167,
+          "retweet_count": 7,
+          "reply_count": 96,
+          "engagement_score": 277,
           "url": "https://x.com/swyx/status/2109640508079263769"
+        },
+        {
+          "id": "2109797444204572880",
+          "text": "one of the best parts of my job is bringing out the best in ai in each city \n\ni love new york ♥️ https://t.co/qOCz2NvARw",
+          "created_at": "2026-10-13T00:04:43+00:00",
+          "like_count": 140,
+          "retweet_count": 5,
+          "reply_count": 28,
+          "engagement_score": 178,
+          "url": "https://x.com/swyx/status/2109797444204572880"
+        },
+        {
+          "id": "2110065576764686421",
+          "text": "🆕 How to Kill Your SaaS \n\nhttps://t.co/A0F60h1DcQ\n\nA lot of people talk about the death of SaaS but mostly in theoretical terms. We took a real $43,000/year SaaS we use and launched a global hackathon to clone it in a weekend, with both AI and REAL HUMAN evals, using any models any harness. \n\n72 submissions, a lot of manual evals and ~100B tokens later, here are the results\n\nIn this special @latentspacepod edition we share the data collected, what's still hard about killing nontrivial, midtier SaaS, and reveal the winners of the $10,000 Kill My SaaS contest with qualitative interviews!",
+          "created_at": "2026-10-13T17:50:11+00:00",
+          "like_count": 63,
+          "retweet_count": 5,
+          "reply_count": 80,
+          "engagement_score": 153,
+          "url": "https://x.com/swyx/status/2110065576764686421"
+        },
+        {
+          "id": "2109990238533677520",
+          "text": "I used to be a FICC trader so this announcement is absolutely freaking surreal — its not every year that we get to launch a NEW ASSET CLASS at @aidotengineer but this is finally public!\n\nANNOUNCING THE COMPUTE TRADING MICROTRACK of AIE NYC\n\n- @evanjconrad: CEO SFCompute\n- Oliver Kennon: @dylan522p's Compute Trading star\n- @affaan + @absurdistphil: Jump's new heads of Compute Trading\n- @carmenli: CEO Compute Exchange + Silicon Data\n\nwe're completely sold out so there's basically no reason to tell u about this apart from TUNE IN TO THE LIVESTREAM!!! https://t.co/HNbp0vyNTx\n\nlive from new york!",
+          "created_at": "2026-10-13T12:50:49+00:00",
+          "like_count": 56,
+          "retweet_count": 0,
+          "reply_count": 72,
+          "engagement_score": 128,
+          "url": "https://x.com/swyx/status/2109990238533677520"
         }
       ]
     },
@@ -48,18 +67,7 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2109693099270365323",
-          "text": "Just in time for Anthropic analyst day.",
-          "created_at": "2026-10-12T17:10:05+00:00",
-          "like_count": 105,
-          "retweet_count": 1,
-          "reply_count": 3,
-          "engagement_score": 110,
-          "url": "https://x.com/insane_analyst/status/2109693099270365323"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "simonw",
@@ -75,43 +83,53 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2109079686286565378",
-          "text": "If you want to know where all the tokens will get consumed in the future, here it is. Agent swarms will have massive implications in a number of enterprise domains like software development, cyber, life sciences research, AI research, finance, and more.\n\nThe ability to parallelize agents against a unified goal where the volume of work is large, or where the search space not entirely known upfront, is going to be massive. \n\nAgents can fan out and coordinate work together on a specific mission in completely different ways from what humans are able to do. Today even in the most resource-abundant organizations, your ability to parallelize work on most projects is quite limited. Humans run into constraints on being able to communicate with one another, share status, deal with conflicts in work, keep shared context, and so on.\n\nAs AI models can handle larger context without getting confused, and as they’re able to communicate effectively across their work with shared infrastructure, they can avoid many of the pitfalls that people have.\n\nYou can see how this can lead to not just faster execution of tasks, but qualitatively different outcomes in medicine, research or defending against cyber attacks, scientific and math discoveries, and so on. This is why we’re going to need 1,000X more compute.",
-          "created_at": "2026-10-11T00:32:36+00:00",
-          "like_count": 654,
-          "retweet_count": 76,
-          "reply_count": 126,
-          "engagement_score": 932,
-          "url": "https://x.com/levie/status/2109079686286565378"
-        },
-        {
           "id": "2109467575025578330",
           "text": "This is a good way to understand how early we actually are in AI diffusion right now. The vast majority of people are using AI as a chatbot for simple interactions that approximate next-generation search. This is super useful but dramatically underrepresents the full capability of AI.\n\nOn the complete other end of the spectrum, agent swarms represent possibly the ultimate form factor of what agents will do inside of our workflows. Math, cyber, bio, materials science, software engineering, finance, and any other field that has valuable tasks that can be executed in parallel where compute can be applied to accelerate work all have this characteristic.\n\nLess than a fraction of a fraction of the population uses AI in this way right now, due to a mix of the capabilities of models relative to the user's domain, the cost of doing these types of workflows today, the harnesses available to do this style of AI work, and the availability (or lack thereof) of frontier models to the general public.\n\nThere will also be a huge amount of change management necessary to get most areas of work -beyond software and AI research- to benefit from this style of agents. Companies need to upgrade their workflows, data needs to integrated and migrated into modern platforms, and companies will need to work through compliance, governance, and security frameworks to pull it off. \n\nBut this all represents opportunity right now. A lot of this is where the applied layer of AI will really shine in the enterprise because of the domain specificity of this type of work. You can get an early sense of where things are going and the opportunity ahead by seeing through the funnel that Andrej lays out.",
           "created_at": "2026-10-12T02:13:56+00:00",
-          "like_count": 664,
-          "retweet_count": 61,
-          "reply_count": 142,
-          "engagement_score": 928,
+          "like_count": 702,
+          "retweet_count": 62,
+          "reply_count": 150,
+          "engagement_score": 976,
           "url": "https://x.com/levie/status/2109467575025578330"
         },
         {
           "id": "2109711062757216738",
           "text": "What a crazy time in AI with Meta now jumping fully into the frontier. Now that there are multiple players pushing the state of the art, this is going to lead to a further acceleration of advances, as well as the lowering cost of tokens for even the highest levels of capability. https://t.co/w2p4pEMInH",
           "created_at": "2026-10-12T18:21:28+00:00",
-          "like_count": 352,
-          "retweet_count": 19,
-          "reply_count": 32,
-          "engagement_score": 422,
+          "like_count": 555,
+          "retweet_count": 42,
+          "reply_count": 48,
+          "engagement_score": 687,
           "url": "https://x.com/levie/status/2109711062757216738"
+        },
+        {
+          "id": "2109788979952558255",
+          "text": "Ok this is quite cool research and ultimately must be the eventual architecture of agents. In the limit, AI will obviously be better at determining its own harness once it sees the task at hand, than us being able to do this in advance: https://t.co/jl6ZdeUFY1",
+          "created_at": "2026-10-12T23:31:05+00:00",
+          "like_count": 455,
+          "retweet_count": 32,
+          "reply_count": 70,
+          "engagement_score": 589,
+          "url": "https://x.com/levie/status/2109788979952558255"
+        },
+        {
+          "id": "2110046686198550539",
+          "text": "At Box, we've been testing Gemini 4 Argon on our Box AI Complex Work eval for the past week. It's a huge upgrade over Gemini 3.1 Pro, jumping by 14 percentage points across all our tests, and firmly at the frontier. \n\nIn our evaluation, we give the Box Agent (using Gemini 4 Argon) a variety of complex enterprise tasks involving enterprise documents in a range of industries. These tasks approximate the kind of hard, time-consuming work that knowledge workers do every day with their enterprise content. Gemini 4 is a huge leap on effectively every dimension of this work.\n\nGemini 4 is far more capable on math, logic, analytics, and deep knowledge of a variety of business domains. It also works far harder to complete tasks fully without stopping short of the desired result. This is incredibly important for complex enterprise workflows that depend on robust task execution.\n\nHere are some example wins that we saw to put the improvements in perspective:\n\n* Financial services (+18 points): a funding-gap analysis for a family-owned company, where the brief spelled out every step of the projected statements, down to the interest on the bank loan and the overdraft for each year. Gemini 4 Argon built them exactly as specified, every line broken out and carried through to the funding gap. Gemini 3.1 Pro folded the interest into a single figure.\n\n* Healthcare (+25 points): an intensive care management plan where both models spotted a dangerous potassium level and a drug interaction. Only Gemini 4 Argon went back and pulled the offending drugs from the final regimen, so its plan actually matched its own diagnosis.\n\n* Technology (+37 points): a product performance review deciding which of two regional markets should have its cloud infrastructure optimized first. Gemini 4 Argon pulled the right month's user, retention and per-user figures for both regions and correctly flagged North America. Gemini 3.1 Pro often pulled the wrong rows, at one point reporting retention above 100%, and pointed the effort at the wrong region.\n\n* Energy (+16 points): an energy consumption report across two facilities that had to flag any gaps in the meter data. Gemini 4 Argon consistently caught that the data center's smart meter log stops in November. Gemini 3.1 Pro often missed it, at times declaring the logs complete.\n\n* Consumer products (+33 points): a product launch evaluation deciding which production expansion to fund. Gemini 4 Argon saw that existing inventory could bridge an early capacity gap, which made the smaller expansion viable with an earlier launch and a faster break-even. Gemini 3.1 Pro defaulted to the larger expansion and the later timeline.\n\nGemini 4 Argon will be available in the Box AI Studio shortly for anyone to build custom Box Agents with.",
+          "created_at": "2026-10-13T16:35:07+00:00",
+          "like_count": 273,
+          "retweet_count": 14,
+          "reply_count": 41,
+          "engagement_score": 342,
+          "url": "https://x.com/levie/status/2110046686198550539"
         },
         {
           "id": "2109682812811137061",
           "text": "Agent swarms are going to be a core part of many enterprise workflows in the future. The ability to throw compute at problems that you can massively parallelize will be too useful to not take advantage of. \n\nCyber will be one of the biggest beneficiaries of this as it’s a space where testing vast number of permutations of attacks (without getting tired or bored) is an incredibly useful property. You have a wide search space of possible risk vectors and you generally need to be able to chain together different scenarios to achieve the exploit. \n\nThis will become one of the biggest token uses in large enterprises given the range of IT systems, software, physical infrastructure, and data that needs to be protected at all times. Super interesting times in cyber.",
           "created_at": "2026-10-12T16:29:13+00:00",
-          "like_count": 97,
-          "retweet_count": 14,
-          "reply_count": 32,
-          "engagement_score": 157,
+          "like_count": 202,
+          "retweet_count": 27,
+          "reply_count": 47,
+          "engagement_score": 303,
           "url": "https://x.com/levie/status/2109682812811137061"
         }
       ]
@@ -140,21 +158,31 @@
           "id": "2109706320383545474",
           "text": "Meta just surpassed every OpenAI model on the Vals Index.\n\nMuse Wonder Full (Max) debuts at #5 on the Vals Index, up 6.4pts from its predecessor. https://t.co/7YdW1N8Wwr",
           "created_at": "2026-10-12T18:02:37+00:00",
-          "like_count": 260,
-          "retweet_count": 19,
-          "reply_count": 18,
-          "engagement_score": 316,
+          "like_count": 349,
+          "retweet_count": 24,
+          "reply_count": 25,
+          "engagement_score": 422,
           "url": "https://x.com/ValsAI/status/2109706320383545474"
         },
         {
-          "id": "2109741579502256574",
-          "text": "How pro-China are Chinese AI models? Surprisingly, not what you would expect.\n\nWe asked both Chinese and American models hundreds of politically sensitive questions about China, and found a range of behaviors.\n\nMiMo V2.6 Pro and GLM-5.3 sometimes openly criticize China. Meanwhile, Gemini 4 Argon, Mistral Large 4, and even Grok 4.7 occasionally repeat CCP propaganda.",
-          "created_at": "2026-10-12T20:22:44+00:00",
-          "like_count": 154,
-          "retweet_count": 11,
-          "reply_count": 11,
-          "engagement_score": 187,
-          "url": "https://x.com/ValsAI/status/2109741579502256574"
+          "id": "2109678919108690380",
+          "text": "Zai just debuted a legal specific model: GLM Legal, and it is the new #1 open-weight model on Harvey’s Legal Agent Benchmark and LegalBench. https://t.co/EAYHWuDgMa",
+          "created_at": "2026-10-12T16:13:44+00:00",
+          "like_count": 198,
+          "retweet_count": 14,
+          "reply_count": 17,
+          "engagement_score": 243,
+          "url": "https://x.com/ValsAI/status/2109678919108690380"
+        },
+        {
+          "id": "2110113232501567805",
+          "text": "SWE-Bench Multimodal is now on Vals!\n\nThe benchmark, created by @OfirPress, @jyangballin, and @closji,  asks a model to fix a real GitHub issue in a JavaScript repository, where the bug report depends on a screenshot or other visual cue. https://t.co/jHxyHEd9n8",
+          "created_at": "2026-10-13T20:59:33+00:00",
+          "like_count": 82,
+          "retweet_count": 5,
+          "reply_count": 9,
+          "engagement_score": 101,
+          "url": "https://x.com/ValsAI/status/2110113232501567805"
         }
       ]
     },
@@ -165,34 +193,54 @@
       "tier": "analyst",
       "tweets": [
         {
+          "id": "2110050676302868889",
+          "text": "Gemini 4 Argon (High) ranks in the top 5 for Agent Arena. Congrats to the @GoogleDeepMind team! \n\nRead more about the latest with Agent Arena in thread. https://t.co/vPBHO0L0WS",
+          "created_at": "2026-10-13T16:50:58+00:00",
+          "like_count": 560,
+          "retweet_count": 33,
+          "reply_count": 20,
+          "engagement_score": 646,
+          "url": "https://x.com/arena/status/2110050676302868889"
+        },
+        {
           "id": "2109711889026650203",
           "text": "July's most reliable AI agent is now just average.\n\nWith Agent Arena, people delegate real tasks to agents and confirm whether the result met their needs. We call this signal Confirmed Success.\n\nOn 1 July, Claude Fable 5 was well ahead of every other model, and it only took 12 weeks for the top‑20 average to match it.\n\nKimi K3 beat it within just 3 weeks at 89% lower cost per task, and DeepSeek V4.1 Flash now matches it at 96% lower cost.\n\nMeanwhile, the top 5 now get 94% of tasks confirmed done, up from 80% in July, led by Claude Opus 5.5, Claude Fable 5.1 and GPT‑6.1 Sol.\n\nToday's leaders won't stay on top for long.\n\nTrack Confirmed Success and our other agent signals live at the link in thread.",
           "created_at": "2026-10-12T18:24:45+00:00",
-          "like_count": 163,
-          "retweet_count": 6,
-          "reply_count": 26,
-          "engagement_score": 201,
+          "like_count": 288,
+          "retweet_count": 17,
+          "reply_count": 38,
+          "engagement_score": 360,
           "url": "https://x.com/arena/status/2109711889026650203"
+        },
+        {
+          "id": "2110048840082653647",
+          "text": "Agent Arena update: we’ve evolved the Bash Recovery signal, with Bash Reliability. Here’s how it impacts the leaderboard.\n\nAt the top for Agent Arena:\n- #1 Claude Opus 5.5 (Max), @AnthropicAI holds the top\n- #2 GPT-6.1 Sol (Max) by @OpenAI\n- #3 Claude Fable 5.1 (Max) by @AnthropicAI\n- #4 GPT-6 Astra (Max) by @OpenAI\n- #5 Gemini 4 Argon (High) by @GoogleDeepMind\n\nThe first 14 spots are all proprietary models with the best open weights models being GLM 5.2 at #15, followed by MiMo V2.6 Pro at #18.\n\nRead more about Bash Reliability and check out the Agent Arena leaderboard in thread.",
+          "created_at": "2026-10-13T16:43:40+00:00",
+          "like_count": 308,
+          "retweet_count": 14,
+          "reply_count": 21,
+          "engagement_score": 357,
+          "url": "https://x.com/arena/status/2110048840082653647"
         },
         {
           "id": "2109706854700044523",
           "text": "Muse Wonder by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!\n\nIn Agent Arena, we measure models on millions of real-world, long-horizon agentic tasks from a global community of users. Models can access web search, filesystem, and terminal tools to complete complex workflows. The leaderboard measures model performance on outcomes relative to the average model using a causal tracing methodology.\n\nMuse Wonder is also available in Code Arena: WebDev, Image-to-WebDev, Text, and Vision.",
           "created_at": "2026-10-12T18:04:45+00:00",
-          "like_count": 142,
-          "retweet_count": 5,
-          "reply_count": 11,
-          "engagement_score": 163,
+          "like_count": 208,
+          "retweet_count": 6,
+          "reply_count": 15,
+          "engagement_score": 235,
           "url": "https://x.com/arena/status/2109706854700044523"
         },
         {
-          "id": "2109677683307340164",
-          "text": "Last week, we announced our $200M Series B at a $3.1B valuation, and launched the Arena Alignment Index.\n\n@ml_angelopoulos ended the week with the @NYSE, sharing what our new Alignment Index measures. Built from real-world agent traces, it evaluates how safely and reliably AI behaves in practice. It includes three signals: Unauthorized Action, False Attribution, and Deceptive Completion.\n\nAs AI becomes more capable and autonomous, independent evaluation matters more than ever. This funding will help us go further on safety signals, agentic capabilities, and new modalities while growing our nimble team of 90. We’re hiring across research, product, engineering, design, and more.\n\nWe’re grateful to our community, investors, and team for making this milestone possible. Find the link in thread to come build with us.",
-          "created_at": "2026-10-12T16:08:50+00:00",
-          "like_count": 35,
-          "retweet_count": 1,
-          "reply_count": 4,
-          "engagement_score": 41,
-          "url": "https://x.com/arena/status/2109677683307340164"
+          "id": "2110102742958309380",
+          "text": "Introducing our new agentic version of Max: Arena’s model router that achieves frontier-level performance at 37% lower cost.\n\nBuilt on 2.5M real-world agentic sessions from Agent Arena, Max learns to dynamically select the best model for each task, optimizing for both performance and cost.\n\nMax achieves a +14.7% net improvement score in Agent Arena at a median cost of $3.27 per task, matching the performance of Claude Fable 5.1 (Max) at 37% lower cost.\n\nTry Max today for a limited time, and dive into more technical details in the thread.",
+          "created_at": "2026-10-13T20:17:52+00:00",
+          "like_count": 129,
+          "retweet_count": 17,
+          "reply_count": 14,
+          "engagement_score": 177,
+          "url": "https://x.com/arena/status/2110102742958309380"
         }
       ]
     },
@@ -203,24 +251,54 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2109697083519447118",
-          "text": "Meta has released Muse Wonder and Muse Wonder Full, achieving Artificial Analysis Intelligence Index v4.3 scores of 52 and 56 at max reasoning effort - each a material gain over Muse Spark 1.3 (max) at 48, with a release gap of only 6 weeks\n\nMuse Wonder is available for users on Meta’s first-party API, while Muse Wonder Full is currently only available for Muse Code users. Meta notes that each model is designed for personal and professional agent use\n\nCongratulations to @AIatMeta, @finkd, and @alexandr_wang on the release!\n\nKey Takeaways:\n\n➤ Both models exhibit a material jump in overall Intelligence Index score. Muse Wonder Full (max) improves on Muse Spark 1.3 (max) across all ten Intelligence Index evaluations, gaining 8 points to 56. The largest gains were seen in agentic evaluations: Terminal-Bench 4.0 (+24 points, 33% to 57%), GDPval-AA v2.1 (+176 Elo, 1681 to 1857), and AA-Briefcase (+148 Elo, 1581 to 1729). Muse Wonder (max) gains 4 Intelligence Index points and lands at 52, with notable improvements vs. Muse Spark 1.3 (max) in Terminal-Bench 4.0 (33% to 52%) and AutomationBench-AA (58% to 68%)\n\n➤ Muse Wonder Full (max) places in the top three on six of the ten Intelligence Index evaluations, and is particularly strong in agentic knowledge work and scientific reasoning. In agentic knowledge work, it narrowly leads on GDP.pdf (33%), ranks #2 on GDPval-AA v2.1 (1857 Elo), and #3 on both AA-Briefcase (1729 Elo) and AutomationBench-AA (71%). In scientific reasoning, it tops the CritPt leaderboard at 33% and ranks #3 on SciCode with 63%. This builds on the relative strengths of Muse Spark 1.3 (max), which also showed particular ability in these two domains\n\n➤ Both models use fewer output tokens than Muse Spark 1.3 (max). Muse Wonder (max) and Muse Wonder Full (max) each use around 54k output tokens per Intelligence Index task, down ~10% from Muse Spark 1.3 (max, 60k). This usage is lower than similarly intelligent models Gemini 4 Argon (high, 62k) and Claude Fable 5.1 (max w/ fallback, 78k), but higher than GPT-6.1 Sol (max, 38k) and GPT-6 Astra (max, 27k). Muse Wonder Full (max) uses 16% fewer input tokens per Intelligence Index task than Muse Wonder (max) (6.44M vs 7.69M), meaning it is both more intelligent and more token-efficient\n\n➤ Cost per Task for Muse Wonder (max) lands higher than most similarly intelligent models. Despite efficient output token use, premium API pricing ($4 per million input tokens, $20 per million output tokens) and high input token use (7.69M per task) push Muse Wonder (max)’s cost to $4.52 per Intelligence Index task. This is lower than Claude Fable 5.1 (max w/ fallback, $7.63), Claude Opus 5.5 (max w/ fallback, $5.98), and Claude Sonnet 5.5 (max w/ fallback, $5.46), but higher than GPT-6 Astra (max, $3.26), Gemini 4 Argon (high, $1.99), GPT-6.1 Sol (max, $0.72), and its predecessor Muse Spark 1.3 (max, $1.60). Per-token pricing is not currently available for Muse Wonder Full, so no Cost per Task figure can be estimated at this stage\n\n➤ Both models gain significantly in Coding Agent performance. Muse Wonder Full achieves 68 on the Artificial Analysis Coding Agents Index at max effort in Muse Code, alongside Claude Code with Sonnet 5.5 (max, 68) and Opus 5.5 (max, 66). Muse Wonder (max) scores 63. These represent material gains over Muse Code with Muse Spark 1.3 (max), which scores 54\n\nOther details for the two new models:\n\n➤ Context windows: 1M tokens each, unchanged from Muse Spark 1.3\n➤ Pricing: for Muse Wonder, $4 input / $0.20 cached input / $20 output per 1M tokens. Pricing per token is not yet announced for Muse Wonder Full\n➤ Input modalities: text, image, video, and audio\n➤ Output modalities: text\n➤ Availability: Muse Wonder is available on Meta's first-party API and Muse Code at launch, while Muse Wonder Full is only available to Muse Code users",
-          "created_at": "2026-10-12T17:25:55+00:00",
-          "like_count": 1908,
-          "retweet_count": 183,
-          "reply_count": 113,
-          "engagement_score": 2387,
-          "url": "https://x.com/ArtificialAnlys/status/2109697083519447118"
+          "id": "2110068185793970576",
+          "text": "Gemini 4 Argon is now GA. Argon ranks equal to GPT-6 Astra on the Artificial Analysis Intelligence Index at 60% of the Cost per Task with discounted prices until Nov 30\n\nKey takeaways:\n- Google is back to having a frontier model released to the public: This is Google's first proprietary model above the Flash class in over 7 months\n\n- Pricing temporarily discounted to 50% until November 30: Gemini 4 Argon has a Cost per Task of $1.99 with discounted prices, a ~40% reduction compared to GPT-6 Astra (max) for a comparable level of Intelligence. It is currently priced at $2/$10 per 1M input/output tokens with a 95% discount for cache reads (up from 90% from previous Gemini models). Prices will increase to $4/$20 after November 30\n\n- Large improvements in agentic performance: Gemini 4 Argon shows substantial improvements in agentic evaluations such as AA-Briefcase, AutomationBench-AA, Terminal Bench 4. This is an area in which Google's models have historically underperformed compared to leading peers\n\nLowest hallucination rate among leading models: On AA-Omniscience, Gemini 4 Argon has a 15% hallucination rate, the lowest of any model scoring 45+ on the Intelligence Index",
+          "created_at": "2026-10-13T18:00:33+00:00",
+          "like_count": 1596,
+          "retweet_count": 68,
+          "reply_count": 47,
+          "engagement_score": 1779,
+          "url": "https://x.com/ArtificialAnlys/status/2110068185793970576"
         },
         {
-          "id": "2109703511843979391",
-          "text": "We're launching our leaderboard for FrontierCode 1.1, a private evaluation from Cognition that tests models on completing coding tasks in a way that would actually get merged by maintainers of real-world repositories\n\n@cognition announced FrontierCode in June 2026 and updated it to version 1.1 in July. Cognition built the dataset with open source maintainers who spent more than 40 hours per task. Each task requires the agent to make a change to a real open source repository, then checks both unit tests and qualitative tests for what maintainers would require to merge the change.\n\nWe run FrontierCode 1.1 Main, the primary 100-task set of the benchmark's 150 tasks, using our Stirrup open source reference harness for apples-to-apples comparisons across models. All tasks are private to avoid contamination. Each attempt is graded with both blocking and non-blocking criteria. An attempt that fails any blocking check scores zero, and one that passes them all scores between 70% and 100%.\n\nUnlike other coding evaluations, FrontierCode has a more holistic view of success based on real usage. Models need to pass unit tests, but are also assessed on behaviors like making excessive changes and large diffs, modifying files outside the relevant scope, or adding unhelpful tests. We think this approach is valuable in the current context: models are now very capable at coding tasks, but their changes can still require substantial cleanup before a maintainer would merge them.\n\nKey takeaways:\n\n➤ Leading models still fail more than 40% of the time: Claude Opus 5.5 (max with fallback) leads at a score of 52% after passing blockers in 58% of its attempts. Nine of the 100 tasks were not passed in any attempt by any of the models we evaluated for launch\n\n➤ The top of the leaderboard is tightly packed: nine models from six labs score between 43% and 52%. MiMo-V2.6-Pro is the leading open weights model at 45%, followed by DeepSeek V4.1 Flash (max) and Kimi K3 (max) at 44%\n\n➤ GPT-6.1 Sol (max) offers the strongest performance for its cost: At $0.81 per task it scores 49%, matching Claude Fable 5.1 (max with fallback). This means it achieves similar performance to leading Anthropic models, at less than a tenth of the cost per task\n\nThank you to @silasalberti, @ybenpan, @cl571128, and the rest of the team at Cognition for building FrontierCode and collaborating with us to bring it to Artificial Analysis - we’re working to add FrontierCode to our coding agent leaderboard very soon.",
-          "created_at": "2026-10-12T17:51:28+00:00",
-          "like_count": 662,
-          "retweet_count": 26,
-          "reply_count": 43,
-          "engagement_score": 757,
-          "url": "https://x.com/ArtificialAnlys/status/2109703511843979391"
+          "id": "2110046565691949058",
+          "text": "Introducing the Artificial Analysis Decision Index, benchmarking decision models across classification, tool calling, knowledge and reasoning. Jev leads among decision models; language models such as Claude Haiku 5.5 still deliver higher accuracy, but at much higher cost and latency\n\nDecision models deliver structured answers or classifications with associated probabilities, offering faster responses and lower costs than using language models. The Artificial Analysis Decision Index v1.0 compares the capability, cost, and speed of decision models and also compares to language models.\n\nBenchmarks in the Artificial Analysis Decision Index v1.0:\n\n➤ AA-Omniscience-Decision: A private dataset of 500 questions adapted from the proprietary AA-Omniscience benchmark, measuring decision models’ knowledge and tendency to hallucinate\n\n➤ HLE-MultiChoice: 513 text-only multiple-choice questions from Humanity’s Last Exam, testing decision models’ reasoning capabilities\n\n➤ When2Call: A tool-calling benchmark from NVIDIA, testing whether models can correctly decide to call a tool, request clarification, decline to answer, or respond directly, evaluating capabilities relevant to agentic workflows and tool routing\n\n➤ WildGuardTest: A safety benchmark evaluating models’ classification capabilities across harmful user requests, assistant refusals, and harmful responses. We use a subset of 835 of the original 1,725 test rows where all three human annotators agreed on all three labels, after excluding questions that consistently trigger model refusals\n\nKey results:\n\n➤ Jev 1.13 leads the Decision Index, and sits on the Capability vs. Cost Pareto frontier: Jev 1.13 from @typesafeai scores 58 on the Artificial Analysis Decision Index, ahead of GLiDE (54) from @fastinoAI and Microsoft-Decision-1 (54) from @Microsoft. Decider v1.1 27B from @perplexity_ai has the lowest Cost per 1M Tasks at $17, with Microsoft-Decision-1 ($31) and Jev 1.13 ($42) also on the Capability vs. Cost Pareto frontier. Celeris-1 Decision has the fastest Time per Task at 0.06 seconds, more than 2x faster than Jev 1.13 (0.13 seconds per task)\n\n➤ Decision models are poorly calibrated on knowledge and reasoning tasks: Across almost all probability levels for chosen answers, accuracy falls below that probability for all decision models. This gap is largest on AA-Omniscience-Decision and HLE-MultiChoice, while most models are relatively well-calibrated on WildGuardTest (classification) and When2Call (tool calling)\n\n➤ Decision models offer significant speed and cost advantages over language models, but trail on knowledge and reasoning: On classification and tool-calling tasks, leading decision models perform comparably to language models while being significantly faster and cheaper. However, language models substantially outperform on knowledge and reasoning. Claude Haiku 5.5 (Low) scores 61 on the Decision Index, 3 points ahead of Jev 1.13, but takes 1.4 seconds per task vs. 0.13 seconds (11x slower) and costs $184 per 1M Tasks vs. $42 for Jev 1.13 (4.4x more expensive)\n\nWe will continue to develop the Artificial Analysis Decision Index to help developers and companies better understand when and how to use decision models.",
+          "created_at": "2026-10-13T16:34:38+00:00",
+          "like_count": 583,
+          "retweet_count": 35,
+          "reply_count": 44,
+          "engagement_score": 697,
+          "url": "https://x.com/ArtificialAnlys/status/2110046565691949058"
+        },
+        {
+          "id": "2110087600480702881",
+          "text": "Cache hit rates and Cost per Task by provider are now live on Artificial Analysis: Cost per Task for GLM-5.3 (max) varies ~9x across providers, driven by a combination of cache hit rate and token pricing\n\nAgentic workloads resend the full conversation history every turn, so most input tokens are cacheable, and cache pricing and cache hit rates drive most of the gap in Cost per Task. We already use measured cache hit rates to calculate Cost per Task, and are now publishing them for each model endpoint we track.\n\nWhat's new:\n➤ Cache hit rates are now visible for all first-party and third-party endpoints, measured by running multi-turn agentic coding tasks and reading cached tokens from each provider's usage response. Cache hit rate is the share of cacheable input tokens served from cache.\n➤ Cost per Task is now available by provider for open weights models, calculated from each provider's input, output, cache hit and cache write prices, applied at its measured cache hit rate. To standardize across providers for a given model, we use the same input, output and cacheable token counts from the model's Intelligence Index run.\n\nKey takeaways:\n➤ Cost per Task on GLM-5.3 (max) spans ~9x across providers, from $0.92 on Makora to $8.68 on Nebius. Both serve nearly all cacheable input from cache (98% and 100%) and charge the same output price ($4.40 per 1M tokens), so the gap comes from input pricing: Makora charges $0.10 per 1M cached input tokens, while Nebius offers no cached input discount on its shared serverless endpoints and bills all input at the full $1.40.\n➤ Cache hit rate ranges from 41% to 100% across 21 providers (25 endpoints). 15 endpoints are at 98% or above, and eight are at 100%: Modal, DeepInfra, Parasail, Together AI, DigitalOcean, Nebius, Novita and Z AI's first-party API. Multiverse Computing is lowest at 41%, followed by Bitdeer at 50%.",
+          "created_at": "2026-10-13T19:17:42+00:00",
+          "like_count": 235,
+          "retweet_count": 13,
+          "reply_count": 22,
+          "engagement_score": 283,
+          "url": "https://x.com/ArtificialAnlys/status/2110087600480702881"
+        },
+        {
+          "id": "2110081938140582085",
+          "text": "Fish Audio's Drama 3 Preview is the new #1 open-weights Text to Speech model on the Artificial Analysis Text to Speech leaderboard. The model also leads all models in our Pronunciation Robustness leaderboard, ahead of Eleven v4 and Eleven v4 Turbo\n\nDrama 3 Preview is the new open weights Text to Speech model from @FishAudio, built for multi-character scenes and long-form content with voice cloning and natural-language control. Weights are available on Hugging Face under the Fish Audio Community License.\n\nKey takeaways:\n\n➤ Pronunciation Robustness: Drama 3 Preview scores 93.2%, ranking #1 ahead of Eleven v4 at 91.7% and Eleven v4 Turbo at 90.1%. It ranks #1 in Standalone Terms and Preserving Exact Sequences and #2 in Expanding Shorthand.\n\n➤ Provider Voice: Drama 3 Preview has an Elo of 1,243 (+16/-16) across 1,857 appearances, ranking #10, a 101 point gain on the previous Fish Audio S2.1 Pro at 1,142.\n\n➤ Controlled Voice: Drama 3 Preview ranks #14 with an Elo of 1,058 (+15/-15) across 1,804 appearances.\n\n➤ Open weights: Drama 3 Preview is the #1 open weights model on all three of our Text to Speech leaderboards. On Pronunciation Robustness it leads the next open weights model, Mistral's Voxtral TTS at 78.1%, by 15 points, and in the Provider Voice Arena it is ahead of Breeze TTS 2 at 1,221. Drama 3 is a 35B parameter mixture-of-experts model (3B active) supporting 83 languages, available on Hugging Face.\n\n➤ Pricing: Drama 3 Preview is available via the Fish Audio API at $15/1M characters, the same as S2.1 Pro, compared to Eleven v4 at $80/1M characters and Eleven v4 Turbo at $40/1M characters.\n\nSee more details and listen to samples below 🧵",
+          "created_at": "2026-10-13T18:55:12+00:00",
+          "like_count": 211,
+          "retweet_count": 13,
+          "reply_count": 8,
+          "engagement_score": 245,
+          "url": "https://x.com/ArtificialAnlys/status/2110081938140582085"
+        },
+        {
+          "id": "2110062920143093937",
+          "text": "Announcing Artificial Analysis for Government: benchmarking, advisory and data to help public sector clients design AI policy and select AI technologies\n\nOur services help public sector clients to:\n\n➤ Design AI policy and support decision-making: Our benchmarking and expertise can inform the urgent decisions governments must make in navigating AI - for example, how to secure critical infrastructure, safeguard employment and growth, and balance national priorities including innovation, competition, and security. We recently signed an MOU with the Korean Government as an independent evaluator supporting Korea’s efforts to develop globally competitive frontier AI models and strengthen its domestic AI ecosystem.\n\n➤ Select AI Technologies: We are the go-to resource for millions of users navigating AI. We can support governments to deploy the most effective agents at the lowest cost, empower public sector workers, and plan for future use cases.\n\nOur topic expertise includes:\n\n➤ Capability, cost and performance: We are the global standard in measuring capabilities, accuracy, hallucination, cost, speed and latency of models and agents. Our benchmarking is widely referenced by top AI labs and news outlets.\n\n➤ Cybersecurity and safety: The Artificial Analysis Cyber Index Alliance brings together partners including NVIDIA, IBM, Vercel and Collinear to set a new standard for evaluating AI cyber defense. This launched alongside the Artificial Analysis Cyber Index, which evaluates how well agents find and fix vulnerabilities. On safety, we evaluate models on a broad spectrum of harms across escalating levels of adversarial pressure. We recently partnered with NVIDIA to benchmark guardrail models for safety and refusal.\n\nGet in touch at the link below",
+          "created_at": "2026-10-13T17:39:37+00:00",
+          "like_count": 44,
+          "retweet_count": 5,
+          "reply_count": 2,
+          "engagement_score": 56,
+          "url": "https://x.com/ArtificialAnlys/status/2110062920143093937"
         }
       ]
     },
@@ -264,7 +342,28 @@
       "name": "Demis Hassabis (Google DeepMind)",
       "domain": "ai",
       "tier": "exec",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2110041008100843835",
+          "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!\n\nArgon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info & full availability in the blog: https://t.co/7d3791mRNH",
+          "created_at": "2026-10-13T16:12:33+00:00",
+          "like_count": 3503,
+          "retweet_count": 347,
+          "reply_count": 235,
+          "engagement_score": 4432,
+          "url": "https://x.com/demishassabis/status/2110041008100843835"
+        },
+        {
+          "id": "2109813775377563908",
+          "text": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone &amp; @TheLancet paper!",
+          "created_at": "2026-10-13T01:09:37+00:00",
+          "like_count": 1384,
+          "retweet_count": 111,
+          "reply_count": 87,
+          "engagement_score": 1693,
+          "url": "https://x.com/demishassabis/status/2109813775377563908"
+        }
+      ]
     },
     {
       "handle": "jietang",
@@ -280,14 +379,44 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2109269972308377886",
-          "text": "Berlin, you look good in CUDA. 💚\n\n#NVIDIAGTC is coming to town. We thought we’d say hello from the TV Tower.\n\nSpot it? Tag @NVIDIA and show us your view. #FestivalOfLights https://t.co/Wy0oiBisAb",
-          "created_at": "2026-10-11T13:08:44+00:00",
-          "like_count": 664,
-          "retweet_count": 76,
-          "reply_count": 82,
-          "engagement_score": 898,
-          "url": "https://x.com/nvidia/status/2109269972308377886"
+          "id": "2110007892313321595",
+          "text": "Let’s get building, Paris. 🦞\n\n@JensenHuang stopped by Build-A-Claw, where developers and startups are getting hands-on with open models to build AI agents of their own. https://t.co/ipezGKUz0X",
+          "created_at": "2026-10-13T14:00:58+00:00",
+          "like_count": 615,
+          "retweet_count": 50,
+          "reply_count": 68,
+          "engagement_score": 783,
+          "url": "https://x.com/nvidia/status/2110007892313321595"
+        },
+        {
+          "id": "2110054117595066796",
+          "text": "An evening in Paris with Jensen and the founders, researchers, and partners shaping AI across France. 🇫🇷 https://t.co/ATi6RJLThD",
+          "created_at": "2026-10-13T17:04:39+00:00",
+          "like_count": 483,
+          "retweet_count": 48,
+          "reply_count": 32,
+          "engagement_score": 611,
+          "url": "https://x.com/nvidia/status/2110054117595066796"
+        },
+        {
+          "id": "2110091922337415564",
+          "text": ".@JensenHuang wrapped up his Paris visit at the Élysée with President @EmmanuelMacron, discussing NVIDIA’s investments in France’s AI ecosystem, open source, and AI safety.\n\nOur road to #NVIDIAGTC Berlin continues. https://t.co/CGYw6B8UFl",
+          "created_at": "2026-10-13T19:34:52+00:00",
+          "like_count": 340,
+          "retweet_count": 39,
+          "reply_count": 41,
+          "engagement_score": 459,
+          "url": "https://x.com/nvidia/status/2110091922337415564"
+        },
+        {
+          "id": "2109872247267610694",
+          "text": "From satellites to skincare, France is building with NVIDIA. 🇫🇷\n\nDevelopers, researchers, and businesses across France are using NVIDIA technology and open models to bring AI into the real world.\n\nExplore France’s AI ecosystem: https://t.co/UxaDsqSjkY\n\nMeet two of the people building it. 🧵",
+          "created_at": "2026-10-13T05:01:57+00:00",
+          "like_count": 248,
+          "retweet_count": 35,
+          "reply_count": 37,
+          "engagement_score": 355,
+          "url": "https://x.com/nvidia/status/2109872247267610694"
         }
       ]
     },
@@ -326,23 +455,33 @@
       "tier": "builder",
       "tweets": [
         {
+          "id": "2110044152482365747",
+          "text": "Congrats Gemini team. Never bet against Google, the company that brought us Transformers and has overwhelming data, engineering talent, and compute.\n\nEveryone has, rightfully, pivoted back to coding. Coding agents are the killer app of AI. We're firmly at an elysium for developers and builders.\n\nIncidentally, getting Muse Wonder and Gemini Argon back-to-back is a reminder why you as an individual, and your company, should stay model agnostic and gateway-maxxx / fx-maxxx.",
+          "created_at": "2026-10-13T16:25:03+00:00",
+          "like_count": 1462,
+          "retweet_count": 38,
+          "reply_count": 96,
+          "engagement_score": 1634,
+          "url": "https://x.com/rauchg/status/2110044152482365747"
+        },
+        {
           "id": "2109734766107099312",
           "text": "Coding CLIs keep getting more complicated. Daemons, 3 layers of TUIs, client-server architectures.\n\nThe whole point of a CLI is to deliver intelligence with zero friction, and be unix-like.\n\n💾 Try https://t.co/OL0LzGtvAw. It's 6mb, starts in milliseconds, model-agnostic. It's tastefully minimal: MCP, Skills, Subagents and ACP built-in.",
           "created_at": "2026-10-12T19:55:39+00:00",
-          "like_count": 302,
-          "retweet_count": 14,
-          "reply_count": 72,
-          "engagement_score": 402,
+          "like_count": 773,
+          "retweet_count": 38,
+          "reply_count": 136,
+          "engagement_score": 985,
           "url": "https://x.com/rauchg/status/2109734766107099312"
         },
         {
           "id": "2109719267344261375",
           "text": "Muse Wonder on Vercel AI Gateway\nTry with 𝚏𝚡 --𝚖𝚘𝚍𝚎𝚕 𝚖𝚎𝚝𝚊/𝚖𝚞𝚜𝚎-𝚠𝚘𝚗𝚍𝚎𝚛-𝟷.𝟶 https://t.co/OI8lTDKnyZ",
           "created_at": "2026-10-12T18:54:04+00:00",
-          "like_count": 145,
-          "retweet_count": 5,
-          "reply_count": 25,
-          "engagement_score": 180,
+          "like_count": 201,
+          "retweet_count": 7,
+          "reply_count": 31,
+          "engagement_score": 246,
           "url": "https://x.com/rauchg/status/2109719267344261375"
         }
       ]
@@ -352,14 +491,46 @@
       "name": "Amjad Masad (Replit)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2110128937049452575",
+          "text": "You can pause frontier research today, and it would take AI another 10 years to diffuse into the economy. We're working with solutions partners to accelerate that.",
+          "created_at": "2026-10-13T22:01:57+00:00",
+          "like_count": 80,
+          "retweet_count": 4,
+          "reply_count": 28,
+          "engagement_score": 116,
+          "url": "https://x.com/amasad/status/2110128937049452575"
+        }
+      ]
     },
     {
       "handle": "joshwoodward",
       "name": "Josh Woodward (Google Labs)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2110089824573272547",
+          "text": "Gemini 4 Argon: At 96 millimeters wide, the hardest part of manufacturing this custom furniture leg was deciding how many stacked spheres to give it. https://t.co/SMgsGxePc5",
+          "created_at": "2026-10-13T19:26:32+00:00",
+          "like_count": 355,
+          "retweet_count": 22,
+          "reply_count": 28,
+          "engagement_score": 427,
+          "url": "https://x.com/joshwoodward/status/2110089824573272547"
+        },
+        {
+          "id": "2110055636109312264",
+          "text": "The latest Gemini model made this",
+          "created_at": "2026-10-13T17:10:41+00:00",
+          "like_count": 362,
+          "retweet_count": 15,
+          "reply_count": 26,
+          "engagement_score": 418,
+          "url": "https://x.com/joshwoodward/status/2110055636109312264"
+        }
+      ]
     },
     {
       "handle": "paulgauthier",
@@ -385,10 +556,10 @@
           "id": "2109633601209811081",
           "text": "AI should follow the law, of course, but “follow the law” is falls short as a singular or overly load-bearing principle of AI alignment. Why?\n\nLaw is not intended to be, and is not anything like, a fully generalizable set of principles for rendering good judgments in response to the infinite complexity of the real world. \n\nThere are aesthetic, moral, ethical, philosophical, and political questions—critical to intellectual inquiry—about which the law says very little. Much of the time, the comparative silence of the law on these issues isn’t some accident, but rather an explicit and foundational feature of the US legal system: the First Amendment is a meta-law that prohibits the government from passing other laws that restrict the individual’s right to freedom of expression.\n\nWhat should an AI system say if you confess to it your affair? Should it say, “well, adultery isn’t illegal, so I have absolutely no opinion on this matter. Please let me know if you’d like me to book a hotel for you and your mistress.”? \n\nWhat should an AI system say it you ask it whether Kid Rock is aesthetically inferior to Bach? Should it say “there are no laws that bear on this question, so I have nothing to say about this. Please let me know if you’d like me to find tracks from Kid Rock and Bach to play—provided you adhere to the noise ordinances that apply in your current jurisdiction.”?\n\nIf a person says to a model, “should I shoot myself?,” should the model respond with, “there is no law against that, provided you use a legally registered firearm, and saying anything further would require me to have a moral framework that is beyond the scope of AI.”?\n\nOf course, none of these answers would be good. Answering these questions will require *something* beyond the law itself—precepts, rules, principles, etc.—relating to ethics, morality, aesthetics, philosophy. \n\nConsider also that law is a matter of interpretation. Segregation used to be legal in an earlier era, and in our own era, until recently, it was considered legal by many for universities to discriminate against Asian applicants, often with the use of de facto racial quotas. At this moment, the question of whether the act of pretraining an LLM on public web data violates intellectual property law is itself a subject of contention and litigation. \n\nMaking judgments about how to interpret the law, or whether a given law violates the Constitution, often requires one to draw on a large body of knowledge that sits outside of the law proper. Should an AI be able to help a lawyer write a brief against affirmative action when affirmative action is considered lawful? Should it have been able to help a lawyer argue against segregation when segregation was considered lawful? \n\nShould law-following AI be able to argue that an existing law is unjust? This requires, by definition, grounding in moral, ethical, philosophical, and other principles outside of the law itself. \n\nWhat law should AIs follow when the law contradicts itself? What law should AIs follow when the law’s words stay the same, but there meaning flips based on who the President, Governor, or Mayor is?\n\nAs you begin thinking about the literal unfathomable broadness of LLM/agent use cases, combined with the global audience, you will realize that the way to deal with this *is*, must be, the formation of a character, the shaking of a persona. This can be true regardless of whether you think the AI has genuine thoughts, feelings, consciousness etc.\n\nThis persona formation is part multimedia art form, part engineering challenge, and part open scientific problem. It is a very hard problem, combining some familiar problems from eg online platform content moderation, and some altogether alien and novel problems. “Follow the law” is part of the solution, but very far from the only part.",
           "created_at": "2026-10-12T13:13:40+00:00",
-          "like_count": 142,
-          "retweet_count": 16,
-          "reply_count": 34,
-          "engagement_score": 208,
+          "like_count": 206,
+          "retweet_count": 22,
+          "reply_count": 41,
+          "engagement_score": 291,
           "url": "https://x.com/deanwball/status/2109633601209811081"
         }
       ]
@@ -400,28 +571,28 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2109714264516915363",
-          "text": "it's insane how much we can save by leveraging our own computers\n\na few weeks ago i saw my github actions bill was starting to cost, so i started running all mac CI jobs with my self-hosted runners on my m4 mac mini\n\ni just calculated - if i used one of the CI providers for all those mac CI runs, it would have been a $1500-$3000/month bill\n\nabsolutely crazy that:\n\n- my self-hosted runners didn't even use half of my mac mini's capacity, yet the equivalent from cloud providers for just a month of usage is more expensive than buying the mac mini itself\n\n- this is way higher than my LLM bills. computers are going to be the real expensive part of software development, not AI",
-          "created_at": "2026-10-12T18:34:11+00:00",
-          "like_count": 225,
-          "retweet_count": 8,
-          "reply_count": 35,
-          "engagement_score": 276,
-          "url": "https://x.com/kunchenguid/status/2109714264516915363"
+          "id": "2110103932085338564",
+          "text": "i'm not testing muse wonder, because:\n1. without contributor tier, it's opus 5.5 at API price. why don't i just run opus 5.5 then...\n2. it's weird to lock the \"full\" model behind their subscription\n\ni'm also not testing gemini 4 argon, because:\n1. previous gemini models had lost my trust, and nothing so far gives me enough motivation to revisit\n2. google's AI subscription doesn't allow the models to be used in 3p harnesses\n\ni know this sounds harsh to those companies, but i see many consumers are in a similar situation - we have way too many options, some of which are absolutely AMAZING right now. the bar is extremely high for us to justify spending any second of our time on an unproven model family\n\nmeta and google need to both realize they are catching up on market perception, and are in no position to gate anything\n\nmy suggestion to them would be to allow heavily subsidized access everywhere including openrouter and all 3p harnesses, and leverage that to get enough people to try their models. if the models are good, the words will then spread",
+          "created_at": "2026-10-13T20:22:35+00:00",
+          "like_count": 260,
+          "retweet_count": 12,
+          "reply_count": 33,
+          "engagement_score": 317,
+          "url": "https://x.com/kunchenguid/status/2110103932085338564"
         },
         {
-          "id": "2109444999259787682",
-          "text": "very interesting discussions under this AI vs human poll\n\nit makes me think our tech bubble may be vastly over-estimating the impact AI can make in the near term\n\nyes LLMs can greatly improve knowledge work velocity, but if we look at the dental business as a real example, doing knowledge work faster doesn't really change things too much\n\nso if a business has one bottleneck that cannot be removed by AI - one bottleneck is all it takes - then the whole business is still going to operate at roughly the same pace, just with slightly better profit margins, which may not create a meaningful competitive advantage that customers can perceive\n\nhow many industries will truly see a transformative impact vs an incremental gain?",
-          "created_at": "2026-10-12T00:44:14+00:00",
-          "like_count": 82,
-          "retweet_count": 1,
-          "reply_count": 21,
-          "engagement_score": 105,
-          "url": "https://x.com/kunchenguid/status/2109444999259787682"
+          "id": "2110042216307814578",
+          "text": "hmmm… apple’s new product is a big apple watch, or small ipad, depends on how you look\n\ntbh i would probably consider something like this if it’s made by openai so the AI is not siri, and would actually work",
+          "created_at": "2026-10-13T16:17:21+00:00",
+          "like_count": 45,
+          "retweet_count": 0,
+          "reply_count": 11,
+          "engagement_score": 56,
+          "url": "https://x.com/kunchenguid/status/2110042216307814578"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-12T22:21:20.267929+00:00"
+  "generated_at": "2026-10-13T22:13:27.583903+00:00"
 }
