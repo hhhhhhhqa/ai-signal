@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-10-14T00:30:24.978361+00:00",
+  "generated_at": "2026-10-14T22:28:04.649374+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/crossing-the-threshold",
+      "link": "https://www.latent.space/p/crossing-the-threshold",
+      "channel": "Latent Space",
+      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+      "pub_date": "2026-10-14T21:40:52+00:00",
+      "transcript_path": "feeds/transcripts/fa887b0fe1eaa50865b45853.txt",
+      "transcript_chars": 7116,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-14T22:28:04.649374+00:00",
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
+      "link": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
+      "channel": "Lenny's Podcast",
+      "title": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
+      "pub_date": "2026-10-14T12:04:05+00:00",
+      "transcript_path": "feeds/transcripts/f98d779fdc441298d7804a4c.txt",
+      "transcript_chars": 4342,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-14T22:28:04.649374+00:00",
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "link": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "channel": "Latent Space",
+      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+      "pub_date": "2026-10-14T05:40:28+00:00",
+      "transcript_path": "feeds/transcripts/4ffbe4264a01e35405816719.txt",
+      "transcript_chars": 16707,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-14T22:28:04.649374+00:00",
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/dyna",
+      "link": "https://www.latent.space/p/dyna",
+      "channel": "Latent Space",
+      "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
+      "pub_date": "2026-10-13T22:25:55+00:00",
+      "transcript_path": "feeds/transcripts/deef62d0c0b288e13871a263.txt",
+      "transcript_chars": 86346,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-14T22:28:04.649374+00:00",
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+    },
+    {
+      "guid": "yt:LwMtHI7BHWI",
+      "link": "https://www.youtube.com/watch?v=LwMtHI7BHWI",
+      "channel": "Alex Kantrowitz",
+      "title": "Can AI Keep Growing Exponentially? Let’s Ask SemiAnalysis — With Dylan Patel and Jordan Nanos",
+      "pub_date": "2026-10-09T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/71a31e3e1c3dcc8bd3e6193c.txt",
+      "transcript_chars": 62237,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-14T22:28:04.649374+00:00",
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+    },
+    {
+      "guid": "yt:0Ofztt1sXk4",
+      "link": "https://www.youtube.com/watch?v=0Ofztt1sXk4",
+      "channel": "India Today Global",
+      "title": "LIVE: Trump Honours Musk, Jensen Huang, Sergey Brin & Satya Nadella |  Tech Titans Honoured",
+      "pub_date": "2026-10-08T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/18435aa1fdb8bf7a489a510a.txt",
+      "transcript_chars": 336773,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-14T22:28:04.649374+00:00",
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
       "link": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
@@ -12,8 +90,8 @@
       "transcript_chars": 13813,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-14T00:30:24.978361+00:00",
-      "expires_at": "2026-10-28T00:30:24.978361+00:00"
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
@@ -25,8 +103,8 @@
       "transcript_chars": 48889,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-14T00:30:24.978361+00:00",
-      "expires_at": "2026-10-28T00:30:24.978361+00:00"
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
     },
     {
       "guid": "yt:FGCP2F_7rQk",
@@ -38,8 +116,8 @@
       "transcript_chars": 72381,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-14T00:30:24.978361+00:00",
-      "expires_at": "2026-10-28T00:30:24.978361+00:00"
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
     },
     {
       "guid": "yt:S6l3aRsecuE",
@@ -51,8 +129,8 @@
       "transcript_chars": 77659,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-14T00:30:24.978361+00:00",
-      "expires_at": "2026-10-28T00:30:24.978361+00:00"
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
     },
     {
       "guid": "https://www.latent.space/p/claude-dynamic-workflows",
@@ -64,8 +142,8 @@
       "transcript_chars": 7792,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-13T00:23:45.490399+00:00",
-      "last_seen_at": "2026-10-14T00:30:24.978361+00:00",
-      "expires_at": "2026-10-28T00:30:24.978361+00:00"
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
     },
     {
       "guid": "df9fe70c-a787-4f9f-b869-ab6bd6758a7b",
@@ -77,8 +155,8 @@
       "transcript_chars": 3997,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-13T00:23:45.490399+00:00",
-      "last_seen_at": "2026-10-14T00:30:24.978361+00:00",
-      "expires_at": "2026-10-28T00:30:24.978361+00:00"
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
@@ -90,8 +168,8 @@
       "transcript_chars": 4937,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-13T00:23:45.490399+00:00",
-      "last_seen_at": "2026-10-14T00:30:24.978361+00:00",
-      "expires_at": "2026-10-28T00:30:24.978361+00:00"
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
@@ -103,8 +181,8 @@
       "transcript_chars": 5207,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-13T00:23:45.490399+00:00",
-      "last_seen_at": "2026-10-14T00:30:24.978361+00:00",
-      "expires_at": "2026-10-28T00:30:24.978361+00:00"
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
     },
     {
       "guid": "yt:lFyNu4eBrBE",
@@ -116,8 +194,8 @@
       "transcript_chars": 22741,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-13T00:23:45.490399+00:00",
-      "last_seen_at": "2026-10-14T00:30:24.978361+00:00",
-      "expires_at": "2026-10-28T00:30:24.978361+00:00"
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
     },
     {
       "guid": "https://www.latent.space/p/standard-bots",
@@ -168,8 +246,8 @@
       "transcript_chars": 20099,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-11T01:13:54.279077+00:00",
-      "last_seen_at": "2026-10-14T00:30:24.978361+00:00",
-      "expires_at": "2026-10-28T00:30:24.978361+00:00"
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
     },
     {
       "guid": "cdacfd46-6d2e-45fa-aa03-5ad22d324188",
@@ -181,8 +259,8 @@
       "transcript_chars": 82974,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-10T06:14:36.405550+00:00",
-      "last_seen_at": "2026-10-14T00:30:24.978361+00:00",
-      "expires_at": "2026-10-28T00:30:24.978361+00:00"
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
@@ -376,8 +454,8 @@
       "transcript_chars": 34812,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-06T00:35:47.242338+00:00",
-      "last_seen_at": "2026-10-14T00:30:24.978361+00:00",
-      "expires_at": "2026-10-28T00:30:24.978361+00:00"
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
@@ -415,8 +493,8 @@
       "transcript_chars": 41447,
       "transcript_source": null,
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-14T00:30:24.978361+00:00",
-      "expires_at": "2026-10-28T00:30:24.978361+00:00"
+      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
+      "expires_at": "2026-10-28T22:28:04.649374+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
@@ -731,45 +809,6 @@
       "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench",
-      "pub_date": "2026-09-28T15:03:13+00:00",
-      "transcript_path": "feeds/transcripts/8580f9184deade0107c2c440.txt",
-      "transcript_chars": 11985,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-29T00:37:04.983976+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
-      "link": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
-      "channel": "Lenny's Podcast",
-      "title": "Jev for beginners: how to use it and what to build",
-      "pub_date": "2026-09-28T12:03:04+00:00",
-      "transcript_path": "feeds/transcripts/aca1f78569b62ea12f87c8c1.txt",
-      "transcript_chars": 5010,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-29T00:37:04.983976+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
-    },
-    {
-      "guid": "yt:voGz8FBR-7k",
-      "link": "https://www.youtube.com/watch?v=voGz8FBR-7k",
-      "channel": "The Next Big Thing",
-      "title": "Mark Zuckerberg's Vision For the Future!",
-      "pub_date": "2026-09-24T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/cad34e75588864f355944dbe.txt",
-      "transcript_chars": 57566,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-29T00:37:04.983976+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
-    },
-    {
       "guid": "yt:giE1O1-e2DY",
       "link": "https://www.youtube.com/watch?v=giE1O1-e2DY",
       "channel": "Sources Podcast and Alex Heath",
@@ -794,32 +833,6 @@
       "cached_at": "2026-09-27T10:27:08.356510+00:00",
       "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
       "expires_at": "2026-10-15T23:54:01.297597+00:00"
-    },
-    {
-      "guid": "yt:hI3M_4UQoWk",
-      "link": "https://www.youtube.com/watch?v=hI3M_4UQoWk",
-      "channel": "Yahoo Finance",
-      "title": "LIVE: Mark Zuckerberg's Meta Connect 2026 keynote",
-      "pub_date": "2026-09-24T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/bb1b8c9960ec981a47c28dc0.txt",
-      "transcript_chars": 42432,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
-    },
-    {
-      "guid": "yt:2cg56uF4hlc",
-      "link": "https://www.youtube.com/watch?v=2cg56uF4hlc",
-      "channel": "Joanna Stern",
-      "title": "I Asked Mark Zuckerberg Why We Should Trust Meta",
-      "pub_date": "2026-09-24T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/792d24fdddac832a1e97fb65.txt",
-      "transcript_chars": 39908,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-09-30T22:02:02.247175+00:00",
-      "expires_at": "2026-10-14T22:02:02.247175+00:00"
     },
     {
       "guid": "d5619c2f-7fe2-4523-bc0d-d15a03dbfbb1",
