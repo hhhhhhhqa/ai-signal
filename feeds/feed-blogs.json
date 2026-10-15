@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "published": "2026-10-15T19:00:00+00:00",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+    },
+    {
+      "id": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "deepmind",
+      "source_name": "Google DeepMind",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "published": "2026-10-15T16:08:03+00:00",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+    },
+    {
+      "id": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "published": "2026-10-15T13:00:00+00:00",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+    },
+    {
+      "id": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Anthropic update on independent evaluators",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "published": "2026-10-15T00:00:00+00:00",
+      "summary": "Anthropic announces updates to embedding independent evaluators"
+    },
+    {
       "id": "https://openai.com/index/amp-beyond-coding",
       "source": "openai",
       "source_name": "OpenAI",
@@ -55,51 +91,6 @@
       "summary": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption."
     },
     {
-      "id": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "The EU’s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "published": "2026-10-14T00:00:00+00:00",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
-    },
-    {
-      "id": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "published": "2026-10-13T19:43:07+00:00",
-      "summary": "Learn more about our approach to safety and security for Gemini 4 Argon."
-    },
-    {
-      "id": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "published": "2026-10-13T16:01:58+00:00",
-      "summary": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows."
-    },
-    {
-      "id": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "published": "2026-10-13T16:01:52+00:00",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
-    },
-    {
-      "id": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "published": "2026-10-13T12:00:00+00:00",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
-    },
-    {
       "id": "https://www.anthropic.com/engineering/redesigning-source-control",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -107,26 +98,8 @@
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
       "published": "2026-10-13T00:00:00+00:00",
       "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months."
-    },
-    {
-      "id": "https://www.anthropic.com/research/distillation-defenses",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Strengthening our defenses against distillation attacks",
-      "url": "https://www.anthropic.com/research/distillation-defenses",
-      "published": "2026-10-12T00:00:00+00:00",
-      "summary": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%."
-    },
-    {
-      "id": "https://www.anthropic.com/research/self-replicating-ai",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "url": "https://www.anthropic.com/research/self-replicating-ai",
-      "published": "2026-10-12T00:00:00+00:00",
-      "summary": "Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter needed."
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-14T22:10:21.202540+00:00"
+  "generated_at": "2026-10-15T22:00:07.397376+00:00"
 }

@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-10-14T22:28:04.649374+00:00",
+  "generated_at": "2026-10-15T22:01:44.285831+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "link": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "channel": "Latent Space",
+      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+      "pub_date": "2026-10-15T10:08:08+00:00",
+      "transcript_path": "feeds/transcripts/d8e0c2485ea25ccda6e5c986.txt",
+      "transcript_chars": 15995,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-15T22:01:44.285831+00:00",
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
+    },
+    {
+      "guid": "yt:eS7qQ3WJSrw",
+      "link": "https://www.youtube.com/watch?v=eS7qQ3WJSrw",
+      "channel": "Bg2 Pod",
+      "title": "Jensen Huang | Does AI Revenue Justify Capex, '27 AI Bottlenecks, Singularity, Open vs Closed & more",
+      "pub_date": "2026-10-15T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/d7141cbd4662e66c918dd888.txt",
+      "transcript_chars": 101856,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-15T22:01:44.285831+00:00",
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
+    },
+    {
+      "guid": "yt:emVZBMh2KNk",
+      "link": "https://www.youtube.com/watch?v=emVZBMh2KNk",
+      "channel": "TechCrunch",
+      "title": "Satya Nadella’s ‘emergency brake’ and the race to secure AI agents | Disrupt 2026",
+      "pub_date": "2026-10-14T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/6c6a1f4743f01a20b9797d54.txt",
+      "transcript_chars": 32399,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-15T22:01:44.285831+00:00",
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/crossing-the-threshold",
       "link": "https://www.latent.space/p/crossing-the-threshold",
@@ -12,8 +51,8 @@
       "transcript_chars": 7116,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-14T22:28:04.649374+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
@@ -25,8 +64,8 @@
       "transcript_chars": 4342,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-14T22:28:04.649374+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
@@ -38,8 +77,8 @@
       "transcript_chars": 16707,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-14T22:28:04.649374+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
       "guid": "https://www.latent.space/p/dyna",
@@ -51,8 +90,8 @@
       "transcript_chars": 86346,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-14T22:28:04.649374+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
       "guid": "yt:LwMtHI7BHWI",
@@ -64,8 +103,8 @@
       "transcript_chars": 62237,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-14T22:28:04.649374+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
       "guid": "yt:0Ofztt1sXk4",
@@ -90,8 +129,8 @@
       "transcript_chars": 13813,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
@@ -103,8 +142,8 @@
       "transcript_chars": 48889,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
       "guid": "yt:FGCP2F_7rQk",
@@ -116,8 +155,8 @@
       "transcript_chars": 72381,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
       "guid": "yt:S6l3aRsecuE",
@@ -129,8 +168,8 @@
       "transcript_chars": 77659,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
       "guid": "https://www.latent.space/p/claude-dynamic-workflows",
@@ -194,8 +233,8 @@
       "transcript_chars": 22741,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-13T00:23:45.490399+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
       "guid": "https://www.latent.space/p/standard-bots",
@@ -259,8 +298,8 @@
       "transcript_chars": 82974,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-10T06:14:36.405550+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
@@ -454,8 +493,8 @@
       "transcript_chars": 34812,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-06T00:35:47.242338+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
@@ -493,8 +532,8 @@
       "transcript_chars": 41447,
       "transcript_source": null,
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
+      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
+      "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",

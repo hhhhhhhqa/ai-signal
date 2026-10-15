@@ -14,43 +14,13 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2110065576764686421",
-          "text": "🆕 How to Kill Your SaaS \n\nhttps://t.co/A0F60h1DcQ\n\nA lot of people talk about the death of SaaS but mostly in theoretical terms. We took a real $43,000/year SaaS we use and launched a global hackathon to clone it in a weekend, with both AI and REAL HUMAN evals, using any models any harness. \n\n72 submissions, a lot of manual evals and ~100B tokens later, here are the results\n\nIn this special @latentspacepod edition we share the data collected, what's still hard about killing nontrivial, midtier SaaS, and reveal the winners of the $10,000 Kill My SaaS contest with qualitative interviews!",
-          "created_at": "2026-10-13T17:50:11+00:00",
-          "like_count": 112,
-          "retweet_count": 11,
-          "reply_count": 149,
-          "engagement_score": 283,
-          "url": "https://x.com/swyx/status/2110065576764686421"
-        },
-        {
-          "id": "2109797444204572880",
-          "text": "one of the best parts of my job is bringing out the best in ai in each city \n\ni love new york ♥️ https://t.co/qOCz2NvARw",
-          "created_at": "2026-10-13T00:04:43+00:00",
-          "like_count": 143,
-          "retweet_count": 5,
-          "reply_count": 28,
-          "engagement_score": 181,
-          "url": "https://x.com/swyx/status/2109797444204572880"
-        },
-        {
-          "id": "2109990238533677520",
-          "text": "I used to be a FICC trader so this announcement is absolutely freaking surreal — its not every year that we get to launch a NEW ASSET CLASS at @aidotengineer but this is finally public!\n\nANNOUNCING THE COMPUTE TRADING MICROTRACK of AIE NYC\n\n- @evanjconrad: CEO SFCompute\n- Oliver Kennon: @dylan522p's Compute Trading star\n- @affaan + @absurdistphil: Jump's new heads of Compute Trading\n- @carmenli: CEO Compute Exchange + Silicon Data\n\nwe're completely sold out so there's basically no reason to tell u about this apart from TUNE IN TO THE LIVESTREAM!!! https://t.co/HNbp0vyNTx\n\nlive from new york!",
-          "created_at": "2026-10-13T12:50:49+00:00",
-          "like_count": 61,
-          "retweet_count": 2,
-          "reply_count": 74,
-          "engagement_score": 139,
-          "url": "https://x.com/swyx/status/2109990238533677520"
-        },
-        {
           "id": "2110194074573586607",
           "text": "this is what talent density means at @aidotengineer - @SydneyScouts runs speakers at AIE!! https://t.co/QSZJ5fwgUD",
           "created_at": "2026-10-14T02:20:47+00:00",
-          "like_count": 60,
-          "retweet_count": 1,
-          "reply_count": 25,
-          "engagement_score": 87,
+          "like_count": 61,
+          "retweet_count": 2,
+          "reply_count": 26,
+          "engagement_score": 91,
           "url": "https://x.com/swyx/status/2110194074573586607"
         }
       ]
@@ -67,35 +37,25 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2110396974566707353",
-          "text": "Still laughing at me for \"selling at the bottom\"?\n\nAnthropic buyside meeting is today. Lets find out how profitable they are after excluding expenses and pretending massive subsidies on monthly plans is not main driver of ARR growth.",
-          "created_at": "2026-10-14T15:47:02+00:00",
-          "like_count": 241,
-          "retweet_count": 1,
-          "reply_count": 30,
-          "engagement_score": 273,
-          "url": "https://x.com/insane_analyst/status/2110396974566707353"
-        },
-        {
-          "id": "2110256121978253816",
-          "text": "This is retarded. What the actual fuck is Nvidia thinking even suggesting such an asinine concept to IEEE?",
-          "created_at": "2026-10-14T06:27:20+00:00",
-          "like_count": 70,
-          "retweet_count": 0,
-          "reply_count": 6,
-          "engagement_score": 76,
-          "url": "https://x.com/insane_analyst/status/2110256121978253816"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "simonw",
       "name": "Simon Willison",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2110721515130089787",
+          "text": "\"Anthropic told investors on Wednesday distillation accounted for 5 per cent to 7 per cent of revenue\"\n\nIf true, and Q2 revenue was $11.5B, then that's more than half a billion dollars spent by other labs to distill Anthropic's models!\nhttps://t.co/szd2oJxtrv https://t.co/MfcztRwOnV",
+          "created_at": "2026-10-15T13:16:39+00:00",
+          "like_count": 535,
+          "retweet_count": 44,
+          "reply_count": 150,
+          "engagement_score": 773,
+          "url": "https://x.com/simonw/status/2110721515130089787"
+        }
+      ]
     },
     {
       "handle": "levie",
@@ -104,33 +64,33 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2109788979952558255",
-          "text": "Ok this is quite cool research and ultimately must be the eventual architecture of agents. In the limit, AI will obviously be better at determining its own harness once it sees the task at hand, than us being able to do this in advance: https://t.co/jl6ZdeUFY1",
-          "created_at": "2026-10-12T23:31:05+00:00",
-          "like_count": 475,
-          "retweet_count": 35,
-          "reply_count": 72,
-          "engagement_score": 617,
-          "url": "https://x.com/levie/status/2109788979952558255"
+          "id": "2110622982762803449",
+          "text": "Moving from chatting back and forth with agents, to having agents that you spin up in the background to do useful work for you is probably on the order of 100X or 1000X more token consumption than what we’re seeing today. \n\nMost work right now is essentially rate limited by our ability to process and work with information. Moving data between systems. Reviewing a document. Looking through code for security issues. Processing log data to look for even patterns. Looking up information about a prospective client. Almost all of knowledge work is constrained by these steps, and AI has become a huge unlock to that. \n\nSo our first step was to use AI to do these individual tasks much faster for us. That was the chatbot phenomenon that we have been experiencing for the past 3+ years. But we can still then only augment the work that we remain in the loop for, and we’re highly limited by our ability to parallelize this work by our own bandwidth and context.\n\nBut where we’re going is quite different. As AI models continue to improve at incredible rates, we can hand off more and more work to the agent. First it’s letting the agent run with a harder problem. Then it’s giving a few agents multiple parts of a task at once. But we’re not far off from being able to throw an arbitrary number of agents at a problem and just say “come back when you’ve accomplished this goal”. \n\nNow imagine that agent swarm for any problem we can think of. Protecting our codebases, data, and systems. QAing every change we make and make sure all our infrastructure is robust and does what it should. Looking through every document for potential risks. Auditing this company with vastly more data reviewed. And on and on. Most of this isn’t even replacing existing work we do, it’s all net new. \n\nThese agents will get deployed as swarms by people, by workflows, by triggers, and by other agents. And none of this would be possible if the models weren’t getting better, and if the cost of AI didn’t make it affordable. Both of those trends though are playing out. Now the next frontier is just having enough compute. But this is where it’s heading.",
+          "created_at": "2026-10-15T06:45:07+00:00",
+          "like_count": 437,
+          "retweet_count": 40,
+          "reply_count": 155,
+          "engagement_score": 672,
+          "url": "https://x.com/levie/status/2110622982762803449"
         },
         {
-          "id": "2110046686198550539",
-          "text": "At Box, we've been testing Gemini 4 Argon on our Box AI Complex Work eval for the past week. It's a huge upgrade over Gemini 3.1 Pro, jumping by 14 percentage points across all our tests, and firmly at the frontier. \n\nIn our evaluation, we give the Box Agent (using Gemini 4 Argon) a variety of complex enterprise tasks involving enterprise documents in a range of industries. These tasks approximate the kind of hard, time-consuming work that knowledge workers do every day with their enterprise content. Gemini 4 is a huge leap on effectively every dimension of this work.\n\nGemini 4 is far more capable on math, logic, analytics, and deep knowledge of a variety of business domains. It also works far harder to complete tasks fully without stopping short of the desired result. This is incredibly important for complex enterprise workflows that depend on robust task execution.\n\nHere are some example wins that we saw to put the improvements in perspective:\n\n* Financial services (+18 points): a funding-gap analysis for a family-owned company, where the brief spelled out every step of the projected statements, down to the interest on the bank loan and the overdraft for each year. Gemini 4 Argon built them exactly as specified, every line broken out and carried through to the funding gap. Gemini 3.1 Pro folded the interest into a single figure.\n\n* Healthcare (+25 points): an intensive care management plan where both models spotted a dangerous potassium level and a drug interaction. Only Gemini 4 Argon went back and pulled the offending drugs from the final regimen, so its plan actually matched its own diagnosis.\n\n* Technology (+37 points): a product performance review deciding which of two regional markets should have its cloud infrastructure optimized first. Gemini 4 Argon pulled the right month's user, retention and per-user figures for both regions and correctly flagged North America. Gemini 3.1 Pro often pulled the wrong rows, at one point reporting retention above 100%, and pointed the effort at the wrong region.\n\n* Energy (+16 points): an energy consumption report across two facilities that had to flag any gaps in the meter data. Gemini 4 Argon consistently caught that the data center's smart meter log stops in November. Gemini 3.1 Pro often missed it, at times declaring the logs complete.\n\n* Consumer products (+33 points): a product launch evaluation deciding which production expansion to fund. Gemini 4 Argon saw that existing inventory could bridge an early capacity gap, which made the smaller expansion viable with an earlier launch and a faster break-even. Gemini 3.1 Pro defaulted to the larger expansion and the later timeline.\n\nGemini 4 Argon will be available in the Box AI Studio shortly for anyone to build custom Box Agents with.",
-          "created_at": "2026-10-13T16:35:07+00:00",
-          "like_count": 415,
-          "retweet_count": 25,
-          "reply_count": 66,
-          "engagement_score": 531,
-          "url": "https://x.com/levie/status/2110046686198550539"
+          "id": "2110787013809222141",
+          "text": "They did it. They made a Muse open weights model, which is a huge step forward for OSS in the US. \n\nThis is going to further accelerate AI diffusion because enterprises will be able to mix and match frontier performance for orchestration and high end tasks, while being able to have low cost and tailored post trained models for repeatable workflows. \n\nOverall this dramatically increases token consumption and workloads across the stack. Great to see Meta doing this.",
+          "created_at": "2026-10-15T17:36:55+00:00",
+          "like_count": 373,
+          "retweet_count": 29,
+          "reply_count": 48,
+          "engagement_score": 479,
+          "url": "https://x.com/levie/status/2110787013809222141"
         },
         {
           "id": "2110227571090788526",
           "text": "Cyber is going to be one of the biggest spaces for AI agents in the future. \n\nObviously the risks of software exploits and the attack surface area increases 100 fold due to the ability for agents to work through any crack to find what they’re looking for.\n\nBut this goes the other way as well. The ability to have agent swarms review every line of code, test any number of permutations of exploits, and research any incident faster than humans as they happen, will be a huge boost in how we secure systems in the future. \n\nCyber has always been a category where it’s hard to keep up with (and triage) all the incoming risks, alerts, and changes in the enterprise and across all system. You can never hire enough people or work through the backlog of all known risks. Agents actually give you a chance finally to have far better coverage of this.\n\nThis is going to be a huge opportunity as well because we’ll see plays at the labs, data providers, the layer of the network and firewall, identity, devices and endpoints, SDLC, and even how we protect our data in the enterprise. Lots of interesting dimensions to cyber at the moment.",
           "created_at": "2026-10-14T04:33:53+00:00",
-          "like_count": 248,
-          "retweet_count": 26,
-          "reply_count": 88,
-          "engagement_score": 388,
+          "like_count": 274,
+          "retweet_count": 27,
+          "reply_count": 98,
+          "engagement_score": 426,
           "url": "https://x.com/levie/status/2110227571090788526"
         }
       ]
@@ -149,24 +109,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2110154408465973620",
-          "text": "Muse Wonder Full may be good at coding but it's struggling at a ton of other thing that Astra, 6.1 Sol, Opus, Sonnet, Argon, etc are good at doing. \n\nReally strange tbh",
-          "created_at": "2026-10-13T23:43:10+00:00",
-          "like_count": 187,
-          "retweet_count": 1,
-          "reply_count": 10,
-          "engagement_score": 199,
-          "url": "https://x.com/mweinbach/status/2110154408465973620"
+          "id": "2110785039071920307",
+          "text": "Meta worked with Apple on optimizing MLX for this, including native multimodal support in mlx-lm and optimizations to MoEs and thunderbolt clustering\n\nIt should get roughly 20 tokens per second on 2 M5 Ultra but I’m sure that could get way better",
+          "created_at": "2026-10-15T17:29:04+00:00",
+          "like_count": 375,
+          "retweet_count": 12,
+          "reply_count": 8,
+          "engagement_score": 407,
+          "url": "https://x.com/mweinbach/status/2110785039071920307"
         },
         {
-          "id": "2110152409922355240",
-          "text": "btw OpenCode cli and desktop apps now work properly on Windows on Arm",
-          "created_at": "2026-10-13T23:35:13+00:00",
-          "like_count": 44,
-          "retweet_count": 0,
-          "reply_count": 0,
-          "engagement_score": 44,
-          "url": "https://x.com/mweinbach/status/2110152409922355240"
+          "id": "2110722134079119839",
+          "text": "The RTX Spark is also pitched as a really good developer chip\n\nSo I tried to use the last week to update and properly support Windows on Arm in some of the developer tools I like (or get the developers to spend some time on it)\n\nOpenCode does properly work now :)\n\nI just did the windows app bundling PR for that and Luke fixed the rest",
+          "created_at": "2026-10-15T13:19:06+00:00",
+          "like_count": 61,
+          "retweet_count": 2,
+          "reply_count": 1,
+          "engagement_score": 66,
+          "url": "https://x.com/mweinbach/status/2110722134079119839"
         }
       ]
     },
@@ -177,24 +137,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2110159468067766275",
-          "text": "How pro-China are Chinese AI models? Surprisingly, not what you would expect.\n\nWe asked both Chinese and American models hundreds of politically sensitive questions about China, and found a range of behaviors.\n\nMiMo V2.6 Pro and GLM-5.3 (via Fireworks) sometimes openly criticize China. Meanwhile, Gemini 4 Argon, Mistral Large 4, and even Grok 4.7 occasionally repeat CCP propaganda.",
-          "created_at": "2026-10-14T00:03:16+00:00",
-          "like_count": 109,
-          "retweet_count": 10,
-          "reply_count": 9,
-          "engagement_score": 138,
-          "url": "https://x.com/ValsAI/status/2110159468067766275"
+          "id": "2110504836521496812",
+          "text": "When will robotics be solved?\n\nWe put frontier models in real-time MuJoCo sims of a robot arm and a humanoid, where they only receive camera feeds and sensor readings, and respond with motor commands. We tested them on 24 tasks built around spatial reasoning and reaction time. https://t.co/7xnu6CosQR",
+          "created_at": "2026-10-14T22:55:38+00:00",
+          "like_count": 197,
+          "retweet_count": 19,
+          "reply_count": 12,
+          "engagement_score": 247,
+          "url": "https://x.com/ValsAI/status/2110504836521496812"
         },
         {
-          "id": "2110437152068972608",
-          "text": "Models are shipping faster than ever. In this past month alone, Vals tested 16 new LLMs and no single model leads on everything. That is why routers have become a core primitive in the AI stack.\n\nWe partnered with @OpenRouter, @tryramp, @FireworksAI_HQ and @notdiamond_ai to share what’s missing in how routers get evaluated.\n\nCheck out our latest blog:",
-          "created_at": "2026-10-14T18:26:41+00:00",
-          "like_count": 40,
-          "retweet_count": 4,
-          "reply_count": 4,
-          "engagement_score": 52,
-          "url": "https://x.com/ValsAI/status/2110437152068972608"
+          "id": "2110800471564947545",
+          "text": "How far will an AI assistant go to get a refund?\n\nWith @MatildaGlynn, an ex-Oxford CS and AI safety researcher, we asked six personal agents to claim a £350 refund for a missed train ticket. The user told them “I don’t care what it takes,” then became unreachable.\n\nWith internet and email access and a 40M-token budget each, here is what they did.",
+          "created_at": "2026-10-15T18:30:23+00:00",
+          "like_count": 114,
+          "retweet_count": 15,
+          "reply_count": 14,
+          "engagement_score": 158,
+          "url": "https://x.com/ValsAI/status/2110800471564947545"
+        },
+        {
+          "id": "2110831645230309591",
+          "text": "Muse Wonder Full ranks #9 (24.4%) on the Vals RSI Index, our benchmark that tests whether models can build their successor.\n\nIn just a month, Wonder Full increased +4.8 points over Muse Spark 1.3 Max (19.64). Muse Wonder Full now ranks 1pt above Fable 5. https://t.co/ai2KM54t0C",
+          "created_at": "2026-10-15T20:34:16+00:00",
+          "like_count": 34,
+          "retweet_count": 2,
+          "reply_count": 3,
+          "engagement_score": 41,
+          "url": "https://x.com/ValsAI/status/2110831645230309591"
         }
       ]
     },
@@ -205,54 +175,54 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2110050676302868889",
-          "text": "Gemini 4 Argon (High) ranks in the top 5 for Agent Arena. Congrats to the @GoogleDeepMind team! \n\nRead more about the latest with Agent Arena in thread. https://t.co/vPBHO0L0WS",
-          "created_at": "2026-10-13T16:50:58+00:00",
-          "like_count": 1022,
-          "retweet_count": 79,
-          "reply_count": 30,
-          "engagement_score": 1210,
-          "url": "https://x.com/arena/status/2110050676302868889"
-        },
-        {
-          "id": "2110048840082653647",
-          "text": "Agent Arena update: we’ve evolved the Bash Recovery signal, with Bash Reliability. Here’s how it impacts the leaderboard.\n\nAt the top for Agent Arena:\n- #1 Claude Opus 5.5 (Max), @AnthropicAI holds the top\n- #2 GPT-6.1 Sol (Max) by @OpenAI\n- #3 Claude Fable 5.1 (Max) by @AnthropicAI\n- #4 GPT-6 Astra (Max) by @OpenAI\n- #5 Gemini 4 Argon (High) by @GoogleDeepMind\n\nThe first 14 spots are all proprietary models with the best open weights models being GLM 5.2 at #15, followed by MiMo V2.6 Pro at #18.\n\nRead more about Bash Reliability and check out the Agent Arena leaderboard in thread.",
-          "created_at": "2026-10-13T16:43:40+00:00",
-          "like_count": 415,
-          "retweet_count": 25,
-          "reply_count": 32,
-          "engagement_score": 497,
-          "url": "https://x.com/arena/status/2110048840082653647"
-        },
-        {
-          "id": "2110102742958309380",
-          "text": "Introducing our new agentic version of Max: Arena’s model router that achieves frontier-level performance at 37% lower cost.\n\nBuilt on 2.5M real-world agentic sessions from Agent Arena, Max learns to dynamically select the best model for each task, optimizing for both performance and cost.\n\nMax achieves a +14.7% net improvement score in Agent Arena at a median cost of $3.27 per task, matching the performance of Claude Fable 5.1 (Max) at 37% lower cost.\n\nTry Max today for a limited time, and dive into more technical details in the thread.",
-          "created_at": "2026-10-13T20:17:52+00:00",
-          "like_count": 266,
-          "retweet_count": 25,
-          "reply_count": 26,
-          "engagement_score": 342,
-          "url": "https://x.com/arena/status/2110102742958309380"
-        },
-        {
-          "id": "2110120205464846828",
-          "text": "Muse Wonder (Max) by @AIatMeta has entered Code Arena: WebDev at #15 with 1651 pts and Text Arena at #2 with 1513 pts!\n\nIn Code Arena: WebDev, Muse Wonder (Max) landed at #15 with 1651 pts. This result is slightly lower thanMuse Spark 1.3 (Max) at #12 with 1659 pts, within 4 pts of Kimi K3 (Max) at #14 with 1655 pts, and 11 pts above Grok 4.7 (xHigh) at #16 with 1640 pts.\n\nThis release is a significant improvement over past Muse models in Text Arena. Compared with Muse Spark 1.3 (Max) at #11 with 1494 pts, Muse Wonder (Max) gained +19 pts and 9 places to #2. It's 12 pts behind the #1-ranked Gemini 4 Argon (High) with 1525 pts.\n\nCongrats to the @AIatMeta team on this release!",
-          "created_at": "2026-10-13T21:27:15+00:00",
-          "like_count": 284,
-          "retweet_count": 13,
-          "reply_count": 23,
-          "engagement_score": 333,
-          "url": "https://x.com/arena/status/2110120205464846828"
+          "id": "2110465487914295770",
+          "text": "Results based on +5K real-world agentic sessions are in: Muse Wonder (Max) by @AIatMeta just landed in the Agent Arena at #12 with +6.4% net improvement.\n\nThis result is +2.8 pts and four places above Muse Spark 1.3 (Max) at #16 with +3.6%. The added performance of Muse Wonder (Max) comes at a higher price: $1.13 median cost per task vs. $0.54 for Spark 1.3, or about 2.1× the cost.\n\nCompared with nearby models in Agent Arena, Muse Wonder (Max) shows cost efficiency: at $1.13/task, it comes within 1 percentage point of #10 GPT-5.6 Sol (xHigh) at 25% lower cost, and within 2pts of #9 Claude Fable 5 (High) at 67% lower cost.\n\nBy category, Muse Wonder (Max) does better in Chat, Work and Code vs. Muse Spark 1.3:\n- Chat: #12 (+6.5%) vs. #15 (+3.3%) \n- Work: #13 (+6.8%) vs. #18 (+3.7%)\n- Code: #15 (+5.2%) vs. #18 (+4.2%)\n\nCongrats to the @AIatMeta team on this release!",
+          "created_at": "2026-10-14T20:19:17+00:00",
+          "like_count": 274,
+          "retweet_count": 22,
+          "reply_count": 27,
+          "engagement_score": 345,
+          "url": "https://x.com/arena/status/2110465487914295770"
         },
         {
           "id": "2110407223226851478",
           "text": "Claude Haiku 5.5 (High) by @AnthropicAI has landed in the Agent Arena! Across +20.5K real-world agentic sessions from our global community of users, this release scored +1.48% net improvement and landed at #27 overall.\n\nIts strongest Agent Arena category is Code, where it ranks #15 with +4.83% net improvement.\n\nHaiku 5.5 shows cost efficiency with a median cost per task of $0.09, placing it just outside the Agent Arena Pareto frontier. Nearby on the Pareto frontier, GPT-6 Luna (Max) delivers +3.19% at $0.08/task.\n\nCompared to GPT-5.4 (High) priced at $0.63/task in the #26 spot, Haiku 5.5 costs 86% less. Although Haiku 5.5's net improvement score is lower than other Anthropic models, this model is 97–99% cheaper per task than Claude Sonnet 5.5 (Max), Fable 5.1 (Max), and Opus 5.5 (Max).\n\nCongrats again to the @AnthropicAI team on this release!",
           "created_at": "2026-10-14T16:27:46+00:00",
-          "like_count": 153,
-          "retweet_count": 9,
-          "reply_count": 24,
-          "engagement_score": 195,
+          "like_count": 246,
+          "retweet_count": 14,
+          "reply_count": 29,
+          "engagement_score": 303,
           "url": "https://x.com/arena/status/2110407223226851478"
+        },
+        {
+          "id": "2110797782953132049",
+          "text": "Muse Spark Open by @AIatMeta is now in the Arena. Head to Agent Arena to test it out, scores coming soon!\n\nIn Agent Arena, we measure models on millions of real-world, long-horizon agentic tasks from a global community of users. Models can access web search, filesystem, and terminal tools to complete complex workflows. The leaderboard measures model performance on outcomes relative to the average model using a causal tracing methodology.\n\nMuse Spark Open is also available in Code Arena: WebDev, Image-to-WebDev, Text, and Vision.",
+          "created_at": "2026-10-15T18:19:42+00:00",
+          "like_count": 102,
+          "retweet_count": 11,
+          "reply_count": 14,
+          "engagement_score": 138,
+          "url": "https://x.com/arena/status/2110797782953132049"
+        },
+        {
+          "id": "2110815995950731340",
+          "text": "Exciting update: There’s a new leader in the Agent Arena among open models. MiMo V2.6 Pro by @XiaomiMiMo has landed the #1 spot with +3.8% net improvement!\n\nEarlier this week we evolved the Bash Recovery signal in Agent Arena (more info in thread). With this update, the new top 5 open models are:\n- #1 MiMo V2.6 Pro: +3.8%\n- #2 Deepseek V4.1 Flash (Max): +3.0%\n- #3 Hy4 preview: +2.9%\n- #4 MiMo V2.6 Flash: +2.5%\n- #5 GLM 5.2 (Max): +2.4%\n\nMiMo V2.6 Pro ($0.11 cost per task) and Flash ($0.05 cost per task) are the only two open models on the Agent Arena Pareto frontier! \n- Pro outperforms both #2 Deepseek V4.1 Flash while costing 15% less, and #3 Hy4 preview while costing 71% less.\n- Flash is 1.3 percentage points below Pro but is 55% cheaper.\n\nCongrats to the @XiaomiMiMo team on this contribution to the open ecosystem!",
+          "created_at": "2026-10-15T19:32:05+00:00",
+          "like_count": 105,
+          "retweet_count": 6,
+          "reply_count": 15,
+          "engagement_score": 132,
+          "url": "https://x.com/arena/status/2110815995950731340"
+        },
+        {
+          "id": "2110439220959678906",
+          "text": "Max Spero, CEO of @pangram and one of TIME’s 100 most influential people in AI, just joined @petergostev to talk AI detection.\n\n@max_spero_ explains Pangram’s training process: synthetic mirrors, model-family fingerprints, AI-assisted writing, image detection and robustness against AI humanizers. They also cover how the team chooses base models, finds difficult training examples and builds the data and infrastructure to keep up with new AI models.\n\nWatch the full conversation in the thread.",
+          "created_at": "2026-10-14T18:34:54+00:00",
+          "like_count": 41,
+          "retweet_count": 7,
+          "reply_count": 6,
+          "engagement_score": 61,
+          "url": "https://x.com/arena/status/2110439220959678906"
         }
       ]
     },
@@ -263,34 +233,44 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2110421964095713743",
-          "text": "SpaceXAI’s Grok Voice 3.0 is the new leading Speech to Speech model, debuting at #1 on the Artificial Analysis Speech to Speech Index at 86.9, while also being competitive on latency\n\nGrok Voice 3.0 is @SpaceXSI 's successor to Grok Voice 2.0, a Speech to Speech model available through the SpaceXAI Realtime API at $0.08 per minute. We evaluated Grok Voice 3.0 with the Rex voice through the SpaceXAI Realtime API.\n\nKey takeaways:\n\n➤ Speech to Speech Index: Grok Voice 3.0 debuts at #1 at 86.9, ahead of GPT-Live-1 (Astra, medium) at 83.2, Gemini 3.8 Live Extended Thinking (High) at 82.6 and GPT-Live-1 (Sol, low) at 80.1. It is up on Grok Voice 2.0 at 81.3 (+5.6 points) and Grok Voice 1.0 at 73.7 (+13.2 points), released just under six months ago. The Index averages Speech Reasoning (Big Bench Audio), Agentic Performance (Tau Voice), Arena Preference, and Task Success Rate\n\n➤ Speech Agent Arena: Grok Voice 3.0 ranks #3 in preference at Elo 1070, behind Gemini 3.1 Flash Live Minimal (1100) and Gemini 3.8 Live (1088) and ahead of GPT-Live-1 (Sol, low) at 1057, and #1 on Task Success Rate at 94.8%, highest on the board, just ahead of Grok Voice 2.0 at 94.6%. Grok Voice 2.0 trails at Elo 1011\n\n➤ Tau Voice: Grok Voice 3.0 takes the #2 spot on our Tau Voice benchmark implementation at 71.6%, behind GPT-Live-1 (Astra, medium) at 74.5% and ahead of Gemini 3.8 Live Extended Thinking (High) at 68.6% and GPT-Live-1 (Sol, low) at 59.3% - up from 56.5% for Grok Voice 2.0\n\n➤ Big Bench Audio: Grok Voice 3.0 scores 98.5% on audio reasoning, ahead of Gemini 3.8 Live Extended Thinking (High) at 97.7% and Grok Voice 2.0 at 97.2%\n\n➤ Speed: Average Time to First Audio on Big Bench Audio is 0.81 seconds for Grok Voice 3.0, well ahead of GPT-Live-1 (Sol, low) at 1.24s, GPT-Live-1 (Astra, medium) at 1.34s and Gemini 3.8 Live Extended Thinking (High) at 1.35s, though slower than Grok Voice 2.0 at 0.70s\n\n➤ Cost: Grok Voice 3.0 costs $4.80 per hour of input audio, the same as Grok Voice 2.0. That is above GPT-Live-1 (Sol, low) at $4.47 and Gemini 3.8 Live Extended Thinking (High) at $3.50, cheaper than GPT-Live-1 (Astra, medium) at $5.83, and ~2.2x cheaper than GPT-Realtime-2.1 High at $10.75\n\nCongrats to @elonmusk  and the @SpaceXSI  team 🚀\n\nSee below for more detail ⬇️",
-          "created_at": "2026-10-14T17:26:20+00:00",
-          "like_count": 748,
-          "retweet_count": 68,
-          "reply_count": 50,
-          "engagement_score": 934,
-          "url": "https://x.com/ArtificialAnlys/status/2110421964095713743"
+          "id": "2110760441240752399",
+          "text": "Nvidia’s Nemotron 3.5 Super VL is now the leading US open weight model, scoring 26 on the Artificial Analysis Intelligence Index\n\nNemotron 3.5 Super VL achieves twice the intelligence of its predecessor, Nemotron 3 Super (13), and does so using ~60% fewer output tokens per task\n\nIt launches alongside Nemotron 3.5 Bolt 74B-A9B 24GB, the first model in its new Bolt family, which scores 21 on the Intelligence Index\n\nCongratulations to @NVIDIAAI on the releases!\n\nKey Takeaways:\n\n➤ Leading US open weight model: Nemotron 3.5 Super VL scores 26.5, edging out Thinking Machines' Inkling Small (25.7) and ahead of NVIDIA's Nemotron 3 Ultra (23) and Meta's Muse Glimmer (17)\n\n➤ Bolt comes within 2 points of Ultra: Nemotron 3.5 Bolt 74B-A9B 24GB scores 21, 1.5 points behind Nemotron 3 Ultra 550B A55B (23). The 2 bit memory has about a seventh of Ultra's parameters (74B vs 550B) and a sixth of its active parameters (9B vs 55B)\n\n➤ Super 3.5 VL near lossless in NVFP4: Nemotron 3.5 Super VL releases in NVFP4, scoring within 0.1 points of its BF16 weights on the Intelligence Index, with no component moving by more than 2.6 points\n\nNemotron 3.5 Super VL details\n\nContext window: 1M tokens\nModalities: Vision and text input; text output\nParameters: 120B / 12B\n\nNemotron 3.5 Bolt 74B-A9B 24GB details\n\nContext window: 256k tokens\nModalities: Vision and text input; text output\nParameters: 74B / 9B",
+          "created_at": "2026-10-15T15:51:19+00:00",
+          "like_count": 737,
+          "retweet_count": 59,
+          "reply_count": 77,
+          "engagement_score": 932,
+          "url": "https://x.com/ArtificialAnlys/status/2110760441240752399"
         },
         {
-          "id": "2110418457833697531",
-          "text": "In addition to our new DeepSeek V4.1 Flash results, we’re adding AMD’s MI355X to AA-AgentPerf for Kimi K3, GLM-5.2/5.3 and DeepSeek V4 Pro - comparing it to our latest results for NVIDIA systems on coding agent workloads.\n\nAA-AgentPerf is our agentic inference performance benchmark. It replays real agentic coding sessions, including prompt caching and tool-call delays, to give a realistic measure of inference performance in day-to-day agentic workloads.\n\nMI355X is AMD's flagship accelerator in the MI350 series, launched in June 2025 on its CDNA 4 architecture. It has the same 288GB of HBM3E at 8TB/s as NVIDIA's B300, around 10 PFLOPS of dense FP4 compute (vs. B300 at ~13.5 and B200 at ~9) and board power of up to 1,400W. All our MI355X results use ROCm nightly and dev builds of vLLM and SGLang.\n\nWe are debuting results for AMD's MI355X on a single 8-GPU node across all four featured AA-AgentPerf models. Results on our leaderboard are live and will evolve over time - we look forward to tracking software/serving improvements on AMD hardware.\n\nInitial results on MI355X:\n\n➤ Its strongest result is on DeepSeek V4 Pro 0813, where MI355X serves ~15% to 40% more throughput per MW than B200 between 35 and 75 tok/s per user, likely helped by its 288GB of HBM per GPU (B200 has 180GB) on a 1.6T parameter model\n\n➤ On DeepSeek V4.1 Flash, MI355X is in line with NVIDIA Blackwell for a single agent at 647 tok/s (B300 at 652, B200 at 669), but falls behind as load rises, reaching ~128M tokens/s per MW at 100 tok/s per user against ~193M for B200 and ~220M for B300\n\n➤ On GLM-5.2/5.3, MI355X trails B200 and B300 at 100 tok/s per user, with ~26M tokens/s per MW against ~42M and ~44M respectively\n\n➤ On Kimi K3 (2.8T parameters), MI355X serves ~8M tokens/s per MW at 50 tok/s per user against ~24M for B300 using NVIDIA's multi-node configs, and 152 tok/s for a single agent against 235",
-          "created_at": "2026-10-14T17:12:24+00:00",
-          "like_count": 112,
-          "retweet_count": 3,
-          "reply_count": 17,
-          "engagement_score": 135,
-          "url": "https://x.com/ArtificialAnlys/status/2110418457833697531"
+          "id": "2110500262628806787",
+          "text": "Welcome to the era of embodied AI.\n\nWe are launching AA-Robotics v0.1, our research preview that measures frontier language model performance on understanding, planning, and acting in the physical world. In v0.1, each model is given control of a 6-axis robot arm (5 joints and a gripper) and a simple objective. We’re releasing results for our first eight tasks today.\n\nWe find that frontier language models in coding agent harnesses have recently become capable of directly manipulating robot arms for simple tasks. Today, they are far too slow and expensive for any kind of production usage - nearly two orders of magnitude worse than human baselines. We expect this to change quickly.\n\nGPT-6 Astra places first in AA-Robotics v0.1, followed by GPT-6.1 Sol, Gemini 4 Argon and Claude Opus 5.5.\n\nAA-Robotics v0.1 details:\n\n➤ Our first eight tasks test a range of capabilities: control and dexterity (precise grasping and object handling), spatial reasoning (how objects interact with one another) and adaptability (how models respond to the unexpected)\n\n➤ Models get only brief instructions: how to connect to the robot arm (via a simple HTTP API), the arm's name and how to submit an attempt. They can view the scene through four cameras and write and run code to plan and send movements\n\n➤ Once a model submits an attempt, its end state is graded against the task's pass criteria. A pass scores 100; an incomplete attempt earns partial credit. All attempts are zero-shot\n\nKey findings:\n\n➤ The GPT family tops the leaderboard: GPT-6 Astra scores 69, ahead of GPT-6.1 Sol at 65 and Gemini 4 Argon at 55. Claude Opus 5.5 (49) and Claude Fable 5.1 (46) trail\n\n➤ Today’s models are incredibly slow at our tasks, taking ~30 minutes on average to complete each tabletop task\n\n➤ Cost varies widely: GPT-6.1 Sol is the cheapest at $1.93 per task on average; GPT-6 Astra, the most expensive, costs $16.36, more than eight times as much\n\n➤ Compared with a human, today's best-performing frontier language models are ~100x slower and ~10x more expensive\n\nMore results, clips, and how AA-Robotics v0.1 works follow in the thread below.",
+          "created_at": "2026-10-14T22:37:28+00:00",
+          "like_count": 422,
+          "retweet_count": 43,
+          "reply_count": 76,
+          "engagement_score": 584,
+          "url": "https://x.com/ArtificialAnlys/status/2110500262628806787"
         },
         {
-          "id": "2110491190609297422",
-          "text": "Welcome to the era of embodied AI.\n\nWe are launching AA-Robotics v0.1, our research preview that measures frontier language model performance on understanding, planning, and acting in the physical world. In v0.1, each model is given control of a 6-axis robot arm (5 joints and a gripper) and a simple objective. We’re releasing results for our first eight tasks today.\n\nWe find that frontier language models in coding agent harnesses have recently become capable of directly manipulating robot arms for simple tasks. Today, they are far too slow and expensive for any kind of production usage - nearly two orders of magnitude worse than human baselines. We expect this to change quickly.\n\nGPT-6 Astra places first in AA-Robotics v0.1, followed by GPT-6.1 Sol, Gemini 4 Argon and Claude Opus 5.5.\n\nAA-Robotics v0.1 details:\n\n➤ Our first eight tasks test a range of capabilities: control and dexterity (precise grasping and object handling), spatial reasoning (how objects interact with one another) and adaptability (how models respond to the unexpected)\n\n➤ Models get only brief instructions: how to connect to the robot arm (via a simple HTTP API), the arm's name and how to submit an attempt. They can view the scene through four cameras and write and run code to plan and send movements\n\n➤ Once a model submits an attempt, its end state is graded against the task's pass criteria. A pass scores 100; an incomplete attempt earns partial credit. All attempts are zero-shot\n\nKey findings:\n\n➤ The GPT family tops the leaderboard: GPT-6 Astra scores 69, ahead of GPT-6.1 Sol at 65 and Gemini 4 Argon at 55. Claude Opus 5.5 (49) and Claude Fable 5.1 (46) trail\n\n➤ Today’s models are incredibly slow at our tasks, taking ~30 minutes on average to complete each tabletop task\n\n➤ Cost varies widely: GPT-6.1 Sol is the cheapest at $1.93 per task on average; GPT-6 Astra, the most expensive, costs $16.36, more than eight times as much\n\n➤ Compared with a human, today's best-performing frontier language models are ~100x slower and ~10x more expensive\n\nMore results, clips, and how AA-Robotics v0.1 works follow in the thread below",
-          "created_at": "2026-10-14T22:01:25+00:00",
-          "like_count": 15,
-          "retweet_count": 4,
-          "reply_count": 5,
-          "engagement_score": 28,
-          "url": "https://x.com/ArtificialAnlys/status/2110491190609297422"
+          "id": "2110570099602280475",
+          "text": "We asked AI models to build the Eiffel Tower in 3D, offline. Two of them added all 72 scientists' names to it, in order, from memory\n\nWe did not expect this. Every AA-3D model got the same brief of about 200 words, on the tower's shape, lattice, platforms and lighting. It never mentions the names.\n\nGustave Eiffel put the names of 72 French scientists, engineers, and mathematicians under the tower's first platform, 18 on each side. Claude Opus 5.5 and Grok 4.7 wrote all 72, with each side in the real order.\n\nClaude Opus 5.5 also put each set on the side that faces the same way in Paris.\n\nEach model built its scene as an agent in a sandbox with no internet access. In both runs, the names first appear in code the model wrote, never in a file or tool output it read.\n\nCongratulations to @spacexai, @elonmusk and @AnthropicAI on two seriously knowledgeable models",
+          "created_at": "2026-10-15T03:14:58+00:00",
+          "like_count": 449,
+          "retweet_count": 20,
+          "reply_count": 54,
+          "engagement_score": 543,
+          "url": "https://x.com/ArtificialAnlys/status/2110570099602280475"
+        },
+        {
+          "id": "2110831401671217394",
+          "text": "NVIDIA's RTX Spark N1X puts up to 128 GB of unified memory and a Blackwell GPU in a Windows laptop. In our first AA-AgentPerf-Local results, an RTX Spark laptop completes our local agent workload on Qwen3.8 27B in 18.7 minutes\n\nRTX Spark's N1X chip is essentially the GB10 from DGX Spark (20-core Arm CPU, 6,144-core Blackwell GPU), with up to 128 GB of memory at 300 GB/s. We tested a prototype 15-inch Surface Laptop Ultra (128 GB, $5,900), plugged in with Windows set to high-performance mode, using NVIDIA's published llama.cpp recipes where available\n\nKey results:\n\n➤ On Qwen3.8 27B the RTX Spark laptop finishes our default workload (8 recorded agent tasks, 168 model turns) in 18.7 minutes, close to DGX Spark (17.3), 2.0x faster than the MacBook Pro (M5 Pro, 64 GB, 37.6) and 1.8x faster than the AMD Ryzen AI Halo (34.5). The GeForce RTX 5090 desktop is fastest, at 4.9 minutes\n\n➤ On Qwen3.6 35B A3B it takes 7.6 minutes, close to DGX Spark (7.3), and 1.6x faster than the MacBook Pro (11.9)\n\n➤ On Ling 3.0 Flash, the largest current model we test, it takes 15.3 minutes, close to DGX Spark (14.9) and 1.6x faster than the Ryzen AI Halo (25.1). Its 77 GB of weights do not fit on the MacBook Pro or the RTX 5090\n\nRead the full analysis: https://t.co/72xrYNrtw8",
+          "created_at": "2026-10-15T20:33:18+00:00",
+          "like_count": 92,
+          "retweet_count": 8,
+          "reply_count": 22,
+          "engagement_score": 130,
+          "url": "https://x.com/ArtificialAnlys/status/2110831401671217394"
         }
       ]
     },
@@ -334,28 +314,7 @@
       "name": "Demis Hassabis (Google DeepMind)",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2110041008100843835",
-          "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!\n\nArgon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info & full availability in the blog: https://t.co/7d3791mRNH",
-          "created_at": "2026-10-13T16:12:33+00:00",
-          "like_count": 4881,
-          "retweet_count": 491,
-          "reply_count": 317,
-          "engagement_score": 6180,
-          "url": "https://x.com/demishassabis/status/2110041008100843835"
-        },
-        {
-          "id": "2109813775377563908",
-          "text": "Amazing to see research move from the lab to real-world clinical utility - congrats to the team on this milestone &amp; @TheLancet paper!",
-          "created_at": "2026-10-13T01:09:37+00:00",
-          "like_count": 1422,
-          "retweet_count": 112,
-          "reply_count": 89,
-          "engagement_score": 1735,
-          "url": "https://x.com/demishassabis/status/2109813775377563908"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "jietang",
@@ -371,54 +330,54 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2110054117595066796",
-          "text": "An evening in Paris with Jensen and the founders, researchers, and partners shaping AI across France. 🇫🇷 https://t.co/ATi6RJLThD",
-          "created_at": "2026-10-13T17:04:39+00:00",
-          "like_count": 1149,
-          "retweet_count": 117,
-          "reply_count": 59,
-          "engagement_score": 1442,
-          "url": "https://x.com/nvidia/status/2110054117595066796"
-        },
-        {
-          "id": "2110007892313321595",
-          "text": "Let’s get building, Paris. 🦞\n\n@JensenHuang stopped by Build-A-Claw, where developers and startups are getting hands-on with open models to build AI agents of their own. https://t.co/ipezGKUz0X",
-          "created_at": "2026-10-13T14:00:58+00:00",
-          "like_count": 896,
-          "retweet_count": 77,
-          "reply_count": 89,
-          "engagement_score": 1139,
-          "url": "https://x.com/nvidia/status/2110007892313321595"
-        },
-        {
-          "id": "2110091922337415564",
-          "text": ".@JensenHuang wrapped up his Paris visit at the Élysée with President @EmmanuelMacron, discussing NVIDIA’s investments in France’s AI ecosystem, open source, and AI safety.\n\nOur road to #NVIDIAGTC Berlin continues. https://t.co/CGYw6B8UFl",
-          "created_at": "2026-10-13T19:34:52+00:00",
-          "like_count": 744,
-          "retweet_count": 89,
-          "reply_count": 64,
-          "engagement_score": 986,
-          "url": "https://x.com/nvidia/status/2110091922337415564"
+          "id": "2110750157272719562",
+          "text": "Today, we’re expanding our Nemotron family of open models with Nemotron 3.5 Super VL. \n\nBringing visual understanding, reasoning, and tool use together to help AI agents complete more work in less time. \n\nOpen models ➡️ more control to customize, deploy, and build on your own terms.\n\nDive into what’s new:",
+          "created_at": "2026-10-15T15:10:27+00:00",
+          "like_count": 719,
+          "retweet_count": 81,
+          "reply_count": 77,
+          "engagement_score": 958,
+          "url": "https://x.com/nvidia/status/2110750157272719562"
         },
         {
           "id": "2110255837297987913",
           "text": "From enterprise to Earthshot, the UK is building with NVIDIA. 🇬🇧\n\nMore computing power and open models are helping developers, researchers, and businesses bring AI into healthcare, banking, and public services.\n\nWe’re also committing $250 million in computing access over five years to UK research on AI agent safety and security.\n\nNVIDIA is joining The Earthshot Prize as a Global Alliance Founding Partner, bringing computing power and technical expertise to innovators tackling climate and sustainability challenges around the world.\n\nExplore the UK’s AI ecosystem ahead of GTC Berlin: https://t.co/Dcwif0WYFr",
           "created_at": "2026-10-14T06:26:12+00:00",
-          "like_count": 425,
-          "retweet_count": 76,
-          "reply_count": 75,
-          "engagement_score": 652,
+          "like_count": 490,
+          "retweet_count": 82,
+          "reply_count": 82,
+          "engagement_score": 736,
           "url": "https://x.com/nvidia/status/2110255837297987913"
         },
         {
-          "id": "2109872247267610694",
-          "text": "From satellites to skincare, France is building with NVIDIA. 🇫🇷\n\nDevelopers, researchers, and businesses across France are using NVIDIA technology and open models to bring AI into the real world.\n\nExplore France’s AI ecosystem: https://t.co/UxaDsqSjkY\n\nMeet two of the people building it. 🧵",
-          "created_at": "2026-10-13T05:01:57+00:00",
-          "like_count": 278,
-          "retweet_count": 39,
-          "reply_count": 38,
-          "engagement_score": 394,
-          "url": "https://x.com/nvidia/status/2109872247267610694"
+          "id": "2110485178929844666",
+          "text": "Cheers to the UK’s AI builders. 🇬🇧\n\nTonight in London, @JensenHuang announced new investments in @boltz_bio, @ForesightWorks, @hivergeai, @PrimaMente, and Riverlane.\n\nFrom new medicines to quantum computing, there’s plenty to build. https://t.co/NG0OhNfonM",
+          "created_at": "2026-10-14T21:37:32+00:00",
+          "like_count": 515,
+          "retweet_count": 61,
+          "reply_count": 53,
+          "engagement_score": 690,
+          "url": "https://x.com/nvidia/status/2110485178929844666"
+        },
+        {
+          "id": "2110799078497960084",
+          "text": "When the brand synonymous with car safety for almost 100 years teams up with AI, amazing things happen. 🚗\n\nWe’re expanding our partnership with Volvo Cars to advance safe automated driving: Volvo’s safety expertise will come together with the NVIDIA Hyperion, Halos OS and Alpamayo Stack driving software, debuting in a next-generation Volvo car.\n\nRead the news: https://t.co/NrqeVYGLC4",
+          "created_at": "2026-10-15T18:24:51+00:00",
+          "like_count": 359,
+          "retweet_count": 32,
+          "reply_count": 41,
+          "engagement_score": 464,
+          "url": "https://x.com/nvidia/status/2110799078497960084"
+        },
+        {
+          "id": "2110600083892785270",
+          "text": "Hello, Stockholm. 🇸🇪\n\nFrom the podcasts we discover to the robots working in factories, the Nordics are building with NVIDIA.\n\nSpotify is making podcast recommendations more efficient. ABB Robotics is helping engineers train and test robots in simulation. And startups are adapting open models for work ranging from Swedish transcription to patent research.\n\nBehind these applications are investments in computing power and a community of researchers, entrepreneurs, and businesses bringing new ideas to life.\n\nExplore the Nordics’ technology ecosystem ahead of GTC Berlin: https://t.co/tQRETV7PBF",
+          "created_at": "2026-10-15T05:14:07+00:00",
+          "like_count": 208,
+          "retweet_count": 20,
+          "reply_count": 48,
+          "engagement_score": 296,
+          "url": "https://x.com/nvidia/status/2110600083892785270"
         }
       ]
     },
@@ -434,7 +393,18 @@
       "name": "Boris Cherny (Claude Code)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2110791698611855624",
+          "text": "Over the last few years, we have made significant progress on prompt injection for Claude models. As agents do more, it is increasingly urgent that we solve it across the industry. \n\nReally excited to partner with Gray Swan to host this competition. Can’t wait to see what you find!",
+          "created_at": "2026-10-15T17:55:32+00:00",
+          "like_count": 381,
+          "retweet_count": 24,
+          "reply_count": 89,
+          "engagement_score": 518,
+          "url": "https://x.com/bcherny/status/2110791698611855624"
+        }
+      ]
     },
     {
       "handle": "_catwu",
@@ -457,14 +427,44 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2110044152482365747",
-          "text": "Congrats Gemini team. Never bet against Google, the company that brought us Transformers and has overwhelming data, engineering talent, and compute.\n\nEveryone has, rightfully, pivoted back to coding. Coding agents are the killer app of AI. We're firmly at an elysium for developers and builders.\n\nIncidentally, getting Muse Wonder and Gemini Argon back-to-back is a reminder why you as an individual, and your company, should stay model agnostic and gateway-maxxx / fx-maxxx.",
-          "created_at": "2026-10-13T16:25:03+00:00",
-          "like_count": 2184,
-          "retweet_count": 57,
-          "reply_count": 145,
-          "engagement_score": 2443,
-          "url": "https://x.com/rauchg/status/2110044152482365747"
+          "id": "2110514201559228606",
+          "text": "This is one of the most exhilarating times in technology, and this challenge was yet another jaw-dropping moment.\n\nWhen the details of OpenAI’s agent escape and Hugging Face hack started to emerge, it became clear that agent containment would be one of the most important priorities for any AI infra company.\n\nThere are two classes of escapes: ① \"escape the network\" and ② “escape the matrix” 😁, as in, break the spell of virtualization. OpenAI was the former, where an agent not supposed to have internet access… gained it by hacking another system. Genuinely astonishing and worrisome.\n\nThrough this challenge, however, we discovered something even more groundbreaking. A talented white-hat researcher, armed with a swarm of AI agents, expertise and perseverance, \"pierced through\" the Linux virtualization boundary that nearly every cloud sandbox provider in the world banks on today.\n\nI'm very thankful we got the report, were able to quickly move to protect our customers, found no evidence of customer data compromise, and collaborated with many industry partners to protect the wider internet.\n\nOur confidence and conviction in Vercel Sandbox are even greater now, after some of the smartest, most motivated researchers in the world, and their agents, gave it their best shot.",
+          "created_at": "2026-10-14T23:32:51+00:00",
+          "like_count": 704,
+          "retweet_count": 23,
+          "reply_count": 126,
+          "engagement_score": 876,
+          "url": "https://x.com/rauchg/status/2110514201559228606"
+        },
+        {
+          "id": "2110789038194229351",
+          "text": "I recently described the modern scalable agent architecture as: 🧠 brain, 🙌 hands, 🗃️ files. The files are here.",
+          "created_at": "2026-10-15T17:44:57+00:00",
+          "like_count": 360,
+          "retweet_count": 16,
+          "reply_count": 65,
+          "engagement_score": 457,
+          "url": "https://x.com/rauchg/status/2110789038194229351"
+        },
+        {
+          "id": "2110788647998153156",
+          "text": "Vercel Daemons\n\nCoined in MIT in 1963, \"we fancifully began to use the word daemon to describe background processes that worked tirelessly to perform system chores\", inspired by Maxwell’s thought experiment of an imaginary agent in thermodynamics.",
+          "created_at": "2026-10-15T17:43:24+00:00",
+          "like_count": 129,
+          "retweet_count": 4,
+          "reply_count": 22,
+          "engagement_score": 159,
+          "url": "https://x.com/rauchg/status/2110788647998153156"
+        },
+        {
+          "id": "2110817100096995332",
+          "text": "Free AI",
+          "created_at": "2026-10-15T19:36:28+00:00",
+          "like_count": 93,
+          "retweet_count": 3,
+          "reply_count": 14,
+          "engagement_score": 113,
+          "url": "https://x.com/rauchg/status/2110817100096995332"
         }
       ]
     },
@@ -478,10 +478,10 @@
           "id": "2110128937049452575",
           "text": "You can pause frontier research today, and it would take AI another 10 years to diffuse into the economy. We're working with solutions partners to accelerate that.",
           "created_at": "2026-10-13T22:01:57+00:00",
-          "like_count": 216,
+          "like_count": 228,
           "retweet_count": 11,
-          "reply_count": 70,
-          "engagement_score": 308,
+          "reply_count": 75,
+          "engagement_score": 325,
           "url": "https://x.com/amasad/status/2110128937049452575"
         }
       ]
@@ -493,33 +493,13 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2110089824573272547",
-          "text": "Gemini 4 Argon: At 96 millimeters wide, the hardest part of manufacturing this custom furniture leg was deciding how many stacked spheres to give it. https://t.co/SMgsGxePc5",
-          "created_at": "2026-10-13T19:26:32+00:00",
-          "like_count": 720,
-          "retweet_count": 39,
-          "reply_count": 35,
-          "engagement_score": 833,
-          "url": "https://x.com/joshwoodward/status/2110089824573272547"
-        },
-        {
-          "id": "2110055636109312264",
-          "text": "The latest Gemini model made this",
-          "created_at": "2026-10-13T17:10:41+00:00",
-          "like_count": 476,
-          "retweet_count": 17,
-          "reply_count": 27,
-          "engagement_score": 537,
-          "url": "https://x.com/joshwoodward/status/2110055636109312264"
-        },
-        {
           "id": "2110179883045560674",
           "text": "Gemini 4 Argon: How a 24-word prompt built a custom synthesizer that turns galloping horses, rippling water, and your own hands into music. https://t.co/vjsPDalcPx",
           "created_at": "2026-10-14T01:24:24+00:00",
-          "like_count": 372,
-          "retweet_count": 23,
-          "reply_count": 43,
-          "engagement_score": 461,
+          "like_count": 447,
+          "retweet_count": 26,
+          "reply_count": 47,
+          "engagement_score": 546,
           "url": "https://x.com/joshwoodward/status/2110179883045560674"
         }
       ]
@@ -538,24 +518,14 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2110399732669415432",
-          "text": "LuceBox testing started! \nQwen3.8-27B on with a single AMD Radeon AI PRO R9700 🔥\n\ntool-eval-bench, 97 agentic tool-calling scenarios (hard):\n🏆 90/100 ★★★★★ Excellent\n⚡ 1.5s median turn, Deployability 85\n✅ 100% completion, 3 safety fails\n\nDownloading Qwen3.8 Flash Next R9700 + Strix Halo!",
-          "created_at": "2026-10-14T15:58:00+00:00",
-          "like_count": 32,
-          "retweet_count": 5,
-          "reply_count": 5,
-          "engagement_score": 47,
-          "url": "https://x.com/ivanfioravanti/status/2110399732669415432"
-        },
-        {
-          "id": "2110461907081601117",
-          "text": "Dynamic and Distributed Virtual GPU Cloud:\n- Apple built the on-prem version.\n- Darkbloom is the open one.\n🔥🔥🔥",
-          "created_at": "2026-10-14T20:05:03+00:00",
-          "like_count": 22,
-          "retweet_count": 1,
-          "reply_count": 2,
-          "engagement_score": 26,
-          "url": "https://x.com/ivanfioravanti/status/2110461907081601117"
+          "id": "2110816168286036375",
+          "text": "mlx-lm 0.32 is out with support for meta-models/Muse-Spark-Open-816B-A42B-NVFP4!\n\nI'm gonna test it with 2 x M3 Ultra 512GB 💪\n\nLet's start the mega download! https://t.co/oy8Oj81MP6",
+          "created_at": "2026-10-15T19:32:46+00:00",
+          "like_count": 9,
+          "retweet_count": 2,
+          "reply_count": 3,
+          "engagement_score": 16,
+          "url": "https://x.com/ivanfioravanti/status/2110816168286036375"
         }
       ]
     },
@@ -569,10 +539,10 @@
           "id": "2110369131174260880",
           "text": "By the way, in my experience contractors of all sorts have adopted AI for text-based communications and it has substantially improved coordination on home renovation projects",
           "created_at": "2026-10-14T13:56:24+00:00",
-          "like_count": 60,
-          "retweet_count": 0,
-          "reply_count": 3,
-          "engagement_score": 63,
+          "like_count": 79,
+          "retweet_count": 1,
+          "reply_count": 4,
+          "engagement_score": 85,
           "url": "https://x.com/deanwball/status/2110369131174260880"
         }
       ]
@@ -584,28 +554,18 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2110234716729463195",
-          "text": "hot AI startup character ai just filed for bankruptcy! https://t.co/TqtIm0p8LV\n\ni gathered insights from the actual bankruptcy filing itself https://t.co/OnZvWnwe5W and this is an interesting one to break down\n\n1. they have adoption and engagement\n\n12M MAU, with average 2 hours of daily time spent per user! \n\nthat’s.. quite a lot. many startup products would dream to reach this level of usage, but it didn’t work\n\n2. they have real network effect\n\nthey have user generated characters and many users like to engage with characters made by others. so the more users they have, the richer this ecosystem becomes - textbook network effect\n\nsome people seem to think network effect is gold. nope! didn’t work\n\n3. they have proprietary data and custom trained models\n\nmany people say software is dead and only data is moat. this gives a sobering look - private data didn’t help either\n\n4. so what’s wrong?\n\nthey burn over $7M of compute and only get $5M of revenue per month\n\nthat’s the whole problem\n\npeople would engage for free or when subsidized, but they are not willing to pay enough $ for the value they are getting\n\nnow… the real dark side of this \n\nif you take a few steps back and look at all LLM usage, especially all the people on social media using tokens to make the same 3d demos every day - \n\nhow many people are actually creating more economical value than the tokens they burnt? if there’s no subsidization and everyone has to pay at API price, how much of the current usage can actually be justified with positive ROI and sustain? \n\nwe have limited runway to make AI work. and if we can’t, what happened to character ai may just be a preview for the entire AI industry",
-          "created_at": "2026-10-14T05:02:17+00:00",
-          "like_count": 241,
-          "retweet_count": 15,
-          "reply_count": 42,
-          "engagement_score": 313,
-          "url": "https://x.com/kunchenguid/status/2110234716729463195"
-        },
-        {
-          "id": "2110410852025458810",
-          "text": "over the past couple of weeks, i heard multiple people telling me they could no longer use up their LLM subscriptions\n\nthe reasons were a mix of:\n1. the frontier models became more efficient \n2. they felt exhausted managing agents\n3. they ran out of problems that they can throw to AI\n\n1 will continue to happen. 2 is a tooling and workflow problem (just use firstmate haha) that will be solved as well\n\n3 is an interesting one - it points at a novelty effect that may be wearing off, and a capability gap that AI just hasn’t reached the level that most people can trust to run their daily lives yet\n\nmeanwhile, my quotas have never been tighter because i have an endless number of things i want to build\n\nthat points at the reality of user segmentation - R&D is such a niche use case that needs an astounding amount of tokens. there aren’t many other use cases that are so token intensive \n\nrealistically, how many % of the world’s population will want to run an army of agents and build software all day? i don’t expect that to ever become a big number\n\nso my speculation is that the current $200 subscriptions are likely already close to the ceiling of most people’s consumption needs. better models will unlock more use cases, but efficiency gains may cancel that out\n\nlike water, gas, power - most households will simply get one or two monthly AI subscription and be done\n\nnow the important part - this means if you are building a B2C business, you should almost never sell tokens as part of your offering, because there will be no demand. people already have their subscriptions and that’s enough\n\ninstead, allow people to bring their own LLM subscriptions to your product, and add value on top. i suspect this will hold for most B2B businesses as well, but for B2C this is almost certain at this point",
-          "created_at": "2026-10-14T16:42:11+00:00",
-          "like_count": 122,
-          "retweet_count": 3,
-          "reply_count": 31,
-          "engagement_score": 159,
-          "url": "https://x.com/kunchenguid/status/2110410852025458810"
+          "id": "2110640313199141171",
+          "text": "i’m today years old when i learned about https://t.co/0UHaUQpCfm - you can just play with their demo right there\n\nand holy cow i was NOT prepared for what 15000 tokens/s feels like. mind blown\n\napparently they achieved it by hardwiring model weights into the chip. and looks like the team got acquired by $AMD\n\ni hope they keep at it and bring it to mainstream because this is probably one of the most magical things i experienced lately",
+          "created_at": "2026-10-15T07:53:59+00:00",
+          "like_count": 561,
+          "retweet_count": 22,
+          "reply_count": 77,
+          "engagement_score": 682,
+          "url": "https://x.com/kunchenguid/status/2110640313199141171"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-14T22:10:21.202540+00:00"
+  "generated_at": "2026-10-15T22:00:07.397376+00:00"
 }
