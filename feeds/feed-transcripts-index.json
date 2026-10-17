@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-10-15T22:01:44.285831+00:00",
+  "generated_at": "2026-10-17T07:03:49.560146+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+      "link": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+      "channel": "Latent Space",
+      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+      "pub_date": "2026-10-16T04:16:45+00:00",
+      "transcript_path": "feeds/transcripts/16bdd8aff46d1af05dc190a5.txt",
+      "transcript_chars": 18799,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-17T07:03:49.560146+00:00",
+      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
+      "expires_at": "2026-10-31T07:03:49.560146+00:00"
+    },
+    {
+      "guid": "ccb23749-a1de-4720-b5df-a66520c18f1a",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Koreas-Hidden-Value-Activism--AI--Golfzon--Ryan-Albert-e3qgl0o",
+      "channel": "The Acquirers Podcast",
+      "title": "Korea’s Hidden Value: Activism, AI & Golfzon | Ryan Albert",
+      "pub_date": "2026-10-15T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/eef40e927fcad1b04a247a6d.txt",
+      "transcript_chars": 148068,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-17T07:03:49.560146+00:00",
+      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
+      "expires_at": "2026-10-31T07:03:49.560146+00:00"
+    },
+    {
+      "guid": "yt:A698Z8C7388",
+      "link": "https://www.youtube.com/watch?v=A698Z8C7388",
+      "channel": "TheAIGRID",
+      "title": "Sam Altman Just Made Everyone FURIOUS...",
+      "pub_date": "2026-10-15T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/b553f76313fbc53277c7111e.txt",
+      "transcript_chars": 21816,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-17T07:03:49.560146+00:00",
+      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
+      "expires_at": "2026-10-31T07:03:49.560146+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
       "link": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
@@ -12,8 +51,8 @@
       "transcript_chars": 15995,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-15T22:01:44.285831+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
+      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
+      "expires_at": "2026-10-31T07:03:49.560146+00:00"
     },
     {
       "guid": "yt:eS7qQ3WJSrw",
@@ -25,8 +64,8 @@
       "transcript_chars": 101856,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-15T22:01:44.285831+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
+      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
+      "expires_at": "2026-10-31T07:03:49.560146+00:00"
     },
     {
       "guid": "yt:emVZBMh2KNk",
@@ -38,8 +77,8 @@
       "transcript_chars": 32399,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-15T22:01:44.285831+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
+      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
+      "expires_at": "2026-10-31T07:03:49.560146+00:00"
     },
     {
       "guid": "https://www.latent.space/p/crossing-the-threshold",
@@ -51,8 +90,8 @@
       "transcript_chars": 7116,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-14T22:28:04.649374+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
+      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
+      "expires_at": "2026-10-31T07:03:49.560146+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
@@ -64,8 +103,8 @@
       "transcript_chars": 4342,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-14T22:28:04.649374+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
+      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
+      "expires_at": "2026-10-31T07:03:49.560146+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
@@ -77,8 +116,8 @@
       "transcript_chars": 16707,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-14T22:28:04.649374+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
+      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
+      "expires_at": "2026-10-31T07:03:49.560146+00:00"
     },
     {
       "guid": "https://www.latent.space/p/dyna",
@@ -155,8 +194,8 @@
       "transcript_chars": 72381,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
+      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
+      "expires_at": "2026-10-31T07:03:49.560146+00:00"
     },
     {
       "guid": "yt:S6l3aRsecuE",
@@ -168,8 +207,8 @@
       "transcript_chars": 77659,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
+      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
+      "expires_at": "2026-10-31T07:03:49.560146+00:00"
     },
     {
       "guid": "https://www.latent.space/p/claude-dynamic-workflows",
@@ -298,8 +337,8 @@
       "transcript_chars": 82974,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-10T06:14:36.405550+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
+      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
+      "expires_at": "2026-10-31T07:03:49.560146+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
@@ -493,8 +532,8 @@
       "transcript_chars": 34812,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-06T00:35:47.242338+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
+      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
+      "expires_at": "2026-10-31T07:03:49.560146+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
@@ -666,19 +705,6 @@
       "expires_at": "2026-10-17T23:34:08.864110+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/devday-2026",
-      "link": "https://www.latent.space/p/devday-2026",
-      "channel": "Latent Space",
-      "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
-      "pub_date": "2026-09-30T22:23:40+00:00",
-      "transcript_path": "feeds/transcripts/2c041ba4e0482e4a0819876e.txt",
-      "transcript_chars": 61916,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-01T23:54:01.297597+00:00",
-      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
-      "expires_at": "2026-10-17T00:29:26.729028+00:00"
-    },
-    {
       "guid": "yt:hx8R9qYijpI",
       "link": "https://www.youtube.com/watch?v=hx8R9qYijpI",
       "channel": "MAGNO NEWS",
@@ -690,45 +716,6 @@
       "cached_at": "2026-10-01T23:54:01.297597+00:00",
       "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
       "expires_at": "2026-10-20T00:35:47.242338+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
-      "link": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
-      "channel": "Lenny's Podcast",
-      "title": "OpenAI Dev Day 2026: The releases that actually matter",
-      "pub_date": "2026-09-30T14:45:15+00:00",
-      "transcript_path": "feeds/transcripts/daed07e463bcc251b130f808.txt",
-      "transcript_chars": 5158,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
-      "expires_at": "2026-10-17T00:29:26.729028+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
-      "link": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
-      "channel": "Lenny's Podcast",
-      "title": "Jev: 8 real use cases for the fastest, cheapest model I’ve ever used | John Lindquist",
-      "pub_date": "2026-09-30T12:04:27+00:00",
-      "transcript_path": "feeds/transcripts/8c4b4cfaeaeef3124fb5636c.txt",
-      "transcript_chars": 5081,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
-      "expires_at": "2026-10-17T00:29:26.729028+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
-      "link": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
-      "channel": "Latent Space",
-      "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
-      "pub_date": "2026-09-30T05:53:10+00:00",
-      "transcript_path": "feeds/transcripts/3c8f3d3b7dfe3173a543335d.txt",
-      "transcript_chars": 18309,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-10-03T00:29:26.729028+00:00",
-      "expires_at": "2026-10-17T00:29:26.729028+00:00"
     },
     {
       "guid": "yt:7pQJvTrnzhc",
@@ -755,123 +742,6 @@
       "cached_at": "2026-09-30T22:02:02.247175+00:00",
       "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
       "expires_at": "2026-10-20T00:35:47.242338+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
-      "link": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
-      "channel": "Lenny's Podcast",
-      "title": "All of the Lenny & Friends Summit talks are now online!",
-      "pub_date": "2026-09-29T13:15:57+00:00",
-      "transcript_path": "feeds/transcripts/ce493045769694e52175da85.txt",
-      "transcript_chars": 8028,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-29T22:47:27.792168+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
-      "link": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
-      "channel": "Latent Space",
-      "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
-      "pub_date": "2026-09-29T02:55:27+00:00",
-      "transcript_path": "feeds/transcripts/cc0f0e25785a5392f59f7e9b.txt",
-      "transcript_chars": 4306,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-29T22:47:27.792168+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
-      "link": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
-      "channel": "Latent Space",
-      "title": "[AINews] Opus 5.5 is good at explainer videos",
-      "pub_date": "2026-09-29T02:44:29+00:00",
-      "transcript_path": "feeds/transcripts/f7a994f9eb350c11c8540413.txt",
-      "transcript_chars": 59547,
-      "transcript_source": "episode_transcript_link",
-      "cached_at": "2026-09-29T22:47:27.792168+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/thariq",
-      "link": "https://www.latent.space/p/thariq",
-      "channel": "Latent Space",
-      "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
-      "pub_date": "2026-09-29T01:48:18+00:00",
-      "transcript_path": "feeds/transcripts/33dedf410dd2d68c4c2d0849.txt",
-      "transcript_chars": 118309,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-29T22:47:27.792168+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
-    },
-    {
-      "guid": "yt:VysroxvZ-qM",
-      "link": "https://www.youtube.com/watch?v=VysroxvZ-qM",
-      "channel": "Moconomy",
-      "title": "Inside the Mind of Anthropic CEO Dario Amodei | His Plan to Win the AI Race | 4K",
-      "pub_date": "2026-09-26T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/890d803fc54650f068c8717a.txt",
-      "transcript_chars": 75034,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-29T22:47:27.792168+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
-    },
-    {
-      "guid": "yt:djDt8J2_YVs",
-      "link": "https://www.youtube.com/watch?v=djDt8J2_YVs",
-      "channel": "Computer History Museum",
-      "title": "CHM Live | Anthropic's Boris Cherny, Creator of Claude Code",
-      "pub_date": "2026-09-26T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/654ab7dd4c3a3b9e2298f7f2.txt",
-      "transcript_chars": 72960,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-29T22:47:27.792168+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
-    },
-    {
-      "guid": "fd07af4b-4e94-4e1b-8b19-10a1d811e550",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--032---300-Datacenter-Bans--3-Projects-Delayed-Moratoriums-Explained-Datacenter--Energy--Maya-Barkin--Reyk-Knhtsen--Jordan-Nanos-e3p1fc8",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 032 - 300 Datacenter Bans, 3 Projects Delayed: Moratoriums Explained (Datacenter, Energy) | Maya Barkin, Reyk Knühtsen, Jordan Nanos",
-      "pub_date": "2026-09-18T18:00:00+00:00",
-      "transcript_path": "feeds/transcripts/db50eb85d35b1f55a891e786.txt",
-      "transcript_chars": 40802,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-09-29T22:47:27.792168+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
-    },
-    {
-      "guid": "yt:giE1O1-e2DY",
-      "link": "https://www.youtube.com/watch?v=giE1O1-e2DY",
-      "channel": "Sources Podcast and Alex Heath",
-      "title": "Satya Nadella on Copilot, the AI backlash, and Microsoft’s future",
-      "pub_date": "2026-09-25T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/71d78bf50f50d5db88723c4e.txt",
-      "transcript_chars": 50458,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-27T10:27:08.356510+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
-    },
-    {
-      "guid": "yt:eo4DF16uIIg",
-      "link": "https://www.youtube.com/watch?v=eo4DF16uIIg",
-      "channel": "Deirdre Bosa and Yahoo Finance",
-      "title": "Microsoft’s AI Bet: Copilot, Autopilot and the Coming Product War with CEO Satya Nadella",
-      "pub_date": "2026-09-25T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/87f1b1dc9a479f55bcfce646.txt",
-      "transcript_chars": 26815,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-27T10:27:08.356510+00:00",
-      "last_seen_at": "2026-10-01T23:54:01.297597+00:00",
-      "expires_at": "2026-10-15T23:54:01.297597+00:00"
     },
     {
       "guid": "d5619c2f-7fe2-4523-bc0d-d15a03dbfbb1",
