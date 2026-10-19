@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-18T07:12:05.245673+00:00",
+  "generated_at": "2026-10-19T03:04:13.086500+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "yt:Qmafkf_08uQ",
+      "link": "https://www.youtube.com/watch?v=Qmafkf_08uQ",
+      "channel": "Lex Clips",
+      "title": "Jensen Huang on the phone call that changed everything | Lex Fridman in Taiwan",
+      "pub_date": "2026-10-17T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/e05daa72f19ac88ca2a5f28f.txt",
+      "transcript_chars": 14411,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-19T03:04:13.086500+00:00",
+      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
+      "expires_at": "2026-11-02T03:04:13.086500+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
       "link": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
@@ -12,8 +25,8 @@
       "transcript_chars": 39075,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-18T07:12:05.245673+00:00",
-      "last_seen_at": "2026-10-18T07:12:05.245673+00:00",
-      "expires_at": "2026-11-01T07:12:05.245673+00:00"
+      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
+      "expires_at": "2026-11-02T03:04:13.086500+00:00"
     },
     {
       "guid": "b21ad519-2a55-4a63-8496-c76c6cb34acc",
@@ -25,8 +38,8 @@
       "transcript_chars": 146960,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-18T07:12:05.245673+00:00",
-      "last_seen_at": "2026-10-18T07:12:05.245673+00:00",
-      "expires_at": "2026-11-01T07:12:05.245673+00:00"
+      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
+      "expires_at": "2026-11-02T03:04:13.086500+00:00"
     },
     {
       "guid": "yt:K0GTRWwz38E",
@@ -38,8 +51,8 @@
       "transcript_chars": 15240,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-18T07:12:05.245673+00:00",
-      "last_seen_at": "2026-10-18T07:12:05.245673+00:00",
-      "expires_at": "2026-11-01T07:12:05.245673+00:00"
+      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
+      "expires_at": "2026-11-02T03:04:13.086500+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
@@ -51,8 +64,8 @@
       "transcript_chars": 18799,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-17T07:03:49.560146+00:00",
-      "last_seen_at": "2026-10-18T07:12:05.245673+00:00",
-      "expires_at": "2026-11-01T07:12:05.245673+00:00"
+      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
+      "expires_at": "2026-11-02T03:04:13.086500+00:00"
     },
     {
       "guid": "ccb23749-a1de-4720-b5df-a66520c18f1a",
@@ -77,8 +90,8 @@
       "transcript_chars": 21816,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-17T07:03:49.560146+00:00",
-      "last_seen_at": "2026-10-18T07:12:05.245673+00:00",
-      "expires_at": "2026-11-01T07:12:05.245673+00:00"
+      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
+      "expires_at": "2026-11-02T03:04:13.086500+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
@@ -103,8 +116,8 @@
       "transcript_chars": 101856,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-15T22:01:44.285831+00:00",
-      "last_seen_at": "2026-10-18T07:12:05.245673+00:00",
-      "expires_at": "2026-11-01T07:12:05.245673+00:00"
+      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
+      "expires_at": "2026-11-02T03:04:13.086500+00:00"
     },
     {
       "guid": "yt:emVZBMh2KNk",
@@ -116,8 +129,8 @@
       "transcript_chars": 32399,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-15T22:01:44.285831+00:00",
-      "last_seen_at": "2026-10-18T07:12:05.245673+00:00",
-      "expires_at": "2026-11-01T07:12:05.245673+00:00"
+      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
+      "expires_at": "2026-11-02T03:04:13.086500+00:00"
     },
     {
       "guid": "https://www.latent.space/p/crossing-the-threshold",
@@ -233,8 +246,8 @@
       "transcript_chars": 72381,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-18T07:12:05.245673+00:00",
-      "expires_at": "2026-11-01T07:12:05.245673+00:00"
+      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
+      "expires_at": "2026-11-02T03:04:13.086500+00:00"
     },
     {
       "guid": "yt:S6l3aRsecuE",
@@ -376,8 +389,8 @@
       "transcript_chars": 82974,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-10T06:14:36.405550+00:00",
-      "last_seen_at": "2026-10-18T07:12:05.245673+00:00",
-      "expires_at": "2026-11-01T07:12:05.245673+00:00"
+      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
+      "expires_at": "2026-11-02T03:04:13.086500+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
@@ -571,8 +584,8 @@
       "transcript_chars": 34812,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-06T00:35:47.242338+00:00",
-      "last_seen_at": "2026-10-18T07:12:05.245673+00:00",
-      "expires_at": "2026-11-01T07:12:05.245673+00:00"
+      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
+      "expires_at": "2026-11-02T03:04:13.086500+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
@@ -614,19 +627,6 @@
       "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
-      "link": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
-      "channel": "Latent Space",
-      "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
-      "pub_date": "2026-10-02T06:40:53+00:00",
-      "transcript_path": "feeds/transcripts/135fd66721671df0305fde9c.txt",
-      "transcript_chars": 6166,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-05T00:24:20.922487+00:00",
-      "expires_at": "2026-10-19T00:24:20.922487+00:00"
-    },
-    {
       "guid": "yt:qy8Gr27yLMk",
       "link": "https://www.youtube.com/watch?v=qy8Gr27yLMk",
       "channel": "Silicon Valley Girl",
@@ -664,32 +664,6 @@
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
       "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
       "expires_at": "2026-10-20T00:35:47.242338+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/airbnb",
-      "link": "https://www.latent.space/p/airbnb",
-      "channel": "Latent Space",
-      "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
-      "pub_date": "2026-10-02T14:04:49+00:00",
-      "transcript_path": "feeds/transcripts/83de2e5e7b40282aa16aa67b.txt",
-      "transcript_chars": 10481,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-03T00:29:26.729028+00:00",
-      "last_seen_at": "2026-10-05T00:24:20.922487+00:00",
-      "expires_at": "2026-10-19T00:24:20.922487+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/rlm",
-      "link": "https://www.latent.space/p/rlm",
-      "channel": "Latent Space",
-      "title": "Academia is for Ambition — Alex Zhang, MIT",
-      "pub_date": "2026-10-02T00:28:04+00:00",
-      "transcript_path": "feeds/transcripts/e2777323230361587c5ae514.txt",
-      "transcript_chars": 130717,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-03T00:29:26.729028+00:00",
-      "last_seen_at": "2026-10-05T00:24:20.922487+00:00",
-      "expires_at": "2026-10-19T00:24:20.922487+00:00"
     },
     {
       "guid": "yt:hx8R9qYijpI",

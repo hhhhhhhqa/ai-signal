@@ -1,105 +1,15 @@
 {
   "articles": [
     {
-      "id": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "published": "2026-10-15T19:00:00+00:00",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
-    },
-    {
-      "id": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "published": "2026-10-15T16:08:03+00:00",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
-    },
-    {
-      "id": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Teaching students to think and learn through questions",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "published": "2026-10-15T13:00:00+00:00",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
-    },
-    {
-      "id": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "id": "https://www.anthropic.com/news/public-benefit-fund",
       "source": "anthropic",
       "source_name": "Anthropic",
-      "title": "Anthropic update on independent evaluators",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "published": "2026-10-15T00:00:00+00:00",
-      "summary": "Anthropic announces updates to embedding independent evaluators"
-    },
-    {
-      "id": "https://openai.com/index/amp-beyond-coding",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "published": "2026-10-14T12:00:00+00:00",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
-    },
-    {
-      "id": "https://openai.com/index/sentinelone",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "published": "2026-10-14T12:00:00+00:00",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats."
-    },
-    {
-      "id": "https://openai.com/index/third-moment-research",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "published": "2026-10-14T07:00:00+00:00",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
-    },
-    {
-      "id": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "published": "2026-10-14T02:00:14+00:00",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
-    },
-    {
-      "id": "https://www.anthropic.com/news/2026-us-midterms",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Preparing for the 2026 US midterms",
-      "url": "https://www.anthropic.com/news/2026-us-midterms",
-      "published": "2026-10-14T00:00:00+00:00",
-      "summary": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this year’s US midterms."
-    },
-    {
-      "id": "https://www.anthropic.com/news/singapore-office-opening",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Singapore office and government MOU | Anthropic",
-      "url": "https://www.anthropic.com/news/singapore-office-opening",
-      "published": "2026-10-14T00:00:00+00:00",
-      "summary": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption."
-    },
-    {
-      "id": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "published": "2026-10-13T00:00:00+00:00",
-      "summary": "As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in five months."
+      "title": "Investing in the public benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "published": "2026-10-18T00:00:00+00:00",
+      "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows."
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-15T22:00:07.397376+00:00"
+  "generated_at": "2026-10-18T22:12:17.665130+00:00"
 }
