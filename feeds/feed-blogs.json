@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "https://openai.com/index/low-resource-programming-languages",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "published": "2026-10-19T12:00:00+00:00",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+    },
+    {
       "id": "https://www.anthropic.com/news/public-benefit-fund",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -11,5 +20,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-18T22:12:17.665130+00:00"
+  "generated_at": "2026-10-19T22:01:46.955193+00:00"
 }

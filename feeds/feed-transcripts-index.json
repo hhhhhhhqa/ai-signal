@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-10-19T03:04:13.086500+00:00",
+  "generated_at": "2026-10-20T00:38:58.412225+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
+      "pub_date": "2026-10-19T15:03:35+00:00",
+      "transcript_path": "feeds/transcripts/e25733e8c47f1262273da1f9.txt",
+      "transcript_chars": 8495,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-20T00:38:58.412225+00:00",
+      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
+      "expires_at": "2026-11-03T00:38:58.412225+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
+      "link": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
+      "channel": "Lenny's Podcast",
+      "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
+      "pub_date": "2026-10-19T12:04:52+00:00",
+      "transcript_path": "feeds/transcripts/0c1e227fb42aca9b69809cbd.txt",
+      "transcript_chars": 4723,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-20T00:38:58.412225+00:00",
+      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
+      "expires_at": "2026-11-03T00:38:58.412225+00:00"
+    },
+    {
+      "guid": "yt:fovzUg5ON_0",
+      "link": "https://www.youtube.com/watch?v=fovzUg5ON_0",
+      "channel": "DWS News and DRM News",
+      "title": "FULL DISCUSSION: Nvidia Jensen Huang & German Merz Discuss AI, Robotics,Jobs, Germany’s Future |AC1E",
+      "pub_date": "2026-10-19T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/ed71ebcb946b931ea9fba15b.txt",
+      "transcript_chars": 19550,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-20T00:38:58.412225+00:00",
+      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
+      "expires_at": "2026-11-03T00:38:58.412225+00:00"
+    },
+    {
+      "guid": "yt:AwuTTOJGEi0",
+      "link": "https://www.youtube.com/watch?v=AwuTTOJGEi0",
+      "channel": "No Priors: AI, Machine Learning, Tech, & Startups",
+      "title": "The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman",
+      "pub_date": "2026-10-15T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/87c9b870c4c90a7e171ca518.txt",
+      "transcript_chars": 45053,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-20T00:38:58.412225+00:00",
+      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
+      "expires_at": "2026-11-03T00:38:58.412225+00:00"
+    },
     {
       "guid": "yt:Qmafkf_08uQ",
       "link": "https://www.youtube.com/watch?v=Qmafkf_08uQ",
@@ -12,8 +64,8 @@
       "transcript_chars": 14411,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-19T03:04:13.086500+00:00",
-      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
-      "expires_at": "2026-11-02T03:04:13.086500+00:00"
+      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
+      "expires_at": "2026-11-03T00:38:58.412225+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
@@ -25,8 +77,8 @@
       "transcript_chars": 39075,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-18T07:12:05.245673+00:00",
-      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
-      "expires_at": "2026-11-02T03:04:13.086500+00:00"
+      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
+      "expires_at": "2026-11-03T00:38:58.412225+00:00"
     },
     {
       "guid": "b21ad519-2a55-4a63-8496-c76c6cb34acc",
@@ -38,8 +90,8 @@
       "transcript_chars": 146960,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-18T07:12:05.245673+00:00",
-      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
-      "expires_at": "2026-11-02T03:04:13.086500+00:00"
+      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
+      "expires_at": "2026-11-03T00:38:58.412225+00:00"
     },
     {
       "guid": "yt:K0GTRWwz38E",
@@ -90,8 +142,8 @@
       "transcript_chars": 21816,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-17T07:03:49.560146+00:00",
-      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
-      "expires_at": "2026-11-02T03:04:13.086500+00:00"
+      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
+      "expires_at": "2026-11-03T00:38:58.412225+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
@@ -116,8 +168,8 @@
       "transcript_chars": 101856,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-15T22:01:44.285831+00:00",
-      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
-      "expires_at": "2026-11-02T03:04:13.086500+00:00"
+      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
+      "expires_at": "2026-11-03T00:38:58.412225+00:00"
     },
     {
       "guid": "yt:emVZBMh2KNk",
@@ -129,8 +181,8 @@
       "transcript_chars": 32399,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-15T22:01:44.285831+00:00",
-      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
-      "expires_at": "2026-11-02T03:04:13.086500+00:00"
+      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
+      "expires_at": "2026-11-03T00:38:58.412225+00:00"
     },
     {
       "guid": "https://www.latent.space/p/crossing-the-threshold",
@@ -389,8 +441,8 @@
       "transcript_chars": 82974,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-10T06:14:36.405550+00:00",
-      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
-      "expires_at": "2026-11-02T03:04:13.086500+00:00"
+      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
+      "expires_at": "2026-11-03T00:38:58.412225+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
@@ -601,19 +653,6 @@
       "expires_at": "2026-10-22T02:05:44.447484+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
-      "link": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
-      "channel": "Latent Space",
-      "title": "[AINews] not much happened today",
-      "pub_date": "2026-10-03T08:45:15+00:00",
-      "transcript_path": "feeds/transcripts/e39f0c370e6927a43aee1af9.txt",
-      "transcript_chars": 37723,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
-      "expires_at": "2026-10-20T00:35:47.242338+00:00"
-    },
-    {
       "guid": "f737ec61-bcbd-439a-903c-06663c5541c6",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--034---Engrams-How-DeepSeek-Offloads-KV-Cache-to-DRAM-and-SSD-Core-Research--Jordan-Nanos--Cam-Quilici--Alec-Ibarra--Bryan-Shan-e3pp7av",
       "channel": "SemiAnalysis",
@@ -651,58 +690,6 @@
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
       "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
       "expires_at": "2026-10-20T22:01:39.872348+00:00"
-    },
-    {
-      "guid": "yt:Gf-KssYwepc",
-      "link": "https://www.youtube.com/watch?v=Gf-KssYwepc",
-      "channel": "Forbes Breaking News",
-      "title": "BREAKING: Elon Musk And Jensen Huang Speak At America.Gov Event, An AI-Powered Government Website",
-      "pub_date": "2026-09-29T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/bb28c2fa1b4df54fefc16a8c.txt",
-      "transcript_chars": 24730,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
-      "expires_at": "2026-10-20T00:35:47.242338+00:00"
-    },
-    {
-      "guid": "yt:hx8R9qYijpI",
-      "link": "https://www.youtube.com/watch?v=hx8R9qYijpI",
-      "channel": "MAGNO NEWS",
-      "title": "🇺🇸 President Trump Meets Elon Musk, Jensen Huang, Sundar Pichai, Zuckerberg on Super Intelligence",
-      "pub_date": "2026-09-29T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/15f89ef270ab7c85dcfd85a0.txt",
-      "transcript_chars": 32897,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-01T23:54:01.297597+00:00",
-      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
-      "expires_at": "2026-10-20T00:35:47.242338+00:00"
-    },
-    {
-      "guid": "yt:7pQJvTrnzhc",
-      "link": "https://www.youtube.com/watch?v=7pQJvTrnzhc",
-      "channel": "Forbes",
-      "title": "BREAKING NEWS: Trump, Mark Zuckerberg, Dario Amodei, And More Discuss New AI Standards Accords",
-      "pub_date": "2026-09-29T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/4b15c539731769130b598a21.txt",
-      "transcript_chars": 39173,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
-      "expires_at": "2026-10-20T00:35:47.242338+00:00"
-    },
-    {
-      "guid": "yt:388P7IFSpwE",
-      "link": "https://www.youtube.com/watch?v=388P7IFSpwE",
-      "channel": "Right Side Broadcasting Network",
-      "title": "FULL: Elon Musk, Jensen Huang, Tom Brown Discuss the AI Revolution & What's Next - 09/29/26",
-      "pub_date": "2026-09-29T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/40a7d724723d8f2493641084.txt",
-      "transcript_chars": 25009,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-09-30T22:02:02.247175+00:00",
-      "last_seen_at": "2026-10-06T00:35:47.242338+00:00",
-      "expires_at": "2026-10-20T00:35:47.242338+00:00"
     },
     {
       "guid": "d5619c2f-7fe2-4523-bc0d-d15a03dbfbb1",
