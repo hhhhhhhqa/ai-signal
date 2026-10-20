@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-10-20T00:38:58.412225+00:00",
+  "generated_at": "2026-10-20T22:27:04.241565+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.latent.space/p/sfcompute2",
+      "link": "https://www.latent.space/p/sfcompute2",
+      "channel": "Latent Space",
+      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
+      "pub_date": "2026-10-20T19:31:57+00:00",
+      "transcript_path": "feeds/transcripts/6d557137ca16914d81f68fd0.txt",
+      "transcript_chars": 47022,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-20T22:27:04.241565+00:00",
+      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
+      "expires_at": "2026-11-03T22:27:04.241565+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+      "link": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+      "channel": "Latent Space",
+      "title": "[AINews] not much happened today",
+      "pub_date": "2026-10-20T05:21:52+00:00",
+      "transcript_path": "feeds/transcripts/4a2a77cb85ecb3ddc593e13e.txt",
+      "transcript_chars": 16065,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-20T22:27:04.241565+00:00",
+      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
+      "expires_at": "2026-11-03T22:27:04.241565+00:00"
+    },
+    {
+      "guid": "79088467-ffe5-4436-b693-62ead9c7e4ac",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--038---GLM-5-3-on-AMD--NVIDIA--and-Chinese-Chips-From-Day-One-InferenceX--Kimbo-Chen--Wenyao-Gao--Jordan-Nanos-e3qfp6b",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 038 - GLM 5.3 on AMD, NVIDIA, and Chinese Chips From Day One (InferenceX) | Kimbo Chen, Wenyao Gao, Jordan Nanos",
+      "pub_date": "2026-10-14T11:00:00+00:00",
+      "transcript_path": "feeds/transcripts/3ea4dacc56ccacb986f3574c.txt",
+      "transcript_chars": 38873,
+      "transcript_source": "companion_youtube",
+      "cached_at": "2026-10-20T22:27:04.241565+00:00",
+      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
+      "expires_at": "2026-11-03T22:27:04.241565+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
       "link": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
@@ -12,8 +51,8 @@
       "transcript_chars": 8495,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-20T00:38:58.412225+00:00",
-      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
-      "expires_at": "2026-11-03T00:38:58.412225+00:00"
+      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
+      "expires_at": "2026-11-03T22:27:04.241565+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
@@ -25,8 +64,8 @@
       "transcript_chars": 4723,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-20T00:38:58.412225+00:00",
-      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
-      "expires_at": "2026-11-03T00:38:58.412225+00:00"
+      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
+      "expires_at": "2026-11-03T22:27:04.241565+00:00"
     },
     {
       "guid": "yt:fovzUg5ON_0",
@@ -38,8 +77,8 @@
       "transcript_chars": 19550,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-20T00:38:58.412225+00:00",
-      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
-      "expires_at": "2026-11-03T00:38:58.412225+00:00"
+      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
+      "expires_at": "2026-11-03T22:27:04.241565+00:00"
     },
     {
       "guid": "yt:AwuTTOJGEi0",
@@ -51,8 +90,8 @@
       "transcript_chars": 45053,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-20T00:38:58.412225+00:00",
-      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
-      "expires_at": "2026-11-03T00:38:58.412225+00:00"
+      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
+      "expires_at": "2026-11-03T22:27:04.241565+00:00"
     },
     {
       "guid": "yt:Qmafkf_08uQ",
@@ -64,8 +103,8 @@
       "transcript_chars": 14411,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-19T03:04:13.086500+00:00",
-      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
-      "expires_at": "2026-11-03T00:38:58.412225+00:00"
+      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
+      "expires_at": "2026-11-03T22:27:04.241565+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
@@ -142,8 +181,8 @@
       "transcript_chars": 21816,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-17T07:03:49.560146+00:00",
-      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
-      "expires_at": "2026-11-03T00:38:58.412225+00:00"
+      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
+      "expires_at": "2026-11-03T22:27:04.241565+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
@@ -168,8 +207,8 @@
       "transcript_chars": 101856,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-15T22:01:44.285831+00:00",
-      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
-      "expires_at": "2026-11-03T00:38:58.412225+00:00"
+      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
+      "expires_at": "2026-11-03T22:27:04.241565+00:00"
     },
     {
       "guid": "yt:emVZBMh2KNk",
@@ -181,8 +220,8 @@
       "transcript_chars": 32399,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-15T22:01:44.285831+00:00",
-      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
-      "expires_at": "2026-11-03T00:38:58.412225+00:00"
+      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
+      "expires_at": "2026-11-03T22:27:04.241565+00:00"
     },
     {
       "guid": "https://www.latent.space/p/crossing-the-threshold",
@@ -441,8 +480,8 @@
       "transcript_chars": 82974,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-10T06:14:36.405550+00:00",
-      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
-      "expires_at": "2026-11-03T00:38:58.412225+00:00"
+      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
+      "expires_at": "2026-11-03T22:27:04.241565+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
@@ -664,45 +703,6 @@
       "cached_at": "2026-10-03T23:34:08.864110+00:00",
       "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
       "expires_at": "2026-10-29T22:01:44.285831+00:00"
-    },
-    {
-      "guid": "yt:qy8Gr27yLMk",
-      "link": "https://www.youtube.com/watch?v=qy8Gr27yLMk",
-      "channel": "Silicon Valley Girl",
-      "title": "OpenAI Co-Founder: Start Building With AI Before You Feel Ready | Greg Brockman",
-      "pub_date": "2026-09-30T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/f543c642ee11e2ac2f55597c.txt",
-      "transcript_chars": 37981,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
-      "expires_at": "2026-10-20T22:01:39.872348+00:00"
-    },
-    {
-      "guid": "yt:k6YbWRJFoVM",
-      "link": "https://www.youtube.com/watch?v=k6YbWRJFoVM",
-      "channel": "CNBC-TV18",
-      "title": "WATCH: President Trump's Hilarious Interaction with Sundar Pichai, Elon Musk & Top CEOs | N18G",
-      "pub_date": "2026-09-30T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/5cdc3860d7b7488df5ac5ed1.txt",
-      "transcript_chars": 32622,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
-      "expires_at": "2026-10-20T22:01:39.872348+00:00"
-    },
-    {
-      "guid": "d5619c2f-7fe2-4523-bc0d-d15a03dbfbb1",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--033---ClusterMAX-3-0-Is-Here--Neoclouds-Ranked-Neoclouds--GPUs--Sam-Harshe--Pratt-Bhatt--Jordan-Nanos-e3pa84t",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 033 - ClusterMAX 3.0 Is Here! Neoclouds Ranked (Neoclouds, GPUs) | Sam Harshe, Pratt Bhatt, Jordan Nanos",
-      "pub_date": "2026-09-23T22:50:00+00:00",
-      "transcript_path": "feeds/transcripts/8dbccf1a20636027eacf3c27.txt",
-      "transcript_chars": 65764,
-      "transcript_source": "companion_youtube",
-      "cached_at": "2026-09-24T22:47:51.977783+00:00",
-      "last_seen_at": "2026-10-06T22:01:39.872348+00:00",
-      "expires_at": "2026-10-20T22:01:39.872348+00:00"
     }
   ]
 }

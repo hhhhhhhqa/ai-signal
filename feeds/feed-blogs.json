@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "https://openai.com/index/ted-taylor-restaurant",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "published": "2026-10-20T10:00:00+00:00",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+    },
+    {
+      "id": "https://www.anthropic.com/research/attack-surface-reduction",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "published": "2026-10-20T00:00:00+00:00",
+      "summary": "Automated attack surface analysis and reduction can meaningfully improve the security of deployed software in the near term. In this post, we preview data we’ve collected from applying attack surface reduction techniques to large open-source codebases using Claude."
+    },
+    {
+      "id": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "How Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "published": "2026-10-20T00:00:00+00:00",
+      "summary": "We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins."
+    },
+    {
+      "id": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "published": "2026-10-20T00:00:00+00:00",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
+    },
+    {
       "id": "https://openai.com/index/low-resource-programming-languages",
       "source": "openai",
       "source_name": "OpenAI",
@@ -20,5 +56,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-19T22:01:46.955193+00:00"
+  "generated_at": "2026-10-20T22:10:36.082550+00:00"
 }
