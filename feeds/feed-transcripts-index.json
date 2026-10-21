@@ -1,7 +1,124 @@
 {
-  "generated_at": "2026-10-20T22:27:04.241565+00:00",
+  "generated_at": "2026-10-21T23:02:54.334129+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+      "link": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+      "channel": "Lenny's Podcast",
+      "title": "Claude Duet is beautiful. I still forgot to use it",
+      "pub_date": "2026-10-21T20:25:18+00:00",
+      "transcript_path": "feeds/transcripts/f36b29f67948ecdc4b281d7b.txt",
+      "transcript_chars": 4818,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-21T23:02:54.334129+00:00",
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/claude-mods",
+      "link": "https://www.latent.space/p/claude-mods",
+      "channel": "Latent Space",
+      "title": "Claude Mods: Flipping the Harness Inside Out",
+      "pub_date": "2026-10-21T13:04:19+00:00",
+      "transcript_path": "feeds/transcripts/0d73f376262ca1f5f1b8dfc7.txt",
+      "transcript_chars": 12714,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-21T23:02:54.334129+00:00",
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+      "link": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+      "channel": "Latent Space",
+      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+      "pub_date": "2026-10-21T06:54:09+00:00",
+      "transcript_path": "feeds/transcripts/c7f4ee7a4319bbfe2f821bb7.txt",
+      "transcript_chars": 58433,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-21T23:02:54.334129+00:00",
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
+    },
+    {
+      "guid": "https://www.latent.space/p/tenex",
+      "link": "https://www.latent.space/p/tenex",
+      "channel": "Latent Space",
+      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+      "pub_date": "2026-10-21T05:01:26+00:00",
+      "transcript_path": "feeds/transcripts/ea77105b906bcb3ae6ead87c.txt",
+      "transcript_chars": 53553,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-21T23:02:54.334129+00:00",
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
+    },
+    {
+      "guid": "yt:3gXLmy7DK_4",
+      "link": "https://www.youtube.com/watch?v=3gXLmy7DK_4",
+      "channel": "Matthew Berman",
+      "title": "Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!",
+      "pub_date": "2026-10-21T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/493ddbe778aa515dc8b1e3fe.txt",
+      "transcript_chars": 44051,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-21T23:02:54.334129+00:00",
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
+    },
+    {
+      "guid": "yt:anAmTGcewX8",
+      "link": "https://www.youtube.com/watch?v=anAmTGcewX8",
+      "channel": "Stanford Graduate School of Business",
+      "title": "Sam Altman, Co-Founder and CEO of OpenAI: Staying Human While Scaling Superintelligence",
+      "pub_date": "2026-10-21T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/1ae4bc16ef2360bbc88c2ffd.txt",
+      "transcript_chars": 44855,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-21T23:02:54.334129+00:00",
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
+    },
+    {
+      "guid": "yt:fJBSNEFdm8c",
+      "link": "https://www.youtube.com/watch?v=fJBSNEFdm8c",
+      "channel": "Sources Podcast and 2 more",
+      "title": "Sundar Pichai on Gemini 4 and putting data centers in space",
+      "pub_date": "2026-10-21T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/b011d9996a0639df0c414e81.txt",
+      "transcript_chars": 56245,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-21T23:02:54.334129+00:00",
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
+    },
+    {
+      "guid": "yt:PvFjbPYEOZI",
+      "link": "https://www.youtube.com/watch?v=PvFjbPYEOZI",
+      "channel": "NVIDIA",
+      "title": "NVIDIA GTC Berlin 2026 Keynote With CEO Jensen Huang",
+      "pub_date": "2026-10-21T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/3a9f5cc378e6f52e7aad958d.txt",
+      "transcript_chars": 67017,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-21T23:02:54.334129+00:00",
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
+    },
+    {
+      "guid": "27dff112-099e-47eb-95a4-c9aba0ed9414",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--039---EMERGENCY-Our-Numbers-Are-Insane--Heres-the-Proof--Datacenters--Jeremie-Ontiveros--Reyk-Knuhtsen--Jordan-Nanos-e3qpvpg",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 039 - [EMERGENCY] Our Numbers Are \"Insane.\" Here's the Proof. (Datacenters) | Jeremie Ontiveros, Reyk Knuhtsen, Jordan Nanos",
+      "pub_date": "2026-10-20T15:09:36+00:00",
+      "transcript_path": "feeds/transcripts/66f948d40d92066793e00b83.txt",
+      "transcript_chars": 45847,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-21T23:02:54.334129+00:00",
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
+    },
     {
       "guid": "https://www.latent.space/p/sfcompute2",
       "link": "https://www.latent.space/p/sfcompute2",
@@ -12,8 +129,8 @@
       "transcript_chars": 47022,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-20T22:27:04.241565+00:00",
-      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
-      "expires_at": "2026-11-03T22:27:04.241565+00:00"
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
@@ -25,8 +142,8 @@
       "transcript_chars": 16065,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-20T22:27:04.241565+00:00",
-      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
-      "expires_at": "2026-11-03T22:27:04.241565+00:00"
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
     },
     {
       "guid": "79088467-ffe5-4436-b693-62ead9c7e4ac",
@@ -38,8 +155,8 @@
       "transcript_chars": 38873,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-20T22:27:04.241565+00:00",
-      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
-      "expires_at": "2026-11-03T22:27:04.241565+00:00"
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
@@ -51,8 +168,8 @@
       "transcript_chars": 8495,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-20T00:38:58.412225+00:00",
-      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
-      "expires_at": "2026-11-03T22:27:04.241565+00:00"
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
@@ -64,8 +181,8 @@
       "transcript_chars": 4723,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-20T00:38:58.412225+00:00",
-      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
-      "expires_at": "2026-11-03T22:27:04.241565+00:00"
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
     },
     {
       "guid": "yt:fovzUg5ON_0",
@@ -77,8 +194,8 @@
       "transcript_chars": 19550,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-20T00:38:58.412225+00:00",
-      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
-      "expires_at": "2026-11-03T22:27:04.241565+00:00"
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
     },
     {
       "guid": "yt:AwuTTOJGEi0",
@@ -90,8 +207,8 @@
       "transcript_chars": 45053,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-20T00:38:58.412225+00:00",
-      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
-      "expires_at": "2026-11-03T22:27:04.241565+00:00"
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
     },
     {
       "guid": "yt:Qmafkf_08uQ",
@@ -103,8 +220,8 @@
       "transcript_chars": 14411,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-19T03:04:13.086500+00:00",
-      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
-      "expires_at": "2026-11-03T22:27:04.241565+00:00"
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
@@ -181,8 +298,8 @@
       "transcript_chars": 21816,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-17T07:03:49.560146+00:00",
-      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
-      "expires_at": "2026-11-03T22:27:04.241565+00:00"
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
@@ -207,8 +324,8 @@
       "transcript_chars": 101856,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-15T22:01:44.285831+00:00",
-      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
-      "expires_at": "2026-11-03T22:27:04.241565+00:00"
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
     },
     {
       "guid": "yt:emVZBMh2KNk",
@@ -480,8 +597,8 @@
       "transcript_chars": 82974,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-10T06:14:36.405550+00:00",
-      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
-      "expires_at": "2026-11-03T22:27:04.241565+00:00"
+      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
+      "expires_at": "2026-11-04T23:02:54.334129+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
