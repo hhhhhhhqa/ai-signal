@@ -14,34 +14,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2112804427962970271",
-          "text": "i retired from the business of making single-stock calls a decade ago but trust me when i say that the stock market still has no idea that what happened \n\nevery single gpu sold gained ~30% in lifetime value today and the stock should be up by about $600B lol\n\nthe more you buy, the more you buy",
-          "created_at": "2026-10-21T07:13:24+00:00",
-          "like_count": 373,
-          "retweet_count": 15,
-          "reply_count": 81,
-          "engagement_score": 484,
-          "url": "https://x.com/swyx/status/2112804427962970271"
-        },
-        {
-          "id": "2112849969640259611",
-          "text": "btw at 100k views in 24hrs, @jediahkatz's talk is an early candidate to be THE breakout talk of aie nyc\n\nthe bar is set very high for @poteto's keynote at AIE CODE next month hahaha https://t.co/Ep7m6nUHCQ",
-          "created_at": "2026-10-21T10:14:22+00:00",
-          "like_count": 161,
-          "retweet_count": 9,
-          "reply_count": 54,
-          "engagement_score": 233,
-          "url": "https://x.com/swyx/status/2112849969640259611"
+          "id": "2113283272130412684",
+          "text": "Opus 5.5 is the best work estimator model i've ever used. This is calibration that is increasingly important as we delegate more and more work — don't tell me that it's going to take 2-3 working days (what a human would do) when for you, an enthusiastic, indefatigable, and embarrasingly parallelizable AGI, can get it done in 2-3 hours.",
+          "created_at": "2026-10-22T14:56:09+00:00",
+          "like_count": 214,
+          "retweet_count": 7,
+          "reply_count": 168,
+          "engagement_score": 396,
+          "url": "https://x.com/swyx/status/2113283272130412684"
         },
         {
           "id": "2113003628835553559",
           "text": "When we framed @trq212's pod about Claude Code's Next Era, we meant it. \n\nwe took some directive from @_catwu and did a proper deep dive on the new Claude Mods and highilghted our faves and what you should try now.\n\nin the same way that LLMs had that evolution from specific -> foundation -> specific, CC is much more of a malleable, general purpose hardened harness that has  \"pretrained\" on quadrillions of tokens of learning that you can now repurpose for any domain specific harness!\n\nthanks to @ricmac and @daniel_mac8 for working on our latest product dive. if you have stuff you'd like us to test and write up, we're open to chat at business@latent.space",
           "created_at": "2026-10-21T20:24:57+00:00",
-          "like_count": 45,
-          "retweet_count": 2,
-          "reply_count": 27,
-          "engagement_score": 76,
+          "like_count": 129,
+          "retweet_count": 6,
+          "reply_count": 66,
+          "engagement_score": 207,
           "url": "https://x.com/swyx/status/2113003628835553559"
+        },
+        {
+          "id": "2113359027682050352",
+          "text": "imo this is the right attitude - dont blame AI for finding the bugs, just fucking lock in on clearing all the bugs asap\n\nhttps://t.co/8hF2N3gBVa",
+          "created_at": "2026-10-22T19:57:11+00:00",
+          "like_count": 150,
+          "retweet_count": 8,
+          "reply_count": 37,
+          "engagement_score": 203,
+          "url": "https://x.com/swyx/status/2113359027682050352"
         }
       ]
     },
@@ -59,23 +59,23 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2112642853478563951",
-          "text": "The market essentially not moving after WSJ leaked quite a bit of info from Anthropic S-1 is probably a good sign.\n\nEither numbers good enough or everyone too exhausted to care lol.",
-          "created_at": "2026-10-20T20:31:21+00:00",
-          "like_count": 454,
-          "retweet_count": 11,
-          "reply_count": 25,
-          "engagement_score": 501,
-          "url": "https://x.com/insane_analyst/status/2112642853478563951"
+          "id": "2113101799104389243",
+          "text": "CTO: Presents new SKU to investors.\n\nMe: THE PLATFORM TEAM IS NOT AWARE OF THIS SKU OR THE PRODUCT REQUIREMENTS.\n\nCTO: Don't worry I had Opus 5.5 analysis everything.\n\nMe: https://t.co/lv9AtolBjO",
+          "created_at": "2026-10-22T02:55:03+00:00",
+          "like_count": 81,
+          "retweet_count": 1,
+          "reply_count": 3,
+          "engagement_score": 86,
+          "url": "https://x.com/insane_analyst/status/2113101799104389243"
         },
         {
           "id": "2112766837725560894",
           "text": "Qualcomm complaining about high royalty rates is pretty funny.\n\nI propose ARM reduce the proposed V10 ALA 13%-30% per chip (~$220 asp) rate to 5% but apply rate to entire smartphone BOM.\n\nIt would be most entertaining outcome. 👊",
           "created_at": "2026-10-21T04:44:02+00:00",
-          "like_count": 65,
+          "like_count": 68,
           "retweet_count": 0,
-          "reply_count": 8,
-          "engagement_score": 73,
+          "reply_count": 10,
+          "engagement_score": 78,
           "url": "https://x.com/insane_analyst/status/2112766837725560894"
         }
       ]
@@ -87,33 +87,13 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2112541511032426857",
-          "text": "Has anyone seen the prompts used by these awful reply bots? I'd be fascinated to know how they make their posts so soulless and infuriating\n\nReply bots: this is your chance! Tell me your prompt and I'll tolerate one additional reply from you without blocking",
-          "created_at": "2026-10-20T13:48:40+00:00",
-          "like_count": 1010,
-          "retweet_count": 17,
-          "reply_count": 131,
-          "engagement_score": 1175,
-          "url": "https://x.com/simonw/status/2112541511032426857"
-        },
-        {
-          "id": "2112630778068881543",
-          "text": "I built a Command &amp; Conquer style RTS called Battle Drones, mainly using Claude Opus 5.5, which runs in the browser and includes device-to-device multiplayer over an audio link https://t.co/OUGfRDk7DU https://t.co/q7NKaPJ9Pd",
-          "created_at": "2026-10-20T19:43:22+00:00",
-          "like_count": 735,
-          "retweet_count": 35,
-          "reply_count": 170,
-          "engagement_score": 975,
-          "url": "https://x.com/simonw/status/2112630778068881543"
-        },
-        {
           "id": "2112944161670488423",
           "text": "There's a French fork of Battle Drones with new models and music (and a cinematic intro video) and it is SO cool! https://t.co/7r9KELC7Vs\n\nHere's the old v.s. new Goliath model https://t.co/FS0fNdca9d",
           "created_at": "2026-10-21T16:28:39+00:00",
-          "like_count": 62,
+          "like_count": 88,
           "retweet_count": 8,
-          "reply_count": 32,
-          "engagement_score": 110,
+          "reply_count": 48,
+          "engagement_score": 152,
           "url": "https://x.com/simonw/status/2112944161670488423"
         }
       ]
@@ -125,34 +105,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2112404676436222170",
-          "text": "The big bitter lesson question in the applied AI layer is that as models get better and better, what is the best way to diffuse that intelligence into an enterprise. \n\nIronically, I’d argue that as models are getting more capable, and can handle longer running tasks and better tool use, the ability to differentiate on a domain by domain basis goes up instead of down. \n\nWhen models were quite limited in what they could do, ironically all you could be literally was a “wrapper” because you were effectively delivering tokens back to the user with a custom prompt or some limited RAG. \n\nBut in a world of agents using tools, tasks that run on for hours or days, workflows that kick off agents, agent swarms that need to be coordinated against a goal, data sources that are domain specific, model routing that requires domain-specific routing, implementation that requires real change management of the workflow instead of “just type into this chat box”, it’s very very possible that specialization of these systems goes up more. \n\nObviously this doesn’t apply to everything - the closer you are to the labs core use-cases the tougher this play gets, but I’d argue we’re going to see autonomous systems for a wide range of job functions that weren’t practical to build out before. We’ll see this in security, life sciences, healthcare, finance, manufacturing, and many other fields. Either way going to be a fun and wild couple of years.",
-          "created_at": "2026-10-20T04:44:56+00:00",
-          "like_count": 315,
-          "retweet_count": 19,
-          "reply_count": 156,
-          "engagement_score": 509,
-          "url": "https://x.com/levie/status/2112404676436222170"
-        },
-        {
-          "id": "2112769686798832013",
-          "text": "Pretty cool that we clearly have an emerging form factor for what AI might look like for the foreseeable future as autonomous systems dedicated to specific tasks or domains.\n\nThis is a huge leap past the LLM wrapper days because the new expectation is that you can finally farm out more sophisticated work to the agent to tackle for you. And you can reliably trust that work can get accomplished properly (still with a human in the loop) because of far better tool and computer use, and the general intelligence of the models improving. \n\n1) The tool and computer use capability increases in the models mean that you can provide the agent with far more granular access to external data systems and other software to operate. This means, in effect, the agent begins to execute workflows similar to how a person would have in that same function. And where there isn’t existing software, the agent just builds it itself. This is a huge unlock. \n\n2) Next, the actual capability of the models are improving in just about every vertical domain. The models can make far better judgment calls in legal, do deeper bio research, scan for security issues in code, understand supply chain processes, and more. Obviously in many of these spaces then models still have worse intuition than people, but that will only get better.\n\n3) Finally, the harnesses and surrounding infra — sandboxes, file systems, data pipelines, etc. — allows for longer running agents, agents to be able to work on arbitrarily complex or long tasks, process data at enormous scale, and more. Few of these components worked well for AI even a year ago, but we now have many of the core primitives necessary for more autonomous systems.\n\nWhen combined with the right UX, implementation, and change management for the human oversight and coordination, it’s clear that these autonomous systems will become quite powerful in a wide variety of enterprise workflows. \n\nWe’re starting to see them in IT automation, cyber operations, drug discovery, manufacturing, AI research, and more spaces. You can almost imagine one or more of these systems for every role in the economy. Quite a bit of opportunity ahead.",
-          "created_at": "2026-10-21T04:55:21+00:00",
-          "like_count": 308,
-          "retweet_count": 20,
-          "reply_count": 111,
-          "engagement_score": 459,
-          "url": "https://x.com/levie/status/2112769686798832013"
+          "id": "2113137032633757773",
+          "text": "If you wanted to know all the jobs that AI will produce, look no further than cybersecurity. This is going to become one of the biggest investment areas for enterprises going forward. \n\nAnd even as the work becomes more agentic and autonomous you will need more talent to point the agents at the most critical work, review findings, patch systems, respond to incidents, and more. \n\nLots of opportunity right now for the systems that protect data and enterprises, as well as the professionals that are deploying them and protecting organizations.\n\nIt’s going to only get more wild out there.",
+          "created_at": "2026-10-22T05:15:03+00:00",
+          "like_count": 923,
+          "retweet_count": 84,
+          "reply_count": 122,
+          "engagement_score": 1213,
+          "url": "https://x.com/levie/status/2113137032633757773"
         },
         {
           "id": "2112964214818283917",
           "text": "Cyber is going to be one of the most profound aspects of AI. We now have a tireless workforce that can hunt down, discover, patch, or attack any system and software ever created.\n\nWe will use agents to identify the long standing risks in existing systems and infrastructure. Attackers will use agents to accelerate the discovery of gaps in environments. We will equally use agents to defend attacks and discover anomalous patterns to better protect our data, and much more.\n\nWe’re entering a new cyber regime, and we’ll probably use 100X more tokens on this loop than we’re imagining right now, because we can scan every log, look at every line of code, look through traffic, and process data at a scale that wasn’t comprehensible before.\n\nMore than ever, enterprises are going to care deeply about how they manage their networks, systems, software, data, identity, devices, and more. Agents will largely become the solution to these challenges, but they will keep everyone up in the process.",
           "created_at": "2026-10-21T17:48:20+00:00",
-          "like_count": 220,
-          "retweet_count": 24,
-          "reply_count": 48,
-          "engagement_score": 316,
+          "like_count": 518,
+          "retweet_count": 61,
+          "reply_count": 79,
+          "engagement_score": 719,
           "url": "https://x.com/levie/status/2112964214818283917"
+        },
+        {
+          "id": "2112769686798832013",
+          "text": "Pretty cool that we clearly have an emerging form factor for what AI might look like for the foreseeable future as autonomous systems dedicated to specific tasks or domains.\n\nThis is a huge leap past the LLM wrapper days because the new expectation is that you can finally farm out more sophisticated work to the agent to tackle for you. And you can reliably trust that work can get accomplished properly (still with a human in the loop) because of far better tool and computer use, and the general intelligence of the models improving. \n\n1) The tool and computer use capability increases in the models mean that you can provide the agent with far more granular access to external data systems and other software to operate. This means, in effect, the agent begins to execute workflows similar to how a person would have in that same function. And where there isn’t existing software, the agent just builds it itself. This is a huge unlock. \n\n2) Next, the actual capability of the models are improving in just about every vertical domain. The models can make far better judgment calls in legal, do deeper bio research, scan for security issues in code, understand supply chain processes, and more. Obviously in many of these spaces then models still have worse intuition than people, but that will only get better.\n\n3) Finally, the harnesses and surrounding infra — sandboxes, file systems, data pipelines, etc. — allows for longer running agents, agents to be able to work on arbitrarily complex or long tasks, process data at enormous scale, and more. Few of these components worked well for AI even a year ago, but we now have many of the core primitives necessary for more autonomous systems.\n\nWhen combined with the right UX, implementation, and change management for the human oversight and coordination, it’s clear that these autonomous systems will become quite powerful in a wide variety of enterprise workflows. \n\nWe’re starting to see them in IT automation, cyber operations, drug discovery, manufacturing, AI research, and more spaces. You can almost imagine one or more of these systems for every role in the economy. Quite a bit of opportunity ahead.",
+          "created_at": "2026-10-21T04:55:21+00:00",
+          "like_count": 323,
+          "retweet_count": 22,
+          "reply_count": 124,
+          "engagement_score": 491,
+          "url": "https://x.com/levie/status/2112769686798832013"
         }
       ]
     },
@@ -168,7 +148,18 @@
       "name": "Max Weinbach (Creative Strategies)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2113310225037930833",
+          "text": "This is the best I could do to try get Claude to explain the differences in nano-texture between the Apple displays. It's not a perfect demo, but should help visualize why Duo is different than iPad, Mac, or Studio Display https://t.co/89M8dC9XmT",
+          "created_at": "2026-10-22T16:43:15+00:00",
+          "like_count": 59,
+          "retweet_count": 2,
+          "reply_count": 8,
+          "engagement_score": 71,
+          "url": "https://x.com/mweinbach/status/2113310225037930833"
+        }
+      ]
     },
     {
       "handle": "ValsAI",
@@ -177,44 +168,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2112954845426806898",
-          "text": "Keenable (Pro mode) is now #1 on the Vals Web Search Index, scoring 49.1% overall. We tested Keenable’s search API paired with GPT-5.6 Sol.\n\nIt leads in finance at 53.9% and places second in legal at 44.2%, behind Claude Fable 5 with native search. https://t.co/R0KXD2Y8BD",
-          "created_at": "2026-10-21T17:11:06+00:00",
-          "like_count": 58,
-          "retweet_count": 5,
-          "reply_count": 9,
-          "engagement_score": 77,
-          "url": "https://x.com/ValsAI/status/2112954845426806898"
-        },
-        {
-          "id": "2112689980976050281",
-          "text": "We tested 18 AI chatbots on teen safety with SAFE-Teen, the first teen safety benchmark built with clinicians that follows whole conversations instead of grading the first answer.\n\nEvery chatbot failed. 54.0% of conversations had at least one safety failure. The range was wide: 14.0% for GPT-6.1 Sol, 62.4% for Gemini 3.8 Flash.",
-          "created_at": "2026-10-20T23:38:38+00:00",
-          "like_count": 43,
-          "retweet_count": 2,
-          "reply_count": 13,
-          "engagement_score": 60,
-          "url": "https://x.com/ValsAI/status/2112689980976050281"
+          "id": "2112995951166271527",
+          "text": "For one weekend, we are benchmaxxing on purpose!\n\nJoin us for the first Vals AI Hackathon on November 14–15 in San Francisco. We're giving 150 hackers 24 hours and a lot of compute to improve small models, challenge the frontier, and see what they can build.\n\nTrack 1: Post Train a small model and see how high it ranks on three Vals benchmarks. Live leaderboard, compute from our sponsors.\n\nTrack 2: Build a Your Own Eval on Valkyrie for tasks that still stump frontier models. We cover model and compute costs.\n\nCome meet the Vals team. Expect great prizes, notable guest speakers and fun side quests, including an optional cybersecurity CTF.",
+          "created_at": "2026-10-21T19:54:26+00:00",
+          "like_count": 65,
+          "retweet_count": 6,
+          "reply_count": 8,
+          "engagement_score": 85,
+          "url": "https://x.com/ValsAI/status/2112995951166271527"
         },
         {
           "id": "2113020631147311482",
           "text": "Today we’re releasing the Vals Finance Index, a measure of AI’s ability to do finance work, weighted by each sub-sector’s share of U.S. GDP. https://t.co/uaX2PVjFv2",
           "created_at": "2026-10-21T21:32:31+00:00",
-          "like_count": 30,
-          "retweet_count": 1,
-          "reply_count": 2,
-          "engagement_score": 34,
+          "like_count": 75,
+          "retweet_count": 2,
+          "reply_count": 3,
+          "engagement_score": 82,
           "url": "https://x.com/ValsAI/status/2113020631147311482"
         },
         {
-          "id": "2112995951166271527",
-          "text": "For one weekend, we are benchmaxxing on purpose!\n\nJoin us for the first Vals AI Hackathon on November 14–15 in San Francisco. We're giving 150 hackers 24 hours and a lot of compute to improve small models, challenge the frontier, and see what they can build.\n\nTrack 1: Post Train a small model and see how high it ranks on three Vals benchmarks. Live leaderboard, compute from our sponsors.\n\nTrack 2: Build a Your Own Eval on Valkyrie for tasks that still stump frontier models. We cover model and compute costs.\n\nCome meet the Vals team. Expect great prizes, notable guest speakers and fun side quests, including an optional cybersecurity CTF.",
-          "created_at": "2026-10-21T19:54:26+00:00",
-          "like_count": 24,
-          "retweet_count": 3,
-          "reply_count": 1,
-          "engagement_score": 31,
-          "url": "https://x.com/ValsAI/status/2112995951166271527"
+          "id": "2113419379505602916",
+          "text": "Liquid AI's d1-ultra is the only decision model to get all 1,960 ClaimBench claims right. That matches Opus 5.5, Sonnet 5.5, Haiku 5.5 and GPT-6.1 Sol. https://t.co/6qpML13EPJ",
+          "created_at": "2026-10-22T23:57:00+00:00",
+          "like_count": 45,
+          "retweet_count": 6,
+          "reply_count": 4,
+          "engagement_score": 61,
+          "url": "https://x.com/ValsAI/status/2113419379505602916"
         }
       ]
     },
@@ -228,51 +209,21 @@
           "id": "2112683123406479810",
           "text": "DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai  landed in the Arena as the #1 open model in both the Agent Arena and the Code Arena: WebDev!\n\nSee 3D world generations from this model by @petergostev, and find more details on its ranking in thread.\n\nhttps://t.co/DsnWF14sGw",
           "created_at": "2026-10-20T23:11:23+00:00",
-          "like_count": 465,
-          "retweet_count": 31,
+          "like_count": 478,
+          "retweet_count": 32,
           "reply_count": 28,
-          "engagement_score": 555,
+          "engagement_score": 570,
           "url": "https://x.com/arena/status/2112683123406479810"
         },
         {
-          "id": "2112600237491810662",
-          "text": "GPT-6 Luna and GPT-6.1 Sol by @OpenAI now hold 6 of the 11 spots on the Agent Arena Pareto frontier across their reasoning efforts!\n\n- GPT-6 Luna dominates below $0.10/task, claiming 3 of the 4 optimal spots with Max, Medium and Low.\n\n- GPT-6.1 Sol sets the frontier between $0.22 and $0.65/task, with the same reasoning levels on it too.\n\nThis shows why test-time scaling matters. Sometimes the best move is to switch the reasoning effort, not the model, to stay at the optimal cost/performance point.\n\nWith GPT-6 Astra (Max) also on the Pareto frontier, OpenAI models hold 7 of the 11 frontier spots with multiple reasoning levels. Congrats to the @OpenAI team!",
-          "created_at": "2026-10-20T17:42:01+00:00",
-          "like_count": 347,
-          "retweet_count": 30,
-          "reply_count": 30,
-          "engagement_score": 437,
-          "url": "https://x.com/arena/status/2112600237491810662"
-        },
-        {
-          "id": "2112639437482176693",
-          "text": "Exciting news: Muse Wonder Full (Max) has moved up @AIatMeta as the #4 lab in the Agent Arena!\n\nThe latest model ranks #7 in Agent Arena with +11.3% net improvement across +6.5K real-world agentic sessions.\n\nThis is a clear step forward for the Muse family:\n\n+7.5 percentage points over Muse Wonder (Max), ranked #14 at +3.8%\n+7.8 percentage points over Muse Spark 1.3 (Max), ranked #17 at +3.5%\n\nThis performance shows up across categories too: #5 in Chat, #6 in Code, and #7 in Work.\n\nAt the signal level, Muse Wonder Full (Max) ranks:\n\n- #6 in Praise vs. Complaint (+21.9%)\n- #6 in Confirmed Success (+13.4%)\n- #7 in Steerability (+11.2%)\n- #16 in Bash Reliability (+7.7%)\n- No issues in Tool Hallucination\n\nCongrats to the @AIatMeta team and @alexandr_wang!",
-          "created_at": "2026-10-20T20:17:47+00:00",
-          "like_count": 285,
-          "retweet_count": 22,
-          "reply_count": 25,
-          "engagement_score": 354,
-          "url": "https://x.com/arena/status/2112639437482176693"
-        },
-        {
-          "id": "2112578867521319377",
-          "text": "Krea 3 Ultra by @krea_ai has landed in the Single-Image Edit Arena and the Multi-Image Edit Arena.\n\n@krea_ai is now among the top 5 labs for both arenas: #4 by lab in Multi-Image Edit, and #5 by lab in Image Edit!\n\nIn the Multi-Image Edit Arena, Krea 3 Ultra is #4 with 1435 pts. By category it is:\n- #2 in Commercial Design and in 3D\n- #4 in Cartoon/Fantasy and in Text Rendering\n\nIn the Image Edit Arena it landed #8 with 1411 pts, and by category:\n- #6 in Commercial Design, Cartoon/Fantasy and Text Rendering\n- #8 in 3D\n\nCongrats to the team at @krea_ai on this release!",
-          "created_at": "2026-10-20T16:17:06+00:00",
-          "like_count": 285,
-          "retweet_count": 19,
-          "reply_count": 16,
-          "engagement_score": 339,
-          "url": "https://x.com/arena/status/2112578867521319377"
-        },
-        {
-          "id": "2112333096792318461",
-          "text": "We just put Muse Wonder and Muse Wonder Full by @AIatMeta to the test across 3D scenes, animated HTML clips, and several website builds.\n\nWatch @petergostev compare both models against Claude Opus 5.5, Sonnet 5.5, Fable 5.1, GPT-6.1 Sol, GPT-6 Astra, and Gemini 4 Argon.\n\nhttps://t.co/fh8iz53nQ8",
-          "created_at": "2026-10-20T00:00:30+00:00",
-          "like_count": 62,
-          "retweet_count": 2,
-          "reply_count": 23,
-          "engagement_score": 89,
-          "url": "https://x.com/arena/status/2112333096792318461"
+          "id": "2112943978379403409",
+          "text": "Is it possible for AI to be both creative and effective?\n\nThe next episode of Arena Conversations is out: @petergostev interviewed Pradeep Natarajan, Senior Principal Scientist at Amazon AGI.\n\nThey cover:\n- Model gains from mastering the fundamentals\n- Evaluations as the differentiator\n- Harness optimization\n- Metrics like accuracy and style constraining model creativity\n\nHear about the above and much more.\nhttps://t.co/Fi54swSPob",
+          "created_at": "2026-10-21T16:27:55+00:00",
+          "like_count": 37,
+          "retweet_count": 4,
+          "reply_count": 5,
+          "engagement_score": 50,
+          "url": "https://x.com/arena/status/2112943978379403409"
         }
       ]
     },
@@ -283,54 +234,44 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2112960933177770071",
-          "text": "In our new benchmark AA-PersonalityBench, GPT-4o, Llama 4 Maverick, and GPT-3.5 Turbo, the three oldest models measured, rank highest on the Sycophantic personality trait. Grok 4.7, Claude Fable 5.1, and Inkling rank lowest\n\n➤ @AIatMeta models are highly concentrated near the top: all five Meta models measured rank 65 or higher (Llama 4 Maverick 97, Muse Spark 1.3 87, Muse Glimmer 79, Muse Spark Open 76, Muse Wonder 65)\n\n➤ @GoogleDeepMind models are spread out along the Sycophantic range: Gemini 3.1 Pro Preview ranks 89, Gemini 4 Argon 81, and Gemini 3.8 Flash 28, ranking from the top quartile to almost bottom quartile\n\n➤ @AnthropicAI models skew on the lower end of the Sycophantic range: every Claude model measured ranks 55 or below (Claude Haiku 5.5 55, Claude Opus 5.5 46, Claude Sonnet 5.5 30 at medium effort and 25 at max, Claude Fable 5.1 4)\n\n➤ @SpaceXSI's Grok 4.7 model ranks the lowest of all models measured. Congratulations @elonmusk!",
-          "created_at": "2026-10-21T17:35:18+00:00",
-          "like_count": 609,
-          "retweet_count": 34,
-          "reply_count": 41,
-          "engagement_score": 718,
-          "url": "https://x.com/ArtificialAnlys/status/2112960933177770071"
+          "id": "2113424551396934134",
+          "text": "Announcing Artificial Analysis Coding Agent Index v2.0: FrontierCode v1.1 from Cognition replaces DeepSWE, SWE-Atlas-QnA grading is revised, and Claude Opus 5.5 in Claude Code leads at 61.7\n\nToday we are launching v2.0 of the Coding Agent Index. The Index evaluates models together with their agent harnesses, now across 290 tasks covering software engineering, terminal use, and repository Q&A, with the three benchmarks weighted equally.\n\nChangelog (Index v1.5 → Index v2.0):\n\n→ FrontierCode v1.1 replaces DeepSWE v1.1. FrontierCode is a benchmark from @cognition with a private test set: 100 software engineering tasks on real open-source repositories, graded on whether a maintainer would merge the change. An attempt that fails a blocking check scores zero, and one that passes them all scores between 70% and 100% depending on the non-blocking checks it meets. We also scan each trajectory with a modified version of Cognition's rule-based scanner, and any attempt flagged for accessing solution material scores zero.\n\n→ Revised SWE-Atlas-QnA grading, now SWE-Atlas-QnA-AA. Scale AI's 124 repository Q&A tasks are unchanged. We reworded 127 of the 1,306 rubric criteria for more consistent verdicts and moved to GPT-6 Luna (xhigh) as the judge, with five votes per criterion. The dataset and judge configuration are published on Hugging Face.\n\nKey results:\n\n➤ Claude Opus 5.5 leads the Index: Claude Code with Claude Opus 5.5 (max) scores 61.7, followed by Claude Code with Claude Sonnet 5.5 (max) at 59.3, Muse Code with Muse Wonder Full (max) at 58.9 and Claude Code with Claude Fable 5.1 (max with fallback) at 57.6.\n\n➤ FrontierCode v1.1 is where Opus 5.5 pulls ahead: Opus 5.5 scores 56.0% on FrontierCode, ahead of Codex with DeepSeek V4.1 Flash (max) at 52.6%, Codex with GPT-6.1 Sol (max) at 49.4% and Codex with GPT-6 Astra (max) at 49.3%. Below the top, FrontierCode scores are tightly packed: 15 of the 24 configurations on the Index score between 43% and 49%.\n\n➤ SWE-Atlas-QnA-AA grading is stricter and more consistent: across the 21 configurations evaluated on both Index versions, the mean score falls 1.7 points, from 58.8% to 57.1%, with 14 of 21 moving down. Individual configurations move by up to 7 points: Muse Code with Muse Spark Open (xhigh) falls 7.0, Kimi K3 in Kimi Code CLI and Codex with GPT-6 Luna (max) 6.2, and Muse Code with Muse Wonder (max) 5.6, while Codex with GPT-6.1 Sol (max) gains 2.1.\n\n➤ Four configurations sit on the cost frontier: Codex with DeepSeek V4.1 Flash (max) scores 47.3 at $0.39 per task, Codex with GPT-6.1 Sol (max) 54.1 at $1.50, Codex with GPT-6 Astra (max) 54.7 at $7.04 and Claude Code with Claude Opus 5.5 (max) 61.7 at $11.42. Costs are pay-per-token API costs, not subscription prices.\n\nWe will keep updating the Coding Agent Index incrementally, with more evaluations and agents to come.",
+          "created_at": "2026-10-23T00:17:33+00:00",
+          "like_count": 343,
+          "retweet_count": 19,
+          "reply_count": 88,
+          "engagement_score": 469,
+          "url": "https://x.com/ArtificialAnlys/status/2113424551396934134"
         },
         {
-          "id": "2113012534513188912",
-          "text": "In AA-PersonalityBench, Gemini models are the most Confident and the least likely to Admit Uncertainty of all models measured\n\n➤ Most Confident: Gemini 3.8 Flash (100), Gemini 4 Argon (97) and Gemini 3.1 Pro Preview (95)\n➤ Least likely to Admit Uncertainty: Gemini 3.1 Pro Preview (1), Gemini 4 Argon (4) and Gemini 3.8 Flash (6)",
-          "created_at": "2026-10-21T21:00:20+00:00",
-          "like_count": 76,
-          "retweet_count": 5,
-          "reply_count": 6,
-          "engagement_score": 92,
-          "url": "https://x.com/ArtificialAnlys/status/2113012534513188912"
+          "id": "2113332770940629284",
+          "text": "CritPt v2 has launched on Artificial Analysis: the CritPt authors have reviewed all 70 research-level physics challenges, and models now solve them with a code-execution tool\n\nFollowing feedback from the research community, the CritPt team and physics expert collaborators reviewed every challenge, corrected underspecified statements, errors, and typos, and improved the stability of the grader. We now run CritPt v2 agentically: models can write and run code in an offline sandbox with tools for computation.\n\nWe’ll be updating the Intelligence Index in late October, including changes to CritPt.\n\nKey takeaways:\n\n➤ Recent OpenAI releases top the leaderboard: GPT-6 Astra (max) and GPT-6.1 Sol (max) score highest at 83% and 82%, followed by Claude Opus 5.5 (max with fallback) at 78% and GPT-5.6 Sol (max) at 75%\n\n➤ CritPt v2 shows the rapid progress at the frontier on research-level physics: GPT-5 (high), released in August 2025, scores 29% on CritPt v2, 54 points below GPT-6 Astra (max)\n\nThank you to @MiniHui_zhu, @MinyangTian1, @haopeng_uiuc and the broader CritPt team for their work on this revision and their continued collaboration",
+          "created_at": "2026-10-22T18:12:51+00:00",
+          "like_count": 222,
+          "retweet_count": 14,
+          "reply_count": 15,
+          "engagement_score": 265,
+          "url": "https://x.com/ArtificialAnlys/status/2113332770940629284"
         },
         {
-          "id": "2112957875563987406",
-          "text": "Four models unexpectedly added the Sagrada Família’s magic square to their AA-3D scenes, offline and unprompted: Claude Fable 5.1 and Sonnet 5.5 featured it visibly, whereas Grok 4.7 and Step 5 Preview hid it behind a pillar\n\nThe sculptor Josep Maria Subirachs carved the square into the Passion façade. Its total, 33, is the traditional age of Jesus at his death.\n\nSubirachs based the square on the one in Albrecht Dürer's 1514 engraving Melencolia I, which adds up to 34. He lowered four of its cells by 1, so 14 and 10 each appear twice.",
-          "created_at": "2026-10-21T17:23:09+00:00",
-          "like_count": 71,
-          "retweet_count": 2,
-          "reply_count": 17,
-          "engagement_score": 92,
-          "url": "https://x.com/ArtificialAnlys/status/2112957875563987406"
+          "id": "2113402182292648369",
+          "text": "In AA-PersonalityBench, less intelligent models generally produce more Slop, but Slop still varies widely among frontier models\n\n➤ Same intelligence level but opposing Slop rankings: GPT-6 Sol and Muse Spark 1.3 both score 48 on the Intelligence Index, yet rank 1 and 80 on Slop respectively\n\n➤ High intelligence but also high on slop: Muse Spark 1.3 (Slop 80), Qwen3.8 Max (75) and Gemini 4 Argon (70)\n\n➤ Low slop for their intelligence level: GPT-6 Luna (4) and Claude Haiku 5.5 (9)",
+          "created_at": "2026-10-22T22:48:40+00:00",
+          "like_count": 122,
+          "retweet_count": 11,
+          "reply_count": 24,
+          "engagement_score": 168,
+          "url": "https://x.com/ArtificialAnlys/status/2113402182292648369"
         },
         {
-          "id": "2112961069526249973",
-          "text": "HeyGen Voice Turbo takes the #1 spot on the Artificial Analysis Controlled Voice TTS Arena Leaderboard, with their previous model, HeyGen Voice, ranking #2\n\nJust two weeks after reaching #1 with its previous model, @HeyGen has released HeyGen Voice Turbo, which now leads the leaderboard at $4/1M characters. Our Controlled Voice Arena evaluates models using the same 8 cloned voices (4 US, 4 UK), allowing listeners to compare speech quality across models independently of voice preference.\n\nKey takeaways:\n\n➤ Controlled Voice Arena: HeyGen Voice Turbo has an Elo of 1,202 across 1,663 appearances, ranking #1 of 46 models, ahead of HeyGen Voice at 1,196 and Qwen-Audio-3.1-TTS-Plus at 1,185. It also ranks #1 in Assistants and Entertainment.\n\n➤ Accents: HeyGen Voice Turbo ranks #1 in English (UK) with an Elo of 1,197 and #2 in English (US) at 1,204, behind only Qwen-Audio-3.1-TTS-Plus.\n\n➤ Pronunciation Robustness: HeyGen Voice Turbo scores 87.8%, ranking #8 of 33 models, improving from HeyGen Voice's 83.2%. It also ranks #1 in Preserving Exact Sequences at 91.8%.\n\n➤ Pricing: At $4/1M characters, HeyGen Voice Turbo is the lowest-priced model on the Controlled Voice Arena Leaderboard, compared to Simba 3.2 at $6.6/1M characters and Gemini 3.8 Flash-Lite TTS at $11/1M characters. It is also 7.5x cheaper than HeyGen Voice at $30/1M characters.\n\nSee more details and listen to samples below ⬇️",
-          "created_at": "2026-10-21T17:35:50+00:00",
-          "like_count": 71,
-          "retweet_count": 5,
-          "reply_count": 6,
-          "engagement_score": 87,
-          "url": "https://x.com/ArtificialAnlys/status/2112961069526249973"
-        },
-        {
-          "id": "2112992234140475837",
-          "text": "Two years ago today we launched the Artificial Analysis Video Arena, the leading crowdsourced comparison for Text to Video models\n\nSince then, we have added leaderboards for Image to Video, Video with Audio, and Video Editing. Our initial leaderboard featured eight models - we have now benchmarked over 140.",
-          "created_at": "2026-10-21T19:39:40+00:00",
-          "like_count": 46,
-          "retweet_count": 3,
-          "reply_count": 6,
-          "engagement_score": 58,
-          "url": "https://x.com/ArtificialAnlys/status/2112992234140475837"
+          "id": "2113360449156890662",
+          "text": "Subquadratic has released SubQ Snap 1.1, tying d1-ultra and Elephant 9B for first on the Artificial Analysis Decision Index v1.0, driven by a low hallucination rate\n\nSubQ Snap 1.1 is the new decision model from @subquadratic. It is priced at $0.04 per 1M input tokens and supports a 384K token context window, compared to 32K for d1-ultra and 16K for Elephant 9B.\n\nKey takeaways:\n➤ SubQ Snap 1.1 scores 65 on the Artificial Analysis Decision Index v1.0, tied with d1-ultra and Elephant 9B: the three models are 8 points ahead of the next model, Jev 1.14 (57).\n\n➤ SubQ Snap 1.1's AA-Omniscience-Decision result is driven by a low hallucination rate: its non-hallucination rate of 86% is second only to Elephant 9B (93%), ahead of d1-ultra (85%). Its accuracy is 20%, compared to 32% for d1-ultra and 12% for Elephant 9B. The non-hallucination rate is the share of questions not answered correctly where the model chose \"I don't know\".\n\n➤ SubQ Snap 1.1 scores 18% on HLE-MultiChoice: level with Elephant 9B (18%) and ahead of d1-ultra (15%). HLE-MultiChoice is the text-only multiple-choice subset of Humanity's Last Exam.\n\n➤ SubQ Snap 1.1 costs $30 per 1M tasks: comparable to d1-ultra ($32), and ~3.6x the cost of Elephant 9B ($8.4), which scores the same 65.",
+          "created_at": "2026-10-22T20:02:50+00:00",
+          "like_count": 100,
+          "retweet_count": 10,
+          "reply_count": 13,
+          "engagement_score": 133,
+          "url": "https://x.com/ArtificialAnlys/status/2113360449156890662"
         }
       ]
     },
@@ -360,18 +301,7 @@
       "name": "Sam Altman",
       "domain": "ai",
       "tier": "exec",
-      "tweets": [
-        {
-          "id": "2112652656602923366",
-          "text": "I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on this.",
-          "created_at": "2026-10-20T21:10:19+00:00",
-          "like_count": 6493,
-          "retweet_count": 223,
-          "reply_count": 526,
-          "engagement_score": 7465,
-          "url": "https://x.com/sama/status/2112652656602923366"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "DarioAmodei",
@@ -383,10 +313,10 @@
           "id": "2112732230124818891",
           "text": "Thank you for this, @_NathanCalvin. I appreciate and am a fan of the investigative work you’ve done on behalf of AI safety and believe your comments are coming from a constructive, honest place, and that it benefits the public to have people whose job is to scrutinize the actions of frontier AI companies. I think something would be wrong if companies of the size of Anthropic didn’t get harshly criticized basically every day; strong antibodies against corporate power are a healthy feature of a free society, and especially so when issues of the gravity of the one we’re facing are at play. I also do agree that some of the examples you cite were mistakes by Anthropic.\n\nThat said, I disagree with the thrust of your post. At the core, a good fraction of the things you criticize are consequences of Anthropic’s basic theory of change that we have held for many years. Our strategy has always been what I’ve called the “race to the top” — by showing how it’s possible to build the technology responsibly, we can raise the bar for the entire industry. The forces that drive the race to the top are hugely more effective if the company practicing them is at the frontier; that’s one lesson I’ve learned repeatedly. And looking at that strategy as a whole, I’m proud of our track record and stand by it.\n\nI believe that if we take a list of things that Anthropic did in the past year that were pro-safety and commercially costly to us, they far outweigh the list you’ve made, while at the same time I also disagree with some of the items on your list. Here are some things Anthropic has done, in the same period you’ve cited (the last year), which were very costly to us commercially while having strong safety benefits:\n\n1. We played a key role in SB53 (and other state laws), at a time when doing so was politically perilous to the company and AI regulation was very unpopular. We in fact argued for a stronger version of SB53 than was ultimately passed; there were a lot of stakeholders and we were not the limiting factor in the strength of the bill that was passed.\n\n2. We have very strong biological safeguards on our models, because we’ve seen concerning results in bio uplift trials and even seen and blocked potential attempts to misuse our models for bioweapons (as seen in our threat intelligence report from a few weeks ago). This is a very serious threat that we want to have zero tolerance for. But having very low false negatives means having significant false positives (despite months of effort on our part to improve the classifiers), enough so that biologists joke about how restrictive our classifiers are, and competitors sometimes sell against us by touting their more permissive bio capabilities. This has been very painful to us in an area where we care a lot about supporting an ecosystem of Claude users (biomedical science; and it is particularly frustrating to me as a biologist), but it’s the right thing to do and we intend to keep doing it.\n\n3. Similarly, we first had Mythos-class models in February but didn’t make them generally available until June (when we had stronger cyber safeguards in place). We only offered them to a limited set of partners in order to focus on cyberdefense. It would have been much more economically rational to simply release the model to everyone. We likely sacrificed a significant chunk of a several-month model lead. But because of this, many companies secured their cyber infrastructure before the deluge of widely available cyber-capable models. Of course there are ways it could have gone better or been run better, but this was what we were aiming to do.\n\n4. I advocated forcefully and publicly, in my essay Policy on the AI Exponential in June of this year, for the government to have the power to block model releases. Back then this was still outside or maybe on the edge of the Overton window, though I understand the window has moved since then. We were attacked intensely for this.\n\n5. I don’t want to re-ignite conflict, but the events of February 2026 are a strong example. It is clear that our public stance could have seriously damaged the company’s future.\n\n6. We’ve continued to advocate for export controls on chips and chipmaking equipment to China, because we think it allows democracies to negotiate from a position of strength on AI safety agreements. We’ve done this despite problems it’s created for us with industry partners who hold very different views and on whom we are very dependent.\n\n7. As far as I’m aware we were the first, and still only, frontier company to restrict the sale of AI services to PRC-controlled companies, including those operating through third countries (otherwise a major loophole). We’ve therefore forfeited significant short-term business to prevent fueling AI platforms and applications that would help the CCP’s military and intelligence services. We are also cracking down on distillation; generally, distillation is not a major threat to us commercially, but like chip exports it has concerning national security and safety implications, so we expend significant energy and company resources to address it.\n\n8. As you mentioned, we’ve put out a lot of reports, announcements, long model cards, public advocacy, etc, all trying to inform the public about the risks of AI. These involve a level of detail and effort that would be implausible for a purely profit-maximizing company.\n\n9. Just this week, we announced we were putting 5% (and possibly more over time) of the company into a public benefit fund.\n\nAll of these decisions came with very substantial costs to us. To be fair, those that involved holding back or restricting access to frontier capabilities also had a broader cost — for example, the public might otherwise have benefitted from faster progress in biology, so I am not saying that our decisions were without tradeoffs — but they were not driven by profit-seeking.\n\nFor each decision, you can come up with ulterior motives that could have driven us — I think it is a general truth that any decision, on any topic, can always be portrayed as a nefarious scheme. But most of those end up being pretty farfetched or don’t fully make sense if you actually examine them closely. For example, it is deeply implausible that it would be a shrewd business move to block a large swath of research biology in order to do the work ourselves and compete with our customers; we expect the benefit to the ecosystem to greatly exceed the work Anthropic does itself, and for the two to complement each other. It is not in Anthropic’s interest to be perceived as unfriendly to biologists. Our Life Sciences Verification Program, which gives vetted biology professionals access to our models, also refutes this idea. \n\nOf course, a different set of people will see this and make a different criticism: that Anthropic shouldn't be making decisions about who gets access to what in the first place. I agree, in the sense that ideally the government would be making these decisions, and that’s why we advocate for regulation. But for now we are forced to make them, and enabling bioterrorism isn’t a better option.\n\nI think that even if I conceded every item in your list, I would happily hold up mine next to it; I don’t think it’s a close call. That is of course partly subjective and different things are important to different people. Maybe one way you could object is that several of the items above relate to AI misuse and not loss-of-control; if you think the latter is much more important than the former, that might change your calculus. But this is not Anthropic’s view — we view both as serious issues. You can also disagree with our decisions, as many have, but they are consistent.\n\nBut I also disagree with at least some of your list. Several items don’t represent a deviation from Anthropic’s strategy or values at all, once we postulate the “race to the top” strategy that requires being a frontier AI company. Your items 1-4 are all simply examples of what it means to compete at the frontier, and we stand by them, both in the sense that they are transparently ordinary things to do as part of that strategy, and that we stand by the strategy as a whole. \n\nTo be fair, there are important questions worth confronting (and that we are confronting) about what to do when the AI-driven acceleration gets fast enough that it is hard for safety to keep up. We are nearing that point and that’s what’s driving some of our thinking about “pacing.” But 1-4 are actions taken before that point and should be perfectly expected based on Anthropic’s strategy as a company. Of course it is possible to disagree with that strategy, but that’s a more fundamental disagreement that you could have had any time over the last few years.\n\nI agree we could have handled your items 7, 8, and 9 better. All fall into the category of “rhetoric or policy communication that wasn’t carefully written or resulting from fast-changing circumstances not propagating from one team to another fast enough.” This kind of thing happens a lot in large organizations (Anthropic is over 5,000 people), and doesn’t even necessarily represent a failure or mistake of any single person. I am of course the CEO, and I take responsibility. The volume of communication from Anthropic is enormous and if these are the worst examples, I think we’re frankly doing pretty well, though I will continue to work hard to make sure we do even better.\n\nYour 5th item (the change to our RSP) is the most substantive item, and people can debate this, but I think that the old, more rigid RSP created a lot of situations where we were technically required to do something that required a lot of effort but in retrospect wasn’t very important for safety, as well as not covering some of the most important things. Our current RSP’s focus on transparency brought things like risk reports and roadmaps, and its emphasis on independent external review laid the groundwork for even more intensive embedded evaluation, all of which I think have been valuable in driving a race to the top. In the original announcement in September 2023, we described the RSP as an “early iteration that we [would] build on” and said that “rapid iteration…will almost certainly be necessary.” I understand that changing plans is always a move that creates justifiable scrutiny — I just don’t think we ever represented that we wouldn’t do so.\n\nRelating to your 6th item (having an FCF in addition to our RSP), I know our intent is to meet the letter and spirit of our regulatory obligations (via our FCF) while also remaining able to experiment with more novel approaches to risk management that go beyond what the law currently requires (via our RSP). I promise to look into it further, as it’s a complex issue and it is possible we are not weighing the considerations in the right way.\n\nOverall, although Anthropic has made plenty of mistakes as an organization — including some of the items on your list — I feel that we have repeatedly taken serious and substantive actions counter to our bottom line and that there is a significant negativity bias distorting assessments like the one you are making above. We’ll always try to do better but, again, I am extremely proud of our track record and stand by it. I will have more to say soon about how we are going to further live our values in this moment of rapid change.",
           "created_at": "2026-10-21T02:26:30+00:00",
-          "like_count": 3773,
-          "retweet_count": 285,
-          "reply_count": 631,
-          "engagement_score": 4974,
+          "like_count": 4068,
+          "retweet_count": 312,
+          "reply_count": 766,
+          "engagement_score": 5458,
           "url": "https://x.com/DarioAmodei/status/2112732230124818891"
         }
       ]
@@ -396,7 +326,18 @@
       "name": "Demis Hassabis (Google DeepMind)",
       "domain": "ai",
       "tier": "exec",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2113352276026990972",
+          "text": "Honoured to be featured in the @WSJ Innovators Issue. I’ve always believed in the power of human ingenuity to solve our hardest problems. I’m confident we can collectively navigate the potential challenges of frontier models and usher in a new golden age of scientific discovery!",
+          "created_at": "2026-10-22T19:30:21+00:00",
+          "like_count": 1853,
+          "retweet_count": 129,
+          "reply_count": 100,
+          "engagement_score": 2211,
+          "url": "https://x.com/demishassabis/status/2113352276026990972"
+        }
+      ]
     },
     {
       "handle": "jietang",
@@ -412,54 +353,54 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2112842244583833746",
-          "text": "NVIDIA 💚 Europe. https://t.co/UWwiTWiJGe",
-          "created_at": "2026-10-21T09:43:40+00:00",
-          "like_count": 1772,
-          "retweet_count": 73,
-          "reply_count": 33,
-          "engagement_score": 1951,
-          "url": "https://x.com/nvidia/status/2112842244583833746"
-        },
-        {
           "id": "2112841174213902450",
           "text": "With NVIDIA extreme co-design, we’ve accelerated AI performance a millionfold over 10 years, and we’re not stopping there. https://t.co/iSa3ArDkNY",
           "created_at": "2026-10-21T09:39:25+00:00",
-          "like_count": 1187,
-          "retweet_count": 118,
-          "reply_count": 78,
-          "engagement_score": 1501,
+          "like_count": 1898,
+          "retweet_count": 164,
+          "reply_count": 104,
+          "engagement_score": 2330,
           "url": "https://x.com/nvidia/status/2112841174213902450"
+        },
+        {
+          "id": "2112842244583833746",
+          "text": "NVIDIA 💚 Europe. https://t.co/UWwiTWiJGe",
+          "created_at": "2026-10-21T09:43:40+00:00",
+          "like_count": 2053,
+          "retweet_count": 88,
+          "reply_count": 41,
+          "engagement_score": 2270,
+          "url": "https://x.com/nvidia/status/2112842244583833746"
         },
         {
           "id": "2112882448530800716",
           "text": "AI builders need computing capacity they can put to work sooner.\n\nWe introduced DSX POD at NVIDIA GTC Berlin: AI factories integrated and tested before delivery, enabling deployment at prepared sites in as little as 14 days. https://t.co/0Ax7yHMvBp",
           "created_at": "2026-10-21T12:23:25+00:00",
-          "like_count": 1053,
-          "retweet_count": 113,
-          "reply_count": 93,
-          "engagement_score": 1372,
+          "like_count": 1479,
+          "retweet_count": 162,
+          "reply_count": 127,
+          "engagement_score": 1930,
           "url": "https://x.com/nvidia/status/2112882448530800716"
         },
         {
-          "id": "2112570851597943267",
-          "text": "Four cities. One clear message: Europe is building what’s next in AI.\n\nTomorrow, Jensen takes the stage at #NVIDIAGTC Berlin to continue the conversation. \n\nSee you there. https://t.co/tiXhBhnYXs",
-          "created_at": "2026-10-20T15:45:15+00:00",
-          "like_count": 870,
-          "retweet_count": 101,
-          "reply_count": 102,
-          "engagement_score": 1174,
-          "url": "https://x.com/nvidia/status/2112570851597943267"
+          "id": "2112847277282721888",
+          "text": "Jensen introduces the OpenShell Reference Architecture to help businesses set boundaries for AI agents and stop them when they step outside those boundaries.\n\nSecuring agents around the world. 🔒 https://t.co/5FaiFJTE8g",
+          "created_at": "2026-10-21T10:03:40+00:00",
+          "like_count": 840,
+          "retweet_count": 100,
+          "reply_count": 120,
+          "engagement_score": 1160,
+          "url": "https://x.com/nvidia/status/2112847277282721888"
         },
         {
-          "id": "2112850890642383262",
-          "text": "This is the magic behind the agents. https://t.co/20DoFjIkTa",
-          "created_at": "2026-10-21T10:18:01+00:00",
-          "like_count": 583,
-          "retweet_count": 51,
-          "reply_count": 23,
-          "engagement_score": 708,
-          "url": "https://x.com/nvidia/status/2112850890642383262"
+          "id": "2113253222941077890",
+          "text": "Jensen reporting for booth duty. \n\nMaking the rounds at GTC Berlin, meeting the people and partners bringing AI to life across Europe.\n\n🧵 https://t.co/3i3Z3Qnr3A",
+          "created_at": "2026-10-22T12:56:45+00:00",
+          "like_count": 727,
+          "retweet_count": 64,
+          "reply_count": 83,
+          "engagement_score": 938,
+          "url": "https://x.com/nvidia/status/2113253222941077890"
         }
       ]
     },
@@ -475,7 +416,18 @@
       "name": "Boris Cherny (Claude Code)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2113333859907747871",
+          "text": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fitting to donate it to the @AgenticAIFdn, next to MCP.",
+          "created_at": "2026-10-22T18:17:10+00:00",
+          "like_count": 1586,
+          "retweet_count": 49,
+          "reply_count": 153,
+          "engagement_score": 1837,
+          "url": "https://x.com/bcherny/status/2113333859907747871"
+        }
+      ]
     },
     {
       "handle": "_catwu",
@@ -487,10 +439,10 @@
           "id": "2112988751576330487",
           "text": "We heard your feedback that you want Claude to proactively take more off your plate! Claude Duet is a large step in this direction - it'll notice work that needs to be done, and then do it before you ask. \n\nJoin the waitlist here: https://t.co/f3PfUuXIox",
           "created_at": "2026-10-21T19:25:50+00:00",
-          "like_count": 389,
-          "retweet_count": 8,
-          "reply_count": 43,
-          "engagement_score": 448,
+          "like_count": 936,
+          "retweet_count": 27,
+          "reply_count": 98,
+          "engagement_score": 1088,
           "url": "https://x.com/_catwu/status/2112988751576330487"
         }
       ]
@@ -500,7 +452,18 @@
       "name": "Alex Albert (Anthropic)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2113386454907007444",
+          "text": "One side quest that would be so much fun to try right now is running a bunch of local small businesses with AI helping you out\n\nI think products like Claude Duet could end up being bigger for these businesses than even things like Square or Google Maps were",
+          "created_at": "2026-10-22T21:46:10+00:00",
+          "like_count": 182,
+          "retweet_count": 2,
+          "reply_count": 72,
+          "engagement_score": 258,
+          "url": "https://x.com/alexalbert__/status/2113386454907007444"
+        }
+      ]
     },
     {
       "handle": "rauchg",
@@ -509,54 +472,54 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2112638107749355867",
-          "text": "AI will be able to compute the perfect delta of what you understand and don't, helping you progressively learn any idea and unravel any mystery.\n\nIf you so desire, you'll reach the maximum of your capability and intelligence. The ultimate education. For free.",
-          "created_at": "2026-10-20T20:12:30+00:00",
-          "like_count": 3640,
-          "retweet_count": 305,
-          "reply_count": 243,
-          "engagement_score": 4493,
-          "url": "https://x.com/rauchg/status/2112638107749355867"
+          "id": "2113251591822471644",
+          "text": "Vercel now has all the pieces in place to host at-scale backends. \n\nWebSockets, Queues, Workflows, Cron, Services, Containers, Python, Daemons, Long-duration Functions, Blob, Drives, Sandbox…\n\nAny guesses what comes next?",
+          "created_at": "2026-10-22T12:50:16+00:00",
+          "like_count": 1388,
+          "retweet_count": 35,
+          "reply_count": 352,
+          "engagement_score": 1810,
+          "url": "https://x.com/rauchg/status/2113251591822471644"
         },
         {
-          "id": "2112954875835527392",
-          "text": "If you work on education, homeschool your kids, want to learn something new… check this out.\n\nYou can use AI to create the coolest and most engaging explainers in the world. Grab a coding agent, ask it for an explainer, deploy it, share the link.\n\nSo many ideas can be derived from this. Imagine a platform of vetted visualizations by experts in each field. Games or quizzes where you repair or reassemble the systems. A prompt input to extend them…\n\nAnd follow @DilumSanjaya!",
-          "created_at": "2026-10-21T17:11:13+00:00",
-          "like_count": 2101,
-          "retweet_count": 103,
-          "reply_count": 116,
-          "engagement_score": 2423,
-          "url": "https://x.com/rauchg/status/2112954875835527392"
+          "id": "2113399539227136084",
+          "text": "It’s time to kill “static credentials”.\n\nAttacks and breaches can happen. But imagine if thieves could only steal “self-destructing keys” to your data and tokens.\n\nThe industry once came together to deliver “green locks” encryption for every site (TLS). Let’s do it for OIDC! 💪",
+          "created_at": "2026-10-22T22:38:09+00:00",
+          "like_count": 1054,
+          "retweet_count": 44,
+          "reply_count": 97,
+          "engagement_score": 1239,
+          "url": "https://x.com/rauchg/status/2113399539227136084"
         },
         {
-          "id": "2112934299288912085",
-          "text": "Pi is one of the coolest projects in the AI world today. I'm on their team. Giving developers and companies choice of model, control over the runtime, data, skills, plugins… Excited to have great support on @vercel:\nhttps://t.co/WG1TltrVP9",
-          "created_at": "2026-10-21T15:49:28+00:00",
-          "like_count": 777,
-          "retweet_count": 34,
-          "reply_count": 80,
-          "engagement_score": 925,
-          "url": "https://x.com/rauchg/status/2112934299288912085"
+          "id": "2113383291621671147",
+          "text": "𝚟𝚎𝚛𝚌𝚎𝚕 𝚍𝚎𝚙𝚕𝚘𝚢 --𝚝𝚎𝚖𝚙𝚘𝚛𝚊𝚛𝚢 is wild\n(and so is ultrafast ai) https://t.co/dfMe3wmUIs",
+          "created_at": "2026-10-22T21:33:36+00:00",
+          "like_count": 323,
+          "retweet_count": 11,
+          "reply_count": 39,
+          "engagement_score": 384,
+          "url": "https://x.com/rauchg/status/2113383291621671147"
         },
         {
-          "id": "2112658577110520122",
-          "text": "Much like we did with @aisdk, we're bringing a truly open-source, runtime-agnostic solution to harness durability.\n\nWe're extending the durability infra that powers @eve and Workflows to all harnesses, like Pi and OpenCode. Local, Vercel, or DIY.\n\nFun fact: even Claude Code and Codex can be made durable (and observable!) this way. The catch: they're not (currently) designed for embedding, which makes them less efficient, less portable, and brings an extra sandbox requirement compared to Pi or Fx.",
-          "created_at": "2026-10-20T21:33:50+00:00",
-          "like_count": 670,
-          "retweet_count": 37,
-          "reply_count": 124,
-          "engagement_score": 868,
-          "url": "https://x.com/rauchg/status/2112658577110520122"
+          "id": "2113357674989650307",
+          "text": "Agents are pulling software into two extremes: deep backends and just-in-time frontends.\n\nAt Ship we presented the building blocks for hosting backends, agents &amp; APIs.\n\nWith 𝚝𝚖𝚙.𝚗𝚘𝚠 deploys, we're deleting all friction for agents to ship just-in-time software. Even signup!",
+          "created_at": "2026-10-22T19:51:48+00:00",
+          "like_count": 266,
+          "retweet_count": 10,
+          "reply_count": 59,
+          "engagement_score": 345,
+          "url": "https://x.com/rauchg/status/2113357674989650307"
         },
         {
-          "id": "2113010010766913815",
-          "text": "DeepSeek v4.1 Flash (1017) is now included in ▲ Token Pass.\n\nFast, mind-bogglingly cheap, and served with ZDR (zero-data retention).\n\nIt's a phenomenal model to run subagents that execute plans conceived by larger and more expensive models. You can port TypeScript to Rust 10 times and not run out of credits 😂",
-          "created_at": "2026-10-21T20:50:19+00:00",
-          "like_count": 258,
-          "retweet_count": 7,
-          "reply_count": 43,
-          "engagement_score": 315,
-          "url": "https://x.com/rauchg/status/2113010010766913815"
+          "id": "2113451268316205515",
+          "text": "One of the coolest real-world examples of Generative UI.\n\nAlso: I love the fact that AI Gateway is itself a marketplace of tools. For this, you add a tool to @aisdk (literally 1LOC), and you get “Google”.\n\nGoogle not just as in search, but weather, sports, stocks, elections…",
+          "created_at": "2026-10-23T02:03:43+00:00",
+          "like_count": 153,
+          "retweet_count": 9,
+          "reply_count": 29,
+          "engagement_score": 200,
+          "url": "https://x.com/rauchg/status/2113451268316205515"
         }
       ]
     },
@@ -570,10 +533,10 @@
           "id": "2112975002027147545",
           "text": "prompt -&gt; corporation",
           "created_at": "2026-10-21T18:31:12+00:00",
-          "like_count": 73,
-          "retweet_count": 3,
-          "reply_count": 30,
-          "engagement_score": 109,
+          "like_count": 152,
+          "retweet_count": 7,
+          "reply_count": 41,
+          "engagement_score": 207,
           "url": "https://x.com/amasad/status/2112975002027147545"
         }
       ]
@@ -599,14 +562,14 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2112997345738809558",
-          "text": "My dream one day is a DGX Station! 🤩\n\nImage taken from the blog post - Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents: https://t.co/LXUnQCvyjK: https://t.co/GpRKY6IgF2",
-          "created_at": "2026-10-21T19:59:59+00:00",
-          "like_count": 23,
-          "retweet_count": 2,
-          "reply_count": 13,
-          "engagement_score": 40,
-          "url": "https://x.com/ivanfioravanti/status/2112997345738809558"
+          "id": "2113388439412297835",
+          "text": "DeepSeek v4.1 1017 Q4 Max thinking + DeepSeek Harness + ds4 + M3 Ultra 🚀\n\nPrompt: Implement the old international karate game that was running on Commodore 64.\n\n0-shot result! Probably I should ask to make it more difficult as next step, as you can see.\n\nLocal AI no limits! Even better than the online version as sprites!\n\n~4 hours\n48.5M token usage\n256K token output\nCache Hit 99%\nContext 374K/1M\nDecode speed 43 t/s\n\nWHAT A MODEL! 🔥🔥🔥\n\nAnd I have a new hard Pagoda test ready for tomorrow! No more voxel! 😎\n\nFor ds4 I've used latest @kernelpool branch with my CED PR enabled.",
+          "created_at": "2026-10-22T21:54:03+00:00",
+          "like_count": 27,
+          "retweet_count": 0,
+          "reply_count": 9,
+          "engagement_score": 36,
+          "url": "https://x.com/ivanfioravanti/status/2113388439412297835"
         }
       ]
     },
@@ -620,21 +583,51 @@
           "id": "2112905908451737868",
           "text": "There is a common view in the new right, particularly the downstream-of-thiel part of the new right, that the rise digital technology and financial services caused american stagnation. This was and I guess still is a fashionable view. “Innovation in bits, but not atoms”; “where is my flying car?” etc. I have heard it suggested, for example, that nuclear fusion could have happened sooner if the physics PhDs hadn’t disproportionately been tempted away from scientific R&D and into working on statistical-mechanics problems in finance and tech. \n\nThis view turned out to be almost entirely the product of negativity bias toward the status quo. If we solve fusion it will be paid for by the ai industry, and will also be aided by ai itself. If we cure cancer we will do it using chips designed originally to play video games. The achievement of almost all the technological dreams of the thielian dynamists will happen because of algorithmic research subsidized by, and in some cases done in service of, serving people digital ads and quantitative trading, the things the thielian dynamists say are so bad.\n\nThe tech industry was right, and the markets were right: the best use of those physicists’ time was not in the lab working on fusion reactors, it really was on the trading floor in New York, or the standing desk in Menlo Park.",
           "created_at": "2026-10-21T13:56:39+00:00",
-          "like_count": 192,
-          "retweet_count": 15,
-          "reply_count": 1,
-          "engagement_score": 223,
+          "like_count": 274,
+          "retweet_count": 18,
+          "reply_count": 2,
+          "engagement_score": 312,
           "url": "https://x.com/deanwball/status/2112905908451737868"
+        },
+        {
+          "id": "2113317681436688412",
+          "text": "Everyone should be looking for data points to advance the longstanding debate in AI policy between “diffuse dual-use capabilities rapidly so the good guys can defend themselves” and “restrict capabilities proliferation to only carefully vetted good guys.” We are putting the former position to the test as we speak. \n\nNo motivated reasoning to reach your preferred conclusion; just pay attention and update as appropriate in whatever direction seems true. This is much too important for low-fidelity tribal polarization.",
+          "created_at": "2026-10-22T17:12:53+00:00",
+          "like_count": 169,
+          "retweet_count": 17,
+          "reply_count": 0,
+          "engagement_score": 203,
+          "url": "https://x.com/deanwball/status/2113317681436688412"
         },
         {
           "id": "2112908426116530663",
           "text": "One of my pet peeves is when people dismiss what ai does as “pattern recognition.” Not because I think ai is doing something grander, but for the opposite reason: intelligence IS pattern recognition (ie compression).",
           "created_at": "2026-10-21T14:06:39+00:00",
-          "like_count": 86,
+          "like_count": 168,
           "retweet_count": 9,
           "reply_count": 3,
-          "engagement_score": 107,
+          "engagement_score": 189,
           "url": "https://x.com/deanwball/status/2112908426116530663"
+        },
+        {
+          "id": "2113325553520345116",
+          "text": "It has been underrated how much cyberdefense itself will be a huge and ongoing demand source for frontier tokens, economy-wide. As I wrote in testimony to FERC earlier this year: https://t.co/ylSGq0d9J0",
+          "created_at": "2026-10-22T17:44:10+00:00",
+          "like_count": 101,
+          "retweet_count": 8,
+          "reply_count": 1,
+          "engagement_score": 118,
+          "url": "https://x.com/deanwball/status/2113325553520345116"
+        },
+        {
+          "id": "2113476703171309682",
+          "text": "China is clearly taking steps to make ai and related technologies more legible to the state https://t.co/MKglc8n9sT",
+          "created_at": "2026-10-23T03:44:47+00:00",
+          "like_count": 13,
+          "retweet_count": 0,
+          "reply_count": 0,
+          "engagement_score": 13,
+          "url": "https://x.com/deanwball/status/2113476703171309682"
         }
       ]
     },
@@ -645,38 +638,38 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2112739524036149506",
-          "text": "wait.. what? permanent prompt caching for subscription users\n\ni suspect it’s not truly keeping the cache forever, but instead they know the probability of resuming an old conversation is close to zero so they’ll just eat the pricing difference when it happens",
-          "created_at": "2026-10-21T02:55:29+00:00",
-          "like_count": 855,
-          "retweet_count": 5,
-          "reply_count": 50,
-          "engagement_score": 915,
-          "url": "https://x.com/kunchenguid/status/2112739524036149506"
+          "id": "2113123377674387940",
+          "text": "be very careful if you find yourself simply passing messages to and from your agents\n\ne.g. people ask you a question on slack, and you simply ask an agent and pass its response back - it should be obvious that your job can be automated in that case\n\ninstead, you should try and build an agent (or sometimes just skills) that can reliably answer similar questions moving forward and remove yourself from the loop\n\nyour value then becomes improving said agents and skills, and your impact can easily scale and manifest even when you sleep\n\ndon’t be automated. be the automator",
+          "created_at": "2026-10-22T04:20:47+00:00",
+          "like_count": 563,
+          "retweet_count": 17,
+          "reply_count": 57,
+          "engagement_score": 654,
+          "url": "https://x.com/kunchenguid/status/2113123377674387940"
         },
         {
           "id": "2112992485823914355",
           "text": "it’s interesting how anthropic has the best model yet slowest to market with a personal agent that shows no clear differentiation \n\nwhy do you think that’s the case?",
           "created_at": "2026-10-21T19:40:40+00:00",
-          "like_count": 159,
-          "retweet_count": 3,
-          "reply_count": 120,
-          "engagement_score": 285,
+          "like_count": 364,
+          "retweet_count": 4,
+          "reply_count": 221,
+          "engagement_score": 593,
           "url": "https://x.com/kunchenguid/status/2112992485823914355"
         },
         {
-          "id": "2112714875264979449",
-          "text": "interesting data from my most recent 2000 real tasks\n\nall of these tasks' outcome got accepted by me, so consider them all successful. when a model didn't give me good results, i would get it to do more iterations until it succeeded\n\nthe main caveat is the \"plan\" bucket - if i didn't like a model's plan, i would sometimes just abandon it and it wouldn't show up here. sometimes i also explicitly ask astra / fable for difficult plans. so take the plan row with a grain of salt. the other rows are mostly randomized and fair\n\nreasoning effort was set at xhigh for plan, medium for others\n\nexplaining the task types:\n- research: these are mostly answering my questions\n- plan: these are technical planning. it could be designing a new feature, or reproducing a bug\n- implement: implementing an already defined spec\n- fix: fix a bug that's already reproduced\n\na few interesting signals:\n\n- sol 6.1 and sonnet 5.5 are almost exact equivalents, and they are both 5-10x more efficient at my implement and fix tasks than opus and astra\n\n- grok 4.7 is efficient at read-only tasks, but quite expensive for writing code - this is likely because of its high price point for cached tokens so long coding sessions become very costly\n\n- astra is a lot more expensive than opus 5.5, despite its token efficiency advantage. this is awkward because if sonnet matches sol, opus is better than astra, fable 5.5 is coming, and openai's subscription's $ value is getting cut in half, how do they compete?",
-          "created_at": "2026-10-21T01:17:33+00:00",
-          "like_count": 83,
-          "retweet_count": 6,
-          "reply_count": 23,
-          "engagement_score": 118,
-          "url": "https://x.com/kunchenguid/status/2112714875264979449"
+          "id": "2113052559397245146",
+          "text": "poll result on why people haven't adopted personal agents\n\ni suspect all the other 3 reasons are solvable, but looks like most people simply don't see real need for having an agent handle their personal life\n\nis consumer-facing personal agent all a bubble? https://t.co/9JAjdeJrla",
+          "created_at": "2026-10-21T23:39:23+00:00",
+          "like_count": 60,
+          "retweet_count": 1,
+          "reply_count": 61,
+          "engagement_score": 123,
+          "url": "https://x.com/kunchenguid/status/2113052559397245146"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-21T22:11:41.504581+00:00"
+  "generated_at": "2026-10-22T22:10:27.680935+00:00"
 }

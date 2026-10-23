@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "id": "https://openai.com/index/decisions-api",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "published": "2026-10-22T19:00:00+00:00",
+      "summary": "Fast, focused, low-cost decisions for any application."
+    },
+    {
+      "id": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "source": "deepmind",
+      "source_name": "Google DeepMind",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "published": "2026-10-22T14:30:24+00:00",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+    },
+    {
+      "id": "https://openai.com/index/forward-deployed-engineering-means",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "published": "2026-10-22T06:00:00+00:00",
+      "summary": "What forward deployed engineering means at OpenAI"
+    },
+    {
+      "id": "https://www.anthropic.com/research/formal-verification",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "published": "2026-10-22T00:00:00+00:00",
+      "summary": "Claude formally proved security properties in the compiled code of 123 open-source libraries. Along the way, it found bugs that had eluded detection for years."
+    },
+    {
+      "id": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Open call for guest investigators in the life sciences",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "published": "2026-10-22T00:00:00+00:00",
+      "summary": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects."
+    },
+    {
+      "id": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "published": "2026-10-22T00:00:00+00:00",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
+    },
+    {
+      "id": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "published": "2026-10-22T00:00:00+00:00",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows."
+    },
+    {
       "id": "https://openai.com/index/broad-access-through-consistent-standards",
       "source": "openai",
       "source_name": "OpenAI",
@@ -19,33 +82,6 @@
       "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
     },
     {
-      "id": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "published": "2026-10-21T13:00:00+00:00",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
-    },
-    {
-      "id": "https://openai.com/index/openai-models-google-cloud",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "published": "2026-10-21T12:00:00+00:00",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
-    },
-    {
-      "id": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "published": "2026-10-21T07:00:00+00:00",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
-    },
-    {
       "id": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -53,28 +89,8 @@
       "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
       "published": "2026-10-21T00:00:00+00:00",
       "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement. He has also advised the US government on national security and arms control. “I am honored to join Anthropic’s Long-Term Benefit Trust and to help the company deliver on its public benefit mission,” said Stubbs. “I use AI tools in my research every day and see what they make possible, and as an educator I have confronted some of the hard"
-    },
-    {
-      "id": "https://www.anthropic.com/research/attack-surface-reduction",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Using Claude to reduce the attack surface of code",
-      "url": "https://www.anthropic.com/research/attack-surface-reduction",
-      "published": "2026-10-20T00:00:00+00:00",
-      "summary": "Automated attack surface analysis and reduction can meaningfully improve the security of deployed software in the near term. In this post, we preview data we’ve collected from applying attack surface reduction techniques to large open-source codebases using Claude."
-    },
-    {
-      "id": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "How Claude designed protein binders against scorpion neurotoxins",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-      "published": "2026-10-20T00:00:00+00:00",
-      "summary": "We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins."
     }
   ],
-  "errors": [
-    "Google DeepMind: The read operation timed out"
-  ],
-  "generated_at": "2026-10-21T22:11:41.504581+00:00"
+  "errors": null,
+  "generated_at": "2026-10-22T22:10:27.680935+00:00"
 }
