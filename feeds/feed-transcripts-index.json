@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-10-23T04:09:46.138835+00:00",
+  "generated_at": "2026-10-23T22:29:09.359434+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "67407b17-fc00-459d-bcd7-cac8281297be",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--040---ASML-Is-Building-a-Hybrid-Bonding-Tool--and-Its-Patents-Show-How-AI-Supply-Chain--Jordan-Nanos--Howie--Sherry-Zhang-e3qulph",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 040 - ASML Is Building a Hybrid Bonding Tool, and Its Patents Show How (AI Supply Chain) | Jordan Nanos, Howie, Sherry Zhang",
+      "pub_date": "2026-10-23T10:30:01+00:00",
+      "transcript_path": "feeds/transcripts/10542ab64611715511cd1df8.txt",
+      "transcript_chars": 34951,
+      "transcript_source": "companion_youtube",
+      "cached_at": "2026-10-23T22:29:09.359434+00:00",
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+    },
+    {
+      "guid": "yt:v-NGxyPjcrE",
+      "link": "https://www.youtube.com/watch?v=v-NGxyPjcrE",
+      "channel": "NVIDIA",
+      "title": "NVIDIA GTC Berlin 2026 Keynote With CEO Jensen Huang",
+      "pub_date": "2026-10-23T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/77a6060404b20f35a9a6ae44.txt",
+      "transcript_chars": 66844,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-23T22:29:09.359434+00:00",
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+    },
+    {
+      "guid": "f1cffbc1-bf75-412c-96c9-bf8e8334a5c1",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/The-End-Is-Nigh--Buy-Here-e3qrt4m",
+      "channel": "The Acquirers Podcast",
+      "title": "The End Is Nigh. Buy Here?",
+      "pub_date": "2026-10-22T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/bab6efef81c8b961c400f67d.txt",
+      "transcript_chars": 146753,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-23T22:29:09.359434+00:00",
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+    },
     {
       "guid": "yt:_rG0rG5Nd5w",
       "link": "https://www.youtube.com/watch?v=_rG0rG5Nd5w",
@@ -12,8 +51,8 @@
       "transcript_chars": 18183,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "https://www.latent.space/p/modal-d",
@@ -25,8 +64,8 @@
       "transcript_chars": 108119,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/intel-tour",
@@ -38,8 +77,8 @@
       "transcript_chars": 69422,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "https://www.latent.space/p/moshi",
@@ -51,8 +90,8 @@
       "transcript_chars": 30510,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
@@ -64,8 +103,8 @@
       "transcript_chars": 63319,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "yt:X6_6oMSksw8",
@@ -77,8 +116,8 @@
       "transcript_chars": 17468,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "yt:t2LLh6HUG2Y",
@@ -90,8 +129,8 @@
       "transcript_chars": 64169,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "yt:F3ItSTZNtT0",
@@ -103,8 +142,8 @@
       "transcript_chars": 40819,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
@@ -116,8 +155,8 @@
       "transcript_chars": 4818,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "https://www.latent.space/p/claude-mods",
@@ -129,8 +168,8 @@
       "transcript_chars": 12714,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
@@ -142,8 +181,8 @@
       "transcript_chars": 58433,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "https://www.latent.space/p/tenex",
@@ -155,8 +194,8 @@
       "transcript_chars": 53553,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "yt:3gXLmy7DK_4",
@@ -168,8 +207,8 @@
       "transcript_chars": 44051,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "yt:anAmTGcewX8",
@@ -181,8 +220,8 @@
       "transcript_chars": 44855,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "yt:fJBSNEFdm8c",
@@ -194,8 +233,8 @@
       "transcript_chars": 56245,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "yt:PvFjbPYEOZI",
@@ -207,8 +246,8 @@
       "transcript_chars": 67017,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "27dff112-099e-47eb-95a4-c9aba0ed9414",
@@ -218,10 +257,10 @@
       "pub_date": "2026-10-20T15:09:36+00:00",
       "transcript_path": "feeds/transcripts/66f948d40d92066793e00b83.txt",
       "transcript_chars": 45847,
-      "transcript_source": "episode_page",
+      "transcript_source": null,
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "https://www.latent.space/p/sfcompute2",
@@ -259,8 +298,8 @@
       "transcript_chars": 38873,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-20T22:27:04.241565+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
@@ -298,8 +337,8 @@
       "transcript_chars": 19550,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-20T00:38:58.412225+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "yt:AwuTTOJGEi0",
@@ -324,8 +363,8 @@
       "transcript_chars": 14411,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-19T03:04:13.086500+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
+      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
+      "expires_at": "2026-11-06T22:29:09.359434+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
