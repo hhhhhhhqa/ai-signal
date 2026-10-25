@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:29:09.359434+00:00",
+  "generated_at": "2026-10-24T23:05:40.868879+00:00",
   "retention_days": 14,
   "transcripts": [
     {
@@ -12,8 +12,8 @@
       "transcript_chars": 34951,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "yt:v-NGxyPjcrE",
@@ -25,8 +25,8 @@
       "transcript_chars": 66844,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "f1cffbc1-bf75-412c-96c9-bf8e8334a5c1",
@@ -38,8 +38,8 @@
       "transcript_chars": 146753,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "yt:_rG0rG5Nd5w",
@@ -51,8 +51,8 @@
       "transcript_chars": 18183,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "https://www.latent.space/p/modal-d",
@@ -64,8 +64,8 @@
       "transcript_chars": 108119,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/intel-tour",
@@ -77,8 +77,8 @@
       "transcript_chars": 69422,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "https://www.latent.space/p/moshi",
@@ -90,8 +90,8 @@
       "transcript_chars": 30510,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
@@ -103,8 +103,8 @@
       "transcript_chars": 63319,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "yt:X6_6oMSksw8",
@@ -116,8 +116,8 @@
       "transcript_chars": 17468,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "yt:t2LLh6HUG2Y",
@@ -129,8 +129,8 @@
       "transcript_chars": 64169,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "yt:F3ItSTZNtT0",
@@ -142,8 +142,8 @@
       "transcript_chars": 40819,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
@@ -207,8 +207,8 @@
       "transcript_chars": 44051,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "yt:anAmTGcewX8",
@@ -220,8 +220,8 @@
       "transcript_chars": 44855,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "yt:fJBSNEFdm8c",
@@ -233,8 +233,8 @@
       "transcript_chars": 56245,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "yt:PvFjbPYEOZI",
@@ -246,8 +246,8 @@
       "transcript_chars": 67017,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "27dff112-099e-47eb-95a4-c9aba0ed9414",
@@ -259,8 +259,8 @@
       "transcript_chars": 45847,
       "transcript_source": null,
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "https://www.latent.space/p/sfcompute2",
@@ -298,8 +298,8 @@
       "transcript_chars": 38873,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-20T22:27:04.241565+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
@@ -337,8 +337,8 @@
       "transcript_chars": 19550,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-20T00:38:58.412225+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
+      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
+      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "yt:AwuTTOJGEi0",
@@ -833,45 +833,6 @@
       "cached_at": "2026-10-08T23:59:06.633511+00:00",
       "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
       "expires_at": "2026-10-25T23:46:20.801772+00:00"
-    },
-    {
-      "guid": "yt:cvmgnpxr-Lk",
-      "link": "https://www.youtube.com/watch?v=cvmgnpxr-Lk",
-      "channel": "David Senra",
-      "title": "Inside the Minds of Mark Zuckerberg, Palmer Luckey, Josh Kushner & Scott Wu | Jeremy Stern",
-      "pub_date": "2026-10-04T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/80df0ef8a894d157fdf25cdc.txt",
-      "transcript_chars": 73239,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
-      "expires_at": "2026-10-24T06:14:36.405550+00:00"
-    },
-    {
-      "guid": "yt:XWj3IgfRcFM",
-      "link": "https://www.youtube.com/watch?v=XWj3IgfRcFM",
-      "channel": "global impulse and 2 more",
-      "title": "Jensen Huang ADMITS Why America Can’t Stop China's AI!",
-      "pub_date": "2026-10-03T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/97a180d8053166d7a5e2c61d.txt",
-      "transcript_chars": 26402,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
-      "expires_at": "2026-10-24T06:14:36.405550+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-      "link": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
-      "channel": "Latent Space",
-      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
-      "pub_date": "2026-10-07T04:55:44+00:00",
-      "transcript_path": "feeds/transcripts/d0198d1178242bfb88b5e8d5.txt",
-      "transcript_chars": 15362,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-08T02:05:44.447484+00:00",
-      "last_seen_at": "2026-10-10T06:14:36.405550+00:00",
-      "expires_at": "2026-10-24T06:14:36.405550+00:00"
     },
     {
       "guid": "yt:iKFqJOSWHTE",
