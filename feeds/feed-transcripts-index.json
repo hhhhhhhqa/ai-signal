@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:05:40.868879+00:00",
+  "generated_at": "2026-10-26T00:38:33.561091+00:00",
   "retention_days": 14,
   "transcripts": [
     {
@@ -12,8 +12,8 @@
       "transcript_chars": 34951,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
+      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
+      "expires_at": "2026-11-09T00:38:33.561091+00:00"
     },
     {
       "guid": "yt:v-NGxyPjcrE",
@@ -25,8 +25,8 @@
       "transcript_chars": 66844,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
+      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
+      "expires_at": "2026-11-09T00:38:33.561091+00:00"
     },
     {
       "guid": "f1cffbc1-bf75-412c-96c9-bf8e8334a5c1",
@@ -51,8 +51,8 @@
       "transcript_chars": 18183,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
+      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
+      "expires_at": "2026-11-09T00:38:33.561091+00:00"
     },
     {
       "guid": "https://www.latent.space/p/modal-d",
@@ -116,8 +116,8 @@
       "transcript_chars": 17468,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
+      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
+      "expires_at": "2026-11-09T00:38:33.561091+00:00"
     },
     {
       "guid": "yt:t2LLh6HUG2Y",
@@ -129,8 +129,8 @@
       "transcript_chars": 64169,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
+      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
+      "expires_at": "2026-11-09T00:38:33.561091+00:00"
     },
     {
       "guid": "yt:F3ItSTZNtT0",
@@ -142,8 +142,8 @@
       "transcript_chars": 40819,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
+      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
+      "expires_at": "2026-11-09T00:38:33.561091+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
@@ -207,8 +207,8 @@
       "transcript_chars": 44051,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
+      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
+      "expires_at": "2026-11-09T00:38:33.561091+00:00"
     },
     {
       "guid": "yt:anAmTGcewX8",
@@ -220,8 +220,8 @@
       "transcript_chars": 44855,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
+      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
+      "expires_at": "2026-11-09T00:38:33.561091+00:00"
     },
     {
       "guid": "yt:fJBSNEFdm8c",
@@ -233,8 +233,8 @@
       "transcript_chars": 56245,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
+      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
+      "expires_at": "2026-11-09T00:38:33.561091+00:00"
     },
     {
       "guid": "yt:PvFjbPYEOZI",
@@ -246,8 +246,8 @@
       "transcript_chars": 67017,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
+      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
+      "expires_at": "2026-11-09T00:38:33.561091+00:00"
     },
     {
       "guid": "27dff112-099e-47eb-95a4-c9aba0ed9414",
@@ -259,8 +259,8 @@
       "transcript_chars": 45847,
       "transcript_source": null,
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
+      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
+      "expires_at": "2026-11-09T00:38:33.561091+00:00"
     },
     {
       "guid": "https://www.latent.space/p/sfcompute2",
@@ -298,8 +298,8 @@
       "transcript_chars": 38873,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-20T22:27:04.241565+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
+      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
+      "expires_at": "2026-11-09T00:38:33.561091+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
@@ -744,58 +744,6 @@
       "expires_at": "2026-11-06T04:09:46.138835+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
-      "link": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
-      "channel": "Latent Space",
-      "title": "[AINews] not much happened today",
-      "pub_date": "2026-10-08T23:29:43+00:00",
-      "transcript_path": "feeds/transcripts/42f0f6a8cdee354a72e8b1c4.txt",
-      "transcript_chars": 41298,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-10T06:14:36.405550+00:00",
-      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
-      "expires_at": "2026-10-25T23:46:20.801772+00:00"
-    },
-    {
-      "guid": "07aeafdc-ba36-4851-9b94-5290ff21121e",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Small-Caps-Are-About-to-Have-Their-Moment--Jeff-Weniger-e3q3dqq",
-      "channel": "The Acquirers Podcast",
-      "title": "Small Caps Are About to Have Their Moment | Jeff Weniger",
-      "pub_date": "2026-10-08T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/465a1ddd4ef564f4106935df.txt",
-      "transcript_chars": 147371,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-10T06:14:36.405550+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/periodic",
-      "link": "https://www.latent.space/p/periodic",
-      "channel": "Latent Space",
-      "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
-      "pub_date": "2026-10-08T16:27:54+00:00",
-      "transcript_path": "feeds/transcripts/66bef5c60dcae679e20b82c2.txt",
-      "transcript_chars": 109376,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-      "link": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-      "channel": "Latent Space",
-      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-      "pub_date": "2026-10-08T07:27:51+00:00",
-      "transcript_path": "feeds/transcripts/594b0186b6e464bcd3086f00.txt",
-      "transcript_chars": 9991,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-11T01:13:54.279077+00:00",
-      "expires_at": "2026-10-25T01:13:54.279077+00:00"
-    },
-    {
       "guid": "yt:RE_AsVyoOSQ",
       "link": "https://www.youtube.com/watch?v=RE_AsVyoOSQ",
       "channel": "Yahoo Finance",
@@ -807,58 +755,6 @@
       "cached_at": "2026-10-08T23:59:06.633511+00:00",
       "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
       "expires_at": "2026-10-27T00:23:45.490399+00:00"
-    },
-    {
-      "guid": "yt:roz4fmf9-ng",
-      "link": "https://www.youtube.com/watch?v=roz4fmf9-ng",
-      "channel": "Motivational Instinct",
-      "title": "Teach Your Brain To Become Someone New | Naval Ravikant Motivation",
-      "pub_date": "2026-10-05T16:45:32+00:00",
-      "transcript_path": "feeds/transcripts/b6cf0ab4be78a0ca5aad3147.txt",
-      "transcript_chars": 16821,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
-      "expires_at": "2026-10-25T23:46:20.801772+00:00"
-    },
-    {
-      "guid": "yt:4YUEWqAtOD8",
-      "link": "https://www.youtube.com/watch?v=4YUEWqAtOD8",
-      "channel": "Evan Carmichael",
-      "title": "The Top 1% Mindset Behind The First $5 Trillion Company | Jensen Huang (Nvidia)",
-      "pub_date": "2026-10-05T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/9bd2c632dadb349eabb82ba8.txt",
-      "transcript_chars": 51181,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
-      "expires_at": "2026-10-25T23:46:20.801772+00:00"
-    },
-    {
-      "guid": "yt:iKFqJOSWHTE",
-      "link": "https://www.youtube.com/watch?v=iKFqJOSWHTE",
-      "channel": "Fair Game by Vanity Fair and Vanity Fair",
-      "title": "Sam Altman on Elon Musk, ‘Artificial,’ and the Future of Humanity (Part One)",
-      "pub_date": "2026-10-06T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/dd3fa962c1e37b978025b562.txt",
-      "transcript_chars": 48411,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-06T22:01:39.872348+00:00",
-      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
-      "expires_at": "2026-10-25T23:46:20.801772+00:00"
-    },
-    {
-      "guid": "yt:2OOHnaGTQFg",
-      "link": "https://www.youtube.com/watch?v=2OOHnaGTQFg",
-      "channel": "POLITICO",
-      "title": "Sam Altman says OpenAI has more AI incidents to disclose",
-      "pub_date": "2026-10-05T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/761ef6d3290a348f94c524ab.txt",
-      "transcript_chars": 39474,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-06T22:01:39.872348+00:00",
-      "last_seen_at": "2026-10-11T23:46:20.801772+00:00",
-      "expires_at": "2026-10-25T23:46:20.801772+00:00"
     },
     {
       "guid": "233d9970-74f8-42c7-8383-f7ea5f70f1d6",

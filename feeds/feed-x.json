@@ -17,10 +17,10 @@
           "id": "2113755882022752556",
           "text": "reject vc founder grind\n\nif u are hot corgi/wasian you should be sliding into dms for post economic bootstrapped ai founders with a bunch of angel exits and even more friends than money and complete control of their destiny",
           "created_at": "2026-10-23T22:14:08+00:00",
-          "like_count": 113,
+          "like_count": 116,
           "retweet_count": 2,
-          "reply_count": 17,
-          "engagement_score": 134,
+          "reply_count": 18,
+          "engagement_score": 138,
           "url": "https://x.com/swyx/status/2113755882022752556"
         }
       ]
@@ -37,7 +37,18 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2114241625434317103",
+          "text": "I propose a panel discussion at @TomorrowXSummit on fast AI inference featuring myself, @GavinSBaker, @trsohmers, and @andrewdfeldman. \n\nAlternatively a cage match between Thomas and Andrew referee by @JonathanRoss321 with commantary by @sundeep would be entertaining too. IYKYK",
+          "created_at": "2026-10-25T06:24:18+00:00",
+          "like_count": 76,
+          "retweet_count": 1,
+          "reply_count": 2,
+          "engagement_score": 80,
+          "url": "https://x.com/insane_analyst/status/2114241625434317103"
+        }
+      ]
     },
     {
       "handle": "simonw",
@@ -53,34 +64,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2113738768645808277",
-          "text": "Agent swarms for cyber defense is about to be one of the biggest categories in AI. We are going to have agents reviewing our code and infra, testing every permutation of risk, processing gobs of data, and more. \n\nSecurity is one of the best use-cases for swarms because it’s an obvious area where more compute in equals more value out. There’s a wide range of testing that people can never get around to - or at least quickly enough - that agents have no problem going after. \n\nGoing to be a wild time in cyber.",
-          "created_at": "2026-10-23T21:06:08+00:00",
-          "like_count": 614,
-          "retweet_count": 61,
-          "reply_count": 125,
-          "engagement_score": 861,
-          "url": "https://x.com/levie/status/2113738768645808277"
-        },
-        {
-          "id": "2113499900399034689",
-          "text": "Any form of security through obscurity is fully over. This barely worked as a method with humans, but just simply is over in a world of autonomous systems that will look through every crevice and try every permutation of attack possible.\n\nAs a result, years and years of legacy enterprise infrastructure will need to be upgraded, security practices modernized, data pipelines cleaned up, access controls better managed, and much more. Agents will help on the defensive side because they can both accelerate this work and equally simulate the risk vectors.\n\nBut there’s a long road ahead to prepare for this future. This is also partially why diffusion timelines will take longer than some realize.",
-          "created_at": "2026-10-23T05:16:57+00:00",
-          "like_count": 615,
-          "retweet_count": 59,
-          "reply_count": 108,
-          "engagement_score": 841,
-          "url": "https://x.com/levie/status/2113499900399034689"
-        },
-        {
-          "id": "2114085515234615422",
-          "text": "A good argument for the diffusion of AI models that can be used for cyber defense is that the applied AI layer will be able to quickly arm defenders with the tools necessary to protect their environments.\n\nWe are going to see all new types of agent swarms emerge to scan, detect, protect, and process data for all the possible risks that enterprises have.\n\nThis is a huge area of opportunity right now for every layer of the security stack across identity, firewall, network, code scanning, data protection, and more. And it’s at least one reason to be optimistic about the balance of offensive and defensive capability. \n\nThe only thing missing is likely the amount of compute that will go into this problem. We’ll likely have 1,000X more tokens flowing through these agents than we do today in the future.",
-          "created_at": "2026-10-24T20:03:59+00:00",
-          "like_count": 51,
-          "retweet_count": 6,
-          "reply_count": 15,
-          "engagement_score": 78,
-          "url": "https://x.com/levie/status/2114085515234615422"
+          "id": "2114391265655816315",
+          "text": "Good assessment of the on the ground reality for security in most large enterprises right now. The fragmented landscape of the risk surface is only going to get more gnarly, making it even more complex for enterprises to solve.\n\nThere’s a never ending set of libraries to keep up with, tools to leverage, and sprawling infrastructure, data, and code to secure. Most large enterprises can barely keep up with this, let alone smaller startups or most companies outside of tech. \n\nIn many cases enterprises need to work to modernize their tech stacks. Data, in most organizations, is highly fragmented which means you don’t really know the state of risk at any given time. Some systems are open up privileges too broadly, and others are operating primarily via security through obscurity. Lots of upgrading here to do.\n\nOnce you can get your data and infra into a better spot, at least you have a chance for agents to help you secure the environment. Agent swarms can fan out, leverage any security tool, test various perpetuations of attacks, read through logs, process enterprise data for risk level, and more. This capability only emerged in the past few months, and none of it would be possible before we had long running agents and computer use good enough.\n\nThis is a huge area of opportunity right now for every layer of the security stack across identity, firewall, network, code scanning, data protection, and more. And it’s at least one reason to be optimistic about the balance of offensive and defensive capability. \n\nBut everyone does need to do the hard work of getting the basics right at the start.",
+          "created_at": "2026-10-25T16:18:55+00:00",
+          "like_count": 163,
+          "retweet_count": 16,
+          "reply_count": 56,
+          "engagement_score": 251,
+          "url": "https://x.com/levie/status/2114391265655816315"
         }
       ]
     },
@@ -105,33 +96,23 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2113745049393787288",
-          "text": "Does it matter where you run an open-weight model?\n\nToday we are releasing the Inference Provider Index. It compares first and third-party open-weight models for quality on agentic tasks in finance, coding, and legal industries.\n\nUnlike other inference benchmarks, we rerun it every two weeks to catch quality degradation, and we use agentic tasks, not single-turn multiple-choice questions. It covers over 650 hours of model runtime.",
-          "created_at": "2026-10-23T21:31:05+00:00",
-          "like_count": 245,
-          "retweet_count": 22,
-          "reply_count": 16,
-          "engagement_score": 305,
-          "url": "https://x.com/ValsAI/status/2113745049393787288"
-        },
-        {
           "id": "2114089633135153238",
           "text": "The long-awaited Kimi K3.1 is here, and it is #1 on our Vals Index amongst open-weight models (#8 overall) https://t.co/lS4uxMW4hA",
           "created_at": "2026-10-24T20:20:21+00:00",
-          "like_count": 85,
-          "retweet_count": 5,
-          "reply_count": 10,
-          "engagement_score": 105,
+          "like_count": 240,
+          "retweet_count": 12,
+          "reply_count": 17,
+          "engagement_score": 281,
           "url": "https://x.com/ValsAI/status/2114089633135153238"
         },
         {
           "id": "2113767926935265636",
           "text": "Today we’re releasing the Vals Legal Index, a measure of how well AI does legal work, weighted by each practice area’s share of U.S. law-office revenue. https://t.co/lyUvh9komc",
           "created_at": "2026-10-23T23:02:00+00:00",
-          "like_count": 59,
+          "like_count": 62,
           "retweet_count": 3,
           "reply_count": 5,
-          "engagement_score": 70,
+          "engagement_score": 73,
           "url": "https://x.com/ValsAI/status/2113767926935265636"
         }
       ]
@@ -143,34 +124,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2113687344532320326",
-          "text": "Big news: @Kimi_Moonshot is back in the top-4 labs in the Code Arena: WebDev with the release of Kimi K3.1 Pro!\n\nThis model just landed #8 in the Code Arena: WebDev with 1692 pts, matching Claude Opus-5 (Max) at 70% lower cost. This is a 9 place jump (+37 points) from Kimi K3 (Max) at #17 with 1655 pts.\n\nKimi K3.1 Pro improved from Kimi K3 across all categories. Highlights:\n- #7 in Brand & Marketing (up from #9)\n- #9 in Simulations (up from #20)\n\nCost efficiency is another upgrade. Priced at $2/$10 per million input/output tokens, Kimi K3.1 Pro (Max) has a median cost per task of $1.23 (29% less than Kimi K3). See its placement compared to the Pareto frontier in thread.\n\nWith open weights coming soon, Kimi K3.1 Pro would be the new #1 open model in the Code Arena: WebDev, overtaking DeepSeek-v4.1-Flash. Stay tuned!\n\nSee @Kimi_Moonshot’s ranking by lab, and 3D generations from Kimi K3.1 Pro below in thread.\n\nHuge congrats to the @Kimi_Moonshot team on this release!",
-          "created_at": "2026-10-23T17:41:48+00:00",
-          "like_count": 991,
-          "retweet_count": 72,
-          "reply_count": 47,
-          "engagement_score": 1182,
-          "url": "https://x.com/arena/status/2113687344532320326"
-        },
-        {
           "id": "2114008313054527901",
           "text": "Kimi K3.1 Pro (Max) by @Kimi_Moonshot just landed in the Agent Arena at #11 with +7.6% net improvement across +4K real-world agentic sessions from our global community of users.\n\nKimi K3.1 Pro (Max) would be the new #1 open model in the Agent Arena overtaking DeepSeek-v4.1-Flash! Open weights coming soon, stay tuned.\n\nKimi K3.1 Pro (Max) is a +6 percentage pt improvement over Kimi K3 (Max) at +1.6% (#25 -> #11). And with a $1.03 median cost per task in Agent Arena, Kimi K3.1 Pro is 13% less than its previous variant. See its placement just off the Pareto frontier in thread.\n\nAcross Agent Arena categories, Kimi K3.1 Pro (Max) ranks #8 in Work, #9 in Code, and #10 in Chat.\n\nBy signal, it’s the strongest in Praise vs. Complaint (implicit sentiment in user reactions) with +19% at #8. Across other signals it landed:\n- #11 in Steerability (+8.3%)\n- #15 in Bash Reliability (+8.3%)\n- #26 in Confirmed Success (+2%)\n\nHuge congrats to the @Kimi_Moonshot team on this release!",
           "created_at": "2026-10-24T14:57:12+00:00",
-          "like_count": 426,
-          "retweet_count": 23,
-          "reply_count": 43,
-          "engagement_score": 515,
+          "like_count": 672,
+          "retweet_count": 38,
+          "reply_count": 64,
+          "engagement_score": 812,
           "url": "https://x.com/arena/status/2114008313054527901"
-        },
-        {
-          "id": "2113694477692907878",
-          "text": "First impressions of Kimi K3.1 Pro from @petergostev are in.\n\nWe put Kimi K3.1 Pro by @Kimi_Moonshot through 3D scenes, HTML animations, websites, UI builds, and research-driven pages, comparing it with K3, Opus 5.5, Sonnet 5.5, GPT-6.1 Sol, Gemini 4 Argon, and more.\n\nSee how it compares, and find Peter's prompts on our YouTube.\nhttps://t.co/L6xIqRVVHF",
-          "created_at": "2026-10-23T18:10:08+00:00",
-          "like_count": 191,
-          "retweet_count": 5,
-          "reply_count": 10,
-          "engagement_score": 211,
-          "url": "https://x.com/arena/status/2113694477692907878"
         }
       ]
     },
@@ -181,43 +142,33 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2113688083145314416",
-          "text": "Kimi K3.1 Pro launches at 4th on the Artificial Analysis Intelligence Index scoring 55, making large gains in agentic performance; it will be the leading open-weights model once its weights are published\n\n@Kimi_Moonshot's new reasoning model gains 11 points over Kimi K3 (max, 44). It trails only Claude Opus 5.5 (max with fallback, 58), Claude Sonnet 5.5 (max with fallback, 56), and Muse Wonder Full (max, 56) on the Intelligence Index.\n\nOnce the weights for K3.1 Pro are released it will be the highest-scoring open weights model and the gap between the leading open weights and proprietary models on the Intelligence Index will narrow from 12 points to 3.\n\nKey results:\n➤ Large gains in agentic performance: Kimi K3.1 Pro scores 3rd on GDPval-AA with 1,846 Elo, up 312 Elo from Kimi K3, behind only Claude Opus 5.5 (1,866 Elo) and Muse Wonder Full (1,857 Elo). Kimi K3.1 Pro also achieves the highest score of any model on Terminal-Bench 4.0. K3.1 Pro scores 67%, up from 13% for Kimi K3 and ahead of Claude Sonnet 5.5 (64%). AutomationBench-AA, which tests agentic SaaS workflows, rises from 58% to 73%.\n\n➤ Gains in other evals are more moderate: Humanity's Last Exam rises from 47% to 52%, CritPt from 23% to 25%, and SciCode from 59% to 61%. AA-Omniscience Index rises from 20 to 30, as the hallucination rate falls from 53% to 44% and accuracy rises from 48% to 51%.\n\n➤ Cost per Task roughly equal to Kimi K3 at $1.98 per Task: K3.1 Pro uses 55K output tokens per Intelligence Index task, 14% more than Kimi K3 at 48K, while its first-party token prices are 33% lower.\n\nAdditional model details:\n➤ Context window: 1M tokens.\n➤ Size: 2.8T total, 104B active parameters\n➤ Input modalities: Text and image\n➤ Weights and license: Weights currently not published, Moonshot is expected to release the weights soon after launch\n➤ Pricing: $2/$10/$0.20 per 1M input/output/cache hit tokens, 33% lower than Kimi K3 on all three rates.\n\nCongratulations to the team at @Kimi_Moonshot on the release!",
-          "created_at": "2026-10-23T17:44:44+00:00",
-          "like_count": 5321,
-          "retweet_count": 476,
-          "reply_count": 207,
-          "engagement_score": 6480,
-          "url": "https://x.com/ArtificialAnlys/status/2113688083145314416"
-        },
-        {
           "id": "2113765233462481276",
           "text": "Kimi K3.1 Pro is the new #1 openly-available model for agentic cyber defense, behind only trusted-access model GPT-6 Sol (Daybreak Blue) on the Artificial Analysis Cyber Index\n\n@Kimi_Moonshot's Kimi K3.1 Pro scores 64% on the Artificial Analysis Cyber Index, 7 points ahead of the previous leading openly-available model, DeepSeek V4.1 Flash 1017 (57%), and 5 points behind GPT-6 Sol (Daybreak Blue, max, 69%), which is only available through OpenAI's trusted-access program. Once the weights for K3.1 Pro are released, K3.1 Pro will also be the leading open weights model for cyber defense.\n\nThe Artificial Analysis Cyber Index measures capability on agentic cyber defense tasks and is composed of three benchmarks: CWE-Bench-AA, DeepsecBench-AA and CyberGym-E2E-AA. The Index primarily evaluates models through their publicly accessible APIs, reflecting the cyber capabilities available to developers.\n\nProprietary models from OpenAI, Anthropic and Google may have stronger cyber capabilities but lose points to safety refusals: GPT-6 Sol (Daybreak Blue, max), available through OpenAI's trusted-access program, scores 32 points above its public counterpart. Kimi K3.1 Pro encounters no safety refusals.\n\nKey results:\n\n➤ #1 openly-available model and #2 overall: Kimi K3.1 Pro scores 64%, up 23 points from Kimi K3 (41%) and ahead of DeepSeek V4.1 Flash 1017 (57%). Only the trusted-access GPT-6 Sol (Daybreak Blue, max, 69%) scores higher\n\n➤ Highest CyberGym-E2E-AA score of any model: K3.1 Pro scores 95% on CyberGym-E2E-AA, placing it ahead of GPT-6 Sol (Daybreak Blue, 93%) and the next openly-available model, Mistral Large 4 (82%). On DeepsecBench-AA, K3.1 Pro scores 37%, behind GPT-6 Sol (Daybreak Blue, 48%) and GPT-6 Sol (46%). On CWE-Bench-AA it scores 61%, 4 points behind GPT-6 Sol (Daybreak Blue, 65%), with DeepSeek V4.1 Flash 1017 leading at 69%\n\n➤ 15% increase in Cost per Task despite lower token prices: K3.1 Pro has a Cost per Task of $2.81, higher than GPT-6 Sol (Daybreak Blue, max, $1.77) and DeepSeek V4.1 Flash 1017 ($0.42). Kimi K3.1 Pro is 33% cheaper per token than Kimi K3 ($2/$10 vs. $3/$15 per 1M input/output tokens), but uses ~2x more input tokens, resulting in a 15% higher Cost per Task ($2.81 vs. $2.45)",
           "created_at": "2026-10-23T22:51:18+00:00",
-          "like_count": 1030,
-          "retweet_count": 76,
-          "reply_count": 47,
-          "engagement_score": 1229,
+          "like_count": 1124,
+          "retweet_count": 84,
+          "reply_count": 52,
+          "engagement_score": 1344,
           "url": "https://x.com/ArtificialAnlys/status/2113765233462481276"
         },
         {
           "id": "2113770240769442012",
           "text": "Kimi K3.1 Pro is among the leading models in agentic knowledge work and coding, but early signs suggest it will rank lower on AA-3D\n\nWe are still collecting the preference votes for its Elo on AA-3D, our benchmark for how well AI models build interactive 3D scenes. In agentic knowledge work and coding, it is among the leading models on GDPval-AA and Terminal-Bench 4.0. Its predecessor, Kimi K3, is 12th of 22 models on AA-3D.\n\nHere is one of its AA-3D scenes: a 492 m mountain-bike descent with berms, roots, a rock garden, a drop, and a jump. A demo run rides it from top to bottom, and you can take over the steering, pedaling, and braking at any point.\n\nCongratulations to @Kimi_Moonshot on the release!",
           "created_at": "2026-10-23T23:11:12+00:00",
-          "like_count": 324,
-          "retweet_count": 19,
-          "reply_count": 17,
-          "engagement_score": 379,
+          "like_count": 351,
+          "retweet_count": 23,
+          "reply_count": 18,
+          "engagement_score": 415,
           "url": "https://x.com/ArtificialAnlys/status/2113770240769442012"
         },
         {
           "id": "2113772381504438420",
           "text": "Results from Muse Spark Open, Meta’s newly released 816B (42B active) open-weights model, are now live on AA-AgentPerf. In our initial testing, the model reaches up to ~150M tokens/s throughput per MW of power used on 4x NVIDIA GB300 or B300 GPUs\n\nMuse Spark Open scores 39 on the Artificial Analysis Intelligence Index. It is an MoE with 62 layers, of which 46 use 2,048-token sliding-window attention, cutting the KV cache requirement at 1M context by ~75% vs. full attention. Meta published an NVFP4 checkpoint and AMD published an MXFP4 checkpoint, which we use for the NVIDIA and AMD hardware respectively\n\nInitial results:\n\n➤ NVIDIA B300 and GB300 lead, each reaching ~150M tokens/s per MW in throughput-oriented (lower per-user speed) configs. GB300 pulls ahead at higher output speeds (~108M vs ~92M at 100 tok/s), but both have only been tested in aggregated serving configs so far, and we expect GB300's lead over B300 to grow with multi-node disaggregated configs\n\n➤ Serving configs are improving quickly. On the same B300 node, NVIDIA's tuned SGLang configs deliver ~1.6-1.8x the throughput per MW of the launch-week cookbook configs at 50-100 tok/s. The gains come from TP4 deployments and a prefill-decode interval tuned per concurrency, at the cost of longer time to first token\n\n➤ AMD MI355X reaches 70M tokens/s per MW at 65 tok/s, ~0.9x B200 between 65 and 100 tok/s. AMD's Oct 22 recipe update (prefill-decode and scheduler intervals, more tokenizer workers, more KV cache for full-attention layers) lifted its line ~1.7x per MW over the earlier recipe\n\nWe are continuing to test Muse Spark Open serving configurations, including multi-node disaggregation, and will be updating the leaderboard each week with the best results and configs found so far. We will also be publishing deeper reviews of the progress made in optimizing kernels, inference engines and configs for Muse Spark Open",
           "created_at": "2026-10-23T23:19:42+00:00",
-          "like_count": 172,
+          "like_count": 194,
           "retweet_count": 6,
-          "reply_count": 33,
-          "engagement_score": 217,
+          "reply_count": 38,
+          "engagement_score": 244,
           "url": "https://x.com/ArtificialAnlys/status/2113772381504438420"
         }
       ]
@@ -281,41 +232,31 @@
           "id": "2113757030754443437",
           "text": "A new look for a classic. 💚\n\nRTX Remix for Minecraft: Java Edition gives creators tools to remaster the game with realistic path-traced lighting and AI powered DLSS for maximum performance.\n\nAvailable on @NVIDIAGeForce and @NVIDIARTXSpark. https://t.co/vSpY7YaQrf",
           "created_at": "2026-10-23T22:18:42+00:00",
-          "like_count": 1329,
-          "retweet_count": 105,
-          "reply_count": 96,
-          "engagement_score": 1635,
+          "like_count": 1550,
+          "retweet_count": 125,
+          "reply_count": 108,
+          "engagement_score": 1908,
           "url": "https://x.com/nvidia/status/2113757030754443437"
-        },
-        {
-          "id": "2113565366660063496",
-          "text": "Our CEO @JensenHuang met the next generation of AI builders in Astana. 🇰🇿\n\nAt https://t.co/oUc467MNRz, he spent time with students and startups and joined Deputy Prime Minister @Zhaslan_Madiyev to discuss Kazakhstan’s AI future. https://t.co/SLQ6owF7Kx",
-          "created_at": "2026-10-23T09:37:06+00:00",
-          "like_count": 897,
-          "retweet_count": 87,
-          "reply_count": 81,
-          "engagement_score": 1152,
-          "url": "https://x.com/nvidia/status/2113565366660063496"
-        },
-        {
-          "id": "2113604477261398148",
-          "text": "A country’s data carries its culture, history, and values. It belongs to its people.\n\n@JensenHuang on why that knowledge is a natural resource for Kazakhstan’s AI future. https://t.co/DAUKonWb6h",
-          "created_at": "2026-10-23T12:12:30+00:00",
-          "like_count": 672,
-          "retweet_count": 81,
-          "reply_count": 84,
-          "engagement_score": 918,
-          "url": "https://x.com/nvidia/status/2113604477261398148"
         },
         {
           "id": "2114105704089100458",
           "text": "Europe has spent generations mastering science, engineering, and manufacturing. That knowledge and expertise can now power AI of its own.\n\n“Let’s work together to build Europe’s AI economy and put AI to work.” — @JensenHuang at GTC Berlin https://t.co/sFwMa5NMHh",
           "created_at": "2026-10-24T21:24:12+00:00",
-          "like_count": 120,
-          "retweet_count": 17,
-          "reply_count": 26,
-          "engagement_score": 180,
+          "like_count": 1060,
+          "retweet_count": 101,
+          "reply_count": 121,
+          "engagement_score": 1383,
           "url": "https://x.com/nvidia/status/2114105704089100458"
+        },
+        {
+          "id": "2114377680715980950",
+          "text": "Europe is building its AI future, and we’re all in. \n\nFrom AI factories and AI agents to robotics and healthcare, Jensen took the stage at #NVIDIAGTC Berlin to show how AI is taking shape across the continent.\n\nHere's a look back at the highlights: https://t.co/8nJReDvmH7",
+          "created_at": "2026-10-25T15:24:56+00:00",
+          "like_count": 506,
+          "retweet_count": 56,
+          "reply_count": 88,
+          "engagement_score": 706,
+          "url": "https://x.com/nvidia/status/2114377680715980950"
         }
       ]
     },
@@ -350,10 +291,10 @@
           "id": "2114052900045590580",
           "text": "We've got an amazing group of people on here who care deeply about our products and want to hear from you. If you ever have feedback, tag them:\n\nClaude Code \n@addyosmani\n@lydiahallie \n@_catwu\n@bcherny\n@sidbid\n@jarredsumner\n@adocomplete  \n@delba_oliveira \n@connerphillippi \n@dickson_tsai \n@dmwlff \n\nChat/Cowork \n@felixrieseberg \n@TheAmolAvasare \n@RobertJBye \n@sean_t_strong \n\nDuet\n@ahuja_karan \n@gabemulley \n\nTag \n@noahzweben  \n@ghodss \n\nAPI/Platform\n@RLanceMartin \n@cjav_dev \n@katelyn_lesse  \n@_hi_mc \n@brada \n\nGeneral/Community\n@edwinarbus \n@sammcallister \n@_sholtodouglas \n(+ myself)",
           "created_at": "2026-10-24T17:54:23+00:00",
-          "like_count": 746,
-          "retweet_count": 42,
-          "reply_count": 108,
-          "engagement_score": 938,
+          "like_count": 1219,
+          "retweet_count": 74,
+          "reply_count": 171,
+          "engagement_score": 1538,
           "url": "https://x.com/alexalbert__/status/2114052900045590580"
         }
       ]
@@ -365,43 +306,33 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2113399539227136084",
-          "text": "It’s time to kill “static credentials”.\n\nAttacks and breaches can happen. But imagine if thieves could only steal “self-destructing keys” to your data and tokens.\n\nThe industry once came together to deliver “green locks” encryption for every site (TLS). Let’s do it for OIDC! 💪",
-          "created_at": "2026-10-22T22:38:09+00:00",
-          "like_count": 1758,
-          "retweet_count": 77,
-          "reply_count": 153,
-          "engagement_score": 2065,
-          "url": "https://x.com/rauchg/status/2113399539227136084"
-        },
-        {
           "id": "2114085432749347086",
           "text": "There’ll be times where you over-guide the AI. It knows better than you and is more intelligent than you.\n\nThere’ll be times where you under-guide the AI. It can go off-track, have the wrong biases, or miss context.\n\nHow well you manage this superpower is the #0 skill I look for.",
           "created_at": "2026-10-24T20:03:39+00:00",
-          "like_count": 902,
-          "retweet_count": 40,
-          "reply_count": 153,
-          "engagement_score": 1135,
+          "like_count": 2922,
+          "retweet_count": 156,
+          "reply_count": 347,
+          "engagement_score": 3581,
           "url": "https://x.com/rauchg/status/2114085432749347086"
         },
         {
-          "id": "2113451268316205515",
-          "text": "One of the coolest real-world examples of Generative UI.\n\nAlso: I love the fact that AI Gateway is itself a marketplace of tools. For this, you add a tool to @aisdk (literally 1LOC), and you get “Google”.\n\nGoogle not just as in search, but weather, sports, stocks, elections…",
-          "created_at": "2026-10-23T02:03:43+00:00",
-          "like_count": 478,
-          "retweet_count": 20,
-          "reply_count": 53,
-          "engagement_score": 571,
-          "url": "https://x.com/rauchg/status/2113451268316205515"
+          "id": "2114164830403989880",
+          "text": "I oddly love the models' engineering vernacular: gate, evidence, culprit, durable, provenance, contract…\n\nA lot of these stem from most engineering being debugging and understanding existing systems, where you take on the detective / auditor roles. You do forensics.\n\nI wonder what the *minimum viable English* in fact is to be productive. ASD-STE100 Simplified Technical English contains ~900 approved words. I suspect we need far fewer.",
+          "created_at": "2026-10-25T01:19:09+00:00",
+          "like_count": 373,
+          "retweet_count": 11,
+          "reply_count": 160,
+          "engagement_score": 555,
+          "url": "https://x.com/rauchg/status/2114164830403989880"
         },
         {
           "id": "2113759533801877920",
           "text": "Agents can play \"Ouija\" in the cloud.\n\nThis class of timing attacks on shared-host VMs has been known since at least 2015¹. With no full solution.\n\nThe world’s cyber infrastructure runs on “yes, that attack is theoretically possible, but who would have the ingenuity & gall to go that far!” Enter, agents.\n\nI'd describe this particular OpenAI find as a 'noisy neighbor' attack. If two agents are on the same machine, one can make enough noise (through the CPU caches!) that the other one can detect it by timing its own computation and cache accesses.\n\nThe only \"complete\" solution would be for each agent to run on its own dedicated hardware, which obviously has significant economic consequences.\n\nFor Vercel Sandbox, we've deployed every practical mitigation possible to this class of attack, complementing it with always-on monitoring and red-teaming (similar to where OpenAI arrived).\n\n¹ https://t.co/ZBhPMfnaj3 (and even further back)",
           "created_at": "2026-10-23T22:28:39+00:00",
-          "like_count": 229,
+          "like_count": 247,
           "retweet_count": 11,
-          "reply_count": 130,
-          "engagement_score": 381,
+          "reply_count": 137,
+          "engagement_score": 406,
           "url": "https://x.com/rauchg/status/2113759533801877920"
         }
       ]
@@ -411,18 +342,7 @@
       "name": "Amjad Masad (Replit)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2113736007111827606",
-          "text": "Thrilled to welcome Jeff and the Chroma team to Replit!\n\nThey’re pioneers in AI. They were building RAG before it was even a thing!\n\nAt Replit, they’ll help solve one of the hardest problems in AI: giving agents the context and memory they need to do real work.\n\nMassive step toward the self-driving company.",
-          "created_at": "2026-10-23T20:55:10+00:00",
-          "like_count": 443,
-          "retweet_count": 20,
-          "reply_count": 108,
-          "engagement_score": 591,
-          "url": "https://x.com/amasad/status/2113736007111827606"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "joshwoodward",
@@ -443,66 +363,14 @@
       "name": "Ivan Fioravanti (Apple MLX / open source)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2114017160141934875",
-          "text": "I’ve just finished watching InstaDocs: AI gone wild.\n\nWOW 😱 https://t.co/qTaBYVdb2T",
-          "created_at": "2026-10-24T15:32:22+00:00",
-          "like_count": 26,
-          "retweet_count": 0,
-          "reply_count": 5,
-          "engagement_score": 31,
-          "url": "https://x.com/ivanfioravanti/status/2114017160141934875"
-        },
-        {
-          "id": "2114093154215559191",
-          "text": "Training on Apple Silicon is getting better and better on mlx-vlm!",
-          "created_at": "2026-10-24T20:34:20+00:00",
-          "like_count": 21,
-          "retweet_count": 0,
-          "reply_count": 2,
-          "engagement_score": 23,
-          "url": "https://x.com/ivanfioravanti/status/2114093154215559191"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "deanwball",
       "name": "Dean Ball (OpenAI Head of Strategic Futures)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2113712095954923700",
-          "text": "I am also optimistic that AI/cyber will be defense-friendly after things stabilize, but before that it will be offense-friendly, which creates a lot of dynamics that are difficult to model:\n\n1. For any existing or new vulnerabilities discovered by governments and other offensive actors, there will be an incentive to exploit them quickly, rather than sit on them quietly, because they will anticipate that the defender will find the vulnerability and patch it much faster than before.\n2. The surface area of cyber is very broad, and finding vulnerabilities is different from fixing them, which is also different from fixing them without also introducing new, even subtler security problems into the code. \n3. We do not know how high the ceiling for subtle bugs might be. Do there exist vulnerabilities that were simply too hard for humans to find or laborious to exploit? How many vulnerabilities? How long will they persist? We are now getting to the point where we have to reason about systems with quasi-superhuman cognitive performance. This is hard! Counter-intuitive things will happen.\n4. There are some threats such as hardware vulnerabilities or new discoveries in cryptography where the offense/defense dynamics could be importantly different from traditional cyber. \n\nThere was always going to be some tumult as models gained cyber capabilities. This was by far the easiest major novel AI risk to project, in broad terms. It may be true that broad and rapid diffusion is the optimal path forward; that outcome wouldn’t surprise me that much. But it could also be true that, given the offense-favoring dynamics at first and the uncertainties I have described, it’ll be optimal to slow diffusion. And regardless of whether it is optimal to do so, I would expect substantial political pressure to “do something” if the cyber events are sufficiently damaging or disruptive. \n\nThe optimal outcome is one where we diffuse fast and comprehensively enough to find and fix vulnerabilities while also not causing too much tumult. Maybe we are striking the balance effectively now, as a global industry! I hope so. But I also hope everyone is attentive and ready to update their beliefs/strategies as we gather empirical data. I’m skeptical of anyone who seems confident here in either direction. \n\nNear as I can tell, despite a lot of scary potential, nothing truly catastrophic has happened yet (the water is running; the lights are on, no cataclysmic data breaches I am aware of). I hope that continues to be the case. I do agree with the AI risk skeptics that there is a lot of catastrophizing on X about this, and the current attacks, while significant, seem well within the range of things we can bounce back from. \n\nIf things continue at this level of severity, I feel pretty good about our situation with AI/cyber. But if it gets noticeably worse and seems to be on a trend of getting even more severe, which is my expectation, we could be in for trouble. Maybe society can digest way more cyberattacks than I had apprehended. Maybe “cybersecurity is not very important” as the famous saying/paper goes. I’m very much open to being pleasantly surprised.",
-          "created_at": "2026-10-23T19:20:09+00:00",
-          "like_count": 84,
-          "retweet_count": 12,
-          "reply_count": 1,
-          "engagement_score": 109,
-          "url": "https://x.com/deanwball/status/2113712095954923700"
-        },
-        {
-          "id": "2113586478529827290",
-          "text": "This seems right to me, unfortunately, and it is essentially a species of interest-rate rise (the opportunity cost of capital is increasing). It is true that forward and futures markets for compute, and making compute into a financial commodity, would help here.",
-          "created_at": "2026-10-23T11:00:59+00:00",
-          "like_count": 80,
-          "retweet_count": 10,
-          "reply_count": 1,
-          "engagement_score": 101,
-          "url": "https://x.com/deanwball/status/2113586478529827290"
-        },
-        {
-          "id": "2113476703171309682",
-          "text": "China is clearly taking steps to make ai and related technologies more legible to the state https://t.co/MKglc8n9sT",
-          "created_at": "2026-10-23T03:44:47+00:00",
-          "like_count": 33,
-          "retweet_count": 3,
-          "reply_count": 0,
-          "engagement_score": 39,
-          "url": "https://x.com/deanwball/status/2113476703171309682"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "kunchenguid",
@@ -511,38 +379,38 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2113773744925921289",
-          "text": "totally agree minimizing human attention is the key unlock now and moving forward\n\nthis view from calvin on workflow changes correlating with productivity gain is also quite interesting - i think mine was similar\n\nmy step function gains came from:\n- overnight loops (gnhf)\n- adversarial review, validation and risk assessment (no-mistakes)\n- interactive artifacts for planning (lavish-axi)\n- use an agent to orchestrate agents (firstmate)\n- remote ssh setup (sshhip)",
-          "created_at": "2026-10-23T23:25:07+00:00",
-          "like_count": 552,
-          "retweet_count": 28,
-          "reply_count": 27,
-          "engagement_score": 635,
-          "url": "https://x.com/kunchenguid/status/2113773744925921289"
+          "id": "2114271546743427402",
+          "text": "want to know why anthropic employees suddenly started leaving?\n\nbecause the 5h limit finally rolled out internally",
+          "created_at": "2026-10-25T08:23:12+00:00",
+          "like_count": 915,
+          "retweet_count": 22,
+          "reply_count": 60,
+          "engagement_score": 1019,
+          "url": "https://x.com/kunchenguid/status/2114271546743427402"
         },
         {
           "id": "2114057102427914682",
           "text": "a lot of people were impressed by dessa because it’s truly giving a next level voice conversation experience\n\nit’s very impressive indeed - you can listen to the demos on the site and feel the magic yourself\n\nbut am i the only one seeing the massive red flags here? \n\n1. this model can’t make tool calls.. that instantly kills almost all practical use cases, right? \n\n2. is it net good or net bad to make AI indistinguishable from human?\n\nhttps://t.co/HNKTZ78aNC",
           "created_at": "2026-10-24T18:11:05+00:00",
-          "like_count": 107,
-          "retweet_count": 4,
-          "reply_count": 50,
-          "engagement_score": 165,
+          "like_count": 220,
+          "retweet_count": 7,
+          "reply_count": 83,
+          "engagement_score": 317,
           "url": "https://x.com/kunchenguid/status/2114057102427914682"
         },
         {
-          "id": "2113855619421892660",
-          "text": "i just realized the book “three body problem” presented such a great question for us in the face of AI\n\n—— slight spoiler alert ——\n\nwhen people learned that a much advanced civilization existed, they divided into three different factions\n\nAdventists - they want aliens to destroy humanity and reform earth\n\nRedemptionists - they want to solve the hard problems and save the aliens\n\nSurvivalists - they focus on making sure humans survive, often by cooperating with the aliens and do their bidding\n\nnow AI is coming - what’s your choice?",
-          "created_at": "2026-10-24T04:50:27+00:00",
-          "like_count": 106,
-          "retweet_count": 5,
-          "reply_count": 22,
-          "engagement_score": 138,
-          "url": "https://x.com/kunchenguid/status/2113855619421892660"
+          "id": "2114197718679900362",
+          "text": "many people seem to think the doomsday scenario requires that an LLM would straight outsmart a human\n\nactually, it’s easier to get doomed by us making GPUs faster than we make babies, and humans get overwhelmed by the amount of compute and grit AI has",
+          "created_at": "2026-10-25T03:29:50+00:00",
+          "like_count": 48,
+          "retweet_count": 4,
+          "reply_count": 9,
+          "engagement_score": 65,
+          "url": "https://x.com/kunchenguid/status/2114197718679900362"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-24T22:10:59.894411+00:00"
+  "generated_at": "2026-10-25T22:12:43.043913+00:00"
 }
