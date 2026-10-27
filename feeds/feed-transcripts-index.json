@@ -1,7 +1,72 @@
 {
-  "generated_at": "2026-10-26T00:38:33.561091+00:00",
+  "generated_at": "2026-10-26T23:28:30.737067+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
+      "pub_date": "2026-10-26T15:00:53+00:00",
+      "transcript_path": "feeds/transcripts/686c74002f230e47034aad2d.txt",
+      "transcript_chars": 7978,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-26T23:28:30.737067+00:00",
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+    },
+    {
+      "guid": "yt:oIp3JrX3KL8",
+      "link": "https://www.youtube.com/watch?v=oIp3JrX3KL8",
+      "channel": "WolvesAndFinance",
+      "title": "Mark Zuckerberg is CANCELLED",
+      "pub_date": "2026-10-25T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/80bc1d67aebd443b1a7fe918.txt",
+      "transcript_chars": 28345,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-26T23:28:30.737067+00:00",
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
+      "link": "https://latent.space/p/ainews-kimi-31/",
+      "channel": "Latent Space",
+      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "pub_date": "2026-10-24T07:18:29+00:00",
+      "transcript_path": "feeds/transcripts/c98d926c45e96ca5178779ec.txt",
+      "transcript_chars": 69993,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-26T23:28:30.737067+00:00",
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+    },
+    {
+      "guid": "bfa0e2d3-48c6-4863-ad93-0672a4f9c212",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Why-Buffett-Would-Be-Short-the-AI-Horses-Right-Now-e3qvopo",
+      "channel": "The Acquirers Podcast",
+      "title": "Why Buffett Would Be Short the “AI Horses” Right Now",
+      "pub_date": "2026-10-24T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/286fc0d514dee3e0ab1bc9b6.txt",
+      "transcript_chars": 145771,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-26T23:28:30.737067+00:00",
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+    },
+    {
+      "guid": "yt:sH5qyeHSdVs",
+      "link": "https://www.youtube.com/watch?v=sH5qyeHSdVs",
+      "channel": "Yahoo Finance and Deirdre Bosa",
+      "title": "Exclusive: Jensen Huang sits down with Deirdre Bosa at Nvidia GTC Berlin",
+      "pub_date": "2026-10-21T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/ac877c6150ebc314824c5c5f.txt",
+      "transcript_chars": 30322,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-26T23:28:30.737067+00:00",
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+    },
     {
       "guid": "67407b17-fc00-459d-bcd7-cac8281297be",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--040---ASML-Is-Building-a-Hybrid-Bonding-Tool--and-Its-Patents-Show-How-AI-Supply-Chain--Jordan-Nanos--Howie--Sherry-Zhang-e3qulph",
@@ -12,8 +77,8 @@
       "transcript_chars": 34951,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
-      "expires_at": "2026-11-09T00:38:33.561091+00:00"
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
     },
     {
       "guid": "yt:v-NGxyPjcrE",
@@ -25,8 +90,8 @@
       "transcript_chars": 66844,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
-      "expires_at": "2026-11-09T00:38:33.561091+00:00"
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
     },
     {
       "guid": "f1cffbc1-bf75-412c-96c9-bf8e8334a5c1",
@@ -51,8 +116,8 @@
       "transcript_chars": 18183,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
-      "expires_at": "2026-11-09T00:38:33.561091+00:00"
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
     },
     {
       "guid": "https://www.latent.space/p/modal-d",
@@ -116,8 +181,8 @@
       "transcript_chars": 17468,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
-      "expires_at": "2026-11-09T00:38:33.561091+00:00"
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
     },
     {
       "guid": "yt:t2LLh6HUG2Y",
@@ -129,8 +194,8 @@
       "transcript_chars": 64169,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
-      "expires_at": "2026-11-09T00:38:33.561091+00:00"
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
     },
     {
       "guid": "yt:F3ItSTZNtT0",
@@ -142,8 +207,8 @@
       "transcript_chars": 40819,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
-      "expires_at": "2026-11-09T00:38:33.561091+00:00"
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
@@ -207,8 +272,8 @@
       "transcript_chars": 44051,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
-      "expires_at": "2026-11-09T00:38:33.561091+00:00"
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
     },
     {
       "guid": "yt:anAmTGcewX8",
@@ -220,8 +285,8 @@
       "transcript_chars": 44855,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
-      "expires_at": "2026-11-09T00:38:33.561091+00:00"
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
     },
     {
       "guid": "yt:fJBSNEFdm8c",
@@ -233,8 +298,8 @@
       "transcript_chars": 56245,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
-      "expires_at": "2026-11-09T00:38:33.561091+00:00"
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
     },
     {
       "guid": "yt:PvFjbPYEOZI",
@@ -246,8 +311,8 @@
       "transcript_chars": 67017,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
-      "expires_at": "2026-11-09T00:38:33.561091+00:00"
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
     },
     {
       "guid": "27dff112-099e-47eb-95a4-c9aba0ed9414",
@@ -259,8 +324,8 @@
       "transcript_chars": 45847,
       "transcript_source": null,
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
-      "expires_at": "2026-11-09T00:38:33.561091+00:00"
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
     },
     {
       "guid": "https://www.latent.space/p/sfcompute2",
@@ -298,8 +363,8 @@
       "transcript_chars": 38873,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-20T22:27:04.241565+00:00",
-      "last_seen_at": "2026-10-26T00:38:33.561091+00:00",
-      "expires_at": "2026-11-09T00:38:33.561091+00:00"
+      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
+      "expires_at": "2026-11-09T23:28:30.737067+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
