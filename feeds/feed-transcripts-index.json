@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-10-28T03:34:59.412837+00:00",
+  "generated_at": "2026-10-28T22:01:37.303353+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+      "link": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
+      "channel": "Lenny's Podcast",
+      "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
+      "pub_date": "2026-10-28T12:04:22+00:00",
+      "transcript_path": "feeds/transcripts/73320dd98ad1ab35193cb18d.txt",
+      "transcript_chars": 4383,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-28T22:01:37.303353+00:00",
+      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
+      "expires_at": "2026-11-11T22:01:37.303353+00:00"
+    },
+    {
+      "guid": "yt:1OdoSzfUkec",
+      "link": "https://www.youtube.com/watch?v=1OdoSzfUkec",
+      "channel": "The Builders and Kaleidoscope",
+      "title": "Dario & Daniela Amodei: The Rise of Superintelligent AI, the End of Human Control & Humanity's Fate",
+      "pub_date": "2026-10-27T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/5b3556581c7bb8519d406388.txt",
+      "transcript_chars": 41528,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-28T22:01:37.303353+00:00",
+      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
+      "expires_at": "2026-11-11T22:01:37.303353+00:00"
+    },
     {
       "guid": "55a9b7c7-fd29-4fa7-bdcc-79602d486227",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--041---EMERGENCY-Inside-the-Anthropics-S-1-Tokenomics-Markets--Doug-OLaughlin--Jeremie-Eliahou-Ontiveros--Joey-Brookhart--Jordan-Nanos-e3r5vmo",
@@ -12,8 +38,8 @@
       "transcript_chars": 54893,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
+      "expires_at": "2026-11-11T22:01:37.303353+00:00"
     },
     {
       "guid": "yt:crdg4X5BZPc",
@@ -25,8 +51,8 @@
       "transcript_chars": 39685,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
+      "expires_at": "2026-11-11T22:01:37.303353+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=7807",
@@ -38,8 +64,8 @@
       "transcript_chars": 225373,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
+      "expires_at": "2026-11-11T22:01:37.303353+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
@@ -51,8 +77,8 @@
       "transcript_chars": 4485,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
+      "expires_at": "2026-11-11T22:01:37.303353+00:00"
     },
     {
       "guid": "yt:24XUcWhqY_4",
@@ -64,8 +90,8 @@
       "transcript_chars": 24508,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
+      "expires_at": "2026-11-11T22:01:37.303353+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
@@ -77,8 +103,8 @@
       "transcript_chars": 7978,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-26T23:28:30.737067+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
+      "expires_at": "2026-11-11T22:01:37.303353+00:00"
     },
     {
       "guid": "yt:oIp3JrX3KL8",
@@ -90,8 +116,8 @@
       "transcript_chars": 28345,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-26T23:28:30.737067+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
+      "expires_at": "2026-11-11T22:01:37.303353+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
@@ -142,8 +168,8 @@
       "transcript_chars": 34951,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
+      "expires_at": "2026-11-11T22:01:37.303353+00:00"
     },
     {
       "guid": "yt:v-NGxyPjcrE",
@@ -155,8 +181,8 @@
       "transcript_chars": 66844,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
+      "expires_at": "2026-11-11T22:01:37.303353+00:00"
     },
     {
       "guid": "f1cffbc1-bf75-412c-96c9-bf8e8334a5c1",
@@ -181,8 +207,8 @@
       "transcript_chars": 18183,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
+      "expires_at": "2026-11-11T22:01:37.303353+00:00"
     },
     {
       "guid": "https://www.latent.space/p/modal-d",
@@ -246,8 +272,8 @@
       "transcript_chars": 17468,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
+      "expires_at": "2026-11-11T22:01:37.303353+00:00"
     },
     {
       "guid": "yt:t2LLh6HUG2Y",
@@ -389,8 +415,8 @@
       "transcript_chars": 45847,
       "transcript_source": null,
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
+      "expires_at": "2026-11-11T22:01:37.303353+00:00"
     },
     {
       "guid": "https://www.latent.space/p/sfcompute2",
