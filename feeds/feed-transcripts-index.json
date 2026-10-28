@@ -1,7 +1,72 @@
 {
-  "generated_at": "2026-10-26T23:28:30.737067+00:00",
+  "generated_at": "2026-10-28T03:34:59.412837+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "55a9b7c7-fd29-4fa7-bdcc-79602d486227",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--041---EMERGENCY-Inside-the-Anthropics-S-1-Tokenomics-Markets--Doug-OLaughlin--Jeremie-Eliahou-Ontiveros--Joey-Brookhart--Jordan-Nanos-e3r5vmo",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 041 - EMERGENCY: Inside the Anthropic’s S-1 (Tokenomics/ Markets) | Doug O’Laughlin, Jeremie Eliahou Ontiveros, Joey Brookhart, Jordan Nanos",
+      "pub_date": "2026-10-27T15:00:00+00:00",
+      "transcript_path": "feeds/transcripts/97cfe9971ab8505f01f989c1.txt",
+      "transcript_chars": 54893,
+      "transcript_source": "companion_youtube",
+      "cached_at": "2026-10-28T03:34:59.412837+00:00",
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+    },
+    {
+      "guid": "yt:crdg4X5BZPc",
+      "link": "https://www.youtube.com/watch?v=crdg4X5BZPc",
+      "channel": "TBPN",
+      "title": "Gavin Baker on Anthropic's S-1, GPU Prices, and SpaceX",
+      "pub_date": "2026-10-27T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/341954a7dd21681976c600a2.txt",
+      "transcript_chars": 39685,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-28T03:34:59.412837+00:00",
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+    },
+    {
+      "guid": "https://lexfridman.com/?p=7807",
+      "link": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=math-ai-crisis",
+      "channel": "Lex Fridman",
+      "title": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
+      "pub_date": "2026-10-26T22:52:28+00:00",
+      "transcript_path": "feeds/transcripts/5e6fe13ba1338fcf16c25915.txt",
+      "transcript_chars": 225373,
+      "transcript_source": "description_transcript_link",
+      "cached_at": "2026-10-28T03:34:59.412837+00:00",
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
+      "link": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
+      "channel": "Lenny's Podcast",
+      "title": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
+      "pub_date": "2026-10-26T12:04:20+00:00",
+      "transcript_path": "feeds/transcripts/e0b37930bca3beaa4c54b514.txt",
+      "transcript_chars": 4485,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-28T03:34:59.412837+00:00",
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+    },
+    {
+      "guid": "yt:24XUcWhqY_4",
+      "link": "https://www.youtube.com/watch?v=24XUcWhqY_4",
+      "channel": "20VC with Harry Stebbings",
+      "title": "Satya Nadella on Open vs Closed Models: Who Wins | Why Companies Need to Own Their Own Intelligence",
+      "pub_date": "2026-10-26T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/86adc93e7d0c6825e9b42e93.txt",
+      "transcript_chars": 24508,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-28T03:34:59.412837+00:00",
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
       "link": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
@@ -12,8 +77,8 @@
       "transcript_chars": 7978,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-26T23:28:30.737067+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
       "guid": "yt:oIp3JrX3KL8",
@@ -25,8 +90,8 @@
       "transcript_chars": 28345,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-26T23:28:30.737067+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
@@ -64,8 +129,8 @@
       "transcript_chars": 30322,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-26T23:28:30.737067+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
       "guid": "67407b17-fc00-459d-bcd7-cac8281297be",
@@ -77,8 +142,8 @@
       "transcript_chars": 34951,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
       "guid": "yt:v-NGxyPjcrE",
@@ -90,8 +155,8 @@
       "transcript_chars": 66844,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
       "guid": "f1cffbc1-bf75-412c-96c9-bf8e8334a5c1",
@@ -116,8 +181,8 @@
       "transcript_chars": 18183,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
       "guid": "https://www.latent.space/p/modal-d",
@@ -181,8 +246,8 @@
       "transcript_chars": 17468,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
       "guid": "yt:t2LLh6HUG2Y",
@@ -194,8 +259,8 @@
       "transcript_chars": 64169,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
       "guid": "yt:F3ItSTZNtT0",
@@ -272,8 +337,8 @@
       "transcript_chars": 44051,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
       "guid": "yt:anAmTGcewX8",
@@ -285,8 +350,8 @@
       "transcript_chars": 44855,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
       "guid": "yt:fJBSNEFdm8c",
@@ -298,8 +363,8 @@
       "transcript_chars": 56245,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
       "guid": "yt:PvFjbPYEOZI",
@@ -311,8 +376,8 @@
       "transcript_chars": 67017,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
       "guid": "27dff112-099e-47eb-95a4-c9aba0ed9414",
@@ -324,8 +389,8 @@
       "transcript_chars": 45847,
       "transcript_source": null,
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
       "guid": "https://www.latent.space/p/sfcompute2",
@@ -363,8 +428,8 @@
       "transcript_chars": 38873,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-20T22:27:04.241565+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
+      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
+      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
@@ -744,45 +809,6 @@
       "expires_at": "2026-10-29T22:01:44.285831+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/standard-bots",
-      "link": "https://www.latent.space/p/standard-bots",
-      "channel": "Latent Space",
-      "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
-      "pub_date": "2026-10-10T14:04:11+00:00",
-      "transcript_path": "feeds/transcripts/ccfe66c9826e8908194cb330.txt",
-      "transcript_chars": 7881,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-11T01:13:54.279077+00:00",
-      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
-      "expires_at": "2026-10-27T00:23:45.490399+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "link": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "channel": "Latent Space",
-      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
-      "pub_date": "2026-10-10T06:45:57+00:00",
-      "transcript_path": "feeds/transcripts/2a5bd2998c8ff69d4dedcb67.txt",
-      "transcript_chars": 10660,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-11T01:13:54.279077+00:00",
-      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
-      "expires_at": "2026-10-27T00:23:45.490399+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/biohub-deepmind",
-      "link": "https://www.latent.space/p/biohub-deepmind",
-      "channel": "Latent Space",
-      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
-      "pub_date": "2026-10-10T00:31:26+00:00",
-      "transcript_path": "feeds/transcripts/c0263fda10f92c5a66192b88.txt",
-      "transcript_chars": 29545,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-11T01:13:54.279077+00:00",
-      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
-      "expires_at": "2026-10-27T00:23:45.490399+00:00"
-    },
-    {
       "guid": "yt:k1HRPESsyoM",
       "link": "https://www.youtube.com/watch?v=k1HRPESsyoM",
       "channel": "Forbes Breaking News",
@@ -807,19 +833,6 @@
       "cached_at": "2026-10-10T06:14:36.405550+00:00",
       "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
       "expires_at": "2026-11-06T04:09:46.138835+00:00"
-    },
-    {
-      "guid": "yt:RE_AsVyoOSQ",
-      "link": "https://www.youtube.com/watch?v=RE_AsVyoOSQ",
-      "channel": "Yahoo Finance",
-      "title": "Microsoft Windows Event with Satya Nadella and Jensen Huang | LIVE",
-      "pub_date": "2026-10-07T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/8cbc30e0391a7b44cdaf86da.txt",
-      "transcript_chars": 49586,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-08T23:59:06.633511+00:00",
-      "last_seen_at": "2026-10-13T00:23:45.490399+00:00",
-      "expires_at": "2026-10-27T00:23:45.490399+00:00"
     },
     {
       "guid": "233d9970-74f8-42c7-8383-f7ea5f70f1d6",
