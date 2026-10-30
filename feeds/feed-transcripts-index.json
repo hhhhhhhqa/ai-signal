@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-10-30T02:58:41.183811+00:00",
+  "generated_at": "2026-10-30T22:28:57.856494+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/robert-caro",
+      "link": "https://www.dwarkesh.com/p/robert-caro",
+      "channel": "Dwarkesh Patel",
+      "title": "Robert Caro – The master biographer reflects at 91",
+      "pub_date": "2026-10-30T16:56:02+00:00",
+      "transcript_path": "feeds/transcripts/a7d82e56862b09c7c7bdbd3f.txt",
+      "transcript_chars": 35054,
+      "transcript_source": "content_transcript_link",
+      "cached_at": "2026-10-30T22:28:57.856494+00:00",
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+    },
+    {
+      "guid": "f9b14d57-8760-43a9-a6e1-da786a2cae6d",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Tim-Melvin-Finding-Value-Where-Wall-Street-Isnt-Looking-e3r98sb",
+      "channel": "The Acquirers Podcast",
+      "title": "Tim Melvin: Finding Value Where Wall Street Isn’t Looking",
+      "pub_date": "2026-10-29T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/98cbc5cba056cb89c7b4a27e.txt",
+      "transcript_chars": 144791,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-30T22:28:57.856494+00:00",
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+    },
+    {
+      "guid": "yt:OV1QfQ3C29Q",
+      "link": "https://www.youtube.com/watch?v=OV1QfQ3C29Q",
+      "channel": "TBPN",
+      "title": "Technology Is Back, Gavin Baker Live, Math Solved Again, Anduril Laptop, DoorDash + Instacart",
+      "pub_date": "2026-10-27T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/ca9c8ae5eaeba50aafc1729c.txt",
+      "transcript_chars": 132410,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-30T22:28:57.856494+00:00",
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+    },
+    {
+      "guid": "yt:StNgnJzdDwo",
+      "link": "https://www.youtube.com/watch?v=StNgnJzdDwo",
+      "channel": "Hushmere",
+      "title": "Dario Amodei's Story - The Physicist Before Anthropic",
+      "pub_date": "2026-10-26T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/a0606c9be53b73c516ea774e.txt",
+      "transcript_chars": 15435,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-30T22:28:57.856494+00:00",
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/lessons-in-power",
       "link": "https://www.dwarkesh.com/p/lessons-in-power",
@@ -12,8 +64,8 @@
       "transcript_chars": 24881,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-30T02:58:41.183811+00:00",
-      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
-      "expires_at": "2026-11-13T02:58:41.183811+00:00"
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
     },
     {
       "guid": "yt:iMsUcCYNKqY",
@@ -25,8 +77,8 @@
       "transcript_chars": 51028,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-30T02:58:41.183811+00:00",
-      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
-      "expires_at": "2026-11-13T02:58:41.183811+00:00"
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
     },
     {
       "guid": "yt:xGjKsW2v0aY",
@@ -38,8 +90,8 @@
       "transcript_chars": 71394,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-30T02:58:41.183811+00:00",
-      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
-      "expires_at": "2026-11-13T02:58:41.183811+00:00"
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
@@ -51,8 +103,8 @@
       "transcript_chars": 4383,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-28T22:01:37.303353+00:00",
-      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
-      "expires_at": "2026-11-13T02:58:41.183811+00:00"
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
     },
     {
       "guid": "yt:1OdoSzfUkec",
@@ -64,8 +116,8 @@
       "transcript_chars": 41528,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T22:01:37.303353+00:00",
-      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
-      "expires_at": "2026-11-13T02:58:41.183811+00:00"
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
     },
     {
       "guid": "55a9b7c7-fd29-4fa7-bdcc-79602d486227",
@@ -77,8 +129,8 @@
       "transcript_chars": 54893,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
-      "expires_at": "2026-11-13T02:58:41.183811+00:00"
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
     },
     {
       "guid": "yt:crdg4X5BZPc",
@@ -90,8 +142,8 @@
       "transcript_chars": 39685,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
-      "expires_at": "2026-11-13T02:58:41.183811+00:00"
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=7807",
@@ -129,8 +181,8 @@
       "transcript_chars": 24508,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
-      "expires_at": "2026-11-13T02:58:41.183811+00:00"
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
@@ -155,8 +207,8 @@
       "transcript_chars": 28345,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-26T23:28:30.737067+00:00",
-      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
-      "expires_at": "2026-11-13T02:58:41.183811+00:00"
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
@@ -207,8 +259,8 @@
       "transcript_chars": 34951,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
-      "expires_at": "2026-11-13T02:58:41.183811+00:00"
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
     },
     {
       "guid": "yt:v-NGxyPjcrE",
@@ -454,8 +506,8 @@
       "transcript_chars": 45847,
       "transcript_source": null,
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
-      "expires_at": "2026-11-13T02:58:41.183811+00:00"
+      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
+      "expires_at": "2026-11-13T22:28:57.856494+00:00"
     },
     {
       "guid": "https://www.latent.space/p/sfcompute2",

@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "id": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "published": "2026-10-30T09:30:00+00:00",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+    },
+    {
+      "id": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "published": "2026-10-30T09:00:00+00:00",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+    },
+    {
+      "id": "https://openai.com/index/fair-use-benefits-everyone",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "published": "2026-10-30T00:00:00+00:00",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+    },
+    {
       "id": "https://openai.com/index/updated-model-spec",
       "source": "openai",
       "source_name": "OpenAI",
@@ -19,42 +46,6 @@
       "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
     },
     {
-      "id": "https://openai.com/index/ropes-gray-ai-diligence",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "published": "2026-10-29T07:00:00+00:00",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
-    },
-    {
-      "id": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "published": "2026-10-28T17:00:58+00:00",
-      "summary": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities."
-    },
-    {
-      "id": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "published": "2026-10-28T13:15:00+00:00",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
-    },
-    {
-      "id": "https://openai.com/index/the-future-of-the-firm",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "published": "2026-10-28T10:00:00+00:00",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us."
-    },
-    {
       "id": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -65,5 +56,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-10-29T22:51:34.366240+00:00"
+  "generated_at": "2026-10-30T22:11:11.103727+00:00"
 }
