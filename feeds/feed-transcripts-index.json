@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-10-28T22:01:37.303353+00:00",
+  "generated_at": "2026-10-30T02:58:41.183811+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/lessons-in-power",
+      "link": "https://www.dwarkesh.com/p/lessons-in-power",
+      "channel": "Dwarkesh Patel",
+      "title": "What I learned about power from LBJ and Robert Moses",
+      "pub_date": "2026-10-29T16:48:39+00:00",
+      "transcript_path": "feeds/transcripts/9bb4a2f2e860d82286c31425.txt",
+      "transcript_chars": 24881,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-10-30T02:58:41.183811+00:00",
+      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
+      "expires_at": "2026-11-13T02:58:41.183811+00:00"
+    },
+    {
+      "guid": "yt:iMsUcCYNKqY",
+      "link": "https://www.youtube.com/watch?v=iMsUcCYNKqY",
+      "channel": "Cheeky Pint and Stripe",
+      "title": "Why Sam Altman is against a single superintelligence",
+      "pub_date": "2026-10-29T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/14cce45791f3f12d4c262ffd.txt",
+      "transcript_chars": 51028,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-30T02:58:41.183811+00:00",
+      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
+      "expires_at": "2026-11-13T02:58:41.183811+00:00"
+    },
+    {
+      "guid": "yt:xGjKsW2v0aY",
+      "link": "https://www.youtube.com/watch?v=xGjKsW2v0aY",
+      "channel": "Julian Dorey Daily",
+      "title": "AI Insider Reveals His Behind-Closed-Door Conversation with Sam Altman",
+      "pub_date": "2026-10-25T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/b1f0b70c80eeec6af053cfc5.txt",
+      "transcript_chars": 71394,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-10-30T02:58:41.183811+00:00",
+      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
+      "expires_at": "2026-11-13T02:58:41.183811+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
       "link": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
@@ -12,8 +51,8 @@
       "transcript_chars": 4383,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-28T22:01:37.303353+00:00",
-      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
-      "expires_at": "2026-11-11T22:01:37.303353+00:00"
+      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
+      "expires_at": "2026-11-13T02:58:41.183811+00:00"
     },
     {
       "guid": "yt:1OdoSzfUkec",
@@ -25,8 +64,8 @@
       "transcript_chars": 41528,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T22:01:37.303353+00:00",
-      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
-      "expires_at": "2026-11-11T22:01:37.303353+00:00"
+      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
+      "expires_at": "2026-11-13T02:58:41.183811+00:00"
     },
     {
       "guid": "55a9b7c7-fd29-4fa7-bdcc-79602d486227",
@@ -38,8 +77,8 @@
       "transcript_chars": 54893,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
-      "expires_at": "2026-11-11T22:01:37.303353+00:00"
+      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
+      "expires_at": "2026-11-13T02:58:41.183811+00:00"
     },
     {
       "guid": "yt:crdg4X5BZPc",
@@ -51,8 +90,8 @@
       "transcript_chars": 39685,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
-      "expires_at": "2026-11-11T22:01:37.303353+00:00"
+      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
+      "expires_at": "2026-11-13T02:58:41.183811+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=7807",
@@ -90,8 +129,8 @@
       "transcript_chars": 24508,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
-      "expires_at": "2026-11-11T22:01:37.303353+00:00"
+      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
+      "expires_at": "2026-11-13T02:58:41.183811+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
@@ -116,8 +155,8 @@
       "transcript_chars": 28345,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-26T23:28:30.737067+00:00",
-      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
-      "expires_at": "2026-11-11T22:01:37.303353+00:00"
+      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
+      "expires_at": "2026-11-13T02:58:41.183811+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
@@ -168,8 +207,8 @@
       "transcript_chars": 34951,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
-      "expires_at": "2026-11-11T22:01:37.303353+00:00"
+      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
+      "expires_at": "2026-11-13T02:58:41.183811+00:00"
     },
     {
       "guid": "yt:v-NGxyPjcrE",
@@ -415,8 +454,8 @@
       "transcript_chars": 45847,
       "transcript_source": null,
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
-      "expires_at": "2026-11-11T22:01:37.303353+00:00"
+      "last_seen_at": "2026-10-30T02:58:41.183811+00:00",
+      "expires_at": "2026-11-13T02:58:41.183811+00:00"
     },
     {
       "guid": "https://www.latent.space/p/sfcompute2",
@@ -679,71 +718,6 @@
       "expires_at": "2026-10-31T07:03:49.560146+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/dyna",
-      "link": "https://www.latent.space/p/dyna",
-      "channel": "Latent Space",
-      "title": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-      "pub_date": "2026-10-13T22:25:55+00:00",
-      "transcript_path": "feeds/transcripts/deef62d0c0b288e13871a263.txt",
-      "transcript_chars": 86346,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-14T22:28:04.649374+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
-    },
-    {
-      "guid": "yt:LwMtHI7BHWI",
-      "link": "https://www.youtube.com/watch?v=LwMtHI7BHWI",
-      "channel": "Alex Kantrowitz",
-      "title": "Can AI Keep Growing Exponentially? Let’s Ask SemiAnalysis — With Dylan Patel and Jordan Nanos",
-      "pub_date": "2026-10-09T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/71a31e3e1c3dcc8bd3e6193c.txt",
-      "transcript_chars": 62237,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-14T22:28:04.649374+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
-    },
-    {
-      "guid": "yt:0Ofztt1sXk4",
-      "link": "https://www.youtube.com/watch?v=0Ofztt1sXk4",
-      "channel": "India Today Global",
-      "title": "LIVE: Trump Honours Musk, Jensen Huang, Sergey Brin & Satya Nadella |  Tech Titans Honoured",
-      "pub_date": "2026-10-08T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/18435aa1fdb8bf7a489a510a.txt",
-      "transcript_chars": 336773,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-14T22:28:04.649374+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
-      "link": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
-      "channel": "Lenny's Podcast",
-      "title": "How to tell if a startup has a moat",
-      "pub_date": "2026-10-13T12:45:41+00:00",
-      "transcript_path": "feeds/transcripts/7287b40efa7e559917fe879b.txt",
-      "transcript_chars": 13813,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
-      "link": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
-      "channel": "Latent Space",
-      "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
-      "pub_date": "2026-10-13T09:37:04+00:00",
-      "transcript_path": "feeds/transcripts/f403ee5703f5a687bfe48671.txt",
-      "transcript_chars": 48889,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
-    },
-    {
       "guid": "yt:FGCP2F_7rQk",
       "link": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "channel": "Lex Fridman",
@@ -770,84 +744,6 @@
       "expires_at": "2026-10-31T07:03:49.560146+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/claude-dynamic-workflows",
-      "link": "https://www.latent.space/p/claude-dynamic-workflows",
-      "channel": "Latent Space",
-      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
-      "pub_date": "2026-10-12T18:18:17+00:00",
-      "transcript_path": "feeds/transcripts/74810e4894a5649e50b8ccab.txt",
-      "transcript_chars": 7792,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-13T00:23:45.490399+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
-    },
-    {
-      "guid": "df9fe70c-a787-4f9f-b869-ab6bd6758a7b",
-      "link": "https://allinchamathjason.libsyn.com/martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what-prison-taught-him",
-      "channel": "All-In Podcast",
-      "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
-      "pub_date": "2026-10-12T15:49:00+00:00",
-      "transcript_path": "feeds/transcripts/7453e611f8e3f9581f594d28.txt",
-      "transcript_chars": 3997,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-13T00:23:45.490399+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
-      "pub_date": "2026-10-12T15:00:38+00:00",
-      "transcript_path": "feeds/transcripts/561414fa6c99477caf625819.txt",
-      "transcript_chars": 4937,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-13T00:23:45.490399+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
-      "link": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
-      "channel": "Lenny's Podcast",
-      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
-      "pub_date": "2026-10-12T12:03:55+00:00",
-      "transcript_path": "feeds/transcripts/279f1ad4c2a418bda8e84193.txt",
-      "transcript_chars": 5207,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-13T00:23:45.490399+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
-    },
-    {
-      "guid": "yt:lFyNu4eBrBE",
-      "link": "https://www.youtube.com/watch?v=lFyNu4eBrBE",
-      "channel": "Windows",
-      "title": "Satya Nadella and Jensen Huang discuss Hybrid Intelligence and the future of PC",
-      "pub_date": "2026-10-09T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/87b84dabc273683362911234.txt",
-      "transcript_chars": 22741,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-13T00:23:45.490399+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
-    },
-    {
-      "guid": "yt:k1HRPESsyoM",
-      "link": "https://www.youtube.com/watch?v=k1HRPESsyoM",
-      "channel": "Forbes Breaking News",
-      "title": "BREAKING NEWS: Trump Awards Elon Musk, Jensen Huang, Sergei Brin, & Others National Medal Of Science",
-      "pub_date": "2026-10-08T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/0413cece2ca34dcbce850d35.txt",
-      "transcript_chars": 20099,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-11T01:13:54.279077+00:00",
-      "last_seen_at": "2026-10-14T22:28:04.649374+00:00",
-      "expires_at": "2026-10-28T22:28:04.649374+00:00"
-    },
-    {
       "guid": "cdacfd46-6d2e-45fa-aa03-5ad22d324188",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--037---Whos-Funding-the-11-Trillion-AI-Buildout--Capital-Markets--Dan-Nishball--Jordan-Nanos-e3q81p6",
       "channel": "SemiAnalysis",
@@ -872,19 +768,6 @@
       "cached_at": "2026-10-06T00:35:47.242338+00:00",
       "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
       "expires_at": "2026-11-02T03:04:13.086500+00:00"
-    },
-    {
-      "guid": "f737ec61-bcbd-439a-903c-06663c5541c6",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--034---Engrams-How-DeepSeek-Offloads-KV-Cache-to-DRAM-and-SSD-Core-Research--Jordan-Nanos--Cam-Quilici--Alec-Ibarra--Bryan-Shan-e3pp7av",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 034 - Engrams: How DeepSeek Offloads KV Cache to DRAM and SSD (Core Research) | Jordan Nanos, Cam Quilici, Alec Ibarra, Bryan Shan",
-      "pub_date": "2026-10-02T21:00:00+00:00",
-      "transcript_path": "feeds/transcripts/fedb71a41f2f9ce2ca65508d.txt",
-      "transcript_chars": 41447,
-      "transcript_source": null,
-      "cached_at": "2026-10-03T23:34:08.864110+00:00",
-      "last_seen_at": "2026-10-15T22:01:44.285831+00:00",
-      "expires_at": "2026-10-29T22:01:44.285831+00:00"
     }
   ]
 }
