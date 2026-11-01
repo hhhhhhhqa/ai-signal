@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-30T22:28:57.856494+00:00",
+  "generated_at": "2026-11-01T03:05:23.669248+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "23d24cda-51fc-4e58-b896-a92c99594125",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Who-Pays-for-the-AI-Boom--Big-Techs-Financing-Problem-e3re2n8",
+      "channel": "The Acquirers Podcast",
+      "title": "Who Pays for the AI Boom? Big Tech’s Financing Problem",
+      "pub_date": "2026-10-31T07:00:00+00:00",
+      "transcript_path": "feeds/transcripts/e572792260ca52eab679b0b5.txt",
+      "transcript_chars": 143769,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-01T03:05:23.669248+00:00",
+      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
+      "expires_at": "2026-11-15T03:05:23.669248+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/robert-caro",
       "link": "https://www.dwarkesh.com/p/robert-caro",
@@ -12,8 +25,8 @@
       "transcript_chars": 35054,
       "transcript_source": "content_transcript_link",
       "cached_at": "2026-10-30T22:28:57.856494+00:00",
-      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
-      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
+      "expires_at": "2026-11-15T03:05:23.669248+00:00"
     },
     {
       "guid": "f9b14d57-8760-43a9-a6e1-da786a2cae6d",
@@ -25,8 +38,8 @@
       "transcript_chars": 144791,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-30T22:28:57.856494+00:00",
-      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
-      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
+      "expires_at": "2026-11-15T03:05:23.669248+00:00"
     },
     {
       "guid": "yt:OV1QfQ3C29Q",
@@ -38,8 +51,8 @@
       "transcript_chars": 132410,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-30T22:28:57.856494+00:00",
-      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
-      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
+      "expires_at": "2026-11-15T03:05:23.669248+00:00"
     },
     {
       "guid": "yt:StNgnJzdDwo",
@@ -51,8 +64,8 @@
       "transcript_chars": 15435,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-30T22:28:57.856494+00:00",
-      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
-      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
+      "expires_at": "2026-11-15T03:05:23.669248+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/lessons-in-power",
@@ -64,8 +77,8 @@
       "transcript_chars": 24881,
       "transcript_source": "episode_page",
       "cached_at": "2026-10-30T02:58:41.183811+00:00",
-      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
-      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
+      "expires_at": "2026-11-15T03:05:23.669248+00:00"
     },
     {
       "guid": "yt:iMsUcCYNKqY",
@@ -77,8 +90,8 @@
       "transcript_chars": 51028,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-30T02:58:41.183811+00:00",
-      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
-      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
+      "expires_at": "2026-11-15T03:05:23.669248+00:00"
     },
     {
       "guid": "yt:xGjKsW2v0aY",
@@ -116,8 +129,8 @@
       "transcript_chars": 41528,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T22:01:37.303353+00:00",
-      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
-      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
+      "expires_at": "2026-11-15T03:05:23.669248+00:00"
     },
     {
       "guid": "55a9b7c7-fd29-4fa7-bdcc-79602d486227",
@@ -129,8 +142,8 @@
       "transcript_chars": 54893,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
-      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
+      "expires_at": "2026-11-15T03:05:23.669248+00:00"
     },
     {
       "guid": "yt:crdg4X5BZPc",
@@ -142,8 +155,8 @@
       "transcript_chars": 39685,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
-      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
+      "expires_at": "2026-11-15T03:05:23.669248+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=7807",
@@ -181,8 +194,8 @@
       "transcript_chars": 24508,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
-      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
+      "expires_at": "2026-11-15T03:05:23.669248+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
@@ -259,8 +272,8 @@
       "transcript_chars": 34951,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
-      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
+      "expires_at": "2026-11-15T03:05:23.669248+00:00"
     },
     {
       "guid": "yt:v-NGxyPjcrE",
@@ -506,8 +519,8 @@
       "transcript_chars": 45847,
       "transcript_source": null,
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-30T22:28:57.856494+00:00",
-      "expires_at": "2026-11-13T22:28:57.856494+00:00"
+      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
+      "expires_at": "2026-11-15T03:05:23.669248+00:00"
     },
     {
       "guid": "https://www.latent.space/p/sfcompute2",
@@ -731,45 +744,6 @@
       "expires_at": "2026-11-03T22:27:04.241565+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/crossing-the-threshold",
-      "link": "https://www.latent.space/p/crossing-the-threshold",
-      "channel": "Latent Space",
-      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-      "pub_date": "2026-10-14T21:40:52+00:00",
-      "transcript_path": "feeds/transcripts/fa887b0fe1eaa50865b45853.txt",
-      "transcript_chars": 7116,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-14T22:28:04.649374+00:00",
-      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
-      "expires_at": "2026-10-31T07:03:49.560146+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
-      "link": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
-      "channel": "Lenny's Podcast",
-      "title": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
-      "pub_date": "2026-10-14T12:04:05+00:00",
-      "transcript_path": "feeds/transcripts/f98d779fdc441298d7804a4c.txt",
-      "transcript_chars": 4342,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-14T22:28:04.649374+00:00",
-      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
-      "expires_at": "2026-10-31T07:03:49.560146+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
-      "link": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
-      "channel": "Latent Space",
-      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-      "pub_date": "2026-10-14T05:40:28+00:00",
-      "transcript_path": "feeds/transcripts/4ffbe4264a01e35405816719.txt",
-      "transcript_chars": 16707,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-14T22:28:04.649374+00:00",
-      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
-      "expires_at": "2026-10-31T07:03:49.560146+00:00"
-    },
-    {
       "guid": "yt:FGCP2F_7rQk",
       "link": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "channel": "Lex Fridman",
@@ -781,19 +755,6 @@
       "cached_at": "2026-10-14T00:30:24.978361+00:00",
       "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
       "expires_at": "2026-11-02T03:04:13.086500+00:00"
-    },
-    {
-      "guid": "yt:S6l3aRsecuE",
-      "link": "https://www.youtube.com/watch?v=S6l3aRsecuE",
-      "channel": "David Senra",
-      "title": "Building Muse, Working with Mark Zuckerberg & The Future of AI | Alexandr Wang, Meta",
-      "pub_date": "2026-10-11T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/0beb3bd1819943def5478db0.txt",
-      "transcript_chars": 77659,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-17T07:03:49.560146+00:00",
-      "expires_at": "2026-10-31T07:03:49.560146+00:00"
     },
     {
       "guid": "cdacfd46-6d2e-45fa-aa03-5ad22d324188",
