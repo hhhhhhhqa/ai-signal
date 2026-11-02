@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T03:05:23.669248+00:00",
+  "generated_at": "2026-11-02T00:37:36.888476+00:00",
   "retention_days": 14,
   "transcripts": [
     {
@@ -12,8 +12,8 @@
       "transcript_chars": 143769,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-01T03:05:23.669248+00:00",
-      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
-      "expires_at": "2026-11-15T03:05:23.669248+00:00"
+      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
+      "expires_at": "2026-11-16T00:37:36.888476+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/robert-caro",
@@ -25,8 +25,8 @@
       "transcript_chars": 35054,
       "transcript_source": "content_transcript_link",
       "cached_at": "2026-10-30T22:28:57.856494+00:00",
-      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
-      "expires_at": "2026-11-15T03:05:23.669248+00:00"
+      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
+      "expires_at": "2026-11-16T00:37:36.888476+00:00"
     },
     {
       "guid": "f9b14d57-8760-43a9-a6e1-da786a2cae6d",
@@ -51,8 +51,8 @@
       "transcript_chars": 132410,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-30T22:28:57.856494+00:00",
-      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
-      "expires_at": "2026-11-15T03:05:23.669248+00:00"
+      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
+      "expires_at": "2026-11-16T00:37:36.888476+00:00"
     },
     {
       "guid": "yt:StNgnJzdDwo",
@@ -90,8 +90,8 @@
       "transcript_chars": 51028,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-30T02:58:41.183811+00:00",
-      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
-      "expires_at": "2026-11-15T03:05:23.669248+00:00"
+      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
+      "expires_at": "2026-11-16T00:37:36.888476+00:00"
     },
     {
       "guid": "yt:xGjKsW2v0aY",
@@ -129,8 +129,8 @@
       "transcript_chars": 41528,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T22:01:37.303353+00:00",
-      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
-      "expires_at": "2026-11-15T03:05:23.669248+00:00"
+      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
+      "expires_at": "2026-11-16T00:37:36.888476+00:00"
     },
     {
       "guid": "55a9b7c7-fd29-4fa7-bdcc-79602d486227",
@@ -142,8 +142,8 @@
       "transcript_chars": 54893,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
-      "expires_at": "2026-11-15T03:05:23.669248+00:00"
+      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
+      "expires_at": "2026-11-16T00:37:36.888476+00:00"
     },
     {
       "guid": "yt:crdg4X5BZPc",
@@ -155,8 +155,8 @@
       "transcript_chars": 39685,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
-      "expires_at": "2026-11-15T03:05:23.669248+00:00"
+      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
+      "expires_at": "2026-11-16T00:37:36.888476+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=7807",
@@ -272,8 +272,8 @@
       "transcript_chars": 34951,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
-      "expires_at": "2026-11-15T03:05:23.669248+00:00"
+      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
+      "expires_at": "2026-11-16T00:37:36.888476+00:00"
     },
     {
       "guid": "yt:v-NGxyPjcrE",
@@ -519,8 +519,8 @@
       "transcript_chars": 45847,
       "transcript_source": null,
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
-      "expires_at": "2026-11-15T03:05:23.669248+00:00"
+      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
+      "expires_at": "2026-11-16T00:37:36.888476+00:00"
     },
     {
       "guid": "https://www.latent.space/p/sfcompute2",
@@ -679,19 +679,6 @@
       "expires_at": "2026-11-02T03:04:13.086500+00:00"
     },
     {
-      "guid": "ccb23749-a1de-4720-b5df-a66520c18f1a",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Koreas-Hidden-Value-Activism--AI--Golfzon--Ryan-Albert-e3qgl0o",
-      "channel": "The Acquirers Podcast",
-      "title": "Korea’s Hidden Value: Activism, AI & Golfzon | Ryan Albert",
-      "pub_date": "2026-10-15T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/eef40e927fcad1b04a247a6d.txt",
-      "transcript_chars": 148068,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-17T07:03:49.560146+00:00",
-      "last_seen_at": "2026-10-18T07:12:05.245673+00:00",
-      "expires_at": "2026-11-01T07:12:05.245673+00:00"
-    },
-    {
       "guid": "yt:A698Z8C7388",
       "link": "https://www.youtube.com/watch?v=A698Z8C7388",
       "channel": "TheAIGRID",
@@ -703,19 +690,6 @@
       "cached_at": "2026-10-17T07:03:49.560146+00:00",
       "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
       "expires_at": "2026-11-04T23:02:54.334129+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "link": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "channel": "Latent Space",
-      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "pub_date": "2026-10-15T10:08:08+00:00",
-      "transcript_path": "feeds/transcripts/d8e0c2485ea25ccda6e5c986.txt",
-      "transcript_chars": 15995,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-15T22:01:44.285831+00:00",
-      "last_seen_at": "2026-10-18T07:12:05.245673+00:00",
-      "expires_at": "2026-11-01T07:12:05.245673+00:00"
     },
     {
       "guid": "yt:eS7qQ3WJSrw",
