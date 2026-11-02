@@ -10,10 +10,10 @@
           "id": "2116957135661945283",
           "text": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://t.co/JIhXN7OSh1\n\n- Excellent recs without any logins (state is kept in local browser session)\n- Thumbnail is a representative frame from middle of the video instead of the super duper A/B test hyper-optimized user uploads\n- Underlying data from the comment analysis as one zip file, point your Claude at it and ask for your own version\n- HackerTube Longs ✊\n\nA bit more on the process:\nI use Claude Code (desktop app for Mac), Opus 5.5 on Medium effort as my default. I only talk to Claude and have it do everything, the only \"manual work\" I helped with in tandem was in the browser (reminiscent of MenuGen): 1) I had to create some kind of API key from Google Cloud UI to query YouTube for video metadata, 2) I booted up a VPS box for serving and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it update, secure, harden, deploy and optimize the code, and it did the whole thing.\n\nMany awesome projects that would have normally taken weeks/months even can now be few-shotted for breakfast. What else are we not thinking of.",
           "created_at": "2026-11-01T18:14:46+00:00",
-          "like_count": 21240,
-          "retweet_count": 1665,
-          "reply_count": 945,
-          "engagement_score": 25515,
+          "like_count": 47328,
+          "retweet_count": 4292,
+          "reply_count": 1992,
+          "engagement_score": 57904,
           "url": "https://x.com/karpathy/status/2116957135661945283"
         }
       ]
@@ -28,11 +28,21 @@
           "id": "2116773135668404286",
           "text": "btw @karpathy uses medium on opus 5.5 on his latest project (Hackertube launched today).\n\noverall i think having strong opinions on effort levels is like the tabs vs spaces of our time. just tweak to taste. altho mine is definitely superior to yours. https://t.co/oSCPvlogKc",
           "created_at": "2026-11-01T06:03:37+00:00",
-          "like_count": 745,
-          "retweet_count": 28,
-          "reply_count": 249,
-          "engagement_score": 1050,
+          "like_count": 816,
+          "retweet_count": 29,
+          "reply_count": 276,
+          "engagement_score": 1150,
           "url": "https://x.com/swyx/status/2116773135668404286"
+        },
+        {
+          "id": "2117321973080760644",
+          "text": "after 3 years of building from nothing, we are now serving 2M monthly unique engineers on aie youtube. \n\n(76% not subscribed lol. idk if it matters but pls subscribe! we need to keep up momentum to cross 1M subs roughly around https://t.co/ydo8JgYDXr it looks like) https://t.co/qIoyP8rOCR",
+          "created_at": "2026-11-02T18:24:30+00:00",
+          "like_count": 133,
+          "retweet_count": 4,
+          "reply_count": 79,
+          "engagement_score": 220,
+          "url": "https://x.com/swyx/status/2117321973080760644"
         }
       ]
     },
@@ -48,35 +58,25 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2116291469518733597",
-          "text": "Avicena has converted me from #1 hater to an ultra bull. Cant wait to finish writeup. \n\nSeriously there were three meetings totaling ~6 hours. They had excellent answers to every question/concern. Electrical, optic, dispersion, FEC, fiber cost, alignment, packaging, DFE backprop.",
-          "created_at": "2026-10-30T22:09:39+00:00",
-          "like_count": 217,
-          "retweet_count": 1,
-          "reply_count": 10,
-          "engagement_score": 229,
-          "url": "https://x.com/insane_analyst/status/2116291469518733597"
-        },
-        {
-          "id": "2116768475503083612",
-          "text": "Two people dressed as Claude (so far), a Chinese humanoid robot wearing a sonic jumpsuit struggling to walk on the fake grass, and overhearing truly bizzare conversations amongst the AI cultists totally detached from reality.",
-          "created_at": "2026-11-01T05:45:06+00:00",
-          "like_count": 40,
-          "retweet_count": 0,
-          "reply_count": 2,
-          "engagement_score": 42,
-          "url": "https://x.com/insane_analyst/status/2116768475503083612"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "simonw",
       "name": "Simon Willison",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2117337139633607167",
+          "text": "In updating a graphic showing U.S. company AI adoption over time according to a long-running U.S. Census Bureau survey, I found out that the Bureau's work has been sullied by that asinine \"Super Intelligence\" executive order https://t.co/YEu1tnWweT",
+          "created_at": "2026-11-02T19:24:46+00:00",
+          "like_count": 98,
+          "retweet_count": 5,
+          "reply_count": 23,
+          "engagement_score": 131,
+          "url": "https://x.com/simonw/status/2117337139633607167"
+        }
+      ]
     },
     {
       "handle": "levie",
@@ -85,14 +85,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2116652002830963114",
-          "text": "This is one of the better litmus tests for whether you’re pushing your use of AI enough or not. \n\nUp until maybe six months ago probably the best you could do with AI was pull off something you already would produce, but just doing it a little faster. But now we’re entering a point where the output of working with AI can and should dramatically exceed what you would been able to do before, in a fraction of the time.\n\nThe product prototype should not only be fully functional and interactive, but it should probably have meaningfully better features than it would have had before. The engineering architecture should be able to deliver performance gains that you wouldn’t have been able to go after otherwise. \n\nThe research for a project should consume every single fact on the subject across every dimension of analysis possible. The business process you implement with AI should operate entirely differently and learn from all its past failures in a way no human could. \n\nWe’re unquestionably entering a period where AI will be smarter than us on most axes. Perhaps not on every dimension that matters (intelligence is still very jagged), but at least on enough dimensions that when we combine it with what we’re good at, you get qualitatively different outcomes.\n\nSo the simple test is: if you could have done what you’re doing before AI, you’re likely not pushing it enough.",
-          "created_at": "2026-10-31T22:02:17+00:00",
-          "like_count": 993,
-          "retweet_count": 77,
-          "reply_count": 154,
-          "engagement_score": 1301,
-          "url": "https://x.com/levie/status/2116652002830963114"
+          "id": "2117134917847093491",
+          "text": "Increasingly this will be the new job description for a lot of roles, not just coding. We’re clearly moving from a world where agents help us do our work incrementally better or faster, to us helping agents do their work.\n\nThis turns everyone in one of these positions to that of a manager of a team of agents, instead of an individual contributor with just some added leverage from AI. The biggest areas of impact will be information-heavy jobs, like coding, cybersecurity, legal work, biotech, engineering, and many other fields. \n\nAnd as a result, in these jobs your leverage will begin to be decoupled from the normal ratio of hours spent working to output generated. For essentially the history of knowledge work the main variable you had to play with was hours of work done (assuming fixed level talent/coordination/strategy). \n\nNow we’ve separated these variables because agents can parallelize work for us, to in theory execute as much as we need to pull off whatever goal we’re trying to accomplish. The people and organizations that discover this sooner, and orient their operations around it, will see compounding gains in their workflows.",
+          "created_at": "2026-11-02T06:01:13+00:00",
+          "like_count": 577,
+          "retweet_count": 56,
+          "reply_count": 214,
+          "engagement_score": 903,
+          "url": "https://x.com/levie/status/2117134917847093491"
         }
       ]
     },
@@ -110,14 +110,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2116611666406256738",
-          "text": "I tend to believe that things that make a piece of technology more useful for you also tends to make it more useful for agents\n\nMore memory, better connectivity, better cameras, better displays, more efficient chips, more interesting form factors are all things that are useful both.",
-          "created_at": "2026-10-31T19:22:00+00:00",
-          "like_count": 326,
-          "retweet_count": 10,
+          "id": "2117048643446550532",
+          "text": "Every time I try out Cursor and Grok Build after some time using other platforms and models, I forget how much I like both",
+          "created_at": "2026-11-02T00:18:24+00:00",
+          "like_count": 119,
+          "retweet_count": 1,
           "reply_count": 10,
-          "engagement_score": 356,
-          "url": "https://x.com/mweinbach/status/2116611666406256738"
+          "engagement_score": 131,
+          "url": "https://x.com/mweinbach/status/2117048643446550532"
         }
       ]
     },
@@ -133,7 +133,28 @@
       "name": "Arena (formerly LMArena / human preference benchmark)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2117288179468513521",
+          "text": "Did you know the same intelligence can cost 10× more, need 6× more output tokens and take twice as long?\n\nIn addition to task spend, Agent Arena now shows which agents give you best performance for every output token generated and every minute you wait.\n\nThese real-world usage plots reveal that costs grow most steeply with intelligence, waiting longer pays off unevenly, and output tokens barely predict the bill.\n\nTo find the best model for you, see the link in thread.",
+          "created_at": "2026-11-02T16:10:13+00:00",
+          "like_count": 148,
+          "retweet_count": 4,
+          "reply_count": 21,
+          "engagement_score": 177,
+          "url": "https://x.com/arena/status/2117288179468513521"
+        },
+        {
+          "id": "2117332916854501753",
+          "text": "The top 10 agents in Agent Arena process about 93 input tokens for every token they generate, according to our analysis of 26K+ sessions.\n\nThis is why labs are racing to lower the cost of cached input.\n\nThe video below shows how caching works in practice, with real sessions from Opus 5.5 by @AnthropicAI and Gemini 4 Argon by @GoogleDeepMind. \n\nDive into the details of the hidden AI price war: article by @DawidGalarowicz below.",
+          "created_at": "2026-11-02T19:08:00+00:00",
+          "like_count": 48,
+          "retweet_count": 3,
+          "reply_count": 17,
+          "engagement_score": 71,
+          "url": "https://x.com/arena/status/2117332916854501753"
+        }
+      ]
     },
     {
       "handle": "ArtificialAnlys",
@@ -142,14 +163,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2116319506318635503",
-          "text": "We’ve released AA-Omniscience v1.1, updating our knowledge and reasoning benchmark with a refreshed public set, removal of saturated questions, and ambiguity fixes\n\nAA-Omniscience is our proprietary benchmark measuring model knowledge and hallucinations, including whether models admit when they don’t know an answer. Our primary metric, Net Score, rewards correct answers, penalizes incorrect answers, and treats abstentions neutrally.\n\nAA-Omniscience was updated to v1.1 as part of the Artificial Analysis Intelligence Index v5 release.\n\nKey changes in AA-Omniscience v1.1:\n\n➤ Updated 3,000-question dataset: Down from 6,000 questions, with previously public and saturated questions removed, errors and ambiguities corrected, and new questions added\n\n➤ Newly calibrated 300-question public set: AA-Omniscience v1.1 has a new public set on @huggingface calibrated to match the difficulty of the private set. At release, public and private scores have a 0.99 Pearson correlation and 0.99 Spearman rank correlation for AA-Omniscience Net Score, with a median difference of 0.0 points. Accuracy and hallucination rate also have 0.99 correlations, with median differences of -0.07 and -0.29 percentage points, respectively\n\n➤ Slightly updated domain distribution: Questions span the same 6 domains and 42 topics as version 1, with a revised distribution: Science, Engineering and Mathematics (600), Software Engineering (600), Finance (450), Health (450), Humanities and Social Sciences (450), and Law (450)\n\nKey results for AA-Omniscience v1.1:\n\n➤ Rank order largely preserved: AA-Omniscience v1.1 has a 0.98 Spearman rank correlation with v1. The recently released Gemini 4 Carbon (high) leads with a Net Score of 54, followed by Claude Opus 5.5 (48, max with fallback) and Claude Fable 5.1 (46, max with fallback). Muse Spark Open (xhigh) is the leading open weights model, 28 points behind Gemini 4 Carbon\n\n➤ Scores average ~2 points lower on the refreshed set: Models score 1.9 points lower on Net Score on average compared to v1, with a median decrease of 0.6 points. Some models see much larger declines, particularly MiniMax M3.1 Flash, down 22 points (16 to -6), and MiMo V2.6 Pro, down 13 points (8 to -5)\n\n➤ Slightly lower accuracy: AA-Omniscience Accuracy measures the percentage of questions the model answers correctly. Models answer a median of 1.5 percentage points fewer questions correctly on average compared to v1. Claude Fable 5.1 (max with fallback) has the highest accuracy at 68%, followed by Claude Opus 5.5 (max with fallback) at 66%\n\n➤ Hallucination rates decrease: AA-Hallucination measures how often models choose to answer when they do not know the answer. The median Hallucination Rate falls 1.4 percentage points, with Gemini 4 Argon (high) recording the lowest hallucination rate at 4%",
-          "created_at": "2026-10-31T00:01:04+00:00",
-          "like_count": 855,
-          "retweet_count": 46,
-          "reply_count": 92,
-          "engagement_score": 1039,
-          "url": "https://x.com/ArtificialAnlys/status/2116319506318635503"
+          "id": "2117255658613735918",
+          "text": "We are collaborating with Silicon Data to bring market-based GPU pricing into AA-AgentPerf, our datacenter system performance benchmark\n\nOur users and partners want to know how much agent work they can support per dollar of compute. @silicondata's rental price indices allow us to report a reliable value-for-money metric, updated daily as prices change. We currently display Silicon Data indices for H100, H200, B200 and B300, tracked across cloud providers\n\nThe new metric is Throughput per $/hr, which divides the total throughput of a system and serving configuration by the hourly cost of renting that system. Among systems with available rental pricing, NVIDIA’s B300 generally leads, while B200 matches it at faster output speeds on some models\n\nNote: the below chart includes an MI355X rental rate that has been assumed by Artificial Analysis based on recent market quotes",
+          "created_at": "2026-11-02T14:01:00+00:00",
+          "like_count": 133,
+          "retweet_count": 9,
+          "reply_count": 44,
+          "engagement_score": 195,
+          "url": "https://x.com/ArtificialAnlys/status/2117255658613735918"
         }
       ]
     },
@@ -244,34 +265,34 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2116345666108854781",
-          "text": "An agent on every desktop",
-          "created_at": "2026-10-31T01:45:01+00:00",
-          "like_count": 920,
-          "retweet_count": 26,
-          "reply_count": 145,
-          "engagement_score": 1117,
-          "url": "https://x.com/rauchg/status/2116345666108854781"
-        },
-        {
           "id": "2117000819623243925",
           "text": "Own your intelligence.\n\nAnyone that opposes this has something to sell you (perhaps your own intelligence back to you.)\n\nLocal models need to continue proliferating. The “absolute unit” massive models may be out of reach for now locally, so your best option is to, indeed, keep your options open. Own your harness, data, connections, runtime: your agents. Embrace open source.",
           "created_at": "2026-11-01T21:08:22+00:00",
-          "like_count": 592,
-          "retweet_count": 52,
-          "reply_count": 91,
-          "engagement_score": 787,
+          "like_count": 3502,
+          "retweet_count": 362,
+          "reply_count": 364,
+          "engagement_score": 4590,
           "url": "https://x.com/rauchg/status/2117000819623243925"
         },
         {
           "id": "2116988333096370443",
           "text": "Working with Gemini on https://t.co/3Z4NESzNKd is hilarious 😂😂\n\nOther than being SUPER EXCITED!, I've been testing it on two high complexity projects and it's doing great. https://t.co/Vb16Fbyats",
           "created_at": "2026-11-01T20:18:45+00:00",
-          "like_count": 179,
-          "retweet_count": 3,
-          "reply_count": 53,
-          "engagement_score": 238,
+          "like_count": 520,
+          "retweet_count": 10,
+          "reply_count": 86,
+          "engagement_score": 626,
           "url": "https://x.com/rauchg/status/2116988333096370443"
+        },
+        {
+          "id": "2117338179535810957",
+          "text": "Stateless sandboxes are the wrong benchmark. Agents are only useful if they have their workspace with them (identity, skills, repos, memories…)\n\nVercel Sandbox team has been beautifully delivering on their latency & throughput SLOs, while prioritizing reliability and security.\n\nDoing this while shipping clusters in 19 (‼️) global regions, new features every week, and under immense amount of customer demand in the double digit growth percentage per week.",
+          "created_at": "2026-11-02T19:28:54+00:00",
+          "like_count": 155,
+          "retweet_count": 3,
+          "reply_count": 78,
+          "engagement_score": 239,
+          "url": "https://x.com/rauchg/status/2117338179535810957"
         }
       ]
     },
@@ -282,24 +303,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2116998155925360965",
-          "text": "You can enable this on Replit with one toggle. If you enable the “feedback widget” on your site, users’ feedback become prompts for the agents to build.",
-          "created_at": "2026-11-01T20:57:46+00:00",
-          "like_count": 111,
-          "retweet_count": 7,
-          "reply_count": 46,
-          "engagement_score": 171,
-          "url": "https://x.com/amasad/status/2116998155925360965"
-        },
-        {
           "id": "2117010858845089805",
           "text": "If you’re enjoying a subsidized AI subscription get ready to get rug pulled.",
           "created_at": "2026-11-01T21:48:15+00:00",
-          "like_count": 52,
-          "retweet_count": 4,
-          "reply_count": 17,
-          "engagement_score": 77,
+          "like_count": 3224,
+          "retweet_count": 142,
+          "reply_count": 261,
+          "engagement_score": 3769,
           "url": "https://x.com/amasad/status/2117010858845089805"
+        },
+        {
+          "id": "2116998155925360965",
+          "text": "You can enable this on Replit with one toggle. If you enable the “feedback widget” on your site, users’ feedback become prompts for the agents to build.",
+          "created_at": "2026-11-01T20:57:46+00:00",
+          "like_count": 306,
+          "retweet_count": 13,
+          "reply_count": 100,
+          "engagement_score": 432,
+          "url": "https://x.com/amasad/status/2116998155925360965"
         }
       ]
     },
@@ -322,25 +343,25 @@
       "name": "Ivan Fioravanti (Apple MLX / open source)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2116961227612004618",
-          "text": "I'm starting to follow the white rabbit now!\nContinuous batching is surrounded by mystery and legends for me, especially in the Apple Silicon world.\n\nTensorFold 1.2 with dedicated PR is working much better and now M3 Ultra (in decode) is better than 2xDGX.\n\nStill a long way to go. I'm trying to build a dedicated benchmark for this that I called DecodeWall. \nAs soon as it's in a good alpha stage, I'll release it!\n\nJust a note... it takes forever. Here I've used 8 parallels requests with 14K tokens each, generating ~6.4K tokens to really stress the machines.\n\nNow let's test GLM 5.3 Flash and improve the code!",
-          "created_at": "2026-11-01T18:31:02+00:00",
-          "like_count": 30,
-          "retweet_count": 2,
-          "reply_count": 15,
-          "engagement_score": 49,
-          "url": "https://x.com/ivanfioravanti/status/2116961227612004618"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "deanwball",
       "name": "Dean Ball (OpenAI Head of Strategic Futures)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2117288193535983993",
+          "text": "I always cringe a little when people refer to me as an “expert” in ai policy. This field is too new, too thinly institutionalized, too pre-paradigmatic, to have any experts at all. We are on the open seas.\n\nThe positive side of this is that the field is wide open to people looking to make novel contributions. There is no grand literature to learn, no pantheon of elders to whom one must pay their dues.",
+          "created_at": "2026-11-02T16:10:17+00:00",
+          "like_count": 209,
+          "retweet_count": 5,
+          "reply_count": 18,
+          "engagement_score": 237,
+          "url": "https://x.com/deanwball/status/2117288193535983993"
+        }
+      ]
     },
     {
       "handle": "kunchenguid",
@@ -349,18 +370,18 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2116770835944157243",
-          "text": "now that i solved the code review and ci bottleneck, the next bottleneck revealed itself\n\nTIL github limits 5000 request per user per hour. that's not enough when \"a user\" means \"hundreds of agents working for a human\"\n\nwhat's the solve?",
-          "created_at": "2026-11-01T05:54:29+00:00",
-          "like_count": 247,
-          "retweet_count": 5,
-          "reply_count": 86,
-          "engagement_score": 343,
-          "url": "https://x.com/kunchenguid/status/2116770835944157243"
+          "id": "2117112521161326914",
+          "text": "i just read through this article of deepseek’s super-agent\n\nit’s a good write-up describing how firstmate works 😄\n\nonly half joking - it’s indeed the same architecture and folks using firstmate have been enjoying SOTA for months",
+          "created_at": "2026-11-02T04:32:13+00:00",
+          "like_count": 298,
+          "retweet_count": 12,
+          "reply_count": 34,
+          "engagement_score": 356,
+          "url": "https://x.com/kunchenguid/status/2117112521161326914"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-11-01T22:02:34.631782+00:00"
+  "generated_at": "2026-11-02T22:12:00.342088+00:00"
 }

@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-11-02T00:37:36.888476+00:00",
+  "generated_at": "2026-11-02T22:29:25.167392+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
+      "pub_date": "2026-11-02T16:02:08+00:00",
+      "transcript_path": "feeds/transcripts/bb01a815b24cd303c5d066bc.txt",
+      "transcript_chars": 8803,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-02T22:29:25.167392+00:00",
+      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
+      "expires_at": "2026-11-16T22:29:25.167392+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+      "link": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+      "channel": "Lenny's Podcast",
+      "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
+      "pub_date": "2026-11-02T13:04:11+00:00",
+      "transcript_path": "feeds/transcripts/7e7799c1f50dbeac4c2f273e.txt",
+      "transcript_chars": 5200,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-02T22:29:25.167392+00:00",
+      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
+      "expires_at": "2026-11-16T22:29:25.167392+00:00"
+    },
+    {
+      "guid": "yt:vDmjw-c_R2k",
+      "link": "https://www.youtube.com/watch?v=vDmjw-c_R2k",
+      "channel": "Linus Tech Tips",
+      "title": "My F-You To Sam Altman",
+      "pub_date": "2026-11-02T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/68c672c8a09e4a6ecab47476.txt",
+      "transcript_chars": 27160,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-02T22:29:25.167392+00:00",
+      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
+      "expires_at": "2026-11-16T22:29:25.167392+00:00"
+    },
     {
       "guid": "23d24cda-51fc-4e58-b896-a92c99594125",
       "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Who-Pays-for-the-AI-Boom--Big-Techs-Financing-Problem-e3re2n8",
@@ -12,8 +51,8 @@
       "transcript_chars": 143769,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-01T03:05:23.669248+00:00",
-      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
-      "expires_at": "2026-11-16T00:37:36.888476+00:00"
+      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
+      "expires_at": "2026-11-16T22:29:25.167392+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/robert-caro",
@@ -51,8 +90,8 @@
       "transcript_chars": 132410,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-30T22:28:57.856494+00:00",
-      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
-      "expires_at": "2026-11-16T00:37:36.888476+00:00"
+      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
+      "expires_at": "2026-11-16T22:29:25.167392+00:00"
     },
     {
       "guid": "yt:StNgnJzdDwo",
@@ -90,8 +129,8 @@
       "transcript_chars": 51028,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-30T02:58:41.183811+00:00",
-      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
-      "expires_at": "2026-11-16T00:37:36.888476+00:00"
+      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
+      "expires_at": "2026-11-16T22:29:25.167392+00:00"
     },
     {
       "guid": "yt:xGjKsW2v0aY",
@@ -129,8 +168,8 @@
       "transcript_chars": 41528,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T22:01:37.303353+00:00",
-      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
-      "expires_at": "2026-11-16T00:37:36.888476+00:00"
+      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
+      "expires_at": "2026-11-16T22:29:25.167392+00:00"
     },
     {
       "guid": "55a9b7c7-fd29-4fa7-bdcc-79602d486227",
@@ -142,8 +181,8 @@
       "transcript_chars": 54893,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
-      "expires_at": "2026-11-16T00:37:36.888476+00:00"
+      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
+      "expires_at": "2026-11-16T22:29:25.167392+00:00"
     },
     {
       "guid": "yt:crdg4X5BZPc",
@@ -155,8 +194,8 @@
       "transcript_chars": 39685,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
-      "expires_at": "2026-11-16T00:37:36.888476+00:00"
+      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
+      "expires_at": "2026-11-16T22:29:25.167392+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=7807",
@@ -272,8 +311,8 @@
       "transcript_chars": 34951,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
-      "expires_at": "2026-11-16T00:37:36.888476+00:00"
+      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
+      "expires_at": "2026-11-16T22:29:25.167392+00:00"
     },
     {
       "guid": "yt:v-NGxyPjcrE",
@@ -519,8 +558,8 @@
       "transcript_chars": 45847,
       "transcript_source": null,
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
-      "expires_at": "2026-11-16T00:37:36.888476+00:00"
+      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
+      "expires_at": "2026-11-16T22:29:25.167392+00:00"
     },
     {
       "guid": "https://www.latent.space/p/sfcompute2",
@@ -653,32 +692,6 @@
       "expires_at": "2026-11-03T00:38:58.412225+00:00"
     },
     {
-      "guid": "yt:K0GTRWwz38E",
-      "link": "https://www.youtube.com/watch?v=K0GTRWwz38E",
-      "channel": "Vaibhav Sisinty",
-      "title": "I Met Sam Altman at OpenAI’s Biggest Event of the Year",
-      "pub_date": "2026-10-12T14:36:45+00:00",
-      "transcript_path": "feeds/transcripts/d361836b0ce68be7bc9c2d15.txt",
-      "transcript_chars": 15240,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-18T07:12:05.245673+00:00",
-      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
-      "expires_at": "2026-11-02T03:04:13.086500+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
-      "link": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
-      "channel": "Latent Space",
-      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-      "pub_date": "2026-10-16T04:16:45+00:00",
-      "transcript_path": "feeds/transcripts/16bdd8aff46d1af05dc190a5.txt",
-      "transcript_chars": 18799,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-17T07:03:49.560146+00:00",
-      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
-      "expires_at": "2026-11-02T03:04:13.086500+00:00"
-    },
-    {
       "guid": "yt:A698Z8C7388",
       "link": "https://www.youtube.com/watch?v=A698Z8C7388",
       "channel": "TheAIGRID",
@@ -718,19 +731,6 @@
       "expires_at": "2026-11-03T22:27:04.241565+00:00"
     },
     {
-      "guid": "yt:FGCP2F_7rQk",
-      "link": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-      "channel": "Lex Fridman",
-      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
-      "pub_date": "2026-10-13T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/71cbae87ab13548988a7aacf.txt",
-      "transcript_chars": 72381,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-14T00:30:24.978361+00:00",
-      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
-      "expires_at": "2026-11-02T03:04:13.086500+00:00"
-    },
-    {
       "guid": "cdacfd46-6d2e-45fa-aa03-5ad22d324188",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--037---Whos-Funding-the-11-Trillion-AI-Buildout--Capital-Markets--Dan-Nishball--Jordan-Nanos-e3q81p6",
       "channel": "SemiAnalysis",
@@ -742,19 +742,6 @@
       "cached_at": "2026-10-10T06:14:36.405550+00:00",
       "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
       "expires_at": "2026-11-06T04:09:46.138835+00:00"
-    },
-    {
-      "guid": "233d9970-74f8-42c7-8383-f7ea5f70f1d6",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--035---Tech-DDs--Performance-Projections--Benchmarks--Supply-Chain--Investment-Thesis-Consulting-Abhilash-Jain--Jordan-Nanos-e3ptsh8",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 035 - Tech DD’s, Performance Projections, Benchmarks, Supply Chain, Investment Thesis (Consulting)| Abhilash Jain, Jordan Nanos",
-      "pub_date": "2026-10-05T15:00:01+00:00",
-      "transcript_path": "feeds/transcripts/c5d88ecfde9559f8c4fd2e53.txt",
-      "transcript_chars": 34812,
-      "transcript_source": "companion_youtube",
-      "cached_at": "2026-10-06T00:35:47.242338+00:00",
-      "last_seen_at": "2026-10-19T03:04:13.086500+00:00",
-      "expires_at": "2026-11-02T03:04:13.086500+00:00"
     }
   ]
 }
