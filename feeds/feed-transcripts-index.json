@@ -1,7 +1,72 @@
 {
-  "generated_at": "2026-11-02T22:29:25.167392+00:00",
+  "generated_at": "2026-11-03T22:12:18.379414+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
+      "link": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
+      "channel": "Lenny's Podcast",
+      "title": "Lenny’s Newsletter holiday gift guide 2026",
+      "pub_date": "2026-11-03T14:45:33+00:00",
+      "transcript_path": "feeds/transcripts/6fa65831aef3656016114805.txt",
+      "transcript_chars": 13747,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-03T22:12:18.379414+00:00",
+      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
+      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+    },
+    {
+      "guid": "b3946996-1696-430a-b9f2-f9a43380d7e2",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--042---GDPx-The-Benchmark-for-Frontier-AI-e3rlc7h",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 042 - GDPx: The Benchmark for Frontier AI",
+      "pub_date": "2026-11-03T12:00:00+00:00",
+      "transcript_path": "feeds/transcripts/5dc2aa687e5ec9e585d50369.txt",
+      "transcript_chars": 49177,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-03T22:12:18.379414+00:00",
+      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
+      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+    },
+    {
+      "guid": "yt:TjPPIf-M6KE",
+      "link": "https://www.youtube.com/watch?v=TjPPIf-M6KE",
+      "channel": "Raj Shamani",
+      "title": "Sam Altman On AI Revolution, Superintelligence & Future Of Humanity | FO583 Raj Shamani",
+      "pub_date": "2026-11-03T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/530960cbaebd715b60b80bbb.txt",
+      "transcript_chars": 62601,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-03T22:12:18.379414+00:00",
+      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
+      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+    },
+    {
+      "guid": "urn:latent-space:post:pod_ep_01a19df0-34a3-7307-96fc-48928908772b",
+      "link": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+      "channel": "Latent Space",
+      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "pub_date": "2026-11-02T22:54:03+00:00",
+      "transcript_path": "feeds/transcripts/a81b29a5e1c0021a9820e330.txt",
+      "transcript_chars": 91432,
+      "transcript_source": "episode_transcript_link",
+      "cached_at": "2026-11-03T22:12:18.379414+00:00",
+      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
+      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+    },
+    {
+      "guid": "yt:ezUpkoBOh2o",
+      "link": "https://www.youtube.com/watch?v=ezUpkoBOh2o",
+      "channel": "Optimus",
+      "title": "Sam Altman Is A Complete Scumbag",
+      "pub_date": "2026-10-30T20:45:01+00:00",
+      "transcript_path": "feeds/transcripts/4358ecbd1da345d87ad04aea.txt",
+      "transcript_chars": 22187,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-03T22:12:18.379414+00:00",
+      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
+      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
       "link": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
@@ -12,8 +77,8 @@
       "transcript_chars": 8803,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-02T22:29:25.167392+00:00",
-      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
-      "expires_at": "2026-11-16T22:29:25.167392+00:00"
+      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
+      "expires_at": "2026-11-17T22:12:18.379414+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
@@ -25,8 +90,8 @@
       "transcript_chars": 5200,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-02T22:29:25.167392+00:00",
-      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
-      "expires_at": "2026-11-16T22:29:25.167392+00:00"
+      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
+      "expires_at": "2026-11-17T22:12:18.379414+00:00"
     },
     {
       "guid": "yt:vDmjw-c_R2k",
@@ -38,8 +103,8 @@
       "transcript_chars": 27160,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-02T22:29:25.167392+00:00",
-      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
-      "expires_at": "2026-11-16T22:29:25.167392+00:00"
+      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
+      "expires_at": "2026-11-17T22:12:18.379414+00:00"
     },
     {
       "guid": "23d24cda-51fc-4e58-b896-a92c99594125",
@@ -129,8 +194,8 @@
       "transcript_chars": 51028,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-30T02:58:41.183811+00:00",
-      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
-      "expires_at": "2026-11-16T22:29:25.167392+00:00"
+      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
+      "expires_at": "2026-11-17T22:12:18.379414+00:00"
     },
     {
       "guid": "yt:xGjKsW2v0aY",
@@ -181,8 +246,8 @@
       "transcript_chars": 54893,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
-      "expires_at": "2026-11-16T22:29:25.167392+00:00"
+      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
+      "expires_at": "2026-11-17T22:12:18.379414+00:00"
     },
     {
       "guid": "yt:crdg4X5BZPc",
@@ -311,8 +376,8 @@
       "transcript_chars": 34951,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
-      "expires_at": "2026-11-16T22:29:25.167392+00:00"
+      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
+      "expires_at": "2026-11-17T22:12:18.379414+00:00"
     },
     {
       "guid": "yt:v-NGxyPjcrE",
@@ -664,32 +729,6 @@
       "cached_at": "2026-10-19T03:04:13.086500+00:00",
       "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
       "expires_at": "2026-11-06T22:29:09.359434+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
-      "link": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
-      "channel": "Latent Space",
-      "title": "[AINews] High Taste Testers Ep. 1",
-      "pub_date": "2026-10-17T07:47:38+00:00",
-      "transcript_path": "feeds/transcripts/03b32f498e9f158e3384b703.txt",
-      "transcript_chars": 39075,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-18T07:12:05.245673+00:00",
-      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
-      "expires_at": "2026-11-03T00:38:58.412225+00:00"
-    },
-    {
-      "guid": "b21ad519-2a55-4a63-8496-c76c6cb34acc",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/MGM-and-VICI-Finding-Value-in-the-Las-Vegas-Selloff--Value-Options-Podcast-e3qjvn6",
-      "channel": "The Acquirers Podcast",
-      "title": "MGM and VICI: Finding Value in the Las Vegas Selloff | Value Options Podcast",
-      "pub_date": "2026-10-17T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/114d715b4aa1ed46d95e19cf.txt",
-      "transcript_chars": 146960,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-18T07:12:05.245673+00:00",
-      "last_seen_at": "2026-10-20T00:38:58.412225+00:00",
-      "expires_at": "2026-11-03T00:38:58.412225+00:00"
     },
     {
       "guid": "yt:A698Z8C7388",
