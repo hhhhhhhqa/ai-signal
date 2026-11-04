@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-11-03T22:12:18.379414+00:00",
+  "generated_at": "2026-11-04T22:47:03.582486+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "yt:HMA357MXB1o",
+      "link": "https://www.youtube.com/watch?v=HMA357MXB1o",
+      "channel": "TheAIGRID",
+      "title": "Sam Altman Just Made His Most Controversial Statement Yet",
+      "pub_date": "2026-11-01T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/7ee60f1f8d2f687c4e5e64d0.txt",
+      "transcript_chars": 26921,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-04T22:47:03.582486+00:00",
+      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
+      "expires_at": "2026-11-18T22:47:03.582486+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
       "link": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
@@ -12,8 +25,8 @@
       "transcript_chars": 13747,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
-      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
+      "expires_at": "2026-11-18T22:47:03.582486+00:00"
     },
     {
       "guid": "b3946996-1696-430a-b9f2-f9a43380d7e2",
@@ -25,8 +38,8 @@
       "transcript_chars": 49177,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
-      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
+      "expires_at": "2026-11-18T22:47:03.582486+00:00"
     },
     {
       "guid": "yt:TjPPIf-M6KE",
@@ -38,8 +51,8 @@
       "transcript_chars": 62601,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
-      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
+      "expires_at": "2026-11-18T22:47:03.582486+00:00"
     },
     {
       "guid": "urn:latent-space:post:pod_ep_01a19df0-34a3-7307-96fc-48928908772b",
@@ -51,8 +64,8 @@
       "transcript_chars": 91432,
       "transcript_source": "episode_transcript_link",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
-      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
+      "expires_at": "2026-11-18T22:47:03.582486+00:00"
     },
     {
       "guid": "yt:ezUpkoBOh2o",
@@ -64,8 +77,8 @@
       "transcript_chars": 22187,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
-      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
+      "expires_at": "2026-11-18T22:47:03.582486+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
@@ -77,8 +90,8 @@
       "transcript_chars": 8803,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-02T22:29:25.167392+00:00",
-      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
-      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
+      "expires_at": "2026-11-18T22:47:03.582486+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
@@ -90,8 +103,8 @@
       "transcript_chars": 5200,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-02T22:29:25.167392+00:00",
-      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
-      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
+      "expires_at": "2026-11-18T22:47:03.582486+00:00"
     },
     {
       "guid": "yt:vDmjw-c_R2k",
@@ -103,8 +116,8 @@
       "transcript_chars": 27160,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-02T22:29:25.167392+00:00",
-      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
-      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
+      "expires_at": "2026-11-18T22:47:03.582486+00:00"
     },
     {
       "guid": "23d24cda-51fc-4e58-b896-a92c99594125",
@@ -194,8 +207,8 @@
       "transcript_chars": 51028,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-10-30T02:58:41.183811+00:00",
-      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
-      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
+      "expires_at": "2026-11-18T22:47:03.582486+00:00"
     },
     {
       "guid": "yt:xGjKsW2v0aY",
@@ -246,8 +259,8 @@
       "transcript_chars": 54893,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
-      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
+      "expires_at": "2026-11-18T22:47:03.582486+00:00"
     },
     {
       "guid": "yt:crdg4X5BZPc",
@@ -376,8 +389,8 @@
       "transcript_chars": 34951,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-11-03T22:12:18.379414+00:00",
-      "expires_at": "2026-11-17T22:12:18.379414+00:00"
+      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
+      "expires_at": "2026-11-18T22:47:03.582486+00:00"
     },
     {
       "guid": "yt:v-NGxyPjcrE",
@@ -755,19 +768,6 @@
       "cached_at": "2026-10-15T22:01:44.285831+00:00",
       "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
       "expires_at": "2026-11-04T23:02:54.334129+00:00"
-    },
-    {
-      "guid": "yt:emVZBMh2KNk",
-      "link": "https://www.youtube.com/watch?v=emVZBMh2KNk",
-      "channel": "TechCrunch",
-      "title": "Satya Nadella’s ‘emergency brake’ and the race to secure AI agents | Disrupt 2026",
-      "pub_date": "2026-10-14T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/6c6a1f4743f01a20b9797d54.txt",
-      "transcript_chars": 32399,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-15T22:01:44.285831+00:00",
-      "last_seen_at": "2026-10-20T22:27:04.241565+00:00",
-      "expires_at": "2026-11-03T22:27:04.241565+00:00"
     },
     {
       "guid": "cdacfd46-6d2e-45fa-aa03-5ad22d324188",
