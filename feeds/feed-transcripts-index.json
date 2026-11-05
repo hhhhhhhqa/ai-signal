@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-11-04T22:47:03.582486+00:00",
+  "generated_at": "2026-11-05T23:44:45.359386+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.dwarkesh.com/p/clocktower",
+      "link": "https://www.dwarkesh.com/p/clocktower",
+      "channel": "Dwarkesh Patel",
+      "title": "The benchmark where AIs have to lie to win",
+      "pub_date": "2026-11-05T21:05:50+00:00",
+      "transcript_path": "feeds/transcripts/67be32493b806c055474c85c.txt",
+      "transcript_chars": 24472,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-05T23:44:45.359386+00:00",
+      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
+      "expires_at": "2026-11-19T23:44:45.359386+00:00"
+    },
+    {
+      "guid": "31fc9870-665a-426f-9920-a7399d4d612f",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/The-Best-Business-Youve-Never-Heard-Of--Todd-Wenning-e3rodfa",
+      "channel": "The Acquirers Podcast",
+      "title": "The Best Business You've Never Heard Of | Todd Wenning",
+      "pub_date": "2026-11-05T08:00:00+00:00",
+      "transcript_path": "feeds/transcripts/87856c3761677678bce72e69.txt",
+      "transcript_chars": 142813,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-05T23:44:45.359386+00:00",
+      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
+      "expires_at": "2026-11-19T23:44:45.359386+00:00"
+    },
+    {
+      "guid": "b56caee9-8c9e-4dde-92e7-cfc4837b642d",
+      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--043---The-Midterms-and-the-2028-Datacenter-Buildout-Datacenters--Jeremie-Eliahou-Ontiveros--Jordan-Nanos--Maya-Barkin--Wayne-Ma-e3rp424",
+      "channel": "SemiAnalysis",
+      "title": "Ep. 043 - The Midterms and the 2028 Datacenter Buildout (Datacenters) | Jeremie Eliahou Ontiveros, Jordan Nanos, Maya Barkin, Wayne Ma",
+      "pub_date": "2026-11-04T22:15:24+00:00",
+      "transcript_path": "feeds/transcripts/2e2881bb69fc4866020ea579.txt",
+      "transcript_chars": 37865,
+      "transcript_source": "companion_youtube",
+      "cached_at": "2026-11-05T23:44:45.359386+00:00",
+      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
+      "expires_at": "2026-11-19T23:44:45.359386+00:00"
+    },
     {
       "guid": "yt:HMA357MXB1o",
       "link": "https://www.youtube.com/watch?v=HMA357MXB1o",
@@ -12,8 +51,8 @@
       "transcript_chars": 26921,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-04T22:47:03.582486+00:00",
-      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
-      "expires_at": "2026-11-18T22:47:03.582486+00:00"
+      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
+      "expires_at": "2026-11-19T23:44:45.359386+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
@@ -25,8 +64,8 @@
       "transcript_chars": 13747,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
-      "expires_at": "2026-11-18T22:47:03.582486+00:00"
+      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
+      "expires_at": "2026-11-19T23:44:45.359386+00:00"
     },
     {
       "guid": "b3946996-1696-430a-b9f2-f9a43380d7e2",
@@ -38,8 +77,8 @@
       "transcript_chars": 49177,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
-      "expires_at": "2026-11-18T22:47:03.582486+00:00"
+      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
+      "expires_at": "2026-11-19T23:44:45.359386+00:00"
     },
     {
       "guid": "yt:TjPPIf-M6KE",
@@ -51,8 +90,8 @@
       "transcript_chars": 62601,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
-      "expires_at": "2026-11-18T22:47:03.582486+00:00"
+      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
+      "expires_at": "2026-11-19T23:44:45.359386+00:00"
     },
     {
       "guid": "urn:latent-space:post:pod_ep_01a19df0-34a3-7307-96fc-48928908772b",
@@ -64,8 +103,8 @@
       "transcript_chars": 91432,
       "transcript_source": "episode_transcript_link",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
-      "expires_at": "2026-11-18T22:47:03.582486+00:00"
+      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
+      "expires_at": "2026-11-19T23:44:45.359386+00:00"
     },
     {
       "guid": "yt:ezUpkoBOh2o",
@@ -77,8 +116,8 @@
       "transcript_chars": 22187,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
-      "expires_at": "2026-11-18T22:47:03.582486+00:00"
+      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
+      "expires_at": "2026-11-19T23:44:45.359386+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
@@ -116,8 +155,8 @@
       "transcript_chars": 27160,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-02T22:29:25.167392+00:00",
-      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
-      "expires_at": "2026-11-18T22:47:03.582486+00:00"
+      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
+      "expires_at": "2026-11-19T23:44:45.359386+00:00"
     },
     {
       "guid": "23d24cda-51fc-4e58-b896-a92c99594125",
@@ -259,8 +298,8 @@
       "transcript_chars": 54893,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
-      "expires_at": "2026-11-18T22:47:03.582486+00:00"
+      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
+      "expires_at": "2026-11-19T23:44:45.359386+00:00"
     },
     {
       "guid": "yt:crdg4X5BZPc",
@@ -389,8 +428,8 @@
       "transcript_chars": 34951,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
-      "expires_at": "2026-11-18T22:47:03.582486+00:00"
+      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
+      "expires_at": "2026-11-19T23:44:45.359386+00:00"
     },
     {
       "guid": "yt:v-NGxyPjcrE",
@@ -679,32 +718,6 @@
       "expires_at": "2026-11-11T03:34:59.412837+00:00"
     },
     {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
-      "pub_date": "2026-10-19T15:03:35+00:00",
-      "transcript_path": "feeds/transcripts/e25733e8c47f1262273da1f9.txt",
-      "transcript_chars": 8495,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-20T00:38:58.412225+00:00",
-      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
-      "expires_at": "2026-11-04T23:02:54.334129+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
-      "link": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
-      "channel": "Lenny's Podcast",
-      "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
-      "pub_date": "2026-10-19T12:04:52+00:00",
-      "transcript_path": "feeds/transcripts/0c1e227fb42aca9b69809cbd.txt",
-      "transcript_chars": 4723,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-20T00:38:58.412225+00:00",
-      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
-      "expires_at": "2026-11-04T23:02:54.334129+00:00"
-    },
-    {
       "guid": "yt:fovzUg5ON_0",
       "link": "https://www.youtube.com/watch?v=fovzUg5ON_0",
       "channel": "DWS News and DRM News",
@@ -718,19 +731,6 @@
       "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
-      "guid": "yt:AwuTTOJGEi0",
-      "link": "https://www.youtube.com/watch?v=AwuTTOJGEi0",
-      "channel": "No Priors: AI, Machine Learning, Tech, & Startups",
-      "title": "The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman",
-      "pub_date": "2026-10-15T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/87c9b870c4c90a7e171ca518.txt",
-      "transcript_chars": 45053,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-20T00:38:58.412225+00:00",
-      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
-      "expires_at": "2026-11-04T23:02:54.334129+00:00"
-    },
-    {
       "guid": "yt:Qmafkf_08uQ",
       "link": "https://www.youtube.com/watch?v=Qmafkf_08uQ",
       "channel": "Lex Clips",
@@ -742,32 +742,6 @@
       "cached_at": "2026-10-19T03:04:13.086500+00:00",
       "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
       "expires_at": "2026-11-06T22:29:09.359434+00:00"
-    },
-    {
-      "guid": "yt:A698Z8C7388",
-      "link": "https://www.youtube.com/watch?v=A698Z8C7388",
-      "channel": "TheAIGRID",
-      "title": "Sam Altman Just Made Everyone FURIOUS...",
-      "pub_date": "2026-10-15T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/b553f76313fbc53277c7111e.txt",
-      "transcript_chars": 21816,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-17T07:03:49.560146+00:00",
-      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
-      "expires_at": "2026-11-04T23:02:54.334129+00:00"
-    },
-    {
-      "guid": "yt:eS7qQ3WJSrw",
-      "link": "https://www.youtube.com/watch?v=eS7qQ3WJSrw",
-      "channel": "Bg2 Pod",
-      "title": "Jensen Huang | Does AI Revenue Justify Capex, '27 AI Bottlenecks, Singularity, Open vs Closed & more",
-      "pub_date": "2026-10-15T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/d7141cbd4662e66c918dd888.txt",
-      "transcript_chars": 101856,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-15T22:01:44.285831+00:00",
-      "last_seen_at": "2026-10-21T23:02:54.334129+00:00",
-      "expires_at": "2026-11-04T23:02:54.334129+00:00"
     },
     {
       "guid": "cdacfd46-6d2e-45fa-aa03-5ad22d324188",
