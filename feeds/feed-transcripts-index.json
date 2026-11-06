@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-11-05T23:44:45.359386+00:00",
+  "generated_at": "2026-11-06T23:28:08.278570+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "urn:latent-space:post:post_e4eae676-23c0-4ee3-bf61-919e4d3b3909",
+      "link": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+      "channel": "Latent Space",
+      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "pub_date": "2026-11-06T15:10:53+00:00",
+      "transcript_path": "feeds/transcripts/9d6ec06be5a9d12d214cf206.txt",
+      "transcript_chars": 62203,
+      "transcript_source": "episode_transcript_link",
+      "cached_at": "2026-11-06T23:28:08.278570+00:00",
+      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
+      "expires_at": "2026-11-20T23:28:08.278570+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/clocktower",
       "link": "https://www.dwarkesh.com/p/clocktower",
@@ -12,8 +25,8 @@
       "transcript_chars": 24472,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-05T23:44:45.359386+00:00",
-      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
-      "expires_at": "2026-11-19T23:44:45.359386+00:00"
+      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
+      "expires_at": "2026-11-20T23:28:08.278570+00:00"
     },
     {
       "guid": "31fc9870-665a-426f-9920-a7399d4d612f",
@@ -25,8 +38,8 @@
       "transcript_chars": 142813,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-05T23:44:45.359386+00:00",
-      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
-      "expires_at": "2026-11-19T23:44:45.359386+00:00"
+      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
+      "expires_at": "2026-11-20T23:28:08.278570+00:00"
     },
     {
       "guid": "b56caee9-8c9e-4dde-92e7-cfc4837b642d",
@@ -38,8 +51,8 @@
       "transcript_chars": 37865,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-11-05T23:44:45.359386+00:00",
-      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
-      "expires_at": "2026-11-19T23:44:45.359386+00:00"
+      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
+      "expires_at": "2026-11-20T23:28:08.278570+00:00"
     },
     {
       "guid": "yt:HMA357MXB1o",
@@ -51,8 +64,8 @@
       "transcript_chars": 26921,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-04T22:47:03.582486+00:00",
-      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
-      "expires_at": "2026-11-19T23:44:45.359386+00:00"
+      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
+      "expires_at": "2026-11-20T23:28:08.278570+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
@@ -77,8 +90,8 @@
       "transcript_chars": 49177,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
-      "expires_at": "2026-11-19T23:44:45.359386+00:00"
+      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
+      "expires_at": "2026-11-20T23:28:08.278570+00:00"
     },
     {
       "guid": "yt:TjPPIf-M6KE",
@@ -90,8 +103,8 @@
       "transcript_chars": 62601,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
-      "expires_at": "2026-11-19T23:44:45.359386+00:00"
+      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
+      "expires_at": "2026-11-20T23:28:08.278570+00:00"
     },
     {
       "guid": "urn:latent-space:post:pod_ep_01a19df0-34a3-7307-96fc-48928908772b",
@@ -155,8 +168,8 @@
       "transcript_chars": 27160,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-02T22:29:25.167392+00:00",
-      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
-      "expires_at": "2026-11-19T23:44:45.359386+00:00"
+      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
+      "expires_at": "2026-11-20T23:28:08.278570+00:00"
     },
     {
       "guid": "23d24cda-51fc-4e58-b896-a92c99594125",
@@ -298,8 +311,8 @@
       "transcript_chars": 54893,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
-      "expires_at": "2026-11-19T23:44:45.359386+00:00"
+      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
+      "expires_at": "2026-11-20T23:28:08.278570+00:00"
     },
     {
       "guid": "yt:crdg4X5BZPc",
@@ -562,58 +575,6 @@
       "expires_at": "2026-11-09T23:28:30.737067+00:00"
     },
     {
-      "guid": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
-      "link": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
-      "channel": "Lenny's Podcast",
-      "title": "Claude Duet is beautiful. I still forgot to use it",
-      "pub_date": "2026-10-21T20:25:18+00:00",
-      "transcript_path": "feeds/transcripts/f36b29f67948ecdc4b281d7b.txt",
-      "transcript_chars": 4818,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/claude-mods",
-      "link": "https://www.latent.space/p/claude-mods",
-      "channel": "Latent Space",
-      "title": "Claude Mods: Flipping the Harness Inside Out",
-      "pub_date": "2026-10-21T13:04:19+00:00",
-      "transcript_path": "feeds/transcripts/0d73f376262ca1f5f1b8dfc7.txt",
-      "transcript_chars": 12714,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
-      "link": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
-      "channel": "Latent Space",
-      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-      "pub_date": "2026-10-21T06:54:09+00:00",
-      "transcript_path": "feeds/transcripts/c7f4ee7a4319bbfe2f821bb7.txt",
-      "transcript_chars": 58433,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/tenex",
-      "link": "https://www.latent.space/p/tenex",
-      "channel": "Latent Space",
-      "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-      "pub_date": "2026-10-21T05:01:26+00:00",
-      "transcript_path": "feeds/transcripts/ea77105b906bcb3ae6ead87c.txt",
-      "transcript_chars": 53553,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
-    },
-    {
       "guid": "yt:3gXLmy7DK_4",
       "link": "https://www.youtube.com/watch?v=3gXLmy7DK_4",
       "channel": "Matthew Berman",
@@ -679,32 +640,6 @@
       "expires_at": "2026-11-16T22:29:25.167392+00:00"
     },
     {
-      "guid": "https://www.latent.space/p/sfcompute2",
-      "link": "https://www.latent.space/p/sfcompute2",
-      "channel": "Latent Space",
-      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
-      "pub_date": "2026-10-20T19:31:57+00:00",
-      "transcript_path": "feeds/transcripts/6d557137ca16914d81f68fd0.txt",
-      "transcript_chars": 47022,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-20T22:27:04.241565+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
-      "link": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
-      "channel": "Latent Space",
-      "title": "[AINews] not much happened today",
-      "pub_date": "2026-10-20T05:21:52+00:00",
-      "transcript_path": "feeds/transcripts/4a2a77cb85ecb3ddc593e13e.txt",
-      "transcript_chars": 16065,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-20T22:27:04.241565+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
-    },
-    {
       "guid": "79088467-ffe5-4436-b693-62ead9c7e4ac",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--038---GLM-5-3-on-AMD--NVIDIA--and-Chinese-Chips-From-Day-One-InferenceX--Kimbo-Chen--Wenyao-Gao--Jordan-Nanos-e3qfp6b",
       "channel": "SemiAnalysis",
@@ -729,32 +664,6 @@
       "cached_at": "2026-10-20T00:38:58.412225+00:00",
       "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
       "expires_at": "2026-11-07T23:05:40.868879+00:00"
-    },
-    {
-      "guid": "yt:Qmafkf_08uQ",
-      "link": "https://www.youtube.com/watch?v=Qmafkf_08uQ",
-      "channel": "Lex Clips",
-      "title": "Jensen Huang on the phone call that changed everything | Lex Fridman in Taiwan",
-      "pub_date": "2026-10-17T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/e05daa72f19ac88ca2a5f28f.txt",
-      "transcript_chars": 14411,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-19T03:04:13.086500+00:00",
-      "last_seen_at": "2026-10-23T22:29:09.359434+00:00",
-      "expires_at": "2026-11-06T22:29:09.359434+00:00"
-    },
-    {
-      "guid": "cdacfd46-6d2e-45fa-aa03-5ad22d324188",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--037---Whos-Funding-the-11-Trillion-AI-Buildout--Capital-Markets--Dan-Nishball--Jordan-Nanos-e3q81p6",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 037 - Who's Funding the $11 Trillion AI Buildout? (Capital Markets) | Dan Nishball, Jordan Nanos",
-      "pub_date": "2026-10-09T16:30:54+00:00",
-      "transcript_path": "feeds/transcripts/4d74da48334f1054737c2581.txt",
-      "transcript_chars": 82974,
-      "transcript_source": "companion_youtube",
-      "cached_at": "2026-10-10T06:14:36.405550+00:00",
-      "last_seen_at": "2026-10-23T04:09:46.138835+00:00",
-      "expires_at": "2026-11-06T04:09:46.138835+00:00"
     }
   ]
 }

@@ -1,6 +1,60 @@
 {
   "articles": [
     {
+      "id": "https://openai.com/index/partnering-with-hacktron",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "published": "2026-11-06T08:00:00+00:00",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
+    },
+    {
+      "id": "https://www.anthropic.com/research/components-of-agent-memory",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "The components of agent memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "published": "2026-11-06T00:00:00+00:00",
+      "summary": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes."
+    },
+    {
+      "id": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Teaching AI to build scientific models",
+      "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+      "published": "2026-11-06T00:00:00+00:00",
+      "summary": "AI for Science grantees Jakob Macke, Daniel Gedon, and Stefan Wahl on how AI is starting to change how scientific models are built and interpreted."
+    },
+    {
+      "id": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Project EVE: Claude plays MMORPGs",
+      "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
+      "published": "2026-11-06T00:00:00+00:00",
+      "summary": "We put Claude in two EVE games to study how AI agents handle markets and teamwork, where they break down, and what safeguards they might need."
+    },
+    {
+      "id": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "published": "2026-11-06T00:00:00+00:00",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+    },
+    {
+      "id": "https://openai.com/index/cultfit-builds-with-codex",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "published": "2026-11-05T20:00:00+00:00",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done."
+    },
+    {
       "id": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
       "source": "deepmind",
       "source_name": "Google DeepMind",
@@ -8,6 +62,15 @@
       "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
       "published": "2026-11-05T17:05:16+00:00",
       "summary": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
+    },
+    {
+      "id": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "published": "2026-11-05T17:00:00+00:00",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
     },
     {
       "id": "https://openai.com/index/introducing-gpt-6-cyber",
@@ -19,49 +82,13 @@
       "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
     },
     {
-      "id": "https://openai.com/index/merge-builds-with-openai",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "url": "https://openai.com/index/merge-builds-with-openai",
-      "published": "2026-11-05T08:00:00+00:00",
-      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
-    },
-    {
-      "id": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "published": "2026-11-05T02:00:00+00:00",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
-    },
-    {
-      "id": "https://openai.com/ads/customers/flipsnack",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "url": "https://openai.com/ads/customers/flipsnack",
-      "published": "2026-11-05T00:45:15+00:00",
-      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup."
-    },
-    {
       "id": "https://www.anthropic.com/research/how-researchers-use-claude",
       "source": "anthropic",
       "source_name": "Anthropic",
       "title": "How scientists use Claude",
       "url": "https://www.anthropic.com/research/how-researchers-use-claude",
       "published": "2026-11-05T00:00:00+00:00",
-      "summary": "In this report, we use privacy-preserving infrastructure to study the scientific use of Claude, Claude Code, and Claude Science. We document how usage varies across scientific fields and research tasks, identify what explains these usage patterns, and outline scenarios for how AI could accelerate research."
-    },
-    {
-      "id": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "published": "2026-11-04T14:30:00+00:00",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+      "summary": "We analyzed 207,000 research sessions to learn how Claude is used in science, why some tasks get more use than others, and how AI could speed up discovery."
     },
     {
       "id": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
@@ -74,5 +101,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-11-05T22:01:40.801616+00:00"
+  "generated_at": "2026-11-06T22:12:17.122369+00:00"
 }
