@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T23:28:08.278570+00:00",
+  "generated_at": "2026-11-08T02:21:26.262268+00:00",
   "retention_days": 14,
   "transcripts": [
     {
@@ -12,8 +12,8 @@
       "transcript_chars": 62203,
       "transcript_source": "episode_transcript_link",
       "cached_at": "2026-11-06T23:28:08.278570+00:00",
-      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
-      "expires_at": "2026-11-20T23:28:08.278570+00:00"
+      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
+      "expires_at": "2026-11-22T02:21:26.262268+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/clocktower",
@@ -25,8 +25,8 @@
       "transcript_chars": 24472,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-05T23:44:45.359386+00:00",
-      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
-      "expires_at": "2026-11-20T23:28:08.278570+00:00"
+      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
+      "expires_at": "2026-11-22T02:21:26.262268+00:00"
     },
     {
       "guid": "31fc9870-665a-426f-9920-a7399d4d612f",
@@ -38,8 +38,8 @@
       "transcript_chars": 142813,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-05T23:44:45.359386+00:00",
-      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
-      "expires_at": "2026-11-20T23:28:08.278570+00:00"
+      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
+      "expires_at": "2026-11-22T02:21:26.262268+00:00"
     },
     {
       "guid": "b56caee9-8c9e-4dde-92e7-cfc4837b642d",
@@ -51,8 +51,8 @@
       "transcript_chars": 37865,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-11-05T23:44:45.359386+00:00",
-      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
-      "expires_at": "2026-11-20T23:28:08.278570+00:00"
+      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
+      "expires_at": "2026-11-22T02:21:26.262268+00:00"
     },
     {
       "guid": "yt:HMA357MXB1o",
@@ -90,8 +90,8 @@
       "transcript_chars": 49177,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
-      "expires_at": "2026-11-20T23:28:08.278570+00:00"
+      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
+      "expires_at": "2026-11-22T02:21:26.262268+00:00"
     },
     {
       "guid": "yt:TjPPIf-M6KE",
@@ -103,8 +103,8 @@
       "transcript_chars": 62601,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
-      "expires_at": "2026-11-20T23:28:08.278570+00:00"
+      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
+      "expires_at": "2026-11-22T02:21:26.262268+00:00"
     },
     {
       "guid": "urn:latent-space:post:pod_ep_01a19df0-34a3-7307-96fc-48928908772b",
@@ -168,8 +168,8 @@
       "transcript_chars": 27160,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-02T22:29:25.167392+00:00",
-      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
-      "expires_at": "2026-11-20T23:28:08.278570+00:00"
+      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
+      "expires_at": "2026-11-22T02:21:26.262268+00:00"
     },
     {
       "guid": "23d24cda-51fc-4e58-b896-a92c99594125",
@@ -311,8 +311,8 @@
       "transcript_chars": 54893,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
-      "expires_at": "2026-11-20T23:28:08.278570+00:00"
+      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
+      "expires_at": "2026-11-22T02:21:26.262268+00:00"
     },
     {
       "guid": "yt:crdg4X5BZPc",
@@ -458,19 +458,6 @@
       "expires_at": "2026-11-11T22:01:37.303353+00:00"
     },
     {
-      "guid": "f1cffbc1-bf75-412c-96c9-bf8e8334a5c1",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/The-End-Is-Nigh--Buy-Here-e3qrt4m",
-      "channel": "The Acquirers Podcast",
-      "title": "The End Is Nigh. Buy Here?",
-      "pub_date": "2026-10-22T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/bab6efef81c8b961c400f67d.txt",
-      "transcript_chars": 146753,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
-    },
-    {
       "guid": "yt:_rG0rG5Nd5w",
       "link": "https://www.youtube.com/watch?v=_rG0rG5Nd5w",
       "channel": "MTS ",
@@ -482,58 +469,6 @@
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
       "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
       "expires_at": "2026-11-11T22:01:37.303353+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/modal-d",
-      "link": "https://www.latent.space/p/modal-d",
-      "channel": "Latent Space",
-      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-      "pub_date": "2026-10-22T17:40:57+00:00",
-      "transcript_path": "feeds/transcripts/c9db71baac7182397d9d1799.txt",
-      "transcript_chars": 108119,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/intel-tour",
-      "link": "https://www.dwarkesh.com/p/intel-tour",
-      "channel": "Dwarkesh Patel",
-      "title": "What will computer chips look like in 2045?",
-      "pub_date": "2026-10-22T15:02:21+00:00",
-      "transcript_path": "feeds/transcripts/ed73ac35e4bfbec057de4dd5.txt",
-      "transcript_chars": 69422,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/moshi",
-      "link": "https://www.latent.space/p/moshi",
-      "channel": "Latent Space",
-      "title": "You are the Team  — Anekha Sokhal, Moshi",
-      "pub_date": "2026-10-22T14:03:40+00:00",
-      "transcript_path": "feeds/transcripts/eced7029de951b6d68d65860.txt",
-      "transcript_chars": 30510,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
-    },
-    {
-      "guid": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
-      "link": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
-      "channel": "Latent Space",
-      "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-      "pub_date": "2026-10-22T07:42:44+00:00",
-      "transcript_path": "feeds/transcripts/068e079f17755d92d25ff4c2.txt",
-      "transcript_chars": 63319,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     },
     {
       "guid": "yt:X6_6oMSksw8",
@@ -651,19 +586,6 @@
       "cached_at": "2026-10-20T22:27:04.241565+00:00",
       "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
       "expires_at": "2026-11-11T03:34:59.412837+00:00"
-    },
-    {
-      "guid": "yt:fovzUg5ON_0",
-      "link": "https://www.youtube.com/watch?v=fovzUg5ON_0",
-      "channel": "DWS News and DRM News",
-      "title": "FULL DISCUSSION: Nvidia Jensen Huang & German Merz Discuss AI, Robotics,Jobs, Germany’s Future |AC1E",
-      "pub_date": "2026-10-19T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/ed71ebcb946b931ea9fba15b.txt",
-      "transcript_chars": 19550,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-20T00:38:58.412225+00:00",
-      "last_seen_at": "2026-10-24T23:05:40.868879+00:00",
-      "expires_at": "2026-11-07T23:05:40.868879+00:00"
     }
   ]
 }
