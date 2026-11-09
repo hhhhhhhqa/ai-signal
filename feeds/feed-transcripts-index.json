@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T02:21:26.262268+00:00",
+  "generated_at": "2026-11-09T00:39:00.530437+00:00",
   "retention_days": 14,
   "transcripts": [
     {
@@ -12,8 +12,8 @@
       "transcript_chars": 62203,
       "transcript_source": "episode_transcript_link",
       "cached_at": "2026-11-06T23:28:08.278570+00:00",
-      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
-      "expires_at": "2026-11-22T02:21:26.262268+00:00"
+      "last_seen_at": "2026-11-09T00:39:00.530437+00:00",
+      "expires_at": "2026-11-23T00:39:00.530437+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/clocktower",
@@ -51,8 +51,8 @@
       "transcript_chars": 37865,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-11-05T23:44:45.359386+00:00",
-      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
-      "expires_at": "2026-11-22T02:21:26.262268+00:00"
+      "last_seen_at": "2026-11-09T00:39:00.530437+00:00",
+      "expires_at": "2026-11-23T00:39:00.530437+00:00"
     },
     {
       "guid": "yt:HMA357MXB1o",
@@ -90,8 +90,8 @@
       "transcript_chars": 49177,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
-      "expires_at": "2026-11-22T02:21:26.262268+00:00"
+      "last_seen_at": "2026-11-09T00:39:00.530437+00:00",
+      "expires_at": "2026-11-23T00:39:00.530437+00:00"
     },
     {
       "guid": "yt:TjPPIf-M6KE",
@@ -103,8 +103,8 @@
       "transcript_chars": 62601,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
-      "expires_at": "2026-11-22T02:21:26.262268+00:00"
+      "last_seen_at": "2026-11-09T00:39:00.530437+00:00",
+      "expires_at": "2026-11-23T00:39:00.530437+00:00"
     },
     {
       "guid": "urn:latent-space:post:pod_ep_01a19df0-34a3-7307-96fc-48928908772b",
@@ -311,8 +311,8 @@
       "transcript_chars": 54893,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
-      "expires_at": "2026-11-22T02:21:26.262268+00:00"
+      "last_seen_at": "2026-11-09T00:39:00.530437+00:00",
+      "expires_at": "2026-11-23T00:39:00.530437+00:00"
     },
     {
       "guid": "yt:crdg4X5BZPc",

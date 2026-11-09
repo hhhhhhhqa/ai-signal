@@ -1,42 +1,5 @@
 {
-  "articles": [
-    {
-      "id": "https://openai.com/index/partnering-with-hacktron",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "published": "2026-11-06T08:00:00+00:00",
-      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
-    },
-    {
-      "id": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Teaching AI to build scientific models",
-      "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
-      "published": "2026-11-06T00:00:00+00:00",
-      "summary": "AI for Science grantees Jakob Macke, Daniel Gedon, and Stefan Wahl on how AI is starting to change how scientific models are built and interpreted."
-    },
-    {
-      "id": "https://www.anthropic.com/research/components-of-agent-memory",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "The components of agent memory",
-      "url": "https://www.anthropic.com/research/components-of-agent-memory",
-      "published": "2026-11-06T00:00:00+00:00",
-      "summary": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize memory and correct mistakes."
-    },
-    {
-      "id": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Project EVE: Claude plays MMORPGs",
-      "url": "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs",
-      "published": "2026-11-06T00:00:00+00:00",
-      "summary": "We put Claude in two EVE games to study how AI agents handle markets and teamwork, where they break down, and what safeguards they might need."
-    }
-  ],
+  "articles": [],
   "errors": null,
-  "generated_at": "2026-11-07T22:11:59.834499+00:00"
+  "generated_at": "2026-11-08T22:13:10.760840+00:00"
 }

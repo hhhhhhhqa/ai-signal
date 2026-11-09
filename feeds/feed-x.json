@@ -10,10 +10,10 @@
           "id": "2119114537442189652",
           "text": "Earlier this week Tristan published his top YouTube channels:\nhttps://t.co/NZ3UCNo6cT\nWhich looked excellent so clearly I had to turn it into TristanTube:\nhttps://t.co/l0KyW1WdNH\n47K super nerdy videos +TV mode for laid back watching. (One-shotted with Claude Code in 3 minutes)",
           "created_at": "2026-11-07T17:07:31+00:00",
-          "like_count": 4616,
-          "retweet_count": 331,
-          "reply_count": 367,
-          "engagement_score": 5645,
+          "like_count": 8458,
+          "retweet_count": 703,
+          "reply_count": 576,
+          "engagement_score": 10440,
           "url": "https://x.com/karpathy/status/2119114537442189652"
         }
       ]
@@ -25,34 +25,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2118996445936361933",
-          "text": "just got my test order and was delightfully surprised to find that this client is open source!!!! (v impt for sticking anything in a physical port)\n\nvery delighted to have a use for this useless SD Card slot and the api is so nice and agent friendly. watch for surprises at @aiDotEngineer ...",
-          "created_at": "2026-11-07T09:18:16+00:00",
-          "like_count": 316,
-          "retweet_count": 11,
-          "reply_count": 116,
-          "engagement_score": 454,
-          "url": "https://x.com/swyx/status/2118996445936361933"
+          "id": "2119429305512165838",
+          "text": "occasional reminder that cursor is slaying it esp post acquisition (prob one of the best that elon has ever done, better than twitter itself) and twitter vibes are a funhouse mirror of actual reality that you can now basically look up in SEC audited financials\n\ncursor ended 2025 arr 1B arr btw. enterprise growing 300% QoQ",
+          "created_at": "2026-11-08T13:58:18+00:00",
+          "like_count": 280,
+          "retweet_count": 7,
+          "reply_count": 92,
+          "engagement_score": 386,
+          "url": "https://x.com/swyx/status/2119429305512165838"
         },
         {
-          "id": "2118905788915982341",
-          "text": "we are committing to weekly coverage of the Anthropic IPO all the way until it does or doesn't happen. \n\nHaving covered mega-IPOs from $BABA to $TEAM, I get to dust off my equity hedge fund analyst hat with my AI Engineer hat once more, this time with my good friend @jaminball who is challenging @ttunguz for writer-VC-extraordinare of his generation.",
-          "created_at": "2026-11-07T03:18:02+00:00",
-          "like_count": 176,
+          "id": "2119513321468735749",
+          "text": "we're celebrating 1 million AI Engineers all week at aie code.\n\nQT with your favorite AIE talk and/or speaker, and why!",
+          "created_at": "2026-11-08T19:32:09+00:00",
+          "like_count": 109,
           "retweet_count": 2,
-          "reply_count": 71,
-          "engagement_score": 251,
-          "url": "https://x.com/swyx/status/2118905788915982341"
-        },
-        {
-          "id": "2119140818690974203",
-          "text": "Local AI is back on the menu!\n\nincredibly hyped for @TheAhmadOsman's return to AIE CODE next week. follow him for some exclusive discount code drops",
-          "created_at": "2026-11-07T18:51:57+00:00",
-          "like_count": 86,
-          "retweet_count": 3,
-          "reply_count": 24,
-          "engagement_score": 116,
-          "url": "https://x.com/swyx/status/2119140818690974203"
+          "reply_count": 12,
+          "engagement_score": 125,
+          "url": "https://x.com/swyx/status/2119513321468735749"
         }
       ]
     },
@@ -73,10 +63,10 @@
           "id": "2119029648730489280",
           "text": "Funny, the whisper Anthropic IPO valuation seems to drop by $100-300B every week or two. If we extrapolate this trend to infinity, in AI/Rationalist cultist tradition, $ANT will be a zero by end of year.\n\nWe went from $2T to 1.6-1.8 to 1.5 to 1.2-1.3 to apparently 1.1 now? 🙈 https://t.co/pIHx0g4IgN",
           "created_at": "2026-11-07T11:30:12+00:00",
-          "like_count": 113,
-          "retweet_count": 1,
-          "reply_count": 12,
-          "engagement_score": 127,
+          "like_count": 138,
+          "retweet_count": 2,
+          "reply_count": 14,
+          "engagement_score": 156,
           "url": "https://x.com/insane_analyst/status/2119029648730489280"
         }
       ]
@@ -98,31 +88,31 @@
           "id": "2119111328099168409",
           "text": "This sounds extreme and I wouldn’t have believed it even a year ago, but we’re starting to see plenty of examples of productivity gains that are an order of magnitude or two above output levels pre-AI. \n\nWith the right harness, a deep understanding of your domain of what you want to build, likely a relatively new codebase (with some exceptions), a fluency of how to work with multiple agents at once, and a setup that makes it so you can test and deploy with limited friction, outputs on this level feel realistic in coding.  \n\nWhat’s crazy is this gap doesn’t appear to be diminishing over time. You’d think that we’d see a convergence in the lines because of AI, but it turns out the more depth you had before -and willingness now to take a different approach- gives you crazy leverage. And that is only compounding as the models can take on larger work and harder problems.\n\nRight now this is most pronounced in software engineering for the obvious reasons. But there’s no reason we don’t start to see this in a number of other computer-use-sensitive domains like other scientific fields, AEC, finance, cyber, and more. Going to get quite wild.",
           "created_at": "2026-11-07T16:54:46+00:00",
-          "like_count": 365,
-          "retweet_count": 30,
-          "reply_count": 79,
-          "engagement_score": 504,
+          "like_count": 737,
+          "retweet_count": 72,
+          "reply_count": 126,
+          "engagement_score": 1007,
           "url": "https://x.com/levie/status/2119111328099168409"
-        },
-        {
-          "id": "2118498574497665316",
-          "text": "We’re going to have 100X more agents in the enterprise working with our data and systems than even people do today. Every AI agent deployment comes down to how successfully they can get access to the critical context to make a decision, do research, or execute tasks. \n\n90% of the data in an enterprise is unstructured data, which means this critical context is living inside of our documents, contracts, marketing assets, research materials, financial plans, design files, and more. Which means we need effective ways for agents to get access to this critical enterprise content to other work.\n\nWe’re excited to partner with NVIDIA to deliver advanced context retrieval -combining lexical and semantic search in Box- to ensure that AI agents can find the most relevant information they’re looking for. All in a way that adheres to their enterprise security, access controls, and data governance policies, so agents only work with the data they’re allowed to.\n\nGreat to work with @NVIDIAAI and @JensenHuang on this partnership. Files 🤝 GPUs.",
-          "created_at": "2026-11-06T00:19:54+00:00",
-          "like_count": 245,
-          "retweet_count": 30,
-          "reply_count": 141,
-          "engagement_score": 446,
-          "url": "https://x.com/levie/status/2118498574497665316"
         },
         {
           "id": "2118953909524050288",
           "text": "The interesting thing about AI agents is that as a theoretical matter, their inference can kind of run anywhere. AI is one of the few areas of technology that isn’t *as* sensitive to latency back to the user. \n\nLong running agents are now going to be the norm, which means it’s ok to send off work to an AI factory somewhere and that work can essentially be largely done within that remote data center and a final result spit back to the user. The data can pass into these systems in an encrypted manner, be combed through by agents, and then disregarded right after. \n\nAnd because the economic value of the task is so high relative to the latency sensitivity (eg getting back $500 in value from an automated task, but it takes an extra second to return), you don’t have to have the inference to be particularly close to the user. \n\nAlso, because inference is a temporary process with no sensitive data needing to be stored long term where the inference is happening, you can effectively treat AI factories as ephemeral systems, changing some of the data residency dynamics slightly.\n\nCombined, this means you have more flexibility in where you can begin to deploy AI data centers. This is both a huge economic opportunity for the states or countries (or space) that want to take advantage of this fact. And it’s a loss to the states or countries that decide to forgo the opportunity.",
           "created_at": "2026-11-07T06:29:14+00:00",
-          "like_count": 226,
-          "retweet_count": 30,
-          "reply_count": 99,
-          "engagement_score": 385,
+          "like_count": 262,
+          "retweet_count": 38,
+          "reply_count": 111,
+          "engagement_score": 449,
           "url": "https://x.com/levie/status/2118953909524050288"
+        },
+        {
+          "id": "2119502716770902234",
+          "text": "A good lesson in AI is that you need to check back in on the latest with every 3 to 6 months to try something that wasn’t possible before and see if it works again.\n\nAt no point in AI’s history is that more true than today. Just the past six months of model progress around computer and tool use, less context rot, better reasoning, multimodality, and deeper domain expertise in a number of key fields, these models are vastly more capable on what they can execute.\n\nThis is opening up a new vector of what AI systems will be able to autonomously work on. Essentially, anything with an API (and even many things without), we can anticipate that an agent will be able to control and utilize as an underlying capability to complete a process.\n\nThis means that we are no longer dependent on *just* the models generating everything from whole cloth, but instead they can fully utilize existing systems (or new ones purpose built for them) very effectively. This creates immense leverage for agents.\n\nSecurity agents can leverage existing data feeds and cyber tooling, IT agents that can execute workflows reliably across software stacks, data agents that can migrate data or processes between systems, architect and design agents can leverage CAD and design tools, and on and on. And any of today’s tools that don’t work will likely be replaced by agent-friendly or OSS tooling that does the same. \n\nWhen you combine this with the domain understanding being trained into agents, you started to get autonomous collaborators for every job function and industry. This will open up a ton of new opportunities in AI if you build with this understanding in mind.",
+          "created_at": "2026-11-08T18:50:00+00:00",
+          "like_count": 204,
+          "retweet_count": 11,
+          "reply_count": 77,
+          "engagement_score": 303,
+          "url": "https://x.com/levie/status/2119502716770902234"
         }
       ]
     },
@@ -140,24 +130,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2118878988089049182",
-          "text": "I added a ton of Siri skills and app intent tools to my workout app. It works really well with Siri AI in 27.3.\n\nI’m not home so can’t use voice but you can see the typed messages, faster with voice ofc https://t.co/jau4284QAR",
-          "created_at": "2026-11-07T01:31:32+00:00",
-          "like_count": 682,
-          "retweet_count": 23,
-          "reply_count": 16,
-          "engagement_score": 744,
-          "url": "https://x.com/mweinbach/status/2118878988089049182"
-        },
-        {
           "id": "2119159630840451356",
           "text": "Here’s a better Siri AI demo in my app for how it can work https://t.co/7H2qRxE2q3",
           "created_at": "2026-11-07T20:06:42+00:00",
-          "like_count": 122,
-          "retweet_count": 2,
-          "reply_count": 7,
-          "engagement_score": 133,
+          "like_count": 265,
+          "retweet_count": 7,
+          "reply_count": 11,
+          "engagement_score": 290,
           "url": "https://x.com/mweinbach/status/2119159630840451356"
+        },
+        {
+          "id": "2119516437203063113",
+          "text": "I actually think computer use would be a terrible thing to add for the iPhone, and they should focus more on tools/skills built into apps\n\nmacOS as well, but an optional computer use. But I can see pretty clearly how what we have in 27.3 leads to this, when they get better models",
+          "created_at": "2026-11-08T19:44:31+00:00",
+          "like_count": 83,
+          "retweet_count": 1,
+          "reply_count": 11,
+          "engagement_score": 96,
+          "url": "https://x.com/mweinbach/status/2119516437203063113"
         }
       ]
     },
@@ -171,31 +161,11 @@
           "id": "2118851737268408774",
           "text": "Thinking Machines' Inkling 2 Small has mastered a timeless debugging technique: saying \"fuck\" when nothing works. We analyzed 2,655 benchmark runs and found it swearing in 50 of them.\n\nLearn more in the blog linked in the thread. https://t.co/hzRKcVT2bG",
           "created_at": "2026-11-06T23:43:15+00:00",
-          "like_count": 851,
-          "retweet_count": 58,
-          "reply_count": 36,
-          "engagement_score": 1003,
+          "like_count": 929,
+          "retweet_count": 62,
+          "reply_count": 42,
+          "engagement_score": 1095,
           "url": "https://x.com/ValsAI/status/2118851737268408774"
-        },
-        {
-          "id": "2118801439879528884",
-          "text": "AI agents can now break into realistic enterprise networks on their own. A capability once limited to trusted-access programs is available to anyone.\n\nToday we’re releasing Vals CyberOffense.\n\n@willknight  from @WIRED wrote an article about our work, link in the thread. https://t.co/COhkeOfw97",
-          "created_at": "2026-11-06T20:23:23+00:00",
-          "like_count": 144,
-          "retweet_count": 15,
-          "reply_count": 15,
-          "engagement_score": 189,
-          "url": "https://x.com/ValsAI/status/2118801439879528884"
-        },
-        {
-          "id": "2118490700727922915",
-          "text": "Inkling 2 Small just doubled its predecessor's score on the Vals Index, jumping 28.5 points.\n\nIt's now the highest-scoring US open-weight model by a wide margin and #7 among all open-weight models globally. https://t.co/5NmYGoR2Zw",
-          "created_at": "2026-11-05T23:48:37+00:00",
-          "like_count": 153,
-          "retweet_count": 10,
-          "reply_count": 6,
-          "engagement_score": 179,
-          "url": "https://x.com/ValsAI/status/2118490700727922915"
         }
       ]
     },
@@ -206,54 +176,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2118501201847423358",
-          "text": "Hy4 by @TencentHunyuan is now officially the #1 best Chinese model in Agent Arena!\n\nWith over 12K+ real-world, long-horizon agentic sessions from our global community of users, Hy4 has also placed Tencent Hunyuan as the only Chinese lab in the top 5. It is now showing +5.4% net improvement, and sits firmly on the Agent Arena Pareto frontier at a $0.57 median cost per task.\n\nCongrats again to the @TencentHunyuan team!",
-          "created_at": "2026-11-06T00:30:21+00:00",
-          "like_count": 471,
-          "retweet_count": 54,
-          "reply_count": 29,
-          "engagement_score": 608,
-          "url": "https://x.com/arena/status/2118501201847423358"
-        },
-        {
-          "id": "2118799582092288255",
-          "text": "ICYMI: Once its weights are released, Inkling 2 Small from @thinkymachines would be the #1 US open model.\n\nWith 1648 pts, it’s #8 overall among labs in the Code Arena: WebDev! \n\nInkling 2 Small is available now for fine-tuning and inference on Tinker, with full weights coming soon.\n\nCongrats again to the @thinkymachines team!",
-          "created_at": "2026-11-06T20:16:00+00:00",
-          "like_count": 247,
-          "retweet_count": 16,
-          "reply_count": 14,
-          "engagement_score": 293,
-          "url": "https://x.com/arena/status/2118799582092288255"
-        },
-        {
-          "id": "2118492327887155680",
-          "text": "Exciting news: Inkling 2 Small by @thinkymachines has landed in Code Arena: WebDev with 1654 pts (AutoEval). Once its weights are released, it would rank #1 among US open models!\n\nThis is +128 pts ahead of Meta’s Muse Spark Open at #2 (US open).\n\nInkling 2 Small would rank #4 among open models globally, and ranks #20 overall. This is +245 pt improvement over its previous variant, Inkling Small (#32 open with 1409 pts).\n\nThis model is priced at $1.00/1M output and $0.30/1M input. More info coming soon on its median cost per task in the Code Arena: WebDev, and results in the Agent Arena.\n\nCongrats to the team at @thinkymachines on this release!",
-          "created_at": "2026-11-05T23:55:05+00:00",
-          "like_count": 235,
-          "retweet_count": 13,
-          "reply_count": 17,
-          "engagement_score": 278,
-          "url": "https://x.com/arena/status/2118492327887155680"
-        },
-        {
           "id": "2118836687925354862",
           "text": "This Week in the Arena: Open weights, faster image generation, and new #1s.\n\n- @Kimi_Moonshot released the open weights for Kimi K3.1 Pro, which ranks #1 among open models in Agent Arena with +5.3% net improvement.\n\n- Hy4 by @TencentHunyuan debuted as the #1 Chinese model in Agent Arena. With +5.4% net improvement at a $0.57 median cost per task, it also reshaped the Pareto frontier. Its open weights are coming soon.\n\n- Inkling 2 Small by @thinkymachines arrived in Code Arena: WebDev with 1648 pts. Once its weights are released, it would rank #1 among US open models.\n\n- Gemini Omni 1.2 Flash by @GoogleDeepMind debuted at #1 in both Text-to-Video (1541 pts) and Image-to-Video (1502 pts).\n\n- GPT Image 2.6 Sunburst and Flare by @OpenAI arrived in the Arena at almost 2x the speed of their predecessor, GPT Image 2.5. Sunburst (Medium) landed at #2 in Text-to-Image (1409 pts) and #3 in Image Edit (1476 pts).\n\nSee more in the full update.\n\nhttps://t.co/QCAttpKcuw",
           "created_at": "2026-11-06T22:43:27+00:00",
-          "like_count": 82,
+          "like_count": 92,
           "retweet_count": 5,
-          "reply_count": 22,
-          "engagement_score": 114,
+          "reply_count": 24,
+          "engagement_score": 126,
           "url": "https://x.com/arena/status/2118836687925354862"
-        },
-        {
-          "id": "2118821131268542656",
-          "text": "In the Code Arena: WebDev, Inkling 2 Small by @thinkymachines is #5 in Data & Analytics!\n\nAmong all open models, it would be #1 in this category. This is a +220 pt category improvement compared to its previous variant, Inkling-Small at #92.\n\nOverall, Inkling 2 Small is a +240 pt improvement in the Code Arena: WebDev compared to Inkling-Small. It shows big gains across all categories.\n\nCongrats again to the @thinkymachines team!",
-          "created_at": "2026-11-06T21:41:38+00:00",
-          "like_count": 78,
-          "retweet_count": 6,
-          "reply_count": 7,
-          "engagement_score": 97,
-          "url": "https://x.com/arena/status/2118821131268542656"
         }
       ]
     },
@@ -264,34 +194,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2118804058672869629",
-          "text": "DeepSeek V4.1 Flash speeds on GB300 NVL72 have increased by up to 1.5x tok/s per agent over the past month on AA-AgentPerf, our benchmark of datacenter systems running realistic agentic coding workloads\n\nThis improvement comes from a newer vLLM version, new vLLM kernels for DeepSeek V4.1 on GB300, FlashInfer autotuning, fuller CUDA graph coverage, tuned speculative decoding, and running prefill and decode on the same GPUs in NVIDIA’s updated Dynamo + vLLM setup\n\n➤ Faster speeds: 848 tok/s for a single agent, up from 596 (1.42x)\n\n➤ Higher throughput: ~1.6x the throughput per GPU at ~80 tok/s per agent",
-          "created_at": "2026-11-06T20:33:47+00:00",
-          "like_count": 358,
-          "retweet_count": 19,
-          "reply_count": 41,
-          "engagement_score": 437,
-          "url": "https://x.com/ArtificialAnlys/status/2118804058672869629"
-        },
-        {
           "id": "2118851088111865983",
           "text": "OpenAI's GPT Image 2.6 takes #1 and #2 on both AA-Image-T2I v2.1 and AA-Image-Editing v2.1. GPT Image 2.6 Flare is almost twice as fast as GPT Image 2.5 Flare with slightly better quality, and GPT Image 2.6 Sunburst takes the top spot with longer generation times\n\nOpenAI released GPT Image 2.6 on November 4 in ChatGPT, Codex and the API. The API offers two models, GPT Image 2.6 Flare and GPT Image 2.6 Sunburst, which follow GPT Image 2.5 Flare and Sunburst. Both support Text to Image and Image Editing, and add animated GIF and SVG output. OpenAI added a complexity setting to the API, which controls how much the model plans before rendering. We benchmarked both models at max quality, with complexity at its API default of high.\n\nIn our testing, GPT Image 2.6 Flare is almost twice as fast as GPT Image 2.5 Flare while delivering slightly better quality. Its median Text to Image generation time fell from about 55 to 30 seconds, and its editing time fell from about 58 to 32 seconds. GPT Image 2.6 Sunburst goes the other way: it takes longer than GPT Image 2.5 Sunburst, at about 2 minutes 15 seconds per image, and takes the #1 spot. Its largest Text to Image gains are in Reasoning, Text Rendering, Lighting and Material, and it is strongest in UIUX Design.\n\nBoth models cost $30 per 1M image output tokens, the same as GPT Image 2.5. That is about $0.21 per 1024x1024 image at max quality ($211 per 1k images).\n\nGPT Image 2.6 is available in ChatGPT and Codex across all tiers, and in the OpenAI API.\n\nCongratulations to @OpenAI on the release!\n\nSee below for our analysis of GPT Image 2.6 in the Artificial Analysis Image Arena 🧵",
           "created_at": "2026-11-06T23:40:40+00:00",
-          "like_count": 300,
+          "like_count": 318,
           "retweet_count": 22,
-          "reply_count": 31,
-          "engagement_score": 375,
+          "reply_count": 33,
+          "engagement_score": 395,
           "url": "https://x.com/ArtificialAnlys/status/2118851088111865983"
-        },
-        {
-          "id": "2118785624144560373",
-          "text": "In AA-PersonalityBench, Qwen3.8 27B writes the longest responses of any model measured, averaging about 1,030 words, roughly 6x as long as GPT-6 Sol at 174 words\n\nAverage response length varies widely across the models measured, from 174 words to about 1,030 words for the same questions.\n\nAverage words per response:\n\n➤ Longest: Qwen3.8 27B (1,030), K2 Horizon 375B A23B (922), Qwen3.8 Max (0902) (863), Muse Spark Open (809) and Gemini 4 Argon (790)\n\n➤ Shortest: GPT-6 Sol (174), GPT-3.5 Turbo (180), GPT-6 Luna (270), GPT-6.1 Sol (337) and GPT-6 Astra (352)",
-          "created_at": "2026-11-06T19:20:32+00:00",
-          "like_count": 303,
-          "retweet_count": 15,
-          "reply_count": 42,
-          "engagement_score": 375,
-          "url": "https://x.com/ArtificialAnlys/status/2118785624144560373"
         }
       ]
     },
@@ -389,31 +299,11 @@
           "id": "2118856239719608353",
           "text": "Generative UI for conversational agents.\n\nCombining @aisdk with Chat SDK and 𝚓𝚜𝚘𝚗-𝚛𝚎𝚗𝚍𝚎𝚛, you can go straight from LLM to UI on platforms like Slack and Teams.\n\nI believe this will become the dominant Human-Agent Interaction (HAI) paradigm:\nhttps://t.co/MHxtLyoy7t https://t.co/tRgxRi5Hey",
           "created_at": "2026-11-07T00:01:08+00:00",
-          "like_count": 2323,
-          "retweet_count": 114,
-          "reply_count": 214,
-          "engagement_score": 2765,
+          "like_count": 2771,
+          "retweet_count": 137,
+          "reply_count": 242,
+          "engagement_score": 3287,
           "url": "https://x.com/rauchg/status/2118856239719608353"
-        },
-        {
-          "id": "2118474519925158186",
-          "text": "① Get an X sub\n② Build with Bot / Cursor\n③ Deploy to Vercel, scales from 0 to 🌙\n④ Launch and distribute on X\n⑤ Monetize with X Money / Creators\n\nThe loop is nearly complete ♾️",
-          "created_at": "2026-11-05T22:44:19+00:00",
-          "like_count": 1337,
-          "retweet_count": 42,
-          "reply_count": 154,
-          "engagement_score": 1575,
-          "url": "https://x.com/rauchg/status/2118474519925158186"
-        },
-        {
-          "id": "2118777039226642547",
-          "text": "I unironically agree with @bcherny’s take that “coding is solved, but bugs are not.”\n\nThe deeper meaning is that you can in theory code *anything* now. You can burn infinite tokens refining and optimizing. Including optimizations that no one will care about 💀 \n\nWith Vercel you can build a different kind of recursive improvement loop. You capture traces from production, you then optimize and course-correct based on how your software is being used IRL.\n\nThis is not a new idea. The best engineers I’ve ever worked with never jumped into coding (now prompting) right away. You instrument the system, collect data, understand distributions, user journeys, and then put fingers on keyboard.\n\nYou can ask your agent today to look at your traces!",
-          "created_at": "2026-11-06T18:46:25+00:00",
-          "like_count": 588,
-          "retweet_count": 24,
-          "reply_count": 142,
-          "engagement_score": 778,
-          "url": "https://x.com/rauchg/status/2118777039226642547"
         }
       ]
     },
@@ -427,21 +317,11 @@
           "id": "2119126064815608270",
           "text": "Really enjoyed Kazakhstan — super AI pilled government. And a great place for the Network School.",
           "created_at": "2026-11-07T17:53:19+00:00",
-          "like_count": 330,
-          "retweet_count": 16,
-          "reply_count": 34,
-          "engagement_score": 396,
+          "like_count": 680,
+          "retweet_count": 33,
+          "reply_count": 45,
+          "engagement_score": 791,
           "url": "https://x.com/amasad/status/2119126064815608270"
-        },
-        {
-          "id": "2118506378440400951",
-          "text": "Replit is the only collaborative AI coding system out there.",
-          "created_at": "2026-11-06T00:50:55+00:00",
-          "like_count": 260,
-          "retweet_count": 15,
-          "reply_count": 91,
-          "engagement_score": 381,
-          "url": "https://x.com/amasad/status/2118506378440400951"
         }
       ]
     },
@@ -466,14 +346,14 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2119187271932940656",
-          "text": "Another magic by DeepSeek v4.1 + Blender MCP + DeepSeek Harness running locally!\n\nI'm blown away by the power of this model! 🤯\n\nPrompt:\"Create and ultra detailed Pagoda in Blender using its MCP and animate it. Here a line with an immensely complex scenario I want you to replicate. You can do it!\"",
-          "created_at": "2026-11-07T21:56:32+00:00",
-          "like_count": 106,
+          "id": "2119482446747943375",
+          "text": "Try DS41 + Blender MCP and share your creations! 🧵\nIt's just WOW! \n\nThe Last Light: here I asked to use a shader for the water, because first step was not so amazing.\nFinal result is great! \n\nVery basic prompt to let model \"create\": \"Use Blender MCP to create animation of a lighthouse ultra detailed and animate it. Improve the water, searching for some good water shaders online\".",
+          "created_at": "2026-11-08T17:29:28+00:00",
+          "like_count": 85,
           "retweet_count": 5,
-          "reply_count": 14,
-          "engagement_score": 130,
-          "url": "https://x.com/ivanfioravanti/status/2119187271932940656"
+          "reply_count": 11,
+          "engagement_score": 106,
+          "url": "https://x.com/ivanfioravanti/status/2119482446747943375"
         }
       ]
     },
@@ -482,27 +362,27 @@
       "name": "Dean Ball (OpenAI Head of Strategic Futures)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2118799206785937844",
-          "text": "I am a broken record about this, but: frontier agents are not going to be a purely digital phenomenon for much longer. They will be able to use anything in the physical world that can be actuated programmatically—first competently, then at human-expert level, then superhuman. By and large, we probably won’t need specialist models; the frontier models will just do it. If your model of the future hinges on physical AI happening “for real” many years into the future, I think you will be in for a surprise.",
-          "created_at": "2026-11-06T20:14:30+00:00",
-          "like_count": 1727,
-          "retweet_count": 161,
-          "reply_count": 84,
-          "engagement_score": 2133,
-          "url": "https://x.com/deanwball/status/2118799206785937844"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "kunchenguid",
       "name": "Kun Chen (FirstMate / ex-Meta L8)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2119490886593814934",
+          "text": "new video is up! it's been a while i know i know :) \n\nthis time i'm sharing a guide for how to do a multi-machine setup, which allowed me to keep agents running and stay productive anywhere i go\n\nYT: https://t.co/jphURlZFni https://t.co/wYetAgXwKg",
+          "created_at": "2026-11-08T18:03:00+00:00",
+          "like_count": 184,
+          "retweet_count": 8,
+          "reply_count": 14,
+          "engagement_score": 214,
+          "url": "https://x.com/kunchenguid/status/2119490886593814934"
+        }
+      ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-11-07T22:11:59.834499+00:00"
+  "generated_at": "2026-11-08T22:13:10.760840+00:00"
 }
