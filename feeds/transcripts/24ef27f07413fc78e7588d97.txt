@@ -1,0 +1,73 @@
+State of the tech job market: late 2026
+Sign in
+State of the tech job market: late 2026
+PMs are winning, engineers are plateauing, designers are hurting, and the biggest AI hiring boom isn’t in software
+Lenny Rachitsky
+Nov 10, 2026
+∙ Paid
+177
+13
+17
+👋 Hey there, I’m Lenny. Each week, I
+deeply researched product, growth, and career advice. For more: Lenny’s Jobs | Lenny’s Podcast | Lennybot | How I AI | Become an AI-Native Builder and my other favorite AI/PM courses .
+P.S. Get a full free year of Cursor, Notion, Replit, Lovable, Wispr Flow, Linear, ElevenLabs, PostHog, Granola, Brain.fm, Waking Up, and more, by becoming an Insider
+r (while supplies last). Learn more .
+Welcome to my latest job market report, my second of 2026. Of the five reports I’ve done over the past few years, this one is the most surprising and interesting.
+Here’s what we’re seeing right now:
+PMs seem to be winning in the AI era
+Engineering demand has stalled
+Design is at a record low
+Everybody now needs to AI
+Tech jobs are concentrating in the Bay Area
+Remote is at a record low
+The tech job market is growing fast, but mostly outside of software (gasp!)
+This analysis is based on two proprietary datasets that I love working with: TrueUp , which powers Lenny’s Jobs and tracks global job openings at tech companies (over 9,000 companies). The second dataset comes from Live Data Technologies , which tracks job changes (hires, departures, and promotions) for 124 million professionals, and their hiring numbers below are specifically for the U.S. Looking at these together, we can triangulate common trends, and the differences between the datasets are themselves revealing. Thank you, Amit Taylor and Alex Hamilton , for sharing this amazing data with us. 🙏
+Let’s get into it.
+P.S. If you’re looking for a job, check out Lenny’s Jobs !
+Takeaway 1: Product managers seem to be benefiting most in the AI era
+There’s been a lot of talk about AI replacing product managers (“who needs ’em!”). But so far, the data is showing the exact opposite. There are more open PM roles than at any point in nearly four years, up 75% from the March 2023 low, and PM openings have grown faster than any other core tech role since the start of 2023 (+56%, compared with +43% for engineering).
+When we look at hiring numbers vs. just job openings, the story gets more interesting. Even though open roles are growing, actual hiring for every core product role has been flat or in decline over the past few years (see takeaway 7 for which roles are now growing fastest). But PM hiring has held up the best (by far). And PM is the only one of the five core roles whose
+of hiring grew (from 16% in 2021 to 21% today).
+The fact that we’re seeing growth in PM openings (first set of charts) but a flat line and even a decline in hiring (second set of charts) tells me that there’s growing demand for PMs, but that landing great PMs is getting harder.
+Takeaway 2: Demand for engineers is plateauing
+For the first time in the history of this report, engineering job openings have stalled. Open engineering roles grew 29% through 2024, 15% through 2025, and just 2.5% this past year . There are fewer open eng roles at tech companies today than there were even this past March.
+The hiring data shows the same slowdown. Companies in the U.S. hired about 113,000 software engineers over the past 12 months (May 2025 to April 2026)—less than half the 2022 peak (239,000). And the number has dropped every year since 2022.
+Just like with PMs, engineering job openings are up while actual hiring is down (+44% vs. −17% since January 2024), so even as demand slows, landing great engineers is getting harder too.
+Two bright spots for engineers: One, demand for tech recruiters is on an absolute tear. We’re hitting record highs: open recruiter roles are up nearly 300% since mid-2023. This may be a leading indicator of a reacceleration of eng hiring, which we’ll be watching closely.
+Another bright spot is that in terms of absolute numbers, engineering is still the largest category of tech hiring, by far. Over 120,000 engineers were hired just in the U.S. in 2025. And there are still plenty of great engineering jobs out there. Over 65,000 to be exact .
+One additional new trend to watch within the engineering function is the rise of the forward deployed engineer (FDE) . FDE openings are exploding. Historically, there have been only a few dozen open FDE roles globally (mostly at Palantir), but openings started climbing in 2025 and are up 4.6x in the past year alone! There are currently around 1,500 open FDE roles . Note that this growth is likely a combination of increased demand for this job along with other job categories, like “sales engineer,” being rebranded as “FDE.” Either way, FDE is so hot right now.
+Also, a telling trend: security engineering is one of the fastest-growing specialties, right behind FDEs. On the flip side, demand for mobile and front-end engineers has been nearly halved in the past year. That’s wild. I think the story here is the collapse of specialized/siloed engineering disciplines, with smaller eng teams having broader ownership (thanks to AI).
+Takeaway 3: Demand for designers continues to hit record lows
+Unfortunately for my designer friends, design roles continue to decline. There are only about 1,900 open product design roles 1 at tech companies globally right now. Not that much higher than just open FDE roles. It’s the lowest we’ve seen since we started tracking, and down 28% from a year ago. 😥
+Actual hiring data from Live Data Technologies tells the same story. U.S. companies hired about 12,600 product designers over the past 12 months, less than half as many as in 2022 (27,600), and the number has fallen every year since.
+Even more telling, the ratio of open PM roles to open design roles is trending further and further toward PM. There are now 3.8 open PM roles for every open design role. This is up from 2.6 earlier this year and 1.9 in early 2023.
+Hiring data from LDT shows the same trend, with slightly different numbers: U.S. employers hired about 2.9 PMs for every designer over the past 12 months, up from 1.9 in 2022.
+I’m hopeful this turns around, as companies recognize that great design can be a huge differentiator and help their product stand out in an increasingly noisy (and AI-slop-y) market. Katie Dill’s talk about AI and design recently became my most-watched video of all time, so there’s hope.
+Sadly, user research has been hit even harder than design. Only about 1,800 user researchers were hired in the U.S. over the past year, down 66% from 5,300 in 2022, the steepest drop of any role we looked at, and hiring fell another 22% from the year before. What hiring remains is concentrated at a few big companies. In 2025, Meta and Google alone made about one in eight of all U.S. user research hires, and so far in 2026, Google is the only company to have hired 50 or more. And there are currently only 108 open UXR jobs at tech companies globally.
+My theory is that the increasing pace of product development is responsible. Just as there’s less time for the traditional design process , there’s also less time for (and interest in) the traditional user research process. For better or worse, teams are becoming more comfortable releasing products earlier to avoid falling behind, and learning and iterating post-launch vs. through user research. Also, better UXR tooling (e.g. Listen Labs , Simile ) is allowing non-UXR people to do user research themselves. I wonder if UXR as a dedicated function is going extinct . . . 🫣
+Takeaway 4: Everybody now needs to AI
+When we did this report two years ago, the most mentioned skills in PM job descriptions were SQL, Jira, AWS, and Python. Today, “LLM” is the most mentioned skill in product manager job descriptions.
+What’s more, many other AI terms are now some of the most frequently mentioned skills in PM job descriptions. “ Claude ” is the third most mentioned term, and Cursor, OpenAI, and MCP are in the top eight. SQL, meanwhile, is still holding strong, but as recent podcast guest Emmanuel Ameisen pointed out , we’ll never be better at SQL than AI ever again. So we’ll see how long that lasts. Also, “evals” is gaining momentum (in the top 10)—and I expect this number to grow.
+For engineers , “Python” has been the most mentioned skill for years, and it’s still growing! Look at that inflection in early 2025. Three other trends stand out for engineers: (1) “LLM” just passed Java in eng job postings, (2) the general decline of Java over the past year, and (3) the durability of Kubernetes.
+Essentially, Python and AI 📈, Java 📉.
+For designers , Figma has been mogging every other skill for years. And narrative violation: demand for experience with Figma has actually grown over the past three years.
+But as with every other role, AI is ascendant. “ Claude ” became the second most mentioned skill in designer JDs this spring (crossing CSS!). It’s notable that it’s Claude specifically, vs. “LLM” or ChatGPT. Anthropic seems to be winning the hearts and minds of designers. And Cursor has also edged past CSS. The times, they are a-changin’.
+This suggests an answer to the question: If demand for Figma is growing, why has Figma’s stock fallen ? Designers may not be dropping Figma, but for the first time in a long time, designers are increasingly reaching for other tools too. And design as a function isn’t growing.
+Takeaway 5: Top tech jobs continue to concentrate in the Bay Area
+Today, we’re at a record percentage of open tech roles being based in the Bay Area. That’s huge. 15% of all open roles at tech companies are now based in the Bay Area (about one in seven), and the number of open jobs in the Bay Area is up 43% from just a year ago !
+The trend is even more pronounced for core product roles. One in four open PM and design roles is now in the Bay Area, and one in five engineering roles. All three are at record highs, and each has nearly doubled its
+since 2022.
+Takeaway 6: Remote roles continue to decline
+The flip side of tech jobs concentrating in the Bay Area is that the number of remote roles continues to decline. Just 14% of open tech roles now offer a remote option, the lowest on record, down from 21% in late 2022.
+Remote engineering roles are also at record lows, currently at 14%, and down from the 25% we saw in late 2022. Design is on the same path: 19% of open design roles are remote, down from 34%. PM, however, is the exception, holding steady at about one in five (21%) for the past two years, but still near record lows.
+Put all this together, and sometime last year, we crossed a milestone where there are now more open PM/eng/design roles based in the Bay Area than remote roles globally . Remote led almost 2 to 1 in the other direction four years ago.
+Takeaway 7: Overall, the tech job market is growing—but outside of software roles (gasp!)
+I saved what might be the most interesting takeaway for last.
+This post is for paid
+rs
+Already a paid
+r? Sign in
+Previous
+© 2026 Substack Inc · Privacy ∙ Terms ∙ Collection notice
+Start your Substack Get the app
+Substack is the home for writing, podcasting, and media founders.

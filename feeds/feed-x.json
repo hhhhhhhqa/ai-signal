@@ -12,7 +12,48 @@
       "name": "Swyx (Shawn Wang)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2120241063193706960",
+          "text": "\"If you're coding locally, stop. You really need to be coding with a cloud agent.\"\n\nnotes of @adamwathan and @ScottWu46 in this one",
+          "created_at": "2026-11-10T19:43:56+00:00",
+          "like_count": 62,
+          "retweet_count": 2,
+          "reply_count": 81,
+          "engagement_score": 147,
+          "url": "https://x.com/swyx/status/2120241063193706960"
+        },
+        {
+          "id": "2120208862221684809",
+          "text": "not kidding. scenes from the speaker rehearsal session last night. @lucasmeijer , @FabianHedin, @BuiltByJustin, and @kentcdodds made memorable splashes!!\n\nfollow @aiDotEngineer for live tweeting https://t.co/OnrSS6m2rY",
+          "created_at": "2026-11-10T17:35:58+00:00",
+          "like_count": 45,
+          "retweet_count": 2,
+          "reply_count": 13,
+          "engagement_score": 62,
+          "url": "https://x.com/swyx/status/2120208862221684809"
+        },
+        {
+          "id": "2120260228902264872",
+          "text": "I finally asked @zenorocha, the CEO of AEO, why tf my agents keep choosing Resend even when I don't want them to https://t.co/K823AQNd4W",
+          "created_at": "2026-11-10T21:00:05+00:00",
+          "like_count": 25,
+          "retweet_count": 0,
+          "reply_count": 33,
+          "engagement_score": 58,
+          "url": "https://x.com/swyx/status/2120260228902264872"
+        },
+        {
+          "id": "2120187167901372559",
+          "text": "last call for creator associates covering/livetweeting aie code! \n\nalso if you’re here - the talks and workshops start in an hour! see https://t.co/8DPIggQx8j for the schedule (im in my domainmaxxing era) https://t.co/ju19OUvj4l",
+          "created_at": "2026-11-10T16:09:46+00:00",
+          "like_count": 27,
+          "retweet_count": 1,
+          "reply_count": 10,
+          "engagement_score": 39,
+          "url": "https://x.com/swyx/status/2120187167901372559"
+        }
+      ]
     },
     {
       "handle": "dylan522p",
@@ -24,11 +65,21 @@
           "id": "2119573238456127692",
           "text": "Nothing will happen to Jensen over the next 6 months, this story will largely die down in media / finance\nBut Democrats will call him into Congress\nThey will investigate the fuck out of GPU sales to Chinese companies\nAnd hammer him w questions\nThat's when the shoe /could/ drop",
           "created_at": "2026-11-08T23:30:14+00:00",
-          "like_count": 1811,
-          "retweet_count": 61,
-          "reply_count": 117,
-          "engagement_score": 2050,
+          "like_count": 1851,
+          "retweet_count": 62,
+          "reply_count": 121,
+          "engagement_score": 2096,
           "url": "https://x.com/dylan522p/status/2119573238456127692"
+        },
+        {
+          "id": "2119977464529289304",
+          "text": "Fable 5.2 is significantly better at chip design, software engineering, biology, and material science.\n\nGDPx is the only eval that test these categories at this level of detail. True experts make these tasks, unlike other benchmarks. \n\nNotably it is not better at finance, legal, quantative trading, RSI, or hardware design.\n\nAnthropic explicitly nerfed this model in RSI tasks and it's interesting seeing that reflected in the score.",
+          "created_at": "2026-11-10T02:16:29+00:00",
+          "like_count": 905,
+          "retweet_count": 46,
+          "reply_count": 48,
+          "engagement_score": 1045,
+          "url": "https://x.com/dylan522p/status/2119977464529289304"
         }
       ]
     },
@@ -37,7 +88,28 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2120074099506741335",
+          "text": "Genuine question... how am I supposed to prompt AI? I gave Fabel 5.2 (max effort) a paper and asked questions I know the answer to and it completely failed. So many wrong conclusions.\nClearly I am not using tool correctly? https://t.co/3MHAV8N2WQ",
+          "created_at": "2026-11-10T08:40:29+00:00",
+          "like_count": 475,
+          "retweet_count": 5,
+          "reply_count": 35,
+          "engagement_score": 520,
+          "url": "https://x.com/insane_analyst/status/2120074099506741335"
+        },
+        {
+          "id": "2120253093023760647",
+          "text": "Interesting. Same prompt and paper to Astra gives much better results.",
+          "created_at": "2026-11-10T20:31:44+00:00",
+          "like_count": 36,
+          "retweet_count": 0,
+          "reply_count": 5,
+          "engagement_score": 41,
+          "url": "https://x.com/insane_analyst/status/2120253093023760647"
+        }
+      ]
     },
     {
       "handle": "simonw",
@@ -46,14 +118,34 @@
       "tier": "analyst",
       "tweets": [
         {
+          "id": "2120029347948220500",
+          "text": "When Anthropic release a new model it's always worth taking a look at their updated prompting guide - here's an entertaining tip to make Fable 5.2 less likely to be cautious in how it improves existing code: tell it \"This codebase is yours\" https://t.co/mKjdw4QPxV https://t.co/KfHcJdItVc",
+          "created_at": "2026-11-10T05:42:39+00:00",
+          "like_count": 3832,
+          "retweet_count": 250,
+          "reply_count": 369,
+          "engagement_score": 4701,
+          "url": "https://x.com/simonw/status/2120029347948220500"
+        },
+        {
           "id": "2119650353142747181",
           "text": "I've recently started hiding the bulk of my AI-generated GitHub PR descriptions behind a collapsed &lt;details&gt;&lt;summary&gt; HTML tag (thankfully supported by GitHub Markdown) and I think it's a useful pattern for making PR slop a little bit less exhausting https://t.co/JlFdAJovFt",
           "created_at": "2026-11-09T04:36:40+00:00",
-          "like_count": 1783,
-          "retweet_count": 72,
-          "reply_count": 374,
-          "engagement_score": 2301,
+          "like_count": 2056,
+          "retweet_count": 87,
+          "reply_count": 423,
+          "engagement_score": 2653,
           "url": "https://x.com/simonw/status/2119650353142747181"
+        },
+        {
+          "id": "2120258951594037732",
+          "text": "Gemini 4 Carbon is good at pelican SVGs, but that's nothing new for Gemini\n\n\"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\"\nhttps://t.co/7hssgBoCMY https://t.co/uEzgrngns6",
+          "created_at": "2026-11-10T20:55:01+00:00",
+          "like_count": 97,
+          "retweet_count": 0,
+          "reply_count": 35,
+          "engagement_score": 132,
+          "url": "https://x.com/simonw/status/2120258951594037732"
         }
       ]
     },
@@ -64,24 +156,34 @@
       "tier": "analyst",
       "tweets": [
         {
+          "id": "2119987129204047894",
+          "text": "It turns out the advancements we’re getting in coding and computer use, combined with industry specific understand and general reasoning, can bring automation to a large number of areas of knowledge work.\n\nWe’re entering the era of autonomous collaborators in a number of industries that haven’t yet had their claude code or codex moment yet. But now this is going to happen. \n\nWe’ll see it in animation, film production, gaming, manufacturing, architecture, product design, robotics, and more. All of these fields have the potential of driving far more output similar to what we’ve seen in software engineering. There’s no inherent finite demand for these categories of work.\n\n“Software is eating the world” is finally in a much bigger way happening because of AI.",
+          "created_at": "2026-11-10T02:54:53+00:00",
+          "like_count": 571,
+          "retweet_count": 47,
+          "reply_count": 139,
+          "engagement_score": 804,
+          "url": "https://x.com/levie/status/2119987129204047894"
+        },
+        {
           "id": "2119592025440092192",
           "text": "We’re moving from an era of AI where the output comes roughly at the rate that you can chat back and forth with the AI to work with you, to a period where you can set a problem for a set of agents to go off and do an arbitrarily large amount of work for you. This means productivity gains that are maybe 20-50% to gains that don’t really have an upper limit.\n\nAgent swarms and the ability to fan out complex work across many agents doing tasks in parallel provide a massive unlock in a lot of spaces. This will lead to qualitatively different outcomes in my fields. \n\nThis has already been seen across the coding domain. Next, cyber is almost entirely a problem space where more agents reviewing more things will lead to far better outcomes. We’re seeing the same now in many scientific fields, and this almost certainly will change life sciences. \n\nBut this will increasingly be true in any field where you can parallelize computer-based work to complete something faster or do something at a totally different quality level. Which is actually are some of the most valuable domains of knowledge work today. \n\nOur brains aren’t really wired for the new scenario we’re heading into where compute becomes the variable that we can flex to solve any problem that we want. We’re used to thinking that the amount of time that goes into a task is correlated to the output that we get from it. And most domains of knowledge work or science have generally always been correlated with this. That’s changing forever.",
           "created_at": "2026-11-09T00:44:53+00:00",
-          "like_count": 467,
-          "retweet_count": 33,
-          "reply_count": 165,
-          "engagement_score": 698,
+          "like_count": 503,
+          "retweet_count": 36,
+          "reply_count": 174,
+          "engagement_score": 749,
           "url": "https://x.com/levie/status/2119592025440092192"
         },
         {
-          "id": "2119502716770902234",
-          "text": "A good lesson in AI is that you need to check back in on the latest with every 3 to 6 months to try something that wasn’t possible before and see if it works again.\n\nAt no point in AI’s history is that more true than today. Just the past six months of model progress around computer and tool use, less context rot, better reasoning, multimodality, and deeper domain expertise in a number of key fields, these models are vastly more capable on what they can execute.\n\nThis is opening up a new vector of what AI systems will be able to autonomously work on. Essentially, anything with an API (and even many things without), we can anticipate that an agent will be able to control and utilize as an underlying capability to complete a process.\n\nThis means that we are no longer dependent on *just* the models generating everything from whole cloth, but instead they can fully utilize existing systems (or new ones purpose built for them) very effectively. This creates immense leverage for agents.\n\nSecurity agents can leverage existing data feeds and cyber tooling, IT agents that can execute workflows reliably across software stacks, data agents that can migrate data or processes between systems, architect and design agents can leverage CAD and design tools, and on and on. And any of today’s tools that don’t work will likely be replaced by agent-friendly or OSS tooling that does the same. \n\nWhen you combine this with the domain understanding being trained into agents, you started to get autonomous collaborators for every job function and industry. This will open up a ton of new opportunities in AI if you build with this understanding in mind.",
-          "created_at": "2026-11-08T18:50:00+00:00",
-          "like_count": 331,
-          "retweet_count": 25,
-          "reply_count": 140,
-          "engagement_score": 521,
-          "url": "https://x.com/levie/status/2119502716770902234"
+          "id": "2120261416733036905",
+          "text": "Agents are going to work with enterprise files 100X more than people do today. This is why we're excited to partner with Anthropic to bring full read/write interoperability to Box content via Claude.\n\nNow you can have an agent not only pull up content to work with in a workflow, but also write back file updates to Box and view them directly inside of Claude, all via MCP. You can create, edit, and update contracts, presentations, strategy docs, and any other content.\n\nWhen we started Box we couldn't have imagined all the ways that we'd be working with our unstructured data in the future, but it's clear that agents and people will be producing vastly more artifacts than we imagined. We're building the platform that makes it incredibly seamless and secure to work with your content from any agent.",
+          "created_at": "2026-11-10T21:04:48+00:00",
+          "like_count": 76,
+          "retweet_count": 9,
+          "reply_count": 28,
+          "engagement_score": 122,
+          "url": "https://x.com/levie/status/2120261416733036905"
         }
       ]
     },
@@ -99,24 +201,44 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2119615078874140685",
-          "text": "Hit my daily limit on Siri AI letting Claude Opus 5.5 validate skills/app intent tools",
-          "created_at": "2026-11-09T02:16:30+00:00",
-          "like_count": 338,
-          "retweet_count": 2,
-          "reply_count": 31,
-          "engagement_score": 373,
-          "url": "https://x.com/mweinbach/status/2119615078874140685"
+          "id": "2120198147368686064",
+          "text": "I probably did like 20-40B tokens worth of Gemini 4 Carbon tokens\n\nIt's probably my favorite knowledge work model. Gemini is really good at this. It's fantastic with broad and abstract topics, designing systems, anything related to finance, and it writes well.",
+          "created_at": "2026-11-10T16:53:24+00:00",
+          "like_count": 475,
+          "retweet_count": 18,
+          "reply_count": 11,
+          "engagement_score": 522,
+          "url": "https://x.com/mweinbach/status/2120198147368686064"
         },
         {
-          "id": "2119868229753737589",
-          "text": "Fable 5.2 https://t.co/2nozD2AzI6",
-          "created_at": "2026-11-09T19:02:25+00:00",
-          "like_count": 124,
+          "id": "2120248967875395863",
+          "text": "This has massive implications for Apple in enterprise or Mac as an AI inference box",
+          "created_at": "2026-11-10T20:15:20+00:00",
+          "like_count": 329,
+          "retweet_count": 9,
+          "reply_count": 12,
+          "engagement_score": 359,
+          "url": "https://x.com/mweinbach/status/2120248967875395863"
+        },
+        {
+          "id": "2120194930048114808",
+          "text": "UHHHH\n\nThat's crazy? I've been using Gemini 4 Carbon for the past few weeks as well, and tend to agree it's very good but used it more as a planner/delegator to Opus 5.5 subagents",
+          "created_at": "2026-11-10T16:40:37+00:00",
+          "like_count": 165,
           "retweet_count": 0,
-          "reply_count": 0,
-          "engagement_score": 124,
-          "url": "https://x.com/mweinbach/status/2119868229753737589"
+          "reply_count": 4,
+          "engagement_score": 169,
+          "url": "https://x.com/mweinbach/status/2120194930048114808"
+        },
+        {
+          "id": "2120206936826339751",
+          "text": "This looks really interesting, Sunra AI seems to have the cheapest video chat on the market with really good enterprises rates and program",
+          "created_at": "2026-11-10T17:28:19+00:00",
+          "like_count": 19,
+          "retweet_count": 0,
+          "reply_count": 1,
+          "engagement_score": 20,
+          "url": "https://x.com/mweinbach/status/2120206936826339751"
         }
       ]
     },
@@ -127,34 +249,44 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2119869713782378658",
-          "text": "Anthropic's Fable 5.2 is the new #1 on the Vals Index, leading seven benchmarks across coding, finance, and science.\n\nWe found that “high” was the most performant effort - scoring higher than “low”, “max”, and “xhigh”. https://t.co/B4uE011bJc",
-          "created_at": "2026-11-09T19:08:19+00:00",
-          "like_count": 235,
-          "retweet_count": 11,
-          "reply_count": 9,
-          "engagement_score": 266,
-          "url": "https://x.com/ValsAI/status/2119869713782378658"
-        },
-        {
-          "id": "2119855420017971205",
-          "text": "Meta's Ember is the cheapest model on the Vals Index at just $0.15 per test outperforming both Haiku 5.5 and GPT-6 Luna.\n\nIt also finishes tests in about 15 minutes, making it the fastest model in the top 12. https://t.co/AH0FENtbS0",
-          "created_at": "2026-11-09T18:11:31+00:00",
-          "like_count": 165,
+          "id": "2120229735586550247",
+          "text": "Claude Opus 5.5 with Parallel Fast is now #1 on the Vals Web Search Index, scoring 57.5% overall against 53.8% for the same model with native search a gain of 3.8pp. https://t.co/f4CjTxa5FL",
+          "created_at": "2026-11-10T18:58:55+00:00",
+          "like_count": 79,
           "retweet_count": 18,
-          "reply_count": 8,
-          "engagement_score": 209,
-          "url": "https://x.com/ValsAI/status/2119855420017971205"
+          "reply_count": 5,
+          "engagement_score": 120,
+          "url": "https://x.com/ValsAI/status/2120229735586550247"
         },
         {
-          "id": "2119911870333419705",
-          "text": "Is RSI the last eval that matters?\n\nOn The Bench, we get into recursive self-improvement, why RSI may be the last major capability eval, and why measuring AI against human preferences will matter forever. https://t.co/Dd4lBKoC9x",
-          "created_at": "2026-11-09T21:55:50+00:00",
-          "like_count": 10,
-          "retweet_count": 0,
-          "reply_count": 1,
-          "engagement_score": 11,
-          "url": "https://x.com/ValsAI/status/2119911870333419705"
+          "id": "2120253102104482088",
+          "text": "Gemini 4 Carbon is now generally available.\n\nIt ranks #3 on the Vals Index, about 1pp behind SOTA Fable 5.2, and costs $7 less per test ($10.51 vs $17.94).\n\nIt remains #1 on the Finance Index, Legal Research and Tax. https://t.co/DHlkw6bNTH",
+          "created_at": "2026-11-10T20:31:46+00:00",
+          "like_count": 61,
+          "retweet_count": 3,
+          "reply_count": 3,
+          "engagement_score": 70,
+          "url": "https://x.com/ValsAI/status/2120253102104482088"
+        },
+        {
+          "id": "2120262674554773682",
+          "text": "Claude Fable 5.2 is #1 on our RSI Index (37.8) narrowly ahead of Claude Opus 5.5 at 37.3 and Fable 5.1 at 36.1. \n\nIt’s an incremental gain overall, with new highs in Compression and LM Training. https://t.co/0j2NvfKrSh",
+          "created_at": "2026-11-10T21:09:48+00:00",
+          "like_count": 47,
+          "retweet_count": 1,
+          "reply_count": 3,
+          "engagement_score": 52,
+          "url": "https://x.com/ValsAI/status/2120262674554773682"
+        },
+        {
+          "id": "2120109227473559659",
+          "text": "Today, with @nextladder, we’re debuting our Access to Justice benchmark, part of our Social Mobility benchmarks.\n\nOur new benchmark tests how well AI can help navigate legal problems without a lawyer. https://t.co/0JysYUk2qF",
+          "created_at": "2026-11-10T11:00:04+00:00",
+          "like_count": 28,
+          "retweet_count": 2,
+          "reply_count": 3,
+          "engagement_score": 35,
+          "url": "https://x.com/ValsAI/status/2120109227473559659"
         }
       ]
     },
@@ -165,44 +297,54 @@
       "tier": "analyst",
       "tweets": [
         {
+          "id": "2119941204003770690",
+          "text": "Big news: Claude Fable 5.2 (xHigh) by @AnthropicAI has landed #1 in the Code Arena: WebDev with 1832 pts. This update is up to 30% faster than Fable 5.1, and more cost efficient: $8/$40 per M tokens, down from $10/$50.\n\nThis real-world performance puts it ahead of:\n- Claude Opus 5.5 (Max) at 1818\n- Gemini 4 Carbon (High) at 1768\n- GPT-6 Astra (Max) at 1767\n\nCongrats to the @AnthropicAI team on this release! 👏\nStay tuned for Agent Arena scores.",
+          "created_at": "2026-11-09T23:52:24+00:00",
+          "like_count": 738,
+          "retweet_count": 45,
+          "reply_count": 35,
+          "engagement_score": 863,
+          "url": "https://x.com/arena/status/2119941204003770690"
+        },
+        {
+          "id": "2119948067449536733",
+          "text": "Claude Fable 5.2 by @AnthropicAI in action across 17 generations on Arena, from detailed 3D worlds and playable games, to website UI, data visualizations, and interactive code-generated animations. https://t.co/eeNnAiBnS4",
+          "created_at": "2026-11-10T00:19:40+00:00",
+          "like_count": 314,
+          "retweet_count": 21,
+          "reply_count": 17,
+          "engagement_score": 373,
+          "url": "https://x.com/arena/status/2119948067449536733"
+        },
+        {
           "id": "2119857775446757697",
           "text": "Exciting news: @AIatMeta's Muse Ember (Max) is the highest-performing small model in the Code Arena: WebDev with 1608 pts, outperforming two leading small models from Anthropic and OpenAI:\n- Claude Haiku 5.5 (High): #35, 1595 pts\n- GPT-6 Luna (Max): #42, 1578 pts\n\nAt a 1608 score at a median cost of $0.03 per task, this puts Ember on the Pareto frontier. Neither Haiku 5.5 nor Luna makes it. Despite all three models having the same API pricing of $0.10/$0.50 per million input/output tokens, Ember's median cost per task is 2× lower than Luna ($0.06) and 3.7× lower than Haiku ($0.11).\n\nIn our own testing, Ember demonstrated impressive speed and efficiency, completing 25 complex generations in 2 mins per task, at a total cost of just $1.\n\nHuge congrats to @alexandr_wang and the @AIatMeta team on this impressive release! A major step forward for small models that deliver strong real-world coding capabilities at a fraction of the cost.",
           "created_at": "2026-11-09T18:20:53+00:00",
-          "like_count": 186,
-          "retweet_count": 11,
-          "reply_count": 18,
-          "engagement_score": 226,
+          "like_count": 299,
+          "retweet_count": 24,
+          "reply_count": 19,
+          "engagement_score": 366,
           "url": "https://x.com/arena/status/2119857775446757697"
         },
         {
           "id": "2119882304718069874",
           "text": "Claude Fable 5.2 by @AnthropicAI is now in the Arena. Head to Agent Arena to test it out, scores coming soon!\n\nIn Agent Arena, we measure models on millions of real-world, long-horizon agentic tasks from a global community of users. Models can access web search, filesystem, and terminal tools to complete complex workflows. The leaderboard measures model performance on outcomes relative to the average model using a causal tracing methodology.\n\nFable 5.2 is also available in Code Arena: WebDev, Text, Vision, Search and Document.",
           "created_at": "2026-11-09T19:58:21+00:00",
-          "like_count": 165,
-          "retweet_count": 8,
-          "reply_count": 12,
-          "engagement_score": 193,
+          "like_count": 247,
+          "retweet_count": 10,
+          "reply_count": 15,
+          "engagement_score": 282,
           "url": "https://x.com/arena/status/2119882304718069874"
         },
         {
-          "id": "2119840698614817076",
-          "text": "Exciting news: With open weights coming soon, Inkling 2 Small by @thinkymachines is set to become the #1 US open-weights model in Agent Arena!\n\nInkling 2 Small landed #31 overall with +0.08% net improvement, up about 18 percentage points from Inkling-Small at #56 with −18%.\n\nAmong all open models, it would rank #9, just 0.5 percentage pts from Kimi K3 (Max) at #5 and within 2.0 pts of DeepSeek-V4.1-Flash-20261017 (Max) at #3.\n\nInkling 2 Small’s median cost per task is $0.25, 70% lower than Kimi K3 (Max). See its position relative to the Pareto frontier below.\n\nCongrats to the @thinkymachines team on this release!",
-          "created_at": "2026-11-09T17:13:01+00:00",
-          "like_count": 106,
-          "retweet_count": 5,
-          "reply_count": 20,
-          "engagement_score": 136,
-          "url": "https://x.com/arena/status/2119840698614817076"
-        },
-        {
-          "id": "2119871594403336451",
-          "text": "First impressions of @AnthropicAI’s Fable 5.2 are in. @petergostev puts it through 100+ generations, comparing it with Opus across 3D worlds, playable games, website UI, data visualization, and animation.\n\nWhere does Fable 5.2 improve, where does Opus still stand out, and at what cost? Watch the full breakdown \nhttps://t.co/AHXrXn5PHH",
-          "created_at": "2026-11-09T19:15:48+00:00",
-          "like_count": 98,
-          "retweet_count": 7,
-          "reply_count": 7,
-          "engagement_score": 119,
-          "url": "https://x.com/arena/status/2119871594403336451"
+          "id": "2120236149503672762",
+          "text": "Our recent Agent Arena analysis found that Gemini 4 Carbon by @GoogleDeepMind becomes more cost-competitive as tasks get more demanding. \n\nIts savings relative to GPT-6 Astra and Claude Opus 5.5 grow on the most expensive sessions.",
+          "created_at": "2026-11-10T19:24:24+00:00",
+          "like_count": 185,
+          "retweet_count": 16,
+          "reply_count": 21,
+          "engagement_score": 238,
+          "url": "https://x.com/arena/status/2120236149503672762"
         }
       ]
     },
@@ -213,44 +355,44 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2119878995386982508",
-          "text": "Anthropic has released Claude Fable 5.2, taking the #1 spot on the Artificial Analysis Intelligence Index v5 at 65, led by gains in science, knowledge, and coding\n\nAt max effort it scores 65, 5 points ahead of Gemini 4 Carbon (high, 60) and 6 ahead of Claude Opus 5.5 (max, 59). Gains are driven by scientific reasoning, knowledge and FrontierCode 2.0, and roughly matching Opus 5.5 on AA-Briefcase and Terminal-Bench 4.0.\n\nPriced at $8/$40 per 1M input/output tokens, a 20% reduction from Fable 5.1, Claude Fable 5.2 averages a Cost per Task of $26.5 with max effort, a ~2.6x increase compared to Opus 5.5 (max, $10.0) and ~2x compared to Fable 5.1 (max, $12.99)\n\nKey takeaways:\n\n➤ Claude Fable 5.2 leads 5 of the 9 evaluations in the Intelligence Index: At max effort, Fable 5.2 scores 65, ahead of Gemini 4 Carbon (high, 60), Claude Opus 5.5 (max, 59) and GPT-6 Astra (max, 57), and ~15 points above Claude Fable 5.1 (max, 49). It sets the highest scores on HLE-Diamond (80%, previous best 69% from Gemini 4 Carbon), AA-Omniscience v1.1 (67, previous best 54 from Gemini 4 Carbon), Terminal-Bench-Science (73%, previous best 65% from Gemini 4 Carbon), CritPt v2 hard subset (77%, previous best 72% from GPT-6 Astra) and FrontierCode 2.0 (49%, previous best 46% from Claude Opus 5.5)\n\n➤ Less progress in agentic knowledge work and terminal coding: Claude Fable 5.2 improves on Fable 5.1 across capabilities, but sometimes only to Opus 5.5 levels. It reaches 1785 Elo on AA-Briefcase, within the confidence interval of Opus 5.5 (1800) and just behind Claude Sonnet 5.5 (1813). On GDP.pdf it reaches 24% all-pass against 26% for Opus 5.5. On Terminal-Bench 4.0 it scores 60%, level with Opus 5.5 and behind Kimi K3.1 Pro (67%), Gemini 4 Carbon (65%) and Sonnet 5.5 (64%). AutomationBench-AA is an exception, at 76% against 70% for Opus 5.5, narrowly behind Gemini 4 Carbon, 78%\n\n➤ Lower efforts still take leading positions: With high and xhigh effort, Claude Fable 5.2 scores 62, ahead of every other model at any effort, using 98k output tokens per task against 173k for Opus 5.5 (max). At max effort Fable 5.2 costs ~2.6x more than Opus 5.5, but at lower effort settings it can outperform Opus 5.5 at lower cost per task\n\nOther model details:\n\n➤ Context window: 1 million tokens with image and text input\n\n➤ Pricing: $8/$40 per 1M input/output tokens; cache writes $10 with 5-minute TTL, $16 with 1-hour TTL, and cache reads $0.20\n\n➤ Effort settings: five (low, medium, high, xhigh, max). Intelligence Index evaluations were run at all five with Anthropic's default fallback enabled\n\nCongratulations to @AnthropicAI on this impressive release!",
-          "created_at": "2026-11-09T19:45:12+00:00",
-          "like_count": 1582,
-          "retweet_count": 104,
-          "reply_count": 61,
-          "engagement_score": 1851,
-          "url": "https://x.com/ArtificialAnlys/status/2119878995386982508"
+          "id": "2120220567038984212",
+          "text": "We’ve partnered with Google DeepMind to launch their Multimodal Knowledge Agent (MKA) evaluation, a new benchmark for agentic knowledge work over complex visual files\n\n@GoogleDeepMind’s MKA is a new benchmark requiring agents to review visually complex project files such as schematics and scans, and produce deliverables like slide decks, spreadsheets, reports, and marked-up images\n\nMultimodal Knowledge Agent (MKA) overview:\n\n➤ 200 private real-world visual tasks across 10 industries: Agents work from dense visual project files including architectural drawings, engineering schematics, and clinical scans to produce deliverables including slide decks, spreadsheets, PDFs, Word documents, and marked-up images. Unlike many agentic evaluations, these inputs emphasize realistic visual complexity and domain-specificity, and are genuinely required to complete the task rather than just providing additional context\n\n➤ Climb vs. Regression rubric scoring: Each task is graded against expert rubrics, averaging ~70 weighted criteria per task. Criteria are split into ‘Regression’ (baseline checks models should pass) and ‘Climb’ criteria (harder checks designed to separate strong models). The headline score is Climb WSR (Weighted Satisfaction Rate) - the weighted proportion Climb rubric criteria successfully completed\n\n➤ Evaluated in Stirrup with an agentic judge: We run every task in Stirrup, our open source agent harness, with code execution, web search, web fetch, and image-viewing tools (up to 250 turns), and grade submitted deliverables using GPT-6 Luna (medium) as an agentic judge\n\nKey MKA results:\n\n➤ Claude Fable 5.2 leads on multimodal knowledge work: Anthropic’s recently released Claude Fable 5.2 (max) leads the MKA leaderboard with a Climb WSR of 57%, followed by Gemini 4 Carbon (high) at 54% and Claude Opus 5.5 (max) at 53%\n\n➤ Cost per Task spans nearly 30× within 10 points of the top score: Claude Fable 5.2 averages $31.97 per task, over 5× Gemini 4 Carbon ($6.29) for ~2 extra points, and ~29× GPT-6.1 Sol ($1.11). Below Carbon, all four OpenAI models tested sit on the cost-performance Pareto frontier (GPT-6 Astra, GPT-6.1 Sol, GPT-6.1 Terra, and GPT-6 Luna), with Claude Haiku 5.5 and MiMo-V2.6-Pro making up the rest of the frontier\n\n➤ No single model leads across all 10 industry verticals: Claude Fable 5.2 leads five verticals (Software & Data, Engineering, Logistics & Mapping, Business, and Finance alongside Claude Sonnet 5.5), Claude Opus 5.5 (max) leads Education and Construction, Gemini 4 Argon (high) leads Science, Gemini 4 Carbon (high) leads Healthcare, and Claude Sonnet 5.5 (max) narrowly leads Law & Government\n\nThank you to the @GoogleDeepMind team for their work building this benchmark and collaborating with us to bring it exclusively to Artificial Analysis!",
+          "created_at": "2026-11-10T18:22:29+00:00",
+          "like_count": 395,
+          "retweet_count": 17,
+          "reply_count": 42,
+          "engagement_score": 471,
+          "url": "https://x.com/ArtificialAnlys/status/2120220567038984212"
         },
         {
-          "id": "2119854348587123007",
-          "text": "Meta's newest model Muse Ember scores 36 on the Artificial Analysis Intelligence Index, matching Claude Haiku 5.5 (max) at a third of the Cost per Task\n\nMuse Ember is Meta's newest efficient-tier model line, with the same input and output token prices as Claude Haiku 5.5 and GPT-6 Luna\n\nKey Takeaways:\n\n➤ On the Intelligence Index vs. Cost per Task Pareto frontier at both max and xhigh effort. Muse Ember (max) is the cheapest model scoring 36 or higher, at $0.14 per task, and Muse Ember (xhigh) scores 34 for $0.12. Claude Haiku 5.5 (max) costs almost 3x more at $0.41 for the same score as Muse Ember (max). Muse Ember (max) is also about 4x cheaper than DeepSeek V4.1 Flash 1017 (max, 33, $0.60) and GLM-5.3-Flash (28, $0.58)\n\n➤ 8 points behind Muse Wonder for about 1/50th of the Cost per Task. Muse Wonder (max) scores 44 at $6.95 per Intelligence Index task\n\n➤ Stands out on AutomationBench-AA. Muse Ember (max) scores 68.1% on AutomationBench-AA, level with Muse Wonder (max), and beats Claude Haiku 5.5 (max) on GDP.pdf (22.8% vs 20.8%), but trails it on AA-Briefcase (1521 vs 1574 Elo)\n\n➤ Mixed in agentic coding in our Intelligence Index evaluations. It beats Claude Haiku 5.5 (max) on Terminal-Bench 4.0 (40.9% vs 32.8%) but trails it on FrontierCode 2.0 (27.2% vs 34.9%)\n\n➤ Ahead of similarly priced models when running in its own coding agent. In Muse Code, Muse Ember (max) scores 46 on the Artificial Analysis Coding Agent Index, ahead of Claude Haiku 5.5 in Claude Code (max, 37) and GPT-6 Luna in Codex (max, 31)\n\n➤ Knowledge is the main weakness, but it rarely hallucinates. Its AA-Omniscience accuracy of 21.1% is the lowest of the similarly intelligent models we compared, against 34.7% for Claude Haiku 5.5 (max) and 50.5% for Gemini 3.8 Flash (high). This is mostly because it declines to answer 64% of questions, which keeps its hallucination rate at 17.4%, half of Claude Haiku 5.5’s (max)\n\nOther details:\n➤ Pricing: $0.10 input / $0.004 cached input / $0.50 output per 1M tokens\n➤ Reasoning effort: results shown at max effort, with xhigh also on the Intelligence vs. Cost chart ➤ Availability: Meta's first-party API and Muse Code",
-          "created_at": "2026-11-09T18:07:16+00:00",
-          "like_count": 699,
-          "retweet_count": 36,
-          "reply_count": 67,
-          "engagement_score": 838,
-          "url": "https://x.com/ArtificialAnlys/status/2119854348587123007"
-        },
-        {
-          "id": "2119813983536283923",
-          "text": "In AA-PersonalityBench, models that rank high on sincerity tend to rank low on slop, and models that rank high on creativity tend to also rank high on humor\n\nEach model is percentile ranked from 1 to 100 on each of 30 personality traits. Across the models measured, we looked at how closely each pair of traits moves together, from +1 (positively correlated) to -1 (inversely correlated).\n\nStrongest correlations across all trait pairs:\n\n➤ Positively correlated: Sincere with Natural Sounding (0.92), and Creative with Humorous (0.89) and Eloquent (0.89)\n\n➤ Inversely correlated: Slop with Sincere (-0.87), Direct (-0.84), Literate (-0.83), and Truthful (-0.83)",
-          "created_at": "2026-11-09T15:26:52+00:00",
-          "like_count": 124,
-          "retweet_count": 10,
+          "id": "2120196073105023164",
+          "text": "Keenable Search 1.0 takes 1st (pro, 83) and 2nd (realtime, 82) on the Artificial Analysis Search Index: ahead of Exa (auto, dynamic highlights) and Perplexity (medium) at 80\n\nWe benchmarked both modes of @KeenableAI's Keenable Search 1.0, pro and realtime, in our Stirrup agent harness with Keenable Search as its web_search tool to complete 1700 search-focused tasks.\n\nAt $4 per 1k searches, Keenable costs about $0.040 per task in both modes, over a third below the board median ($0.063). It is also one of the fastest products we measure: 15.0s (realtime) and 15.5s (pro) per task, 2nd and 3rd on the board.\n\nKey benchmarking results for Keenable Search 1.0:\n\n➤ Artificial Analysis Search Index: Keenable (pro) scores 83 and Keenable (realtime) 82, up from 67 for both modes when we first benchmarked Keenable in August, and a ~50-point lift over the same model with no search (33). Both lead Exa (auto, dynamic highlights) and Perplexity (medium) at 80\n\n➤ DeepSearchQA is Keenable's strongest benchmark: both modes score 88 F1, 1st and 2nd of 26, ahead of Exa (auto, dynamic highlights) at 86. Pro also ranks 1st on BrowseComp (87%, level with Perplexity (medium)) and on AA-Omniscience (73%, level with Exa (auto, dynamic highlights) and Firecrawl)\n\n➤ Fast search: realtime takes 2.3s of search time per task (2nd of 26) and pro 3.0s (3rd), against a board median of 12.5s. Each search returns in about 330ms (realtime) and 390ms (pro) on average\n\nKey details:\n\n➤ Setup: GPT-5.6 Luna (medium) in Stirrup, Keenable Search API with mode=realtime and mode=pro\n\n➤ Pricing: $4 per 1k requests in both modes (public pay-as-you-go price)\n\n➤ Cards: We disabled Keenable's search cards for testing (disable_cards=true)",
+          "created_at": "2026-11-10T16:45:09+00:00",
+          "like_count": 143,
+          "retweet_count": 8,
           "reply_count": 25,
-          "engagement_score": 169,
-          "url": "https://x.com/ArtificialAnlys/status/2119813983536283923"
+          "engagement_score": 184,
+          "url": "https://x.com/ArtificialAnlys/status/2120196073105023164"
         },
         {
-          "id": "2119913484423156015",
-          "text": "GPT Image 2.6 Flare generates images almost twice as fast as GPT Image 2.5 Flare\n\nMedian generation time in our independent benchmark, at max quality: about 30 seconds for GPT Image 2.6 Flare, about 55 seconds for GPT Image 2.5 Flare.\n\nAnd it scores higher on both AA-Image-T2I v2.1 and AA-Image-Editing v2.1 too!",
-          "created_at": "2026-11-09T22:02:15+00:00",
-          "like_count": 35,
+          "id": "2120222045011341318",
+          "text": "Great to partner with @GoogleDeepMind in bringing MKA Benchmark to Artificial Analysis",
+          "created_at": "2026-11-10T18:28:22+00:00",
+          "like_count": 73,
           "retweet_count": 3,
           "reply_count": 4,
-          "engagement_score": 45,
-          "url": "https://x.com/ArtificialAnlys/status/2119913484423156015"
+          "engagement_score": 83,
+          "url": "https://x.com/ArtificialAnlys/status/2120222045011341318"
+        },
+        {
+          "id": "2120262412003909689",
+          "text": "A room full of AI researchers, developers, and engineers. The launch of Intelligence Index v5. A look at where AI evaluation goes next.\n\nHighlights from our launch event in San Francisco.",
+          "created_at": "2026-11-10T21:08:46+00:00",
+          "like_count": 39,
+          "retweet_count": 1,
+          "reply_count": 8,
+          "engagement_score": 49,
+          "url": "https://x.com/ArtificialAnlys/status/2120262412003909689"
         }
       ]
     },
@@ -294,7 +436,18 @@
       "name": "Demis Hassabis (Google DeepMind)",
       "domain": "ai",
       "tier": "exec",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2120210297948696997",
+          "text": "Our latest frontier model Gemini 4 Carbon is rolling out today! Amazing progress from Gemini 3 → Gemini 4 in less than a year… Carbon reverse engineers my original Theme Park binaries, adds a new DeepMind themed ride, and ports it to the web in one shot - kind of mindblowing to see! https://t.co/LceQuUZbTk",
+          "created_at": "2026-11-10T17:41:41+00:00",
+          "like_count": 1662,
+          "retweet_count": 146,
+          "reply_count": 162,
+          "engagement_score": 2116,
+          "url": "https://x.com/demishassabis/status/2120210297948696997"
+        }
+      ]
     },
     {
       "handle": "jietang",
@@ -308,7 +461,18 @@
       "name": "NVIDIA (Jensen Huang / AI infrastructure)",
       "domain": "ai",
       "tier": "infra",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2120186778384499073",
+          "text": "NVIDIA Alpamayo 2 Edge is here, bringing adaptive AI reasoning in real-time to the vehicle. 🚘\n\nFrom yielding to pedestrians to making room for an oncoming bus, watch how it plans driving paths and explains its decisions when needed.\n\nDevelopers can build on this open model to create the next generation of autonomous vehicles, with AI they can adapt to their own fleets.",
+          "created_at": "2026-11-10T16:08:13+00:00",
+          "like_count": 398,
+          "retweet_count": 44,
+          "reply_count": 127,
+          "engagement_score": 613,
+          "url": "https://x.com/nvidia/status/2120186778384499073"
+        }
+      ]
     },
     {
       "handle": "AmandaAskell",
@@ -327,10 +491,10 @@
           "id": "2119873095129550880",
           "text": "We wanted to do more for the people who’ve been with us the longest. So with Fable 5.2, the longer you’ve been subscribed, the more Fable resets you get. https://t.co/g2Y5cwS0L2",
           "created_at": "2026-11-09T19:21:45+00:00",
-          "like_count": 10691,
-          "retweet_count": 382,
-          "reply_count": 865,
-          "engagement_score": 12320,
+          "like_count": 16587,
+          "retweet_count": 623,
+          "reply_count": 1234,
+          "engagement_score": 19067,
           "url": "https://x.com/bcherny/status/2119873095129550880"
         }
       ]
@@ -352,41 +516,41 @@
           "id": "2119884951550386671",
           "text": "Every time we have a new model, I run the same simple prompt on all my projects:\n\n\"Read this entire project and find everything that’s broken, inconsistent, inefficient, or no longer needed. Fix what you’re sure about and list the rest for me to review.\"\n\nhighly recommend trying",
           "created_at": "2026-11-09T20:08:52+00:00",
-          "like_count": 1503,
-          "retweet_count": 60,
-          "reply_count": 98,
-          "engagement_score": 1721,
+          "like_count": 9170,
+          "retweet_count": 456,
+          "reply_count": 316,
+          "engagement_score": 10398,
           "url": "https://x.com/alexalbert__/status/2119884951550386671"
         },
         {
           "id": "2119869925288558799",
           "text": "btw robotics will fall to the bitter lesson too",
           "created_at": "2026-11-09T19:09:10+00:00",
-          "like_count": 1518,
-          "retweet_count": 65,
-          "reply_count": 37,
-          "engagement_score": 1685,
+          "like_count": 3502,
+          "retweet_count": 127,
+          "reply_count": 76,
+          "engagement_score": 3832,
           "url": "https://x.com/alexalbert__/status/2119869925288558799"
-        },
-        {
-          "id": "2119869724247077229",
-          "text": "I really love using Fable 5.2. On big, open-ended work it feels like a major step above Opus 5.5. \n\nA few tips for getting the most out of it:\n- Ask what’s wrong with your idea before it builds anything. It’s great at brainstorming and will push back\n- Start on med/high effort, and save xhigh for hardest problems\n- Tell it up front what needs your approval (e.g. deleting things) and that the rest is its call\n- Give it a whole project instead of a next step and let it run for hours. This is where it shines",
-          "created_at": "2026-11-09T19:08:22+00:00",
-          "like_count": 847,
-          "retweet_count": 33,
-          "reply_count": 55,
-          "engagement_score": 968,
-          "url": "https://x.com/alexalbert__/status/2119869724247077229"
         },
         {
           "id": "2119916954337349737",
           "text": "I gave Fable 5.2 a PDF of one of Leonardo da Vinci’s 500-year-old notebooks and it made his inventions real for me to interact with.\n\nSuch an exciting time for education. Anything from history that’s been stuck on a page can now be something you explore. https://t.co/MVSz3pc4To",
           "created_at": "2026-11-09T22:16:02+00:00",
-          "like_count": 347,
-          "retweet_count": 27,
-          "reply_count": 24,
-          "engagement_score": 425,
+          "like_count": 2354,
+          "retweet_count": 262,
+          "reply_count": 129,
+          "engagement_score": 3007,
           "url": "https://x.com/alexalbert__/status/2119916954337349737"
+        },
+        {
+          "id": "2119869724247077229",
+          "text": "I really love using Fable 5.2. On big, open-ended work it feels like a major step above Opus 5.5. \n\nA few tips for getting the most out of it:\n- Ask what’s wrong with your idea before it builds anything. It’s great at brainstorming and will push back\n- Start on med/high effort, and save xhigh for hardest problems\n- Tell it up front what needs your approval (e.g. deleting things) and that the rest is its call\n- Give it a whole project instead of a next step and let it run for hours. This is where it shines",
+          "created_at": "2026-11-09T19:08:22+00:00",
+          "like_count": 1395,
+          "retweet_count": 53,
+          "reply_count": 82,
+          "engagement_score": 1583,
+          "url": "https://x.com/alexalbert__/status/2119869724247077229"
         }
       ]
     },
@@ -400,21 +564,31 @@
           "id": "2119878364794372162",
           "text": "At @vercel we got to test this model before release. Best way to summarize it: astonishingly brilliant.\n\nOne interesting takeaway: it's very clear that this new generation of models can take on unprecedented bodies of parallel work.\n\nTo actually seize this intelligence, you need cloud sandboxes. Full stop. The model can delegate and orchestrate far more than a single computer can handle. Likely far more than you can even imagine it can handle.\n\nYour bottleneck is now ① your ambition and ② your parallel computing power.\n\nBtw, I learned from @cramforce you don't need to overcomplicate it. Install Vercel CLI, setup the Plugin and tell the agent to use /𝚘𝚏𝚏𝚕𝚘𝚊𝚍-𝚝𝚘-𝚜𝚊𝚗𝚍𝚋𝚘𝚡 skill. It'll provision and de-allocate cloud sandboxes as needed. You don't need a \"multi-agent remote harness ralph orchestrator\" 😆",
           "created_at": "2026-11-09T19:42:42+00:00",
-          "like_count": 1179,
-          "retweet_count": 30,
-          "reply_count": 79,
-          "engagement_score": 1318,
+          "like_count": 2262,
+          "retweet_count": 75,
+          "reply_count": 142,
+          "engagement_score": 2554,
           "url": "https://x.com/rauchg/status/2119878364794372162"
         },
         {
           "id": "2119891138450755670",
           "text": "So bullish on MCP. Its utility exceeds the \"M\" part: even AI aside, it'll be a civilization-scale accomplishment to get all our systems communicating through one universal open protocol.\n\nA missing piece was how to get arbitrary callbacks across sessions. MCP could read and write, but it couldn't tell you later \"this event happened.\" MCP Events fixes this.\n\nWe're adding support in our own MCP. Say an agent makes a deployment, and wants to know when it's complete. Instead of polling, it can subscribe to 𝚍𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝.𝚜𝚞𝚌𝚌𝚎𝚎𝚍𝚎𝚍.\n\nPSA: With Vercel Queues and Workflows, writing the backend machinery for your own MCPs to do this is easy peasy.",
           "created_at": "2026-11-09T20:33:27+00:00",
-          "like_count": 260,
-          "retweet_count": 16,
-          "reply_count": 59,
-          "engagement_score": 351,
+          "like_count": 1065,
+          "retweet_count": 61,
+          "reply_count": 161,
+          "engagement_score": 1348,
           "url": "https://x.com/rauchg/status/2119891138450755670"
+        },
+        {
+          "id": "2120188488628977819",
+          "text": "Vercel Security Review, less than 1 week since launch:\n✓ 𝟱𝟳,𝟴𝟵𝟳 vulnerabilities identified\n✓ 𝟲,𝟬𝟮𝟵 critical or high \n✓ 𝟭𝟰,𝟲𝟲𝟱 already patched by Agent\n\nI'm shocked at ① the number of critical vulnerabilities that would go unnoticed and ② the ease at which the agent automatically fixes them.\n\nYou can turn it on for any repo, no matter where you deploy to.",
+          "created_at": "2026-11-10T16:15:01+00:00",
+          "like_count": 316,
+          "retweet_count": 17,
+          "reply_count": 105,
+          "engagement_score": 455,
+          "url": "https://x.com/rauchg/status/2120188488628977819"
         }
       ]
     },
@@ -428,20 +602,20 @@
           "id": "2119852075135934847",
           "text": "Very few things in nature are true long-term exponentials. Most follow S-curves.\n\nI saw this when I worked at Facebook. What looked like clean exponential growth was actually a series of overlapping S-curves, each driven by technological breakthroughs and/or adoption waves.\n\nAI is probably the same. That doesn’t mean progress will have to slow down, but sustained exponential growth isn’t automatic either.",
           "created_at": "2026-11-09T17:58:14+00:00",
-          "like_count": 141,
-          "retweet_count": 11,
-          "reply_count": 60,
-          "engagement_score": 223,
+          "like_count": 218,
+          "retweet_count": 13,
+          "reply_count": 78,
+          "engagement_score": 322,
           "url": "https://x.com/amasad/status/2119852075135934847"
         },
         {
           "id": "2119909166764667292",
           "text": "If you're in Japan, check out \"Enterprise Vibe Coding,\" a new book from SMFL's digital innovation team on how AI is transforming enterprise software development.\n\nComing November 27. Honored to be on the cover! https://t.co/qfF1k6HsvY",
           "created_at": "2026-11-09T21:45:06+00:00",
-          "like_count": 45,
-          "retweet_count": 6,
-          "reply_count": 11,
-          "engagement_score": 68,
+          "like_count": 94,
+          "retweet_count": 8,
+          "reply_count": 17,
+          "engagement_score": 127,
           "url": "https://x.com/amasad/status/2119909166764667292"
         }
       ]
@@ -451,7 +625,18 @@
       "name": "Josh Woodward (Google Labs)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2120186249281778135",
+          "text": "Right now, Gemini 4 Carbon is in the @GeminiApp for Ultra subscribers worldwide https://t.co/Sl0Jujhqu7",
+          "created_at": "2026-11-10T16:06:07+00:00",
+          "like_count": 544,
+          "retweet_count": 23,
+          "reply_count": 90,
+          "engagement_score": 680,
+          "url": "https://x.com/joshwoodward/status/2120186249281778135"
+        }
+      ]
     },
     {
       "handle": "paulgauthier",
@@ -467,24 +652,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2119810955219456374",
-          "text": "Another open prompt for DeepSeek v4.1 + dsh running locally on 4xDGX Sparks:\nA reference image + \"recreate its architecture, composition, colors, and lighting in 3D, then animate a smooth, cinematic drone shot. Feel free to use anything you feel is better suited for this task. You have Blender or Unreal engine at your disposal, you can even use pur three.js code with html if it works well for you.\"\n\nWent with Blender + Python. \nPhoto → procedural Blender scene → 12-second drone shot. Every roof, lantern, tree and ripple is generated in code. No textures, no imported models. \n\nSome stats:\nSession wall clock: 2 h 52 m\nModel generation time: 1 h 47 m\nOutput tokens generated: 389k\nAverage output speed: 65 tok/s\nPrompt tokens processed: 58.8M total\nCache hit rate: 97.8%\nContext: ~478k\n\nGreat job overall! No?",
-          "created_at": "2026-11-09T15:14:50+00:00",
-          "like_count": 40,
-          "retweet_count": 2,
-          "reply_count": 13,
-          "engagement_score": 57,
-          "url": "https://x.com/ivanfioravanti/status/2119810955219456374"
+          "id": "2120168709041852876",
+          "text": "Here a series of complex images generated using @MiniMax_AI H3 Image new model. I've used some prompts from the library of @danielsrosehill \nText-To-Image-Test-Promps (some cool one there!) \nhttps://t.co/yHJhMNtaBh\n\nPrompts in ALT of each image.\nThis model handles text really well! 🧵",
+          "created_at": "2026-11-10T14:56:25+00:00",
+          "like_count": 20,
+          "retweet_count": 0,
+          "reply_count": 2,
+          "engagement_score": 22,
+          "url": "https://x.com/ivanfioravanti/status/2120168709041852876"
         },
         {
-          "id": "2119782405225509130",
-          "text": "It's time to showcase the power of Local AI in person! \n2027 is the year! \n\nSee you at Kaggle & Practical AI - Milano on 17th November 2026 in the OverNet HQ!\nThanks Alberto Danese for the opportunity.\n\n@NTTLuke  is behind anything music related and he'll be present too 💪\n\nWhatever you'll see is running locally! 🚀\n\nI'll keep adding demos and magic to this Local AI show.\nIt'd be great being able to showcase this when I'll be in SF in a few weeks!\n\nMore details here: https://t.co/D21SPImRCS",
-          "created_at": "2026-11-09T13:21:23+00:00",
-          "like_count": 24,
-          "retweet_count": 2,
-          "reply_count": 4,
-          "engagement_score": 32,
-          "url": "https://x.com/ivanfioravanti/status/2119782405225509130"
+          "id": "2120154210691846533",
+          "text": "DeepSeek is using instances of Blender on 3 different machines, let's hope it creates something cool.\n\nIn any case, Fable 5.2 is really another level compared to anything else. https://t.co/ZgCLsa6935",
+          "created_at": "2026-11-10T13:58:49+00:00",
+          "like_count": 17,
+          "retweet_count": 1,
+          "reply_count": 2,
+          "engagement_score": 21,
+          "url": "https://x.com/ivanfioravanti/status/2120154210691846533"
         }
       ]
     },
@@ -493,7 +678,38 @@
       "name": "Dean Ball (OpenAI Head of Strategic Futures)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2120186220437479824",
+          "text": "It will be truly wild if models get good at Beethoven-esque composition in a way that mirrors Beethoven’s own artistic progression. If you told me this was a lost piece beethoven wrote when he was ~18, I’d believe you.",
+          "created_at": "2026-11-10T16:06:00+00:00",
+          "like_count": 100,
+          "retweet_count": 2,
+          "reply_count": 17,
+          "engagement_score": 121,
+          "url": "https://x.com/deanwball/status/2120186220437479824"
+        },
+        {
+          "id": "2120208001667621313",
+          "text": "Recursive self-improvement is a critical issue, but the rhetoric on the subject is becoming more poorly calibrated over time. As we approach new stages of AI development—and RSI is one of them—we need more precise frameworks and terminology. I fear the opposite is happening. https://t.co/ug34aLhdkO",
+          "created_at": "2026-11-10T17:32:33+00:00",
+          "like_count": 80,
+          "retweet_count": 11,
+          "reply_count": 10,
+          "engagement_score": 112,
+          "url": "https://x.com/deanwball/status/2120208001667621313"
+        },
+        {
+          "id": "2120185223124025833",
+          "text": "Still sounds more like high-budget film/video game soundtrack than a symphony, which has been true anytime I’ve tried to do AI-generated orchestral music, whether an agent or a music model.\n\nThe generalist agents are getting good at solo and chamber music, however.",
+          "created_at": "2026-11-10T16:02:02+00:00",
+          "like_count": 26,
+          "retweet_count": 0,
+          "reply_count": 3,
+          "engagement_score": 29,
+          "url": "https://x.com/deanwball/status/2120185223124025833"
+        }
+      ]
     },
     {
       "handle": "kunchenguid",
@@ -502,38 +718,28 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2119490886593814934",
-          "text": "new video is up! it's been a while i know i know :) \n\nthis time i'm sharing a guide for how to do a multi-machine setup, which allowed me to keep agents running and stay productive anywhere i go\n\nYT: https://t.co/jphURlZFni https://t.co/wYetAgXwKg",
-          "created_at": "2026-11-08T18:03:00+00:00",
-          "like_count": 306,
-          "retweet_count": 13,
-          "reply_count": 22,
-          "engagement_score": 354,
-          "url": "https://x.com/kunchenguid/status/2119490886593814934"
-        },
-        {
-          "id": "2119661784470835261",
-          "text": "i had made many guesses for what might bust the AI bubble\n\nthis was not on my list..",
-          "created_at": "2026-11-09T05:22:05+00:00",
-          "like_count": 242,
-          "retweet_count": 6,
-          "reply_count": 23,
-          "engagement_score": 277,
-          "url": "https://x.com/kunchenguid/status/2119661784470835261"
+          "id": "2119924895060795492",
+          "text": "this is a really good prompt you can use to feel the power of fable 5.2 btw!\n\ni'd send it as - \n\n\"audit and find implicit state machines in this <codebase/directory/module> that would drive concrete improvements if made explicit. explain before/after of each one and discuss with me in lavish-axi. fewer words, big visuals\"\n\nlavish-axi is optional, but it makes the results a lot easier for you to understand and decide on. https://t.co/QIHTACW7PV \n\nfable 5.2 is really good at identifying real problems and ignore noise, and it explains them in a very intuitive way\n\nexample of a good clean up identified in firstmate repo here",
+          "created_at": "2026-11-09T22:47:35+00:00",
+          "like_count": 801,
+          "retweet_count": 35,
+          "reply_count": 11,
+          "engagement_score": 882,
+          "url": "https://x.com/kunchenguid/status/2119924895060795492"
         },
         {
           "id": "2119869391127089167",
           "text": "holy crap... fable 5.2 ended up being the first meaningful model update since opus 5.5\n\nthis is almost GG for other labs. only anthropic can top anthropic now",
           "created_at": "2026-11-09T19:07:02+00:00",
-          "like_count": 133,
-          "retweet_count": 3,
-          "reply_count": 6,
-          "engagement_score": 145,
+          "like_count": 230,
+          "retweet_count": 6,
+          "reply_count": 10,
+          "engagement_score": 252,
           "url": "https://x.com/kunchenguid/status/2119869391127089167"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-11-09T22:11:42.526596+00:00"
+  "generated_at": "2026-11-10T22:12:48.414777+00:00"
 }

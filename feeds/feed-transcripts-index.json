@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-11-09T23:44:34.135067+00:00",
+  "generated_at": "2026-11-10T22:45:31.671551+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
+      "link": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
+      "channel": "Lenny's Podcast",
+      "title": "State of the tech job market: late 2026",
+      "pub_date": "2026-11-10T15:04:03+00:00",
+      "transcript_path": "feeds/transcripts/24ef27f07413fc78e7588d97.txt",
+      "transcript_chars": 11166,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-10T22:45:31.671551+00:00",
+      "last_seen_at": "2026-11-10T22:45:31.671551+00:00",
+      "expires_at": "2026-11-24T22:45:31.671551+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
       "link": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
@@ -12,8 +25,8 @@
       "transcript_chars": 4976,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-09T23:44:34.135067+00:00",
-      "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
-      "expires_at": "2026-11-23T23:44:34.135067+00:00"
+      "last_seen_at": "2026-11-10T22:45:31.671551+00:00",
+      "expires_at": "2026-11-24T22:45:31.671551+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
@@ -25,8 +38,8 @@
       "transcript_chars": 4773,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-09T23:44:34.135067+00:00",
-      "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
-      "expires_at": "2026-11-23T23:44:34.135067+00:00"
+      "last_seen_at": "2026-11-10T22:45:31.671551+00:00",
+      "expires_at": "2026-11-24T22:45:31.671551+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
@@ -38,8 +51,8 @@
       "transcript_chars": 5078,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-09T23:44:34.135067+00:00",
-      "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
-      "expires_at": "2026-11-23T23:44:34.135067+00:00"
+      "last_seen_at": "2026-11-10T22:45:31.671551+00:00",
+      "expires_at": "2026-11-24T22:45:31.671551+00:00"
     },
     {
       "guid": "yt:x7Z_1miRWB8",
@@ -51,8 +64,8 @@
       "transcript_chars": 27573,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-09T23:44:34.135067+00:00",
-      "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
-      "expires_at": "2026-11-23T23:44:34.135067+00:00"
+      "last_seen_at": "2026-11-10T22:45:31.671551+00:00",
+      "expires_at": "2026-11-24T22:45:31.671551+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_e4eae676-23c0-4ee3-bf61-919e4d3b3909",
@@ -103,8 +116,8 @@
       "transcript_chars": 37865,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-11-05T23:44:45.359386+00:00",
-      "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
-      "expires_at": "2026-11-23T23:44:34.135067+00:00"
+      "last_seen_at": "2026-11-10T22:45:31.671551+00:00",
+      "expires_at": "2026-11-24T22:45:31.671551+00:00"
     },
     {
       "guid": "yt:HMA357MXB1o",
@@ -142,8 +155,8 @@
       "transcript_chars": 49177,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
-      "expires_at": "2026-11-23T23:44:34.135067+00:00"
+      "last_seen_at": "2026-11-10T22:45:31.671551+00:00",
+      "expires_at": "2026-11-24T22:45:31.671551+00:00"
     },
     {
       "guid": "yt:TjPPIf-M6KE",
