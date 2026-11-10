@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-09T00:39:00.530437+00:00",
+  "generated_at": "2026-11-09T23:44:34.135067+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
+      "link": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
+      "channel": "Lenny's Podcast",
+      "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
+      "pub_date": "2026-11-09T20:37:49+00:00",
+      "transcript_path": "feeds/transcripts/9d4947d8a81a83afea3c0ea6.txt",
+      "transcript_chars": 4976,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-09T23:44:34.135067+00:00",
+      "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
+      "expires_at": "2026-11-23T23:44:34.135067+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
+      "link": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
+      "channel": "Lenny's Podcast",
+      "title": "🎙️ How I AI: How this founder built a better Duolingo with Codex",
+      "pub_date": "2026-11-09T16:01:20+00:00",
+      "transcript_path": "feeds/transcripts/2aa4ac2d1c2deae678472c51.txt",
+      "transcript_chars": 4773,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-09T23:44:34.135067+00:00",
+      "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
+      "expires_at": "2026-11-23T23:44:34.135067+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
+      "link": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
+      "channel": "Lenny's Podcast",
+      "title": "How this founder built a better Duolingo with Codex | William Imoh",
+      "pub_date": "2026-11-09T13:04:17+00:00",
+      "transcript_path": "feeds/transcripts/eff5819a6f528ecb37ccc85a.txt",
+      "transcript_chars": 5078,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-09T23:44:34.135067+00:00",
+      "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
+      "expires_at": "2026-11-23T23:44:34.135067+00:00"
+    },
+    {
+      "guid": "yt:x7Z_1miRWB8",
+      "link": "https://www.youtube.com/watch?v=x7Z_1miRWB8",
+      "channel": "Masters of Scale and Reid Hoffman",
+      "title": "Google DeepMind's Demis Hassabis: How AI could become dangerous (with Reid Hoffman) | Summit '26",
+      "pub_date": "2026-11-05T15:03:17+00:00",
+      "transcript_path": "feeds/transcripts/812f5f1dcde1ad129e6eb233.txt",
+      "transcript_chars": 27573,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-09T23:44:34.135067+00:00",
+      "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
+      "expires_at": "2026-11-23T23:44:34.135067+00:00"
+    },
     {
       "guid": "urn:latent-space:post:post_e4eae676-23c0-4ee3-bf61-919e4d3b3909",
       "link": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
@@ -51,8 +103,8 @@
       "transcript_chars": 37865,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-11-05T23:44:45.359386+00:00",
-      "last_seen_at": "2026-11-09T00:39:00.530437+00:00",
-      "expires_at": "2026-11-23T00:39:00.530437+00:00"
+      "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
+      "expires_at": "2026-11-23T23:44:34.135067+00:00"
     },
     {
       "guid": "yt:HMA357MXB1o",
@@ -90,8 +142,8 @@
       "transcript_chars": 49177,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-09T00:39:00.530437+00:00",
-      "expires_at": "2026-11-23T00:39:00.530437+00:00"
+      "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
+      "expires_at": "2026-11-23T23:44:34.135067+00:00"
     },
     {
       "guid": "yt:TjPPIf-M6KE",
@@ -103,8 +155,8 @@
       "transcript_chars": 62601,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-09T00:39:00.530437+00:00",
-      "expires_at": "2026-11-23T00:39:00.530437+00:00"
+      "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
+      "expires_at": "2026-11-23T23:44:34.135067+00:00"
     },
     {
       "guid": "urn:latent-space:post:pod_ep_01a19df0-34a3-7307-96fc-48928908772b",
@@ -311,8 +363,8 @@
       "transcript_chars": 54893,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-11-09T00:39:00.530437+00:00",
-      "expires_at": "2026-11-23T00:39:00.530437+00:00"
+      "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
+      "expires_at": "2026-11-23T23:44:34.135067+00:00"
     },
     {
       "guid": "yt:crdg4X5BZPc",
@@ -393,32 +445,6 @@
       "expires_at": "2026-11-13T22:28:57.856494+00:00"
     },
     {
-      "guid": "urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
-      "link": "https://latent.space/p/ainews-kimi-31/",
-      "channel": "Latent Space",
-      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-      "pub_date": "2026-10-24T07:18:29+00:00",
-      "transcript_path": "feeds/transcripts/c98d926c45e96ca5178779ec.txt",
-      "transcript_chars": 69993,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-26T23:28:30.737067+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
-    },
-    {
-      "guid": "bfa0e2d3-48c6-4863-ad93-0672a4f9c212",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Why-Buffett-Would-Be-Short-the-AI-Horses-Right-Now-e3qvopo",
-      "channel": "The Acquirers Podcast",
-      "title": "Why Buffett Would Be Short the “AI Horses” Right Now",
-      "pub_date": "2026-10-24T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/286fc0d514dee3e0ab1bc9b6.txt",
-      "transcript_chars": 145771,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-26T23:28:30.737067+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
-    },
-    {
       "guid": "yt:sH5qyeHSdVs",
       "link": "https://www.youtube.com/watch?v=sH5qyeHSdVs",
       "channel": "Yahoo Finance and Deirdre Bosa",
@@ -495,19 +521,6 @@
       "cached_at": "2026-10-23T04:09:46.138835+00:00",
       "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
       "expires_at": "2026-11-11T03:34:59.412837+00:00"
-    },
-    {
-      "guid": "yt:F3ItSTZNtT0",
-      "link": "https://www.youtube.com/watch?v=F3ItSTZNtT0",
-      "channel": "Alex Kantrowitz",
-      "title": "Sundar Pichai: Path To Recursive Self-Improvement, Compute Allocation Dilemma, Future AI Interfaces",
-      "pub_date": "2026-10-20T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/aa8c1449723858d0cbaac502.txt",
-      "transcript_chars": 40819,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-26T23:28:30.737067+00:00",
-      "expires_at": "2026-11-09T23:28:30.737067+00:00"
     },
     {
       "guid": "yt:3gXLmy7DK_4",

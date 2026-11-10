@@ -1,5 +1,42 @@
 {
-  "articles": [],
+  "articles": [
+    {
+      "id": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "published": "2026-11-09T19:00:00+00:00",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+    },
+    {
+      "id": "https://openai.com/index/control-room",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "published": "2026-11-09T13:00:00+00:00",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise."
+    },
+    {
+      "id": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "published": "2026-11-09T08:00:00+00:00",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team."
+    },
+    {
+      "id": "https://openai.com/index/kuken",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "published": "2026-11-09T08:00:00+00:00",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour."
+    }
+  ],
   "errors": null,
-  "generated_at": "2026-11-08T22:13:10.760840+00:00"
+  "generated_at": "2026-11-09T22:11:42.526596+00:00"
 }
