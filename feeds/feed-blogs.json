@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "id": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "source": "deepmind",
+      "source_name": "Google DeepMind",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "published": "2026-11-11T15:00:15+00:00",
+      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
+    },
+    {
+      "id": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "published": "2026-11-11T08:00:00+00:00",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+    },
+    {
+      "id": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "published": "2026-11-11T00:00:00+00:00",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+    },
+    {
       "id": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
       "source": "deepmind",
       "source_name": "Google DeepMind",
@@ -37,24 +73,6 @@
       "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
     },
     {
-      "id": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "published": "2026-11-10T09:00:00+00:00",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
-    },
-    {
-      "id": "https://openai.com/index/ai-effect-on-freelance-work",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "published": "2026-11-10T07:00:00+00:00",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
-    },
-    {
       "id": "https://www.anthropic.com/news/roadshow-launch",
       "source": "anthropic",
       "source_name": "Anthropic",
@@ -62,35 +80,8 @@
       "url": "https://www.anthropic.com/news/roadshow-launch",
       "published": "2026-11-10T00:00:00+00:00",
       "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock."
-    },
-    {
-      "id": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "published": "2026-11-09T19:51:47+00:00",
-      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety"
-    },
-    {
-      "id": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "published": "2026-11-09T19:00:00+00:00",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
-    },
-    {
-      "id": "https://www.anthropic.com/research/claude-electronics-design",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Claude can design electronic prototypes from start to finish",
-      "url": "https://www.anthropic.com/research/claude-electronics-design",
-      "published": "2026-11-09T00:00:00+00:00",
-      "summary": "We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. The prototypes worked without any fixes to their circuitry."
     }
   ],
   "errors": null,
-  "generated_at": "2026-11-10T22:12:48.414777+00:00"
+  "generated_at": "2026-11-11T22:13:59.904821+00:00"
 }

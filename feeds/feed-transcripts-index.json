@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-11-10T22:45:31.671551+00:00",
+  "generated_at": "2026-11-11T22:30:36.105408+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "0b043df9-5966-446f-a728-40e22f4ace51",
+      "link": "https://deepmind.com/podcast",
+      "channel": "Google DeepMind Podcast",
+      "title": "AlphaGenome 2: Teaching AI to read the entire human genome",
+      "pub_date": "2026-11-11T20:03:03+00:00",
+      "transcript_path": "feeds/transcripts/ffed3fe1c2c859d478921344.txt",
+      "transcript_chars": 18567,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-11T22:30:36.105408+00:00",
+      "last_seen_at": "2026-11-11T22:30:36.105408+00:00",
+      "expires_at": "2026-11-25T22:30:36.105408+00:00"
+    },
+    {
+      "guid": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+      "link": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+      "channel": "Lenny's Podcast",
+      "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
+      "pub_date": "2026-11-11T13:04:09+00:00",
+      "transcript_path": "feeds/transcripts/921158d57e02152d834cbdd0.txt",
+      "transcript_chars": 4670,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-11T22:30:36.105408+00:00",
+      "last_seen_at": "2026-11-11T22:30:36.105408+00:00",
+      "expires_at": "2026-11-25T22:30:36.105408+00:00"
+    },
+    {
+      "guid": "https://lexfridman.com/?p=7818",
+      "link": "https://lexfridman.com/ukraine-war-preston-stewart-michael-kofman/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-war-preston-stewart-michael-kofman",
+      "channel": "Lex Fridman",
+      "title": "#504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
+      "pub_date": "2026-11-10T23:52:44+00:00",
+      "transcript_path": "feeds/transcripts/38b712413cd77161f5367fd8.txt",
+      "transcript_chars": 185818,
+      "transcript_source": "description_transcript_link",
+      "cached_at": "2026-11-11T07:52:01.950699+00:00",
+      "last_seen_at": "2026-11-11T22:30:36.105408+00:00",
+      "expires_at": "2026-11-25T22:30:36.105408+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
       "link": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
@@ -12,8 +51,8 @@
       "transcript_chars": 11166,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-10T22:45:31.671551+00:00",
-      "last_seen_at": "2026-11-10T22:45:31.671551+00:00",
-      "expires_at": "2026-11-24T22:45:31.671551+00:00"
+      "last_seen_at": "2026-11-11T22:30:36.105408+00:00",
+      "expires_at": "2026-11-25T22:30:36.105408+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
@@ -25,8 +64,8 @@
       "transcript_chars": 4976,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-09T23:44:34.135067+00:00",
-      "last_seen_at": "2026-11-10T22:45:31.671551+00:00",
-      "expires_at": "2026-11-24T22:45:31.671551+00:00"
+      "last_seen_at": "2026-11-11T22:30:36.105408+00:00",
+      "expires_at": "2026-11-25T22:30:36.105408+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
@@ -38,8 +77,8 @@
       "transcript_chars": 4773,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-09T23:44:34.135067+00:00",
-      "last_seen_at": "2026-11-10T22:45:31.671551+00:00",
-      "expires_at": "2026-11-24T22:45:31.671551+00:00"
+      "last_seen_at": "2026-11-11T22:30:36.105408+00:00",
+      "expires_at": "2026-11-25T22:30:36.105408+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
@@ -51,8 +90,8 @@
       "transcript_chars": 5078,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-09T23:44:34.135067+00:00",
-      "last_seen_at": "2026-11-10T22:45:31.671551+00:00",
-      "expires_at": "2026-11-24T22:45:31.671551+00:00"
+      "last_seen_at": "2026-11-11T22:30:36.105408+00:00",
+      "expires_at": "2026-11-25T22:30:36.105408+00:00"
     },
     {
       "guid": "yt:x7Z_1miRWB8",
@@ -64,8 +103,8 @@
       "transcript_chars": 27573,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-09T23:44:34.135067+00:00",
-      "last_seen_at": "2026-11-10T22:45:31.671551+00:00",
-      "expires_at": "2026-11-24T22:45:31.671551+00:00"
+      "last_seen_at": "2026-11-11T22:30:36.105408+00:00",
+      "expires_at": "2026-11-25T22:30:36.105408+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_e4eae676-23c0-4ee3-bf61-919e4d3b3909",
@@ -116,8 +155,8 @@
       "transcript_chars": 37865,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-11-05T23:44:45.359386+00:00",
-      "last_seen_at": "2026-11-10T22:45:31.671551+00:00",
-      "expires_at": "2026-11-24T22:45:31.671551+00:00"
+      "last_seen_at": "2026-11-11T22:30:36.105408+00:00",
+      "expires_at": "2026-11-25T22:30:36.105408+00:00"
     },
     {
       "guid": "yt:HMA357MXB1o",
@@ -155,8 +194,8 @@
       "transcript_chars": 49177,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-10T22:45:31.671551+00:00",
-      "expires_at": "2026-11-24T22:45:31.671551+00:00"
+      "last_seen_at": "2026-11-11T22:30:36.105408+00:00",
+      "expires_at": "2026-11-25T22:30:36.105408+00:00"
     },
     {
       "guid": "yt:TjPPIf-M6KE",
@@ -393,32 +432,6 @@
       "expires_at": "2026-11-16T22:29:25.167392+00:00"
     },
     {
-      "guid": "https://lexfridman.com/?p=7807",
-      "link": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=math-ai-crisis",
-      "channel": "Lex Fridman",
-      "title": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
-      "pub_date": "2026-10-26T22:52:28+00:00",
-      "transcript_path": "feeds/transcripts/5e6fe13ba1338fcf16c25915.txt",
-      "transcript_chars": 225373,
-      "transcript_source": "description_transcript_link",
-      "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
-      "expires_at": "2026-11-11T22:01:37.303353+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
-      "link": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
-      "channel": "Lenny's Podcast",
-      "title": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
-      "pub_date": "2026-10-26T12:04:20+00:00",
-      "transcript_path": "feeds/transcripts/e0b37930bca3beaa4c54b514.txt",
-      "transcript_chars": 4485,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
-      "expires_at": "2026-11-11T22:01:37.303353+00:00"
-    },
-    {
       "guid": "yt:24XUcWhqY_4",
       "link": "https://www.youtube.com/watch?v=24XUcWhqY_4",
       "channel": "20VC with Harry Stebbings",
@@ -430,19 +443,6 @@
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
       "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
       "expires_at": "2026-11-15T03:05:23.669248+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
-      "pub_date": "2026-10-26T15:00:53+00:00",
-      "transcript_path": "feeds/transcripts/686c74002f230e47034aad2d.txt",
-      "transcript_chars": 7978,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-26T23:28:30.737067+00:00",
-      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
-      "expires_at": "2026-11-11T22:01:37.303353+00:00"
     },
     {
       "guid": "yt:oIp3JrX3KL8",
@@ -458,19 +458,6 @@
       "expires_at": "2026-11-13T22:28:57.856494+00:00"
     },
     {
-      "guid": "yt:sH5qyeHSdVs",
-      "link": "https://www.youtube.com/watch?v=sH5qyeHSdVs",
-      "channel": "Yahoo Finance and Deirdre Bosa",
-      "title": "Exclusive: Jensen Huang sits down with Deirdre Bosa at Nvidia GTC Berlin",
-      "pub_date": "2026-10-21T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/ac877c6150ebc314824c5c5f.txt",
-      "transcript_chars": 30322,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-26T23:28:30.737067+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
-    },
-    {
       "guid": "67407b17-fc00-459d-bcd7-cac8281297be",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--040---ASML-Is-Building-a-Hybrid-Bonding-Tool--and-Its-Patents-Show-How-AI-Supply-Chain--Jordan-Nanos--Howie--Sherry-Zhang-e3qulph",
       "channel": "SemiAnalysis",
@@ -484,110 +471,6 @@
       "expires_at": "2026-11-19T23:44:45.359386+00:00"
     },
     {
-      "guid": "yt:v-NGxyPjcrE",
-      "link": "https://www.youtube.com/watch?v=v-NGxyPjcrE",
-      "channel": "NVIDIA",
-      "title": "NVIDIA GTC Berlin 2026 Keynote With CEO Jensen Huang",
-      "pub_date": "2026-10-23T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/77a6060404b20f35a9a6ae44.txt",
-      "transcript_chars": 66844,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
-      "expires_at": "2026-11-11T22:01:37.303353+00:00"
-    },
-    {
-      "guid": "yt:_rG0rG5Nd5w",
-      "link": "https://www.youtube.com/watch?v=_rG0rG5Nd5w",
-      "channel": "MTS ",
-      "title": "US Must Reshore AI Drug Discovery Infrastructure | Kevin Weil",
-      "pub_date": "2026-10-23T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/2d734175f5e0bad8ab568d3d.txt",
-      "transcript_chars": 18183,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
-      "expires_at": "2026-11-11T22:01:37.303353+00:00"
-    },
-    {
-      "guid": "yt:X6_6oMSksw8",
-      "link": "https://www.youtube.com/watch?v=X6_6oMSksw8",
-      "channel": "51-49 with James Li",
-      "title": "Sam Altman’s Biggest Nightmare — Annie Altman TELLS ALL!!",
-      "pub_date": "2026-10-22T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/6e2bf730937a9d16067675eb.txt",
-      "transcript_chars": 17468,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-28T22:01:37.303353+00:00",
-      "expires_at": "2026-11-11T22:01:37.303353+00:00"
-    },
-    {
-      "guid": "yt:t2LLh6HUG2Y",
-      "link": "https://www.youtube.com/watch?v=t2LLh6HUG2Y",
-      "channel": "Yahoo Finance",
-      "title": "Nvidia GTC Berlin 2026: Jensen Huang Full Keynote",
-      "pub_date": "2026-10-21T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/37c829a17dec8b6805f9739d.txt",
-      "transcript_chars": 64169,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-23T04:09:46.138835+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
-    },
-    {
-      "guid": "yt:3gXLmy7DK_4",
-      "link": "https://www.youtube.com/watch?v=3gXLmy7DK_4",
-      "channel": "Matthew Berman",
-      "title": "Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more!",
-      "pub_date": "2026-10-21T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/493ddbe778aa515dc8b1e3fe.txt",
-      "transcript_chars": 44051,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
-    },
-    {
-      "guid": "yt:anAmTGcewX8",
-      "link": "https://www.youtube.com/watch?v=anAmTGcewX8",
-      "channel": "Stanford Graduate School of Business",
-      "title": "Sam Altman, Co-Founder and CEO of OpenAI: Staying Human While Scaling Superintelligence",
-      "pub_date": "2026-10-21T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/1ae4bc16ef2360bbc88c2ffd.txt",
-      "transcript_chars": 44855,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
-    },
-    {
-      "guid": "yt:fJBSNEFdm8c",
-      "link": "https://www.youtube.com/watch?v=fJBSNEFdm8c",
-      "channel": "Sources Podcast and 2 more",
-      "title": "Sundar Pichai on Gemini 4 and putting data centers in space",
-      "pub_date": "2026-10-21T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/b011d9996a0639df0c414e81.txt",
-      "transcript_chars": 56245,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
-    },
-    {
-      "guid": "yt:PvFjbPYEOZI",
-      "link": "https://www.youtube.com/watch?v=PvFjbPYEOZI",
-      "channel": "NVIDIA",
-      "title": "NVIDIA GTC Berlin 2026 Keynote With CEO Jensen Huang",
-      "pub_date": "2026-10-21T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/3a9f5cc378e6f52e7aad958d.txt",
-      "transcript_chars": 67017,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-21T23:02:54.334129+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
-    },
-    {
       "guid": "27dff112-099e-47eb-95a4-c9aba0ed9414",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--039---EMERGENCY-Our-Numbers-Are-Insane--Heres-the-Proof--Datacenters--Jeremie-Ontiveros--Reyk-Knuhtsen--Jordan-Nanos-e3qpvpg",
       "channel": "SemiAnalysis",
@@ -599,19 +482,6 @@
       "cached_at": "2026-10-21T23:02:54.334129+00:00",
       "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
       "expires_at": "2026-11-16T22:29:25.167392+00:00"
-    },
-    {
-      "guid": "79088467-ffe5-4436-b693-62ead9c7e4ac",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--038---GLM-5-3-on-AMD--NVIDIA--and-Chinese-Chips-From-Day-One-InferenceX--Kimbo-Chen--Wenyao-Gao--Jordan-Nanos-e3qfp6b",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 038 - GLM 5.3 on AMD, NVIDIA, and Chinese Chips From Day One (InferenceX) | Kimbo Chen, Wenyao Gao, Jordan Nanos",
-      "pub_date": "2026-10-14T11:00:00+00:00",
-      "transcript_path": "feeds/transcripts/3ea4dacc56ccacb986f3574c.txt",
-      "transcript_chars": 38873,
-      "transcript_source": "companion_youtube",
-      "cached_at": "2026-10-20T22:27:04.241565+00:00",
-      "last_seen_at": "2026-10-28T03:34:59.412837+00:00",
-      "expires_at": "2026-11-11T03:34:59.412837+00:00"
     }
   ]
 }
