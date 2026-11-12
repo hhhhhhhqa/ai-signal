@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "https://openai.com/index/amplitude",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/index/amplitude",
+      "published": "2026-11-12T20:00:00+00:00",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+    },
+    {
+      "id": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source": "deepmind",
+      "source_name": "Google DeepMind",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "published": "2026-11-12T18:00:50+00:00",
+      "summary": "Google introduces Gemini 4 Hydrogen, a fast, cost-efficient model built for reliable agentic workflows and everyday tasks. Get the details."
+    },
+    {
+      "id": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "published": "2026-11-12T09:30:00+00:00",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+    },
+    {
+      "id": "https://openai.com/index/children-first-declaration",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+    },
+    {
       "id": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "source": "openai",
       "source_name": "OpenAI",
@@ -26,62 +62,8 @@
       "url": "https://openai.com/index/chatgpt-plus-for-veterans",
       "published": "2026-11-11T08:00:00+00:00",
       "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
-    },
-    {
-      "id": "https://openai.com/index/jiostar-vijay-seshadri",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "published": "2026-11-11T00:00:00+00:00",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
-    },
-    {
-      "id": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "Gemini 4 Carbon is now available",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "published": "2026-11-10T16:03:47+00:00",
-      "summary": "Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers."
-    },
-    {
-      "id": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "deepmind",
-      "source_name": "Google DeepMind",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "published": "2026-11-10T12:02:28+00:00",
-      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption."
-    },
-    {
-      "id": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "published": "2026-11-10T12:00:00+00:00",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
-    },
-    {
-      "id": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "published": "2026-11-10T10:00:00+00:00",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
-    },
-    {
-      "id": "https://www.anthropic.com/news/roadshow-launch",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Anthropic launches roadshow for proposed initial public offering",
-      "url": "https://www.anthropic.com/news/roadshow-launch",
-      "published": "2026-11-10T00:00:00+00:00",
-      "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock."
     }
   ],
   "errors": null,
-  "generated_at": "2026-11-11T22:13:59.904821+00:00"
+  "generated_at": "2026-11-12T22:12:27.159046+00:00"
 }
