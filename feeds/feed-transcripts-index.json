@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-11-14T23:51:36.403466+00:00",
+  "generated_at": "2026-11-16T00:39:05.088721+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "yt:wKfnL_wHafs",
+      "link": "https://www.youtube.com/watch?v=wKfnL_wHafs",
+      "channel": "Hoog",
+      "title": "Mark Zuckerberg Doesn't Understand Superintelligence",
+      "pub_date": "2026-11-10T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/2e18c4bc2bd980e98f0fa86b.txt",
+      "transcript_chars": 35627,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-16T00:39:05.088721+00:00",
+      "last_seen_at": "2026-11-16T00:39:05.088721+00:00",
+      "expires_at": "2026-11-30T00:39:05.088721+00:00"
+    },
     {
       "guid": "715c6076-ade8-4ce9-a04a-9f6ff983b8ad",
       "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Is-AI-Killing-Adobe--We-Discuss-e3sbv2s",
@@ -12,8 +25,8 @@
       "transcript_chars": 140659,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-14T23:51:36.403466+00:00",
-      "last_seen_at": "2026-11-14T23:51:36.403466+00:00",
-      "expires_at": "2026-11-28T23:51:36.403466+00:00"
+      "last_seen_at": "2026-11-16T00:39:05.088721+00:00",
+      "expires_at": "2026-11-30T00:39:05.088721+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/rsi",
@@ -25,8 +38,8 @@
       "transcript_chars": 53796,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-14T10:47:53.965771+00:00",
-      "last_seen_at": "2026-11-14T23:51:36.403466+00:00",
-      "expires_at": "2026-11-28T23:51:36.403466+00:00"
+      "last_seen_at": "2026-11-16T00:39:05.088721+00:00",
+      "expires_at": "2026-11-30T00:39:05.088721+00:00"
     },
     {
       "guid": "48cdc2ca-573e-4864-98e6-1361c3775d0f",
@@ -38,8 +51,8 @@
       "transcript_chars": 51937,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-14T10:47:53.965771+00:00",
-      "last_seen_at": "2026-11-14T23:51:36.403466+00:00",
-      "expires_at": "2026-11-28T23:51:36.403466+00:00"
+      "last_seen_at": "2026-11-16T00:39:05.088721+00:00",
+      "expires_at": "2026-11-30T00:39:05.088721+00:00"
     },
     {
       "guid": "yt:JW5s9Md4U2U",
@@ -51,8 +64,8 @@
       "transcript_chars": 40057,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-14T10:47:53.965771+00:00",
-      "last_seen_at": "2026-11-14T23:51:36.403466+00:00",
-      "expires_at": "2026-11-28T23:51:36.403466+00:00"
+      "last_seen_at": "2026-11-16T00:39:05.088721+00:00",
+      "expires_at": "2026-11-30T00:39:05.088721+00:00"
     },
     {
       "guid": "7635e168-3d26-41b5-9290-317814f4f9bc",
@@ -233,8 +246,8 @@
       "transcript_chars": 37865,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-11-05T23:44:45.359386+00:00",
-      "last_seen_at": "2026-11-14T23:51:36.403466+00:00",
-      "expires_at": "2026-11-28T23:51:36.403466+00:00"
+      "last_seen_at": "2026-11-16T00:39:05.088721+00:00",
+      "expires_at": "2026-11-30T00:39:05.088721+00:00"
     },
     {
       "guid": "yt:HMA357MXB1o",
@@ -272,8 +285,8 @@
       "transcript_chars": 49177,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-14T23:51:36.403466+00:00",
-      "expires_at": "2026-11-28T23:51:36.403466+00:00"
+      "last_seen_at": "2026-11-16T00:39:05.088721+00:00",
+      "expires_at": "2026-11-30T00:39:05.088721+00:00"
     },
     {
       "guid": "yt:TjPPIf-M6KE",
@@ -367,32 +380,6 @@
       "expires_at": "2026-11-16T22:29:25.167392+00:00"
     },
     {
-      "guid": "https://www.dwarkesh.com/p/robert-caro",
-      "link": "https://www.dwarkesh.com/p/robert-caro",
-      "channel": "Dwarkesh Patel",
-      "title": "Robert Caro – The master biographer reflects at 91",
-      "pub_date": "2026-10-30T16:56:02+00:00",
-      "transcript_path": "feeds/transcripts/a7d82e56862b09c7c7bdbd3f.txt",
-      "transcript_chars": 35054,
-      "transcript_source": "content_transcript_link",
-      "cached_at": "2026-10-30T22:28:57.856494+00:00",
-      "last_seen_at": "2026-11-02T00:37:36.888476+00:00",
-      "expires_at": "2026-11-16T00:37:36.888476+00:00"
-    },
-    {
-      "guid": "f9b14d57-8760-43a9-a6e1-da786a2cae6d",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Tim-Melvin-Finding-Value-Where-Wall-Street-Isnt-Looking-e3r98sb",
-      "channel": "The Acquirers Podcast",
-      "title": "Tim Melvin: Finding Value Where Wall Street Isn’t Looking",
-      "pub_date": "2026-10-29T07:00:00+00:00",
-      "transcript_path": "feeds/transcripts/98cbc5cba056cb89c7b4a27e.txt",
-      "transcript_chars": 144791,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-30T22:28:57.856494+00:00",
-      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
-      "expires_at": "2026-11-15T03:05:23.669248+00:00"
-    },
-    {
       "guid": "yt:OV1QfQ3C29Q",
       "link": "https://www.youtube.com/watch?v=OV1QfQ3C29Q",
       "channel": "TBPN",
@@ -404,32 +391,6 @@
       "cached_at": "2026-10-30T22:28:57.856494+00:00",
       "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
       "expires_at": "2026-11-16T22:29:25.167392+00:00"
-    },
-    {
-      "guid": "yt:StNgnJzdDwo",
-      "link": "https://www.youtube.com/watch?v=StNgnJzdDwo",
-      "channel": "Hushmere",
-      "title": "Dario Amodei's Story - The Physicist Before Anthropic",
-      "pub_date": "2026-10-26T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/a0606c9be53b73c516ea774e.txt",
-      "transcript_chars": 15435,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-30T22:28:57.856494+00:00",
-      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
-      "expires_at": "2026-11-15T03:05:23.669248+00:00"
-    },
-    {
-      "guid": "https://www.dwarkesh.com/p/lessons-in-power",
-      "link": "https://www.dwarkesh.com/p/lessons-in-power",
-      "channel": "Dwarkesh Patel",
-      "title": "What I learned about power from LBJ and Robert Moses",
-      "pub_date": "2026-10-29T16:48:39+00:00",
-      "transcript_path": "feeds/transcripts/9bb4a2f2e860d82286c31425.txt",
-      "transcript_chars": 24881,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-10-30T02:58:41.183811+00:00",
-      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
-      "expires_at": "2026-11-15T03:05:23.669248+00:00"
     },
     {
       "guid": "yt:iMsUcCYNKqY",
@@ -482,19 +443,6 @@
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
       "last_seen_at": "2026-11-02T22:29:25.167392+00:00",
       "expires_at": "2026-11-16T22:29:25.167392+00:00"
-    },
-    {
-      "guid": "yt:24XUcWhqY_4",
-      "link": "https://www.youtube.com/watch?v=24XUcWhqY_4",
-      "channel": "20VC with Harry Stebbings",
-      "title": "Satya Nadella on Open vs Closed Models: Who Wins | Why Companies Need to Own Their Own Intelligence",
-      "pub_date": "2026-10-26T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/86adc93e7d0c6825e9b42e93.txt",
-      "transcript_chars": 24508,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-28T03:34:59.412837+00:00",
-      "last_seen_at": "2026-11-01T03:05:23.669248+00:00",
-      "expires_at": "2026-11-15T03:05:23.669248+00:00"
     },
     {
       "guid": "67407b17-fc00-459d-bcd7-cac8281297be",
