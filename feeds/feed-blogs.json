@@ -1,24 +1,60 @@
 {
   "articles": [
     {
-      "id": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "id": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "source": "openai",
       "source_name": "OpenAI",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "published": "2026-11-15T22:00:01+00:00",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "published": "2026-11-16T17:00:00+00:00",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
     },
     {
-      "id": "https://openai.com/index/our-new-blog-for-science",
+      "id": "https://openai.com/index/strengthening-online-child-safety",
       "source": "openai",
       "source_name": "OpenAI",
-      "title": "Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "published": "2026-11-15T22:00:00+00:00",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "published": "2026-11-16T17:00:00+00:00",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+    },
+    {
+      "id": "https://openai.com/index/science-at-the-frontier",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "published": "2026-11-16T12:00:00+00:00",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+    },
+    {
+      "id": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "published": "2026-11-16T09:00:00+00:00",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+    },
+    {
+      "id": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "published": "2026-11-16T08:00:00+00:00",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems."
+    },
+    {
+      "id": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+      "source": "anthropic",
+      "source_name": "Anthropic",
+      "title": "Updating our coordinated vulnerability disclosure policy timelines",
+      "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+      "published": "2026-11-16T00:00:00+00:00",
+      "summary": "We’re shortening our vulnerability disclosure window from 90 days to 30 days for high- and critical-severity issues, and to 45 days for all other issues."
     }
   ],
   "errors": null,
-  "generated_at": "2026-11-15T22:11:42.068906+00:00"
+  "generated_at": "2026-11-16T22:10:21.606220+00:00"
 }

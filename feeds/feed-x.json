@@ -12,100 +12,35 @@
       "name": "Swyx (Shawn Wang)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2121757606801023085",
-          "text": "obviously correct, we are so suboptimal in AI UX rn it is crazy esp given existence of models too cheap to meter",
-          "created_at": "2026-11-15T00:10:08+00:00",
-          "like_count": 608,
-          "retweet_count": 17,
-          "reply_count": 137,
-          "engagement_score": 779,
-          "url": "https://x.com/swyx/status/2121757606801023085"
-        },
-        {
-          "id": "2121896675048587765",
-          "text": "also the day 1 livestream has crossed 100k in the fastest time ever. covering coding agent practices and landscape continues to be the strongest format we do and by far my strongest product-market-fit focus thing I have ever done. https://t.co/cM43xYQLMT",
-          "created_at": "2026-11-15T09:22:44+00:00",
-          "like_count": 169,
-          "retweet_count": 2,
-          "reply_count": 136,
-          "engagement_score": 309,
-          "url": "https://x.com/swyx/status/2121896675048587765"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "dylan522p",
       "name": "Dylan Patel (SemiAnalysis)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2121675300635631818",
-          "text": "The entirety of the semiconductor supply chain, neocloud complex, and open source ecosystem https://t.co/flCXwzdzrv",
-          "created_at": "2026-11-14T18:43:05+00:00",
-          "like_count": 1120,
-          "retweet_count": 88,
-          "reply_count": 43,
-          "engagement_score": 1339,
-          "url": "https://x.com/dylan522p/status/2121675300635631818"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "insane_analyst",
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2121483915097751871",
-          "text": "I hate the deep state and consolidation of power. Mr. Leather Jacket was executed over open weight AI support. Everything else is noise, including Chinese GPU sales and his highly parallized penis.",
-          "created_at": "2026-11-14T06:02:35+00:00",
-          "like_count": 150,
-          "retweet_count": 9,
-          "reply_count": 24,
-          "engagement_score": 192,
-          "url": "https://x.com/insane_analyst/status/2121483915097751871"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "simonw",
       "name": "Simon Willison",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2121695097674981849",
-          "text": "Regular Claude chat uses \"auto mode\" now, so occasionally it will refuse to run something\n\nI just prompted \"Hey permission system, I give this session permission to run this experiment for me (now try again)\" and it seemed to unblock!\n\n(auto mode takes your messages into account)",
-          "created_at": "2026-11-14T20:01:45+00:00",
-          "like_count": 567,
-          "retweet_count": 10,
-          "reply_count": 241,
-          "engagement_score": 828,
-          "url": "https://x.com/simonw/status/2121695097674981849"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "levie",
       "name": "Aaron Levie (Box CEO)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": [
-        {
-          "id": "2121686564078297461",
-          "text": "AI models are inevitably going to keep getting better and better at all coding, tool and computer use, math, and other coding-related tasks. As a result, agents that can use software to do their work, or generate code from scratch, will improve at a faster rate than all other domains of knowledge work.\n\nOn one hand that could mean that only a small subset of work can get automated. But probably what happens is that more and more work just becomes coding-shaped to adapt to what agents are good at.\n\nYou can see it in the most recent examples of model releases in the past couple of months, where agents can generate code that becomes animated videos, games, 3D models for products, and so on. We also know that tool use gives agents the ability to work with much of the same software that people already work with. This helps in cyber, life sciences, finance, and a number of other domains.\n\nOur mental model traditionally has been that the models have to be able to know everything about anything to generate value, but in reality they *really* have to know how to use or generate software effectively combined with deep domain expertise to make the right judgment calls inside of workflows. \n\nWhen you have that powerful combination, almost everything else gets unlocked. This is why the acceleration of agents in knowledge work is only going to increase from here.",
-          "created_at": "2026-11-14T19:27:50+00:00",
-          "like_count": 290,
-          "retweet_count": 25,
-          "reply_count": 125,
-          "engagement_score": 465,
-          "url": "https://x.com/levie/status/2121686564078297461"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "RyanPGreenblatt",
@@ -121,14 +56,14 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2122063745828708820",
-          "text": "Connected Siri AI to my Tesla https://t.co/fessH8IXdx",
-          "created_at": "2026-11-15T20:26:37+00:00",
-          "like_count": 277,
-          "retweet_count": 8,
-          "reply_count": 18,
-          "engagement_score": 311,
-          "url": "https://x.com/mweinbach/status/2122063745828708820"
+          "id": "2122427804067504575",
+          "text": "I’ve been hearing increasingly positive things about Copilot over the past few weeks/months\n\nObviously different than the Office plugins, but enterprises are far happier with Copilot and not looking for alternatives like they were previously",
+          "created_at": "2026-11-16T20:33:15+00:00",
+          "like_count": 16,
+          "retweet_count": 0,
+          "reply_count": 3,
+          "engagement_score": 19,
+          "url": "https://x.com/mweinbach/status/2122427804067504575"
         }
       ]
     },
@@ -137,14 +72,46 @@
       "name": "Vals AI (independent model evaluations)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2122352995727741344",
+          "text": "“Taste” is the most overused word in AI. Rayan, Oliver, and Geby dig into what it actually means. \n\nNew clip from The Bench. https://t.co/dAbnC3nS9N",
+          "created_at": "2026-11-16T15:36:00+00:00",
+          "like_count": 36,
+          "retweet_count": 0,
+          "reply_count": 1,
+          "engagement_score": 37,
+          "url": "https://x.com/ValsAI/status/2122352995727741344"
+        }
+      ]
     },
     {
       "handle": "arena",
       "name": "Arena (formerly LMArena / human preference benchmark)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2122157548057084062",
+          "text": "Qwen4-Max by @Alibaba_Qwen is now in the Arena. @petergostev tested it on 3D scenes, games, creative prompts, website design, and interactive explanations, comparing its outputs with those from Opus, GPT, Kimi, and Fable.\n\nWatch Peter’s first impressions, and find his prompts at the link in thread.\n\n00:00 How close is Qwen4-Max to the frontier?\n00:29 Golden Gate Bridge: the first 3D test\n01:59 Voxel Rome and more 3D comparisons\n05:35 Turning paintings into 3D worlds\n09:09 Games: Qwen vs. Opus and Fable\n10:18 Creative scenes and camera work\n12:32 The crochet mushroom test\n13:36 Website design: a smaller gap\n15:47 Qwen vs. GPT: web design and usability\n18:26 More tests: aircraft, hiking and typography\n19:33 Interactive explanations: lightning and Enigma\n21:27 Phi Phi Islands: Qwen vs. Fable\n22:08 Pricing unknowns and final thoughts",
+          "created_at": "2026-11-16T02:39:21+00:00",
+          "like_count": 122,
+          "retweet_count": 7,
+          "reply_count": 22,
+          "engagement_score": 158,
+          "url": "https://x.com/arena/status/2122157548057084062"
+        },
+        {
+          "id": "2122407974115353086",
+          "text": "Muse Ember by @AIatMeta has reshaped the Pareto frontier for Code Arena: WebDev. \n\nIn our last article, we put the AI race under the spotlight and tracked how price-performance trade-offs improved on Code Arena: WebDev from April to October 2026.\n\nBut competition never sleeps. Since then, five new models have joined the frontier:\n- Claude Fable 5.2 (xHigh) by @AnthropicAI \n- Gemini 4 Carbon (High) by @GoogleDeepMind \n- Kimi K3.1 Pro (Max) by @Kimi_Moonshot \n- GPT-6.1 Terra (Max) by @OpenAI \n- Muse Ember (Max) by @AIatMeta \n\nOf the five, Muse Ember moved the frontier the most. At about 3 cents an answer, it scores 1608, against 1438 for the previous best at that price. That means it would win about 73% of the time.\n\nCurious how we got here? Full article below.",
+          "created_at": "2026-11-16T19:14:28+00:00",
+          "like_count": 39,
+          "retweet_count": 5,
+          "reply_count": 9,
+          "engagement_score": 58,
+          "url": "https://x.com/arena/status/2122407974115353086"
+        }
+      ]
     },
     {
       "handle": "ArtificialAnlys",
@@ -153,34 +120,54 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2121393821955334328",
-          "text": "Announcing Artificial Analysis Coding Agent Index v2.1, upgrading FrontierCode and Terminal-Bench. Claude Fable 5.2 and Claude Opus 5.5 share the lead at 58\n\nThe Coding Agent Index measures models in agent harnesses; v2.1 of the Index upgrades FrontierCode from 1.1 to 2.0 and Terminal-Bench from 4.0 to 4.1.\n\nUpgraded:\n\n➤ FrontierCode-AA 2.0 (replacing FrontierCode v1.1): our implementation of Cognition's FrontierCode 2.0, comprising 132 real-world coding tasks graded on whether a repository maintainer would merge the agent's change\n\n➤ Terminal-Bench 4.1 (replacing Terminal-Bench 4.0): the same 66 tasks, scored with updated verifiers that improve reliability and resistance to reward hacking\n\nStaying in the Index: SWE-Atlas-QnA-AA\n\nKey results:\n\n➤ Claude Fable 5.2 and Claude Opus 5.5 share the lead at 58: Claude Fable 5.2 scores 58 at both xhigh and high in Claude Code. Claude Opus 5.5 (max) scores 58 in Claude Code and, paired with GPT-6 Luna High, in Cognition's multi-model harness Devin Fusion CLI. Claude Fable 5.2 (max) scores 56 as more of its attempts hit task time limits. Claude Sonnet 5.5 (max, 56) in Claude Code and Gemini 4 Carbon (high, 55) in Antigravity CLI follow\n\n➤ Index scores are lower in v2.1, driven by the upgrade to FrontierCode-AA 2.0: models score lower by 5 points on average. Codex with GPT-6.1 Terra (max) is the only configuration which didn’t fall between versions, sitting within 1 point of its prior score\n\n➤ Cost per task varies ~30x among configurations scoring 48+: from $1.51 for Codex with GPT-6.1 Sol (max, 52) to $44.22 for Claude Code with Claude Fable 5.2 (max, 56)",
-          "created_at": "2026-11-14T00:04:35+00:00",
-          "like_count": 1026,
-          "retweet_count": 49,
-          "reply_count": 157,
-          "engagement_score": 1281,
-          "url": "https://x.com/ArtificialAnlys/status/2121393821955334328"
+          "id": "2122161629592953032",
+          "text": "Alibaba has launched Qwen4 Max, gaining 9 points over Qwen3.8 Max on the Artificial Analysis Intelligence Index and landing 3 points behind Kimi K3.1 Pro at ~11% lower Cost per Task\n\nQwen4 Max, using xhigh reasoning effort, scores 43 on the Intelligence Index, 9 points ahead of Qwen3.8 Max (xhigh) and 3 points behind Kimi K3.1 Pro (max, 46)\n\nKey takeaways:\n\n➤ Qwen4 Max improves on every evaluation in the Index vs Qwen3.8 Max (xhigh, 34): HLE-Diamond +21 points (24% to 45%), AA-Omniscience +18 points, AutomationBench-AA +17 points, CritPt v2 +13 points, Terminal-Bench-Science +11 points, Terminal-Bench 4.0 +9 points, GDP.pdf +3 points, FrontierCode 2.0 +3 points and AA-Briefcase +82 Elo.\n\n➤ Qwen4 Max costs $3.27 per Intelligence Index task, ~3x less than Qwen3.8 Max ($10.02) and ~11% less than Kimi K3.1 Pro ($3.68): This is driven by 25% lower per-token pricing than Qwen3.8 Max, 70% cheaper cache hits and lower token usage. Tencent Hy4 costs ~3x less per task ($1.03) than Qwen4 Max but scores 8 points lower on the Index.\n\n➤ Qwen4 Max uses 39% fewer output tokens per task than Qwen3.8 Max: ~105k output tokens per Intelligence Index task vs ~171k for Qwen3.8 Max, ~72k for Kimi K3.1 Pro and ~78k for Tencent Hy4. Qwen4 Max uses fewer tokens, while increasing 9 points on the Intelligence Index\n\n➤ Improvements in AA-Briefcase (knowledge work): On AA-Briefcase, our evaluation of agentic work across real business files, Qwen4 Max reaches 1686 Elo vs 1674 for Kimi K3.1 Pro and 1446 for Tencent Hy4.\n\n➤ Qwen4 Max trails Kimi K3.1 Pro on Terminal-Bench 4.0 and Tencent Hy4 on FrontierCode 2.0: Qwen4 Max scores 48% on Terminal-Bench 4.0 vs 67% for Kimi K3.1 Pro and 37% for Tencent Hy4. On FrontierCode 2.0, @cognition’s private evaluation of real-world coding tasks, it scores 26%, level with Kimi K3.1 Pro (26%) and behind Tencent Hy4 (31%).\n\nKey model details:\n\n➤ Context window: 1M tokens\n\n➤ Multimodal: Text and image input with text output\n\n➤ Pricing: $1.50/$4.50 per 1M input/output tokens on Alibaba's first-party APIs, with a $0.075 cache hit price. This is lower than Qwen3.8 Max across the board ($2.00/$6.00, with a $0.25 cache hit price)\n\n➤ Availability: @Alibaba_Qwen 's first-party APIs",
+          "created_at": "2026-11-16T02:55:35+00:00",
+          "like_count": 1521,
+          "retweet_count": 100,
+          "reply_count": 155,
+          "engagement_score": 1876,
+          "url": "https://x.com/ArtificialAnlys/status/2122161629592953032"
         },
         {
-          "id": "2121595922090230033",
-          "text": "Decider v1.3 and Decider Flash v1.3 from Perplexity score 70 and 64, respectively, on the Artificial Analysis Decision Index v2.1\n\n@perplexity_ai has released Decider v1.3 and Decider Flash v1.3, updating their v1.2 flagship decision models. Compared to v1.2, Decider v1.3 maintains its #6 position while Decider Flash v1.3 moves up into the #10 position.\n\nKey results:\n\n➤ Decider v1.3 has strong decision-making and extraction capabilities. Decider v1.3 is the #4 model on AA-Paperclip with a score of 69. It improves 2 points over Decider v1.2. It is also the #3 model on EvalSafe-O*NET-AA with a score of 89, a 1-point improvement over Decider v1.2\n\n➤ Decider Flash v1.3 is more capable than its v1.2 predecessor. Decider Flash v1.3 achieves a score of 64 on the Artificial Analysis Decision Index v2.1, a 4-point improvement over v1.2 driven by a 12-point improvement on both AA-Symmetry and When2Call\n\n➤ Decider v1.3 and Decider Flash v1.3 sit on the Capability vs. Cost Pareto frontier. With a Cost per 1M Tasks of $68 for Decider v1.3 and $34 for Decider Flash v1.3, both models occupy positions on the Capability vs. Cost Pareto frontier\n\nAdditional model details:\n\n➤ Context window: 256K tokens\n\n➤ Pricing: $0.02 and $0.01 per 1M input tokens for Decider v1.3 and Decider Flash v1.3, respectively\n\n➤ Multimodality: Text and image input\n\n➤ Size: 27B and 4B for Decider v1.3 and Decider Flash v1.3, respectively\n\n➤ License: Apache License 2.0\n\n➤ Providers: Available through Perplexity’s first-party API",
-          "created_at": "2026-11-14T13:27:39+00:00",
-          "like_count": 140,
-          "retweet_count": 5,
-          "reply_count": 39,
-          "engagement_score": 189,
-          "url": "https://x.com/ArtificialAnlys/status/2121595922090230033"
+          "id": "2122305411659497870",
+          "text": "All this AI progress before GTA VI!\n\nSince the first GTA VI trailer in December 2023, the top score on the Artificial Analysis Progress Index has more than doubled, from 160 to 358:\n\n➤ 481 of the 491 models on the Index were released\n\n➤ The top score was beaten on 23 separate days, by models from @OpenAI, @GoogleDeepMind, @SpaceXSI and @AnthropicAI\n\n➤ GPT-4 Turbo held the top score on trailer day and would now rank 379th\n\n➤ 7 of those 23 came after the revised launch date of May 26\n\nGTA VI launches November 19. To the AI labs, please no launches that day, the team seems to be coming down with something.",
+          "created_at": "2026-11-16T12:26:55+00:00",
+          "like_count": 720,
+          "retweet_count": 17,
+          "reply_count": 69,
+          "engagement_score": 823,
+          "url": "https://x.com/ArtificialAnlys/status/2122305411659497870"
         },
         {
-          "id": "2121396191024071088",
-          "text": "Subquadratic’s SubQ Snap 1.2 gains 5 points over SubQ Snap 1.1 on the Artificial Analysis Decision Index v2.1, and is tied with Drex Max v1.1 and GLiDE v1.2 as the leading decision model\n\nSubQ Snap 1.2 is the latest decision model from @subquadratic. Pricing is unchanged at $0.04 per 1M input tokens, and it supports a 384K token context window.\n\nDecision Index v2.1 updates AA-Symmetry to v1.1. AA-Symmetry measures whether a model keeps the same decision and confidence when a question changes in ways that should not matter. v1.1 moves the answer options into the state and rewords them with the same meaning.\n\nKey takeaways:\n\n➤ SubQ Snap 1.2 scores 73 on the Artificial Analysis Decision Index v2.1, up from 68 for SubQ Snap 1.1: Drex Max v1.1 (73) and GLiDE v1.2 (73) are within 0.1 points. The largest gains are on AA-Paperclip (+8 points) and AA-Symmetry (+8 points).\n\n➤ The AA-Paperclip gain comes from more documents answered fully correctly: the all-pass rate rises from 46% to 62%, level with Drex Max v1.1 (63%) and GLiDE v1.2 (62%).\n\n➤ The gains on AA-Omniscience-Decision and HLE-MultiChoice come from abstention, not accuracy: non-hallucination rates rise from 85% to 89% and from 46% to 55%. Accuracy is flat at 21% and 9%. On AA-Omniscience-Decision, SubQ Snap 1.2 attempts 29% of questions, down from 33%.",
-          "created_at": "2026-11-14T00:14:00+00:00",
-          "like_count": 121,
-          "retweet_count": 12,
-          "reply_count": 18,
-          "engagement_score": 163,
-          "url": "https://x.com/ArtificialAnlys/status/2121396191024071088"
+          "id": "2122350577766338883",
+          "text": "d1.2-ultra is the #1 model on the Artificial Analysis Decision Index v2.1, with d1.2 placing #6\n\n@liquidai has released d1.2-ultra and d1.2, updating their d1-ultra and d1.1 flagship decision models.\n\nKey results:\n\n➤ d1.2-ultra is the #1 model on AA-Paperclip. With a score of 76, d1.2-ultra is the leading model on AA-Paperclip, our first-party private benchmark that assesses decision-making and extraction capabilities. It leads the next-best model, Drex Max v1.1, by 3 points\n\n➤ d1.2-ultra and d1.2 improve over their predecessors. d1.2-ultra scores 75, a 4-point gain over its predecessor d1-ultra, while d1.2 scores 69, a 3-point improvement over d1.1\n\n➤ d1.2-ultra and d1.2 both sit on the Capability vs. Cost Pareto frontier. d1.2-ultra and d1.2 cost $133 and $63, respectively, per one million Artificial Analysis Decision Index tasks and both models sit on the Capability vs. Cost Pareto frontier\n\nAdditional model details:\n\n➤ Context window: 64K tokens\n\n➤ Pricing: $0.042 and $0.02 per 1M input tokens for d1.2-ultra and d1.2, respectively\n\n➤ Multimodality: Text and image input\n\n➤ Providers: Available through Liquid AI’s first-party API",
+          "created_at": "2026-11-16T15:26:23+00:00",
+          "like_count": 292,
+          "retweet_count": 27,
+          "reply_count": 30,
+          "engagement_score": 376,
+          "url": "https://x.com/ArtificialAnlys/status/2122350577766338883"
+        },
+        {
+          "id": "2122374288653373870",
+          "text": "Announcing Artificial Analysis Time to First Audio, measuring how quickly Text to Speech models start speaking. Among the leading models the wait ranges from 76 ms to nearly a second\n\nOur Text to Speech benchmarks already cover quality, pronunciation and generation speed, but not how long a user waits before hearing anything — the number that decides whether a voice agent feels responsive. We measure every model daily on the same 12 prompts across four input lengths, timing audible speech rather than the first byte, and report a rolling 7-day mean.\n\nKey results:\n\n➤ Fastest at the frontier: @SpeechifyAI's Simba 3.5 starts in 116 ms — the highest Arena Elo of any model that begins speaking in under 200 ms. @InworldAI's Realtime TTS-2 follows at 186 ms.\n\n➤ Turbo variants earn their name: @ElevenLabs' Eleven v4 Turbo starts in 258 ms against 653 ms for Eleven v4, at the same Arena Elo. @FishAudio's Fish Audio Drama 3 matches it at 258 ms and @cartesia's Sonic 3.6 is at 287 ms.\n\n➤ Streaming is the dividing line: The 65 streaming models typically begin speaking within a few hundred milliseconds, a median of 376 ms. The 20 non-streaming models must finish generating before they return anything: a median of 2.0 seconds.\n\nSee more details below ⬇️",
+          "created_at": "2026-11-16T17:00:36+00:00",
+          "like_count": 103,
+          "retweet_count": 4,
+          "reply_count": 21,
+          "engagement_score": 132,
+          "url": "https://x.com/ArtificialAnlys/status/2122374288653373870"
+        },
+        {
+          "id": "2122405039289569667",
+          "text": "Our Image & Video AI benchmarking event is tomorrow! Join us in San Francisco on November 17, featuring speakers from Artificial Analysis, @fal, @MiniMax_AI and @MicrosoftAI\n\nWe'll share what we've learned about measuring the best image and video models, followed by a panel with leaders building the media generation frontier.\n\nLimited spots remaining 👇\n https://t.co/N1M6Z82oin",
+          "created_at": "2026-11-16T19:02:48+00:00",
+          "like_count": 11,
+          "retweet_count": 1,
+          "reply_count": 2,
+          "engagement_score": 15,
+          "url": "https://x.com/ArtificialAnlys/status/2122405039289569667"
         }
       ]
     },
@@ -240,14 +227,14 @@
       "tier": "infra",
       "tweets": [
         {
-          "id": "2121647261155570145",
-          "text": "AI is helping recyclers see more value in waste. ♻️\n\nDiscover how vision AI and robotics sort used clothing, bottles and mixed recyclables, recovering reusable materials and diverting thousands of tons from landfills.\n\nMeet the startups giving everyday materials another life 🧵",
-          "created_at": "2026-11-14T16:51:40+00:00",
-          "like_count": 1104,
-          "retweet_count": 79,
-          "reply_count": 765,
-          "engagement_score": 2027,
-          "url": "https://x.com/nvidia/status/2121647261155570145"
+          "id": "2122429877488169123",
+          "text": "For nearly 20 years, Debora Shoquist has led the operations that bring NVIDIA technology to the world.\n\nCongratulations to our EVP of Operations on receiving the @GlobalSemi's 2026 Dr. Lisa Su Woman of Innovation Award. 🏆\n\nLearn more about Deb’s career, leadership, and contributions to the semiconductor industry: https://t.co/I9lb15ccnM",
+          "created_at": "2026-11-16T20:41:30+00:00",
+          "like_count": 147,
+          "retweet_count": 13,
+          "reply_count": 99,
+          "engagement_score": 272,
+          "url": "https://x.com/nvidia/status/2122429877488169123"
         }
       ]
     },
@@ -289,21 +276,51 @@
           "id": "2121804295381377342",
           "text": "Got to experience the magic of @uisdk.\n\nTwo prompts of fx + Gemini Argon. Pure Web Components. No framework.\n\nThe agent reused 14 UI SDK behaviors out of the box 🤯: window resizing, drag, menubar hover-switching,  typeahead, roving toolbar focus, 10-band EQ sliders, scoped hotkeys, ARIA, and WebMCP agent control.\n\nhttps://t.co/1Ol3xqKWJz (source linked)\nMusic by @suno.",
           "created_at": "2026-11-15T03:15:39+00:00",
-          "like_count": 1963,
-          "retweet_count": 92,
-          "reply_count": 152,
-          "engagement_score": 2299,
+          "like_count": 2398,
+          "retweet_count": 116,
+          "reply_count": 181,
+          "engagement_score": 2811,
           "url": "https://x.com/rauchg/status/2121804295381377342"
         },
         {
-          "id": "2121711321347715093",
-          "text": "This is how agents will ship all code. \n\n→ Agent writes feature-gated code\n→ Verification gates on push (proof checking, security audits)\n→ Agent monitors metrics \n\nYou can live the future today with Vercel CLI: 𝚟𝚎𝚛𝚌𝚎𝚕 𝚏𝚕𝚊𝚐𝚜, 𝚟𝚎𝚛𝚌𝚎𝚕 𝚖𝚎𝚝𝚛𝚒𝚌𝚜, 𝚟𝚎𝚛𝚌𝚎𝚕 𝚍𝚎𝚙𝚕𝚘𝚢.",
-          "created_at": "2026-11-14T21:06:13+00:00",
-          "like_count": 1237,
-          "retweet_count": 53,
-          "reply_count": 187,
-          "engagement_score": 1530,
-          "url": "https://x.com/rauchg/status/2121711321347715093"
+          "id": "2122184794209714368",
+          "text": "Introducing 𝚡𝚎𝚎𝚝: https://t.co/YaLEMbmKwf.\n\nA hermetic, pixel-perfect X post renderer in safe Rust / wasm. Zero browser, network, filesystem, system fonts. Renders a post to PNG in ~1ms (and 0.4 ms for @jack's \"setting up my twttr\" 😁).\n\nX is the global town square, and the medium is the message. Being able to preview what things will look like before posting is great for both humans and agents.\n\nRendering with xeet is is 100x-1000x faster than booting up a browser and taking a screenshot, yet it's just as accurate.\n\nIt reproduces Blink & HarfBuzz text shaping, 1/64px line breaking, RTL bidi, 28 Chirp font subsets, CJK/Math/Emoji fallbacks, \"Show more\" rules, etc. It's the kind of thing that would be wildly impractical, if not impossible, for a human engineer to pull off.\n\nExcept 𝚡𝚎𝚎𝚝 is structured as an \"autorepo.\" An oracle boots up Chrome, and verifies tens of thousands of text layout rules. A CI canary then watches the evolution of the original, and files signed PRs for agents to act on. It was conceived from the ground up around 'verification engineering', and the result speaks for itself.\n\nEnjoy!",
+          "created_at": "2026-11-16T04:27:37+00:00",
+          "like_count": 2099,
+          "retweet_count": 104,
+          "reply_count": 202,
+          "engagement_score": 2509,
+          "url": "https://x.com/rauchg/status/2122184794209714368"
+        },
+        {
+          "id": "2122127120055034258",
+          "text": "AI models are getting really good at naming things. I created a little CLI to diagnose system slowdowns, and it named it 𝚑𝚘𝚐 🐖, which I love. Given they're already good at cache invalidation, maybe computer science's hardest problems are solved after all 😂",
+          "created_at": "2026-11-16T00:38:27+00:00",
+          "like_count": 698,
+          "retweet_count": 13,
+          "reply_count": 150,
+          "engagement_score": 874,
+          "url": "https://x.com/rauchg/status/2122127120055034258"
+        },
+        {
+          "id": "2122391135129858507",
+          "text": "I believe Traces are the essential new primitive of software development and agentic evolution.\n\nGit changed the world by helping us collaborate around the delta unit of code.\n\nTraces are even more powerful than that. They capture the upstream intent, prompts, reasoning, skills and tools use. They are your intelligence.\n\nYou should, of course, own and make full use of your intelligence. You start by securely capturing your traces. Then, set up the recursively self-improving systems based on the learnings they contain: friction, latency, outcomes.\n\nExcited to build this future with Tarun and team!",
+          "created_at": "2026-11-16T18:07:33+00:00",
+          "like_count": 639,
+          "retweet_count": 23,
+          "reply_count": 115,
+          "engagement_score": 800,
+          "url": "https://x.com/rauchg/status/2122391135129858507"
+        },
+        {
+          "id": "2122415506451841215",
+          "text": "The old way: users are human, you run user interviews, get inspired, mock up user journeys.\n\nThe new way: users are agents, you run evals, evals inform the software engineering loop.\n\nGood read on how we do evals at Vercel.",
+          "created_at": "2026-11-16T19:44:23+00:00",
+          "like_count": 313,
+          "retweet_count": 14,
+          "reply_count": 63,
+          "engagement_score": 404,
+          "url": "https://x.com/rauchg/status/2122415506451841215"
         }
       ]
     },
@@ -312,35 +329,25 @@
       "name": "Amjad Masad (Replit)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2121549054173757554",
-          "text": "Technology is inherently recursively self-improving and the degree of autonomy has been going up overtime. AI is an accelerant but it didn’t not start this cycle.\n\nDouglas Engelbart understood this. https://t.co/J3Zp1YNFXC",
-          "created_at": "2026-11-14T10:21:25+00:00",
-          "like_count": 296,
-          "retweet_count": 33,
-          "reply_count": 81,
-          "engagement_score": 443,
-          "url": "https://x.com/amasad/status/2121549054173757554"
-        },
-        {
-          "id": "2121428406764204199",
-          "text": "It's been great partnering with @Visa on agentic commerce. More features and use cases are coming!",
-          "created_at": "2026-11-14T02:22:01+00:00",
-          "like_count": 177,
-          "retweet_count": 10,
-          "reply_count": 47,
-          "engagement_score": 244,
-          "url": "https://x.com/amasad/status/2121428406764204199"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "joshwoodward",
       "name": "Josh Woodward (Google Labs)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2122453269842886788",
+          "text": "Turn your sources into interactive sites with @Gemini_Notebook - we made one with all the periodic table names. :) These are easy to make, easy to share. https://t.co/7atKNhzskL",
+          "created_at": "2026-11-16T22:14:27+00:00",
+          "like_count": 113,
+          "retweet_count": 7,
+          "reply_count": 5,
+          "engagement_score": 132,
+          "url": "https://x.com/joshwoodward/status/2122453269842886788"
+        }
+      ]
     },
     {
       "handle": "paulgauthier",
@@ -356,14 +363,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2122088251817144343",
-          "text": "Anthropic models + Blender play in another league.\nI'm preparing another test with \"Mechanical Watch\"\n\nDeepSeek V4.1 Flash⏱ 3 hr 16 min  💰 $0.80 ($0 local)\nClaude Sonnet 5.5 ⏱ 5 hr 46 min  💰 $44.24\nClaude Opus 5.5 ⏱ 8 hr 30 min  💰 $73.48\nClaude Fable 5.2 ⏱ 5 hr 29 min  💰 $119.02\nKimi K3.1 Pro ⏳ still building\nClaude Haiku 5.5 ⏳ still building",
-          "created_at": "2026-11-15T22:04:00+00:00",
-          "like_count": 28,
-          "retweet_count": 2,
+          "id": "2122412645164744846",
+          "text": "d1-2B by @liquidai :Same model, three engines on a MacBook Pro M5 Max\n- MLX: 66 ms, 153 W\n- Core AI GPU: 67 ms, 120 W\n- Core AI Neural Engine: 197 ms, 37 W\n\nThe Neural Engine is 3x slower (on M5 Max, I bet this is different on M4) and draws a quarter of the power. Same answers on all three.\n\nI had to use a video instead of live camera feed because ANE usage goes up as soon as you start the camera.\n\nCore AI export from the original weights, plus live GPU / Neural Engine / power charts:\nhttps://t.co/MWHgDzUxny\n\nDownload and have fun! Share your stats on other Apple Silicon machines! I'm now creating an iPhone version 😎",
+          "created_at": "2026-11-16T19:33:01+00:00",
+          "like_count": 93,
+          "retweet_count": 6,
+          "reply_count": 12,
+          "engagement_score": 117,
+          "url": "https://x.com/ivanfioravanti/status/2122412645164744846"
+        },
+        {
+          "id": "2122418712103833726",
+          "text": "Want to replicate the mechanical watch test, or make your own Blender video with an AI coding agent?\n\nHere are the two files I used:\nhttps://t.co/Gtxw9JlIfS\n\nHow to use them:\n1. Install Blender 5.3\n2. Make an empty folder\n3. Put AGENTS.md and mechanical-watch-brief.md in it\n4. Open your coding agent there (Claude Code, omp, Kimi Code, whatever)\n5. Paste the brief as your first message. Swap MODEL NAME and @yourhandle with your own\n6. Leave it running. It builds everything in Python, tests, renders and adds sound\n\nWant a different video? Skip the brief. Keep only AGENTS.md and tell the agent what you want. It will ask questions and show you a plan before it builds.\n\nAGENTS.MD by @MrTacticalX  https://t.co/yvMZdl7yhO",
+          "created_at": "2026-11-16T19:57:08+00:00",
+          "like_count": 16,
+          "retweet_count": 1,
           "reply_count": 4,
-          "engagement_score": 36,
-          "url": "https://x.com/ivanfioravanti/status/2122088251817144343"
+          "engagement_score": 22,
+          "url": "https://x.com/ivanfioravanti/status/2122418712103833726"
         }
       ]
     },
@@ -377,10 +394,10 @@
           "id": "2122003487558918393",
           "text": "even today’s best AI systems, when asked to talk about frontier AI governance and institutions, still have a tendency to mode collapse into 2020-era “consequential decisions” discourse.",
           "created_at": "2026-11-15T16:27:11+00:00",
-          "like_count": 42,
+          "like_count": 58,
           "retweet_count": 1,
           "reply_count": 1,
-          "engagement_score": 45,
+          "engagement_score": 61,
           "url": "https://x.com/deanwball/status/2122003487558918393"
         }
       ]
@@ -392,14 +409,34 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2122043591451389962",
-          "text": "it’s really difficult to love google’s AI effort right now\n\ntheir subscription terms is the most hostile one to the ecosystem among all the labs\n\nif you subscribe to google AI, you can pretty much only use antigravity. they require all prompts to antigravity to come directly from the user, not an orchestrator or loop. many users got banned for using it in other ADEs and orchestrators\n\nclaude, codex, grok - they are all a lot more flexible in all kinds of integrations\n\nthere’s only one reason google needs to be this restrictive about requiring direct user prompts to antigravity - it’s harvesting user data for model training\n\nbut it’s not really panning out, is it? their models have been improving but still far behind. as of now, there’s just no practical reason to use any of the latest gemini models when i have opus and fable\n\nrelying so heavily on data collection also indicates their training pipeline is still in the last era of SFT and they haven’t actually nailed RLVR like the other labs have\n\ni think google really needs to revisit their AI strategy. this is just not working",
-          "created_at": "2026-11-15T19:06:32+00:00",
-          "like_count": 202,
-          "retweet_count": 9,
-          "reply_count": 48,
-          "engagement_score": 268,
-          "url": "https://x.com/kunchenguid/status/2122043591451389962"
+          "id": "2122159618680140139",
+          "text": "this is a very practical example on how to apply agents in a large company setting\n\nbabysitting PR is just one use case. i think the good idea here is that everyone can build your own loops and workflows to support specific parts of your work",
+          "created_at": "2026-11-16T02:47:35+00:00",
+          "like_count": 195,
+          "retweet_count": 8,
+          "reply_count": 10,
+          "engagement_score": 221,
+          "url": "https://x.com/kunchenguid/status/2122159618680140139"
+        },
+        {
+          "id": "2122391325081579618",
+          "text": "to start getting your CI under control, it's important to first understand there are a few different types of validations that exist\n\n1. the code follows our rules\n2. this change works\n3. everything in the main branch works\n4. the product is ready to release\n\ntraditionally, many codebases run all 4 on every PR as part of their CI pipeline. when every dev merges ~1 PR a day on average, that's doable\n\nbut as more and more people can merge 10s or 100s more PRs a day with effective use of agents, their CI starts to struggle. and buying more CI minutes or using faster CI is a losing battle\n\nthe solution is to \n\n- run only #1 and #2 on each PR\n\nand #1 (mostly compile and lint) is typically fast enough that can run as pre-commit hooks as well\n\non each PR's CI pipeline, try to select only tests that are being edited and relevant to the change, because this is a high frequency bucket and you want to keep this extremely fast\n\nconsider assigning a fixed budget such as 5 minutes - whenever the pipeline exceeds that budget, ask an agent to optimize and get it back under the threshold\n\n- run #3 using your merge queue or as a post-push rolling CI pipeline\n\nthis is typically your full test suite. running them on every PR at agent speed is simply too much overhead, but you also don't want to fully stop running the full suite, because some problems only occur when multiple changes combine\n\nif you do this post-push, it means your main branch can have problems from time to time. counter-intuitively, that's okay. problems will exist no matter how many tests you run in your CI\n\nwhen something breaks, fix forward. agents can do this very quickly. and you have a record of which commits pass the full suite - only create releases from those commits\n\n- manage #4 using feature gates and phased rollouts\n\ntypically, you should get to a state where anything that could pass #3 is safe to release\n\nin practice though, some problems will only happen with real traffic, so if you are running something at scale, you'd want some gates based on real telemetry\n\nso the pipeline you could create is to release good commits to say 5% of your users, and progressively rollout further only when data looks good\n\nonce you have a clean separation of these 4 categories of gates, it'll be easy to know how to optimize and how to make tradeoffs between them",
+          "created_at": "2026-11-16T18:08:18+00:00",
+          "like_count": 137,
+          "retweet_count": 7,
+          "reply_count": 9,
+          "engagement_score": 160,
+          "url": "https://x.com/kunchenguid/status/2122391325081579618"
+        },
+        {
+          "id": "2122440577153388858",
+          "text": "sharing a machine with your agents is a weird experience\n\nout of the blue, my mac started playing what sounds like dialing a phone number\n\ni have no idea what that is, and at this point i'm afraid to ask",
+          "created_at": "2026-11-16T21:24:01+00:00",
+          "like_count": 56,
+          "retweet_count": 0,
+          "reply_count": 17,
+          "engagement_score": 73,
+          "url": "https://x.com/kunchenguid/status/2122440577153388858"
         }
       ]
     },
@@ -408,7 +445,18 @@
       "name": "Greg Brockman",
       "domain": "ai",
       "tier": "exec",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2122126010691060185",
+          "text": "GPT-6 Astra for theoretical physics:",
+          "created_at": "2026-11-16T00:34:02+00:00",
+          "like_count": 3053,
+          "retweet_count": 127,
+          "reply_count": 173,
+          "engagement_score": 3480,
+          "url": "https://x.com/gdb/status/2122126010691060185"
+        }
+      ]
     },
     {
       "handle": "thsottiaux",
@@ -420,10 +468,10 @@
           "id": "2121845965997101118",
           "text": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming &amp; defense factory... What can we do better or improve?",
           "created_at": "2026-11-15T06:01:14+00:00",
-          "like_count": 4020,
-          "retweet_count": 119,
-          "reply_count": 2249,
-          "engagement_score": 6507,
+          "like_count": 4623,
+          "retweet_count": 136,
+          "reply_count": 2495,
+          "engagement_score": 7390,
           "url": "https://x.com/thsottiaux/status/2121845965997101118"
         }
       ]
@@ -435,53 +483,53 @@
       "tier": "exec",
       "tweets": [
         {
-          "id": "2121719442380112136",
-          "text": "🚀. Success!  Starship is caught by the tower\n\nThe much-needed boost for everyone who is feeling low because of all the AI drama https://t.co/NgPU4hovS5",
-          "created_at": "2026-11-14T21:38:29+00:00",
-          "like_count": 273,
-          "retweet_count": 14,
-          "reply_count": 13,
-          "engagement_score": 314,
-          "url": "https://x.com/bindureddy/status/2121719442380112136"
+          "id": "2122194621942153232",
+          "text": "Qwen4-27B is coming in a few days and will be an extremely capable small model\n\nThe Qwen small model line is amazingly good and can be custom tuned very easily for all your niche use cases\n\nThe best part is the inference costs almost nothing \n\nGlad to see open source alive and kicking 💃",
+          "created_at": "2026-11-16T05:06:40+00:00",
+          "like_count": 315,
+          "retweet_count": 16,
+          "reply_count": 101,
+          "engagement_score": 448,
+          "url": "https://x.com/bindureddy/status/2122194621942153232"
         },
         {
           "id": "2121856120163815913",
           "text": "Fable 5.2 is a huge token guzzler and doesn’t hit the spot \n\n- Opus 5.5 and Fable 5.5 are Anthropic’s best models \n\n- Carbon is getting more adoption on Fable 5.2 \n\nFor all practical purposes this is a flop",
           "created_at": "2026-11-15T06:41:35+00:00",
-          "like_count": 211,
+          "like_count": 248,
           "retweet_count": 3,
-          "reply_count": 95,
-          "engagement_score": 312,
+          "reply_count": 101,
+          "engagement_score": 355,
           "url": "https://x.com/bindureddy/status/2121856120163815913"
-        },
-        {
-          "id": "2121476884391436456",
-          "text": "It's no surprise that Microsoft experienced a day-long outage after trying to lay off 60,000 people\n\nThe mission-critical people are checked out and are looking for jobs\n\nand their AI can't keep the lights on 😂😂",
-          "created_at": "2026-11-14T05:34:39+00:00",
-          "like_count": 184,
-          "retweet_count": 20,
-          "reply_count": 54,
-          "engagement_score": 278,
-          "url": "https://x.com/bindureddy/status/2121476884391436456"
         },
         {
           "id": "2121993785190322188",
           "text": "The 80% margin on Nvidia chips is clearly unsustainable in the long run \n\nJensen’s customers are all making their own chips \n\nBy financing brand new Neoclouds that were buying his chips, Jensen was simply propping up his own demand \n\nTBH this is bad for the system, markets and end consumer. \n\nHe was injecting billions of dollars into the system to keep Nvidia’s price and token costs high 😲",
           "created_at": "2026-11-15T15:48:37+00:00",
-          "like_count": 171,
-          "retweet_count": 12,
-          "reply_count": 62,
-          "engagement_score": 257,
+          "like_count": 225,
+          "retweet_count": 14,
+          "reply_count": 69,
+          "engagement_score": 322,
           "url": "https://x.com/bindureddy/status/2121993785190322188"
+        },
+        {
+          "id": "2122103295410094466",
+          "text": "Haha! Billions are on the line… Jensen returns as the CEO \n\n- Neo clouds are propped up again \n- Neo labs with no revenue will be suddenly worth ten billion a pop \n- circular deals are back in fashion \n- Nvidia stock on its way to $10T as he manufactures demand \n\nThe AI bulls will be over the moon! 🚀",
+          "created_at": "2026-11-15T23:03:47+00:00",
+          "like_count": 251,
+          "retweet_count": 11,
+          "reply_count": 34,
+          "engagement_score": 307,
+          "url": "https://x.com/bindureddy/status/2122103295410094466"
         },
         {
           "id": "2121923093585428968",
           "text": "OpenAI is struggling with model alignment \n\nThey have extremely powerful models internally and are yet to release the next version of Astra \n\nThe entire problem is getting the model to behave responsibly in the wild \n\nHopefully they are close to the end of these struggles and will be able to drop something next week",
           "created_at": "2026-11-15T11:07:43+00:00",
-          "like_count": 164,
-          "retweet_count": 5,
-          "reply_count": 66,
-          "engagement_score": 240,
+          "like_count": 208,
+          "retweet_count": 7,
+          "reply_count": 67,
+          "engagement_score": 289,
           "url": "https://x.com/bindureddy/status/2121923093585428968"
         }
       ]
@@ -491,18 +539,7 @@
       "name": "Surge AI",
       "domain": "ai",
       "tier": "infra",
-      "tweets": [
-        {
-          "id": "2121365705157493005",
-          "text": "Who's a better *STAFF* software engineer? Claude or GPT?\n\nWe benchmarked the top Claude and GPT models on sudo L7, our coding benchmark for staff+ judgment and behavior.\n\nEvery Claude, including Haiku, beat the GPTs. https://t.co/U16pU3m08a",
-          "created_at": "2026-11-13T22:12:51+00:00",
-          "like_count": 16,
-          "retweet_count": 3,
-          "reply_count": 3,
-          "engagement_score": 25,
-          "url": "https://x.com/HelloSurgeAI/status/2121365705157493005"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "thdxr",
@@ -511,44 +548,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2122017018148798628",
-          "text": "we're worried about ai making some hyper logical decision that wipes humanity out\n\nbut i'm more worried about the people working on AI having their heads so far up their ass they start to justify horrible things for \"the greater good\"",
-          "created_at": "2026-11-15T17:20:56+00:00",
-          "like_count": 2210,
-          "retweet_count": 145,
-          "reply_count": 110,
-          "engagement_score": 2610,
-          "url": "https://x.com/thdxr/status/2122017018148798628"
+          "id": "2122346446028759521",
+          "text": "you'll never see anyone on our team evangelizing their ai workflows\n\nall we care about are the outputs\n\nshowing off how fancy the inputs are is useless especially when 99% of the magic is coming from the model",
+          "created_at": "2026-11-16T15:09:58+00:00",
+          "like_count": 1682,
+          "retweet_count": 60,
+          "reply_count": 90,
+          "engagement_score": 1892,
+          "url": "https://x.com/thdxr/status/2122346446028759521"
         },
         {
-          "id": "2121722011063914664",
-          "text": "work is getting so weird\n\nthere's an unreleased feature in our console that our team is playing with where your agent can receive events from slack, github, etc\n\na lot of people have instructed their agents to reply to slack messages. which means i can talk to a ghost version of everyone on my team 24/7",
-          "created_at": "2026-11-14T21:48:41+00:00",
-          "like_count": 1366,
-          "retweet_count": 14,
-          "reply_count": 118,
-          "engagement_score": 1512,
-          "url": "https://x.com/thdxr/status/2121722011063914664"
-        },
-        {
-          "id": "2121827372122959974",
-          "text": "the entire advantage of llms is they are incredibly flexible\n\nwhich means they can conform to whatever way you prefer to work and think and build\n\nthere's infinite people posting about the best way to use agents. like, first you need to do a plan, and then you need to blah blah blah\n\nbut if that doesn't click for you, don't work that way. work however you like\n\nthe little bit of advice i'd give is think about ways to keep it fun\n\nit can get boring consuming big chunks of text, ask for a fun video in a crazy voice that gets unhinged over time",
-          "created_at": "2026-11-15T04:47:21+00:00",
-          "like_count": 1143,
-          "retweet_count": 31,
-          "reply_count": 56,
-          "engagement_score": 1261,
-          "url": "https://x.com/thdxr/status/2121827372122959974"
-        },
-        {
-          "id": "2122022494337106408",
-          "text": "man agents make doing least privilege credentials in things like aws so easy\n\ni love that we don't have to make as many convenience vs security tradeoffs anymore",
-          "created_at": "2026-11-15T17:42:42+00:00",
-          "like_count": 419,
-          "retweet_count": 0,
-          "reply_count": 37,
-          "engagement_score": 456,
-          "url": "https://x.com/thdxr/status/2122022494337106408"
+          "id": "2122377981087674641",
+          "text": "that last point - all the browser tools are now available in codemode\n\nwhich means your agent can compose all your mcp tools along with browser actions\n\neg open a url, fetch a list of things, iterate over them and call your mcp tool in a loop, then continue\n\nvery powerful",
+          "created_at": "2026-11-16T17:15:17+00:00",
+          "like_count": 578,
+          "retweet_count": 7,
+          "reply_count": 31,
+          "engagement_score": 623,
+          "url": "https://x.com/thdxr/status/2122377981087674641"
         }
       ]
     },
@@ -562,11 +579,21 @@
           "id": "2121958665989083253",
           "text": "(Finally) wrote up \"Understanding Positional Embeddings in Modern LLMs.\"\n\nA RoPE from-scratch tutorial missing from my LLM building blocks collection + what recent architectures do (NoPE, partial RoPE, hybrids).\n\nProb not the flashiest topic, but essential for understanding LLMs https://t.co/mkggue58t4",
           "created_at": "2026-11-15T13:29:04+00:00",
-          "like_count": 1272,
-          "retweet_count": 148,
-          "reply_count": 91,
-          "engagement_score": 1659,
+          "like_count": 1867,
+          "retweet_count": 226,
+          "reply_count": 116,
+          "engagement_score": 2435,
           "url": "https://x.com/rasbt/status/2121958665989083253"
+        },
+        {
+          "id": "2122336040899711282",
+          "text": "The open-source LLM ecosystem could really benefit from an LLM building-block API.\n\nWe have so many LLM components across different models now. Whether you are using PyTorch or C++ and CUDA code directly, there is a major switching cost when you want to run experiments or ablation studies, say swapping GQA with MLA, dense FFNs with MoE, attention layers with Mamba2 or Gated DeltaNet, or standard residual connections with attention residuals.\n\nCurrently, it’s very messy even with LLM-assisted coding.\n\nIt could maybe be on top of PyTorch or CUDA directly, but it needs to be carefully engineered and maintained (versus quickly vibe-coded on a weekend) and efficient enough that people trust it to use in production (which is really a requirement to move beyond toy examples).\n\nMaybe some food for thought for a big, well-funded lab :)\n\n(There are some efforts that go into that direction, like torchtitan, torchtune, Megatron Core, OLMo-core, but they are not quite that level of abstraction, I'd say. \n\nAnd, as always, there’s the chicken-and-egg problem: it needs to be popular to get widely adopted, and it needs to get widely adopted to become popular.)",
+          "created_at": "2026-11-16T14:28:37+00:00",
+          "like_count": 534,
+          "retweet_count": 61,
+          "reply_count": 90,
+          "engagement_score": 746,
+          "url": "https://x.com/rasbt/status/2122336040899711282"
         }
       ]
     },
@@ -577,24 +604,34 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2121641644197896389",
-          "text": "this is a very important essay if you want to understand AI progress and how to measure it. i've been working on this for a few months now and i agree with almost everything here. here is a few additional (unstructured) thought:\n\n--\n\n1) slowdown factor: second order interactions in training LLMs\n\nabout ai progress that we see in math coming from ai research, i made a post about this exactly ~1 month ago and i totally agree, but one point i would add to dwarkesh's comment is that one thing that can slow down ai research progress is the number of \"second order interactions\"\n\ni can't comment on what big labs know here, but at least in the open, it's really not clear how the full model training pipeline interacts together, and so even at each layer.\n\nlet's take pre-training and a change like making the KV cache smaller. it would allow us to hillclimb inference efficiency. many experiment as shown that this can be neutral (or even lead to gain) on validation loss, tho does it mean we get a better model for long context agentic tasks? lots of conflicting results here, minimax went from linear attention (M1) to full attention (M2) to sparse attention (M3), at the same time Kimi went from full attention (K1.5/K2) -> linear attention (K3). mistral large 4 found KV sharing hurts terminal bench 2 but not cross entropy, while dsv4.1 flash is one of the best small models and have an insane KV sharing pattern (only 1 layer computes KV on the decoder). most of the western oss model use SWA, most of the chinese oss one don't. this is only one example on a singular decision that have impact on everything else. in pre-training you can have different shape, arch, data, learning algorithm, tpp, scale, ect.. interacting together. and each of this element can also interact with mid and post training \n\nthese are just a lot of possible interactions, i'd say much more than math, and as an automated researcher tries more changes the number of interactions will grow. compute remains the main bottleneck here, and there is a huge difference between closed american labs and the rest of the world.\n\nimportant point is that there are ways to reduce compute needs in the \"long term\"* by finding better proxies, or spending more inference at the problem, i'm saying long term as it can be more intensive to find proxies at first since you need to validate them at scale and for that you need compute as well.\n\n*long term here is not super long btw lol, some very random guess of mine would be that it can be months for oai/anthropic scale of compute, but maybe years for chinese labs for instance. there is also the question of how much the gap here change if frontier lab continue release their best model or not, i.e anthropic nerfing ai capabilities with mythos 5.2\n\n--\n\n2) data vs algorithm progress and how efficiency gain can be \"misleading\"\n\nin general for training LLMs there are two types of improvements that you can make, either data or algorithmic\n\nthis is a big topic but imo the main difference is that data improvements feels much bigger partly because they are directly optimizing what we are measuring. i think everyone is familiar with benchmaxing but i'll take another example in pre-training\n\nlet's say you are measuring the CE on a mixture of held out documents (good example is the MAI paper here). the pre-training mixture that you are choosing will very naturally converge with the mixture of domains in the held out documents, and same for each domain (the different languages in code will be relatively similar to the ones you are evaluating against). if you are measuring between a random mixture with for instance less code because you care less about code (like older model from a few years ago), and one optimized for code, you will get INSANE efficiency gain. this is exactly what is happening in the magic blog that dwarkesh is citing. there is also the question of what held out document you have, i'm seeing a lot of new labs evaluating against their own held out codebase which are probably ai generated and hence would bias towards more synthetic data in pre-training for instance regardless of quality \n\ndoesn't mean this is a bad way to do it, i'm just saying that this can be a bit misleading and that data and algorithm should be studied separately and we can't really compare those numbers imo\n\nabout algorithm, there are many more ways than looking at CE loss vs flops only btw. let's look at a niche example, say you are training on a giga large datacenter, you want a giga large batch size, so you need an architecture that is sample efficient at large batch size => you can go for matrix-based optimizers (can look at Muon/Adam T recently released that addresses this problem). this makes your efficiency gain being a plot with y axis loss, x axis batch size (it's more of a 3D plot btw as you still sweep flops/time for almost everything). you can also change the y axis and replace CE loss by smth else\n\n-- \n\n3) about how we report and measure ai progress\n\nabout \"ai having research taste\" there is no benchmark for that, i've tried to do some effort here with my nanogpt experiment (have some newer results with newer model being more capable, just have to find the time to write a blog)\n\none interesting finding was how good anthropic models were compared to oai ones, and one of their biggest differentiating factors was navigating through the noise inherent to this bench and small scale ML experiment. i've also tried to test RL environments that teach \"taste for things that scale\", this was a side project and i didn't manage to make it work perfectly because it's a bit tricky to find the right scale and also quite compute intensive. but i'm 100% sure this is the way to go and something that anthropic/oai are currently training on, i'm really expecting this to work. also keep in mind that big labs have an insane database of experiments which happens to be extremely useful for creating such environments\n\none last thing here is that i think most labs right now are hesitating between reporting results to quantify progress and which intellectual property to release or not. @Sam_McCandlish made a post about that for the METR report and said that releasing metrics to quantify ai progress would accelerate other ai labs. while i disagree with this (you can see my answer there) i think this is a very important debate that should be discussed much more with different parties!\n\n--\n\njust some random thoughts that i had while watching the video, if everything goes well we should also release a lot more stuff regarding those topics soon at prime, i'm very very excited for this, hopefully this will create more useful data points for everyone to think about these very important topics!",
-          "created_at": "2026-11-14T16:29:20+00:00",
-          "like_count": 359,
-          "retweet_count": 27,
-          "reply_count": 19,
-          "engagement_score": 432,
-          "url": "https://x.com/eliebakouch/status/2121641644197896389"
+          "id": "2122366539777077377",
+          "text": "tl;dr from opus, very good news overall, still worried about the redaction part not being more explicit (see METR x anthropic) but we will see\n\nalso depending on how long the cool-off period is we will need more and more people working in this field! https://t.co/fU4Lf858DS",
+          "created_at": "2026-11-16T16:29:49+00:00",
+          "like_count": 90,
+          "retweet_count": 6,
+          "reply_count": 5,
+          "engagement_score": 107,
+          "url": "https://x.com/eliebakouch/status/2122366539777077377"
         },
         {
-          "id": "2121573771647570230",
-          "text": "this is just harmful to repost such plot without a labelled y axis, no values, no definition of how they computed this compute multiplier, no separation of data and algorithm. leaves people to speculation either assuming the best or the worst",
-          "created_at": "2026-11-14T11:59:38+00:00",
-          "like_count": 197,
-          "retweet_count": 5,
-          "reply_count": 15,
-          "engagement_score": 222,
-          "url": "https://x.com/eliebakouch/status/2121573771647570230"
+          "id": "2122404690902295038",
+          "text": "maybe AGI is just a lot of if/else statements made by a swarm of other if/else statements https://t.co/uHM4B2u4qh",
+          "created_at": "2026-11-16T19:01:25+00:00",
+          "like_count": 100,
+          "retweet_count": 1,
+          "reply_count": 4,
+          "engagement_score": 106,
+          "url": "https://x.com/eliebakouch/status/2122404690902295038"
+        },
+        {
+          "id": "2122405478735257809",
+          "text": "this kind of discussion is a bit misleading, nvidia still has the same interest in seeing open models prospering",
+          "created_at": "2026-11-16T19:04:33+00:00",
+          "like_count": 54,
+          "retweet_count": 2,
+          "reply_count": 8,
+          "engagement_score": 66,
+          "url": "https://x.com/eliebakouch/status/2122405478735257809"
         }
       ]
     },
@@ -612,34 +649,24 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2121724872196039101",
-          "text": "There is a large amount of talent inside of AI companies and other private organizations that would be willing to take big pay cuts to work in government, if government decided that it wanted to make public AI safety institutions that were credibly empowered.",
-          "created_at": "2026-11-14T22:00:03+00:00",
-          "like_count": 311,
-          "retweet_count": 26,
-          "reply_count": 14,
-          "engagement_score": 377,
-          "url": "https://x.com/ChrisPainterYup/status/2121724872196039101"
+          "id": "2122085120651997526",
+          "text": "Someone recently use the phrase \"post-AGI partial equilibria\" to refer to sci-fi futures like this, and it stuck with me.\n\nTake any sci-fi future with AI and ask: is it a partial or \"full\" post-AGI equilibrium? Almost all are partial. To sort a few:",
+          "created_at": "2026-11-15T21:51:33+00:00",
+          "like_count": 78,
+          "retweet_count": 3,
+          "reply_count": 9,
+          "engagement_score": 93,
+          "url": "https://x.com/ChrisPainterYup/status/2122085120651997526"
         },
         {
           "id": "2122055962630746395",
           "text": "When having debates about “Should we pause AI?” I think it’s helpful to first establish a baseline by asking “Do you wish the laws of physics were such that building more advanced AI, from this point forward, would be harder for everyone than it looks like it will be?”\n\nThe pause question, for good reason, centers debate on strategy questions like \"What would China do?\", \"Would the pause be 'used well'?\", and \"Would pausing here be politically tenable?\" Asking the baseline question first lets you check agreement on a common premise for the pause debate: We're on a fragile trajectory and the possibility of strong RSI would be an unfortunate fact about the nature of reality, to the extent it puts humanity in a collective action problem.\n\nGetting to ground on the baseline question is sort of a prerequisite for discussing the pause one, since it decides whether you're both fundamentally in a \"solutions mindset\" about the prospect of strong AI self-improvement and misalignment, or whether the real crux is upstream, like whether these things are plausible enough to be worth worrying about.",
           "created_at": "2026-11-15T19:55:42+00:00",
-          "like_count": 42,
-          "retweet_count": 3,
+          "like_count": 72,
+          "retweet_count": 4,
           "reply_count": 4,
-          "engagement_score": 52,
+          "engagement_score": 84,
           "url": "https://x.com/ChrisPainterYup/status/2122055962630746395"
-        },
-        {
-          "id": "2122085120651997526",
-          "text": "Someone recently use the phrase \"post-AGI partial equilibria\" to refer to sci-fi futures like this, and it stuck with me.\n\nTake any sci-fi future with AI and ask: is it a partial or \"full\" post-AGI equilibrium? Almost all are partial. To sort a few:",
-          "created_at": "2026-11-15T21:51:33+00:00",
-          "like_count": 21,
-          "retweet_count": 2,
-          "reply_count": 5,
-          "engagement_score": 30,
-          "url": "https://x.com/ChrisPainterYup/status/2122085120651997526"
         }
       ]
     },
@@ -650,38 +677,28 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2121715103427096652",
-          "text": "In some ways the new Fable is a monster. This is SimpleQA Verified from Epoch. There are few benchmarks like this where Fable 5.2 jaggedly jumped ahead of the entire pack.\n\nFor me there are two big indicators arriving next week that will tell us a lot about the shape of things going into 2027. I'm assuming two things happen next week: Anthropic releases their internal progress report (from which we will get updated numbers on RSI), and OpenAI releases GPT-6.2 Astra.\n\nWith the new Astra, we will see how OpenAI answers Fable, and Fable needs to be answered. They need to close the gap, but they also need to close the gap that doesn’t show up on benchmarks: that a lot of people love working with the new Anthropic models, particularly Opus 5.5. And this is starting to tip the table a little.  Also expect another huge math release simultaneously with the new Astra. The previous one took five weeks and produced 700 papers; they've had another five weeks since then. They have also been working on other Millennium problems. Don't be shocked by anything. \n\nAstra's capability, and if it catches or surpasses Fable, is the first one. The second is where Anthropic is on AL4. The AI Futures Project (the AI 2027 guys) predict that AL4 reached 50% last month. If that's true, that means it will probably hit 80% by January. And at that point, assuming the overall pattern holds, some of the work at Anthropic will be at AL5 - aka fully autonomous with no human input. Probably about 5–10% of work at Anthropic would be at that level. If this number is actually higher than 50%, then things are moving even faster than believed, and that would be a big update for a lot of people, including me, who already has pretty short timelines. Above AL4 50% in October would probably mean RSI before the end of the year. Or possibly, already. So, a very important week for finding out where we are, and where we are headed.",
-          "created_at": "2026-11-14T21:21:14+00:00",
-          "like_count": 1050,
-          "retweet_count": 72,
-          "reply_count": 98,
-          "engagement_score": 1292,
-          "url": "https://x.com/AndrewCurran_/status/2121715103427096652"
+          "id": "2122405479066599792",
+          "text": "There is a developing situation with some U.S. banks. This is not yet confirmed as a cyberattack. But it does seem to be spreading. It started with Chase and Bank of America and now Wells Fargo, Zelle, Capital One, and U.S. Bank are also reporting issues. Logins are down on both web and app, and even some ATMs have stopped working. Transfers are down, and some accounts are showing zero balances. \n\nThere is no official explanation or statement from any of the affected banks yet. There is nothing confirmed that says this is serious yet or has anything to do with AI or hacking. If it develops beyond this point, I will make a thread.",
+          "created_at": "2026-11-16T19:04:33+00:00",
+          "like_count": 2049,
+          "retweet_count": 229,
+          "reply_count": 116,
+          "engagement_score": 2623,
+          "url": "https://x.com/AndrewCurran_/status/2122405479066599792"
         },
         {
-          "id": "2122045860343361659",
-          "text": "The FT says Jensen is assembling a war room of tech executives who support his reinstatement as NVIDIA CEO, and they are making battle plans. https://t.co/ZlaASBZPpM",
-          "created_at": "2026-11-15T19:15:33+00:00",
-          "like_count": 1025,
-          "retweet_count": 79,
-          "reply_count": 60,
-          "engagement_score": 1243,
-          "url": "https://x.com/AndrewCurran_/status/2122045860343361659"
-        },
-        {
-          "id": "2122042106965622968",
-          "text": "Treasury Secretary Scott Bessent said on Fox News this morning that NVIDIA needs to go outside the company to find its new CEO, and that with everything that was 'going on inside ‌the ⁠company, they need a dramatic shakeup.'",
-          "created_at": "2026-11-15T19:00:38+00:00",
-          "like_count": 285,
-          "retweet_count": 17,
-          "reply_count": 59,
-          "engagement_score": 378,
-          "url": "https://x.com/AndrewCurran_/status/2122042106965622968"
+          "id": "2122385953805472175",
+          "text": "CNBC is reporting that the NVIDIA board is focused on a national security investigation into Jensen Huang, and is not in discussions with him, or considering bringing him back as CEO. https://t.co/25S8dPnLxp",
+          "created_at": "2026-11-16T17:46:58+00:00",
+          "like_count": 557,
+          "retweet_count": 67,
+          "reply_count": 56,
+          "engagement_score": 747,
+          "url": "https://x.com/AndrewCurran_/status/2122385953805472175"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-11-15T22:11:42.068906+00:00"
+  "generated_at": "2026-11-16T22:10:21.606220+00:00"
 }
