@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-11-16T23:31:52.438292+00:00",
+  "generated_at": "2026-11-17T23:41:46.607462+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
+      "link": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
+      "channel": "Lenny's Podcast",
+      "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
+      "pub_date": "2026-11-17T18:02:02+00:00",
+      "transcript_path": "feeds/transcripts/63c050617ab33e5332f4475c.txt",
+      "transcript_chars": 11216,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-17T23:41:46.607462+00:00",
+      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
+      "expires_at": "2026-12-01T23:41:46.607462+00:00"
+    },
     {
       "guid": "https://www.dwarkesh.com/p/paul-christiano-2",
       "link": "https://www.dwarkesh.com/p/paul-christiano-2",
@@ -12,8 +25,8 @@
       "transcript_chars": 114620,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-16T23:31:52.438292+00:00",
-      "last_seen_at": "2026-11-16T23:31:52.438292+00:00",
-      "expires_at": "2026-11-30T23:31:52.438292+00:00"
+      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
+      "expires_at": "2026-12-01T23:41:46.607462+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
@@ -25,8 +38,8 @@
       "transcript_chars": 12767,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-16T23:31:52.438292+00:00",
-      "last_seen_at": "2026-11-16T23:31:52.438292+00:00",
-      "expires_at": "2026-11-30T23:31:52.438292+00:00"
+      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
+      "expires_at": "2026-12-01T23:41:46.607462+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
@@ -38,8 +51,8 @@
       "transcript_chars": 4873,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-16T23:31:52.438292+00:00",
-      "last_seen_at": "2026-11-16T23:31:52.438292+00:00",
-      "expires_at": "2026-11-30T23:31:52.438292+00:00"
+      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
+      "expires_at": "2026-12-01T23:41:46.607462+00:00"
     },
     {
       "guid": "yt:Zvvz5qJvEVU",
@@ -51,8 +64,8 @@
       "transcript_chars": 14999,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-16T23:31:52.438292+00:00",
-      "last_seen_at": "2026-11-16T23:31:52.438292+00:00",
-      "expires_at": "2026-11-30T23:31:52.438292+00:00"
+      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
+      "expires_at": "2026-12-01T23:41:46.607462+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_5ecf266a-aa1c-4b9a-bcec-3c52bcc9ca63",
@@ -77,8 +90,8 @@
       "transcript_chars": 33559,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-16T23:31:52.438292+00:00",
-      "last_seen_at": "2026-11-16T23:31:52.438292+00:00",
-      "expires_at": "2026-11-30T23:31:52.438292+00:00"
+      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
+      "expires_at": "2026-12-01T23:41:46.607462+00:00"
     },
     {
       "guid": "yt:wKfnL_wHafs",
@@ -129,8 +142,8 @@
       "transcript_chars": 51937,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-14T10:47:53.965771+00:00",
-      "last_seen_at": "2026-11-16T23:31:52.438292+00:00",
-      "expires_at": "2026-11-30T23:31:52.438292+00:00"
+      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
+      "expires_at": "2026-12-01T23:41:46.607462+00:00"
     },
     {
       "guid": "yt:JW5s9Md4U2U",
@@ -142,8 +155,8 @@
       "transcript_chars": 40057,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-14T10:47:53.965771+00:00",
-      "last_seen_at": "2026-11-16T23:31:52.438292+00:00",
-      "expires_at": "2026-11-30T23:31:52.438292+00:00"
+      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
+      "expires_at": "2026-12-01T23:41:46.607462+00:00"
     },
     {
       "guid": "7635e168-3d26-41b5-9290-317814f4f9bc",
@@ -324,8 +337,8 @@
       "transcript_chars": 37865,
       "transcript_source": "companion_youtube",
       "cached_at": "2026-11-05T23:44:45.359386+00:00",
-      "last_seen_at": "2026-11-16T23:31:52.438292+00:00",
-      "expires_at": "2026-11-30T23:31:52.438292+00:00"
+      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
+      "expires_at": "2026-12-01T23:41:46.607462+00:00"
     },
     {
       "guid": "yt:HMA357MXB1o",
