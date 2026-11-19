@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-11-17T23:41:46.607462+00:00",
+  "generated_at": "2026-11-19T02:32:07.466457+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "yt:9RFrkPyPysQ",
+      "link": "https://www.youtube.com/watch?v=9RFrkPyPysQ",
+      "channel": "Library Of Wealth and Neural Nutshell",
+      "title": "Dario Amodei WARNS: You Have No Idea What's Coming In 18 Months",
+      "pub_date": "2026-11-18T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/d8bce074817365c51d4c2036.txt",
+      "transcript_chars": 23546,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-19T02:32:07.466457+00:00",
+      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
+      "expires_at": "2026-12-03T02:32:07.466457+00:00"
+    },
+    {
+      "guid": "yt:J5EA7QeBm8k",
+      "link": "https://www.youtube.com/watch?v=J5EA7QeBm8k",
+      "channel": "The New York Times",
+      "title": "Why Sam Altman and Greg Brockman Say Humans Must Stay in Control of AI",
+      "pub_date": "2026-11-18T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/f7305d852be00f1ac65c9b9a.txt",
+      "transcript_chars": 43200,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-19T02:32:07.466457+00:00",
+      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
+      "expires_at": "2026-12-03T02:32:07.466457+00:00"
+    },
+    {
+      "guid": "yt:-t8daAqoIEA",
+      "link": "https://www.youtube.com/watch?v=-t8daAqoIEA",
+      "channel": "YouTube",
+      "title": "Sam Altman LIVE: OpenAI CEO Sam Altman Takes The Stage At Semafor Summit | Silicon Valley | N18G",
+      "pub_date": "2026-11-16T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/3daf8a7825125de47afbd47b.txt",
+      "transcript_chars": 48785,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-19T02:32:07.466457+00:00",
+      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
+      "expires_at": "2026-12-03T02:32:07.466457+00:00"
+    },
+    {
+      "guid": "yt:0NE89Nzfk20",
+      "link": "https://www.youtube.com/watch?v=0NE89Nzfk20",
+      "channel": "YouTube",
+      "title": "Software engineering after code becomes cheap with Satya Nadella",
+      "pub_date": "2026-11-16T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/4e3076a3eb698c1d7d7dc260.txt",
+      "transcript_chars": 67034,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-19T02:32:07.466457+00:00",
+      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
+      "expires_at": "2026-12-03T02:32:07.466457+00:00"
+    },
     {
       "guid": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
       "link": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
@@ -12,8 +64,8 @@
       "transcript_chars": 11216,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-17T23:41:46.607462+00:00",
-      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
-      "expires_at": "2026-12-01T23:41:46.607462+00:00"
+      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
+      "expires_at": "2026-12-03T02:32:07.466457+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/paul-christiano-2",
@@ -25,8 +77,8 @@
       "transcript_chars": 114620,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-16T23:31:52.438292+00:00",
-      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
-      "expires_at": "2026-12-01T23:41:46.607462+00:00"
+      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
+      "expires_at": "2026-12-03T02:32:07.466457+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
@@ -38,8 +90,8 @@
       "transcript_chars": 12767,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-16T23:31:52.438292+00:00",
-      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
-      "expires_at": "2026-12-01T23:41:46.607462+00:00"
+      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
+      "expires_at": "2026-12-03T02:32:07.466457+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
@@ -51,8 +103,8 @@
       "transcript_chars": 4873,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-16T23:31:52.438292+00:00",
-      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
-      "expires_at": "2026-12-01T23:41:46.607462+00:00"
+      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
+      "expires_at": "2026-12-03T02:32:07.466457+00:00"
     },
     {
       "guid": "yt:Zvvz5qJvEVU",
@@ -64,8 +116,8 @@
       "transcript_chars": 14999,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-16T23:31:52.438292+00:00",
-      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
-      "expires_at": "2026-12-01T23:41:46.607462+00:00"
+      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
+      "expires_at": "2026-12-03T02:32:07.466457+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_5ecf266a-aa1c-4b9a-bcec-3c52bcc9ca63",
@@ -142,8 +194,8 @@
       "transcript_chars": 51937,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-14T10:47:53.965771+00:00",
-      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
-      "expires_at": "2026-12-01T23:41:46.607462+00:00"
+      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
+      "expires_at": "2026-12-03T02:32:07.466457+00:00"
     },
     {
       "guid": "yt:JW5s9Md4U2U",
@@ -155,8 +207,8 @@
       "transcript_chars": 40057,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-14T10:47:53.965771+00:00",
-      "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
-      "expires_at": "2026-12-01T23:41:46.607462+00:00"
+      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
+      "expires_at": "2026-12-03T02:32:07.466457+00:00"
     },
     {
       "guid": "7635e168-3d26-41b5-9290-317814f4f9bc",
@@ -419,32 +471,6 @@
       "expires_at": "2026-11-19T23:44:45.359386+00:00"
     },
     {
-      "guid": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
-      "link": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
-      "channel": "Lenny's Podcast",
-      "title": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
-      "pub_date": "2026-11-02T16:02:08+00:00",
-      "transcript_path": "feeds/transcripts/bb01a815b24cd303c5d066bc.txt",
-      "transcript_chars": 8803,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-02T22:29:25.167392+00:00",
-      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
-      "expires_at": "2026-11-18T22:47:03.582486+00:00"
-    },
-    {
-      "guid": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
-      "link": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
-      "channel": "Lenny's Podcast",
-      "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
-      "pub_date": "2026-11-02T13:04:11+00:00",
-      "transcript_path": "feeds/transcripts/7e7799c1f50dbeac4c2f273e.txt",
-      "transcript_chars": 5200,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-02T22:29:25.167392+00:00",
-      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
-      "expires_at": "2026-11-18T22:47:03.582486+00:00"
-    },
-    {
       "guid": "yt:vDmjw-c_R2k",
       "link": "https://www.youtube.com/watch?v=vDmjw-c_R2k",
       "channel": "Linus Tech Tips",
@@ -456,19 +482,6 @@
       "cached_at": "2026-11-02T22:29:25.167392+00:00",
       "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
       "expires_at": "2026-11-22T02:21:26.262268+00:00"
-    },
-    {
-      "guid": "yt:iMsUcCYNKqY",
-      "link": "https://www.youtube.com/watch?v=iMsUcCYNKqY",
-      "channel": "Cheeky Pint and Stripe",
-      "title": "Why Sam Altman is against a single superintelligence",
-      "pub_date": "2026-10-29T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/14cce45791f3f12d4c262ffd.txt",
-      "transcript_chars": 51028,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-10-30T02:58:41.183811+00:00",
-      "last_seen_at": "2026-11-04T22:47:03.582486+00:00",
-      "expires_at": "2026-11-18T22:47:03.582486+00:00"
     },
     {
       "guid": "55a9b7c7-fd29-4fa7-bdcc-79602d486227",
