@@ -1,7 +1,98 @@
 {
-  "generated_at": "2026-11-19T02:32:07.466457+00:00",
+  "generated_at": "2026-11-19T22:31:56.457415+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "373a06ea-f8c5-4e17-bb27-c0f37d531f96",
+      "link": "https://deepmind.com/podcast",
+      "channel": "Google DeepMind Podcast",
+      "title": "Gemini and the path to AGI with Koray Kavukcuoglu",
+      "pub_date": "2026-11-19T19:46:40+00:00",
+      "transcript_path": "feeds/transcripts/bec457a79479eccb9e19f9fd.txt",
+      "transcript_chars": 18629,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-19T22:31:56.457415+00:00",
+      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
+      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+    },
+    {
+      "guid": "70598c92-fb0f-462d-b4be-bbb80957384e",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/AI-Spending--Market-Risk-Capex--Valuations--Returns--Dan-Rasmussen-e3skoq1",
+      "channel": "The Acquirers Podcast",
+      "title": "AI Spending & Market Risk: Capex, Valuations & Returns | Dan Rasmussen",
+      "pub_date": "2026-11-19T08:00:00+00:00",
+      "transcript_path": "feeds/transcripts/694056765ccd20064f71bc0b.txt",
+      "transcript_chars": 140672,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-19T22:31:56.457415+00:00",
+      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
+      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+    },
+    {
+      "guid": "https://lexfridman.com/?p=7826",
+      "link": "https://lexfridman.com/larry-lawton/?utm_source=rss&utm_medium=rss&utm_campaign=larry-lawton",
+      "channel": "Lex Fridman",
+      "title": "#505 – GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami & Money",
+      "pub_date": "2026-11-19T04:37:34+00:00",
+      "transcript_path": "feeds/transcripts/66b7ced1602795923014d915.txt",
+      "transcript_chars": 209114,
+      "transcript_source": "description_transcript_link",
+      "cached_at": "2026-11-19T22:31:56.457415+00:00",
+      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
+      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+    },
+    {
+      "guid": "yt:MsZmV9wzEZ8",
+      "link": "https://www.youtube.com/watch?v=MsZmV9wzEZ8",
+      "channel": "New York Times Events",
+      "title": "Satya Nadella on the New Algorithm",
+      "pub_date": "2026-11-19T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/66f281dd6857ca6a69fccbac.txt",
+      "transcript_chars": 30958,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-19T22:31:56.457415+00:00",
+      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
+      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+    },
+    {
+      "guid": "yt:3oD4KuRfbjI",
+      "link": "https://www.youtube.com/watch?v=3oD4KuRfbjI",
+      "channel": "Bloomberg Podcasts",
+      "title": "Anthropic CFO Krishna Rao Talks IPO, How it Plans to Use Proceeds | Bloomberg Talks",
+      "pub_date": "2026-11-19T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/33e4c22df3b601f807d0671d.txt",
+      "transcript_chars": 20108,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-19T22:31:56.457415+00:00",
+      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
+      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+    },
+    {
+      "guid": "yt:cTFNOTt-jGs",
+      "link": "https://www.youtube.com/watch?v=cTFNOTt-jGs",
+      "channel": "Sourcery with Molly O'Shea",
+      "title": "TomorrowX: Brian Armstrong, Gavin Baker, Guillermo Rauch, Andrew Feldman & More",
+      "pub_date": "2026-11-19T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/c4d8a74c47276876c8161192.txt",
+      "transcript_chars": 128143,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-19T22:31:56.457415+00:00",
+      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
+      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+    },
+    {
+      "guid": "yt:Nv8-Km25Qj4",
+      "link": "https://www.youtube.com/watch?v=Nv8-Km25Qj4",
+      "channel": "YouTube",
+      "title": "Satya Nadella opens Microsoft Ignite 2026",
+      "pub_date": "2026-11-18T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/b1a26a4cf7409cab6c251eed.txt",
+      "transcript_chars": 26772,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-19T22:31:56.457415+00:00",
+      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
+      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+    },
     {
       "guid": "yt:9RFrkPyPysQ",
       "link": "https://www.youtube.com/watch?v=9RFrkPyPysQ",
@@ -12,8 +103,8 @@
       "transcript_chars": 23546,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
-      "expires_at": "2026-12-03T02:32:07.466457+00:00"
+      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
+      "expires_at": "2026-12-03T22:31:56.457415+00:00"
     },
     {
       "guid": "yt:J5EA7QeBm8k",
@@ -25,8 +116,8 @@
       "transcript_chars": 43200,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
-      "expires_at": "2026-12-03T02:32:07.466457+00:00"
+      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
+      "expires_at": "2026-12-03T22:31:56.457415+00:00"
     },
     {
       "guid": "yt:-t8daAqoIEA",
@@ -38,8 +129,8 @@
       "transcript_chars": 48785,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
-      "expires_at": "2026-12-03T02:32:07.466457+00:00"
+      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
+      "expires_at": "2026-12-03T22:31:56.457415+00:00"
     },
     {
       "guid": "yt:0NE89Nzfk20",
@@ -51,8 +142,8 @@
       "transcript_chars": 67034,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
-      "expires_at": "2026-12-03T02:32:07.466457+00:00"
+      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
+      "expires_at": "2026-12-03T22:31:56.457415+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
@@ -64,8 +155,8 @@
       "transcript_chars": 11216,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-17T23:41:46.607462+00:00",
-      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
-      "expires_at": "2026-12-03T02:32:07.466457+00:00"
+      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
+      "expires_at": "2026-12-03T22:31:56.457415+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/paul-christiano-2",
@@ -116,8 +207,8 @@
       "transcript_chars": 14999,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-16T23:31:52.438292+00:00",
-      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
-      "expires_at": "2026-12-03T02:32:07.466457+00:00"
+      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
+      "expires_at": "2026-12-03T22:31:56.457415+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_5ecf266a-aa1c-4b9a-bcec-3c52bcc9ca63",
@@ -194,8 +285,8 @@
       "transcript_chars": 51937,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-14T10:47:53.965771+00:00",
-      "last_seen_at": "2026-11-19T02:32:07.466457+00:00",
-      "expires_at": "2026-12-03T02:32:07.466457+00:00"
+      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
+      "expires_at": "2026-12-03T22:31:56.457415+00:00"
     },
     {
       "guid": "yt:JW5s9Md4U2U",

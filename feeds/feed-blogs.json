@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "id": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "published": "2026-11-19T08:00:00+00:00",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
+    },
+    {
       "id": "https://deepmind.google/blog/introducing-gemini-4-neon/",
       "source": "deepmind",
       "source_name": "Google DeepMind",
@@ -28,15 +37,6 @@
       "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
     },
     {
-      "id": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "published": "2026-11-18T08:00:00+00:00",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
-    },
-    {
       "id": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "openai",
       "source_name": "OpenAI",
@@ -46,6 +46,15 @@
       "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
     },
     {
+      "id": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "openai",
+      "source_name": "OpenAI",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "published": "2026-11-18T08:00:00+00:00",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+    },
+    {
       "id": "https://openai.com/index/inside-the-codex-sandbox",
       "source": "openai",
       "source_name": "OpenAI",
@@ -53,15 +62,6 @@
       "url": "https://openai.com/index/inside-the-codex-sandbox",
       "published": "2026-11-18T08:00:00+00:00",
       "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows."
-    },
-    {
-      "id": "https://openai.com/index/managing-frontier-ai-risk",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "published": "2026-11-18T06:00:00+00:00",
-      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
     },
     {
       "id": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
@@ -83,5 +83,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-11-18T22:13:00.222201+00:00"
+  "generated_at": "2026-11-19T22:14:07.550678+00:00"
 }
