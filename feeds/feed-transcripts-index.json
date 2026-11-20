@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T22:31:56.457415+00:00",
+  "generated_at": "2026-11-20T14:30:56.516784+00:00",
   "retention_days": 14,
   "transcripts": [
     {
@@ -12,8 +12,8 @@
       "transcript_chars": 18629,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
-      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
+      "expires_at": "2026-12-04T14:30:56.516784+00:00"
     },
     {
       "guid": "70598c92-fb0f-462d-b4be-bbb80957384e",
@@ -25,8 +25,8 @@
       "transcript_chars": 140672,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
-      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
+      "expires_at": "2026-12-04T14:30:56.516784+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=7826",
@@ -38,8 +38,8 @@
       "transcript_chars": 209114,
       "transcript_source": "description_transcript_link",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
-      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
+      "expires_at": "2026-12-04T14:30:56.516784+00:00"
     },
     {
       "guid": "yt:MsZmV9wzEZ8",
@@ -51,8 +51,8 @@
       "transcript_chars": 30958,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
-      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
+      "expires_at": "2026-12-04T14:30:56.516784+00:00"
     },
     {
       "guid": "yt:3oD4KuRfbjI",
@@ -64,8 +64,8 @@
       "transcript_chars": 20108,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
-      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
+      "expires_at": "2026-12-04T14:30:56.516784+00:00"
     },
     {
       "guid": "yt:cTFNOTt-jGs",
@@ -77,8 +77,8 @@
       "transcript_chars": 128143,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
-      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
+      "expires_at": "2026-12-04T14:30:56.516784+00:00"
     },
     {
       "guid": "yt:Nv8-Km25Qj4",
@@ -90,8 +90,8 @@
       "transcript_chars": 26772,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
-      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
+      "expires_at": "2026-12-04T14:30:56.516784+00:00"
     },
     {
       "guid": "yt:9RFrkPyPysQ",
@@ -103,8 +103,8 @@
       "transcript_chars": 23546,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
-      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
+      "expires_at": "2026-12-04T14:30:56.516784+00:00"
     },
     {
       "guid": "yt:J5EA7QeBm8k",
@@ -116,8 +116,8 @@
       "transcript_chars": 43200,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
-      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
+      "expires_at": "2026-12-04T14:30:56.516784+00:00"
     },
     {
       "guid": "yt:-t8daAqoIEA",
@@ -129,8 +129,8 @@
       "transcript_chars": 48785,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
-      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
+      "expires_at": "2026-12-04T14:30:56.516784+00:00"
     },
     {
       "guid": "yt:0NE89Nzfk20",
@@ -142,8 +142,8 @@
       "transcript_chars": 67034,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
-      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
+      "expires_at": "2026-12-04T14:30:56.516784+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
@@ -155,8 +155,8 @@
       "transcript_chars": 11216,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-17T23:41:46.607462+00:00",
-      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
-      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
+      "expires_at": "2026-12-04T14:30:56.516784+00:00"
     },
     {
       "guid": "https://www.dwarkesh.com/p/paul-christiano-2",
@@ -207,8 +207,8 @@
       "transcript_chars": 14999,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-16T23:31:52.438292+00:00",
-      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
-      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
+      "expires_at": "2026-12-04T14:30:56.516784+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_5ecf266a-aa1c-4b9a-bcec-3c52bcc9ca63",
@@ -285,8 +285,8 @@
       "transcript_chars": 51937,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-14T10:47:53.965771+00:00",
-      "last_seen_at": "2026-11-19T22:31:56.457415+00:00",
-      "expires_at": "2026-12-03T22:31:56.457415+00:00"
+      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
+      "expires_at": "2026-12-04T14:30:56.516784+00:00"
     },
     {
       "guid": "yt:JW5s9Md4U2U",
@@ -497,19 +497,6 @@
       "expires_at": "2026-11-20T23:28:08.278570+00:00"
     },
     {
-      "guid": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
-      "link": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
-      "channel": "Lenny's Podcast",
-      "title": "Lenny’s Newsletter holiday gift guide 2026",
-      "pub_date": "2026-11-03T14:45:33+00:00",
-      "transcript_path": "feeds/transcripts/6fa65831aef3656016114805.txt",
-      "transcript_chars": 13747,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
-      "expires_at": "2026-11-19T23:44:45.359386+00:00"
-    },
-    {
       "guid": "b3946996-1696-430a-b9f2-f9a43380d7e2",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--042---GDPx-The-Benchmark-for-Frontier-AI-e3rlc7h",
       "channel": "SemiAnalysis",
@@ -536,32 +523,6 @@
       "expires_at": "2026-11-23T23:44:34.135067+00:00"
     },
     {
-      "guid": "urn:latent-space:post:pod_ep_01a19df0-34a3-7307-96fc-48928908772b",
-      "link": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
-      "channel": "Latent Space",
-      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
-      "pub_date": "2026-11-02T22:54:03+00:00",
-      "transcript_path": "feeds/transcripts/a81b29a5e1c0021a9820e330.txt",
-      "transcript_chars": 91432,
-      "transcript_source": "episode_transcript_link",
-      "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
-      "expires_at": "2026-11-19T23:44:45.359386+00:00"
-    },
-    {
-      "guid": "yt:ezUpkoBOh2o",
-      "link": "https://www.youtube.com/watch?v=ezUpkoBOh2o",
-      "channel": "Optimus",
-      "title": "Sam Altman Is A Complete Scumbag",
-      "pub_date": "2026-10-30T20:45:01+00:00",
-      "transcript_path": "feeds/transcripts/4358ecbd1da345d87ad04aea.txt",
-      "transcript_chars": 22187,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-11-03T22:12:18.379414+00:00",
-      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
-      "expires_at": "2026-11-19T23:44:45.359386+00:00"
-    },
-    {
       "guid": "yt:vDmjw-c_R2k",
       "link": "https://www.youtube.com/watch?v=vDmjw-c_R2k",
       "channel": "Linus Tech Tips",
@@ -586,19 +547,6 @@
       "cached_at": "2026-10-28T03:34:59.412837+00:00",
       "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
       "expires_at": "2026-11-23T23:44:34.135067+00:00"
-    },
-    {
-      "guid": "67407b17-fc00-459d-bcd7-cac8281297be",
-      "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--040---ASML-Is-Building-a-Hybrid-Bonding-Tool--and-Its-Patents-Show-How-AI-Supply-Chain--Jordan-Nanos--Howie--Sherry-Zhang-e3qulph",
-      "channel": "SemiAnalysis",
-      "title": "Ep. 040 - ASML Is Building a Hybrid Bonding Tool, and Its Patents Show How (AI Supply Chain) | Jordan Nanos, Howie, Sherry Zhang",
-      "pub_date": "2026-10-23T10:30:01+00:00",
-      "transcript_path": "feeds/transcripts/10542ab64611715511cd1df8.txt",
-      "transcript_chars": 34951,
-      "transcript_source": "companion_youtube",
-      "cached_at": "2026-10-23T22:29:09.359434+00:00",
-      "last_seen_at": "2026-11-05T23:44:45.359386+00:00",
-      "expires_at": "2026-11-19T23:44:45.359386+00:00"
     }
   ]
 }

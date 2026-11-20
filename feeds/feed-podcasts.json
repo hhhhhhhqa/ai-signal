@@ -1,6 +1,40 @@
 {
   "podcasts": [
     {
+      "channel": "Latent Space",
+      "domain": "ai",
+      "guid": "urn:latent-space:post:post_a954b2a3-7633-4f51-bdca-627a4cc7f380",
+      "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+      "pub_date": "2026-11-20T07:12:24+00:00",
+      "link": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+      "audio_url": "",
+      "duration": "",
+      "description": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
+      "transcript_available": false,
+      "transcript_source": null,
+      "transcript_url": null,
+      "transcript_video_id": null,
+      "transcript_error": "episode_page: same page text returned for multiple episodes (节目列表页,非本集字幕)",
+      "transcript_chars": 0
+    },
+    {
+      "channel": "Latent Space",
+      "domain": "ai",
+      "guid": "urn:latent-space:post:post_adb58093-ae09-4b6c-ac6b-d68770c16945",
+      "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+      "pub_date": "2026-11-19T23:58:21+00:00",
+      "link": "https://latent.space/p/linear-scaling/",
+      "audio_url": "https://podcasts.beehiiv.com/3967c1f2-cb97-4eb0-a5c0-21a1d2579408/01a15fdf-0e93-7e1a-880d-d73752a1f915/01a1f60c-1b1f-791d-ab17-93dc95925d0f/01a1f60c-1d13-7e51-8f68-58af8c020059.mp3",
+      "duration": "01:23:31",
+      "description": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs",
+      "transcript_available": false,
+      "transcript_source": null,
+      "transcript_url": null,
+      "transcript_video_id": null,
+      "transcript_error": "episode_page: same page text returned for multiple episodes (节目列表页,非本集字幕)",
+      "transcript_chars": 0
+    },
+    {
       "channel": "Google DeepMind Podcast",
       "domain": "ai",
       "guid": "373a06ea-f8c5-4e17-bb27-c0f37d531f96",
@@ -239,7 +273,7 @@
       "transcript_source": null,
       "transcript_url": null,
       "transcript_video_id": null,
-      "transcript_error": "episode_page: same page text returned for multiple episodes (节目列表页,非本集字幕)",
+      "transcript_error": "episode_page: timed out; youtube: No YouTube video id in link",
       "transcript_chars": 0
     },
     {
@@ -381,40 +415,6 @@
       "transcript_chars": 0
     },
     {
-      "channel": "Invest Like the Best",
-      "domain": "invest",
-      "guid": "45532d30-e257-11f1-8502-838134ccd67e",
-      "title": "Brad Gerstner & Geoffrey Canada - Raising the Floor for Every American Child - [Invest Like the Best, EP.501]",
-      "pub_date": "2026-11-17T13:00:00+00:00",
-      "link": "https://colossus.com/episode/restoring-the-american-dream/",
-      "audio_url": "https://traffic.megaphone.fm/CLS6783435309.mp3",
-      "duration": "5062",
-      "description": "My guests today are Brad Gerstner, founder of Altimeter Capital, and Geoffrey Canada, founder of Harlem Children's Zone. Geoffrey spent decades helping disadvantaged kids get a great education, but it takes more than that to achieve the American dream. Without savings, you’re one emergency away from bankruptcy.\n\nBrad set out to change that. When he first called me about Invest America in 2020, I thought it was a fool’s errand. Six years later, nearly 70 million children have accounts in their name, and every American newborn receives $1,000 in the S&P 500. The challenge now is getting families to claim their accounts, since free money is surprisingly hard to give away.\n\nBrad and Geoffrey believe even a small nest egg, when given a head start on compounding, can help rebuild faith in capitalism. As AI reshapes the economy, they see these accounts as the basis of a new social contract built on ownership and participation, where every child owns a piece of the upside.\n\nPlease enjoy my conversation with Brad and Geoffrey.\n\nFor the full show notes, transcript, and links to mentioned content, check out the episode page ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠⁠.&nbsp;\n\n-----\n\nBecome a Colossus member to get our quarterly print magazine and private audio experience, including exclusive profiles and early access to select episodes. Subscribe at ⁠⁠colossus.com/subscribe⁠⁠.\n\n-----\n\n⁠⁠Ramp’s⁠⁠ mission is to help companies manage their spend in a way that reduces expenses and frees up time for teams to work on more valuable projects. Go to ⁠⁠⁠ramp.com/invest⁠⁠⁠ to sign up for free and get a $250 welcome bonus.\n\n-----\n\nTrusted by thousands of businesses, ⁠⁠Vanta⁠⁠ continuously monitors your security posture and streamlines audits so you can win enterprise deals and build customer trust without the traditional overhead. Invest Like the Best listeners get a special offer of $1,000 off Vanta when you go to ⁠⁠vanta.com/invest⁠⁠.\n\n-----\n\n⁠WorkOS⁠⁠ is the infrastructure B2B and AI-native companies us",
-      "transcript_available": false,
-      "transcript_source": null,
-      "transcript_url": null,
-      "transcript_video_id": null,
-      "transcript_error": "episode_page: No transcript link or transcript-like page text found; youtube: No YouTube video id in link",
-      "transcript_chars": 0
-    },
-    {
-      "channel": "Latent Space",
-      "domain": "ai",
-      "guid": "urn:latent-space:post:post_ae3c512d-675f-4368-9e24-ad45b6d484fd",
-      "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
-      "pub_date": "2026-11-17T09:24:56+00:00",
-      "link": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
-      "audio_url": "",
-      "duration": "",
-      "description": "November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches.",
-      "transcript_available": false,
-      "transcript_source": null,
-      "transcript_url": null,
-      "transcript_video_id": null,
-      "transcript_error": "episode_page: same page text returned for multiple episodes (节目列表页,非本集字幕)",
-      "transcript_chars": 0
-    },
-    {
       "channel": "YouTube",
       "domain": "ai",
       "person": "Sam Altman",
@@ -503,5 +503,5 @@
     }
   ],
   "errors": null,
-  "generated_at": "2026-11-19T22:14:07.550678+00:00"
+  "generated_at": "2026-11-20T14:13:17.905758+00:00"
 }

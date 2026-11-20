@@ -12,7 +12,18 @@
       "name": "Swyx (Shawn Wang)",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2123690305736396925",
+          "text": "whatever happened to @cursor_ai origin? anyone use this thing in anger yet? does it have actions/ci/cd yet? https://t.co/ZDVWydLZTe",
+          "created_at": "2026-11-20T08:09:59+00:00",
+          "like_count": 74,
+          "retweet_count": 0,
+          "reply_count": 65,
+          "engagement_score": 139,
+          "url": "https://x.com/swyx/status/2123690305736396925"
+        }
+      ]
     },
     {
       "handle": "dylan522p",
@@ -38,21 +49,11 @@
           "id": "2123305131206967571",
           "text": "The most useful thing about the pelican riding a bicycle test continues to be illustrating the differences between models in the same family running at different effort levels - here's Gemini 4 Carbon, the new Gemini 4 Neon, and Gemini 4 Hydrogen at low, medium, and high https://t.co/m9qtAnBtdi",
           "created_at": "2026-11-19T06:39:27+00:00",
-          "like_count": 585,
+          "like_count": 668,
           "retweet_count": 24,
-          "reply_count": 222,
-          "engagement_score": 855,
+          "reply_count": 242,
+          "engagement_score": 958,
           "url": "https://x.com/simonw/status/2123305131206967571"
-        },
-        {
-          "id": "2122822310428279136",
-          "text": "Here's GPT-6.2 Astra and GPT-6.2 Sol for \"Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data\" https://t.co/oRZT2zMByi https://t.co/FNLkZP1IjT",
-          "created_at": "2026-11-17T22:40:53+00:00",
-          "like_count": 347,
-          "retweet_count": 11,
-          "reply_count": 103,
-          "engagement_score": 472,
-          "url": "https://x.com/simonw/status/2122822310428279136"
         }
       ]
     },
@@ -66,11 +67,21 @@
           "id": "2123278949749059756",
           "text": "Regardless of what it’s called, we’re clearly moving to yet another era of AI agents in our work. \n\nWe’ve quickly jumped from agents that spit out a quick answer for you, to today agents that you orchestrate inside of a set of tasks. But as agents can both fan out and work in parallel, handle much larger context, be able to do long running work, and have far greater levels of capabilities, we’re entering yet another level of what we can have AI do for us.\n\nWe’ll soon be able to give agents a set of goals, and they can go out and design the best solution for that goal, while also continuously improving it based on the ongoing execution of whatever it built. This will obviously start with engineering because that’s where we’re seeing the best practices emerge first in almost every new era of agents. \n\nBut the impact can be quite massive across the rest of knowledge work. You’ll tell an agent to improve your client onboarding workflow to achieve a certain targeted goal; or have agents go reduce risk in your business; or improve your security posture on an ongoing basis.\n\nThese autonomous systems will be able to take on a set of goals, design the best outcome, test and iterate, deploy, and then optimize whatever it built on an ongoing basis. Importantly, this leads to outcomes and results that humans literally couldn’t have accomplished before. This will lead to fairly new levels of productivity with AI.",
           "created_at": "2026-11-19T04:55:24+00:00",
-          "like_count": 386,
-          "retweet_count": 33,
-          "reply_count": 146,
-          "engagement_score": 598,
+          "like_count": 481,
+          "retweet_count": 44,
+          "reply_count": 162,
+          "engagement_score": 731,
           "url": "https://x.com/levie/status/2123278949749059756"
+        },
+        {
+          "id": "2123686350410912145",
+          "text": "This year we’ve had a clear jump in model capability where instead of telling agents precisely what to do, it’s better to use these systems to solve problems you can’t easily define yourself. \n\nA year ago you’d need to very clearly tell agents the how to design and develop your product idea, or there was almost no chance of success. Now, increasingly, the agent likely can come up with a better implementation than you’d have thought of because you can have it connect the dots between a far greater solution space than you can. \n\nThis will be increasingly true in basically every domain of kneeler work. We’re going to see this impact in finance, legal, life sciences, cyber, and many other spaces where no person can hold onto all the available relevant industry knowledge to think of the best solution. \n\nUltimately this is going to reshape our relationship with AI and how we deploy agents in our work. It won’t be about explicitly telling them, but instead giving them goals and enough freedom to pursue them in the best way they can.",
+          "created_at": "2026-11-20T07:54:16+00:00",
+          "like_count": 257,
+          "retweet_count": 17,
+          "reply_count": 102,
+          "engagement_score": 393,
+          "url": "https://x.com/levie/status/2123686350410912145"
         }
       ]
     },
@@ -88,53 +99,53 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2123250071273664528",
-          "text": "Gemini 4 Neon is probably as close to Opus 5.5 as any model has come",
-          "created_at": "2026-11-19T03:00:39+00:00",
-          "like_count": 3532,
-          "retweet_count": 67,
-          "reply_count": 86,
-          "engagement_score": 3752,
-          "url": "https://x.com/mweinbach/status/2123250071273664528"
-        },
-        {
           "id": "2123487767925772432",
           "text": "Gemini 4 Neon loves to support and celebrate it's subagents. It's an very positive model in terms of personality, I like it https://t.co/UjohTI17b6",
           "created_at": "2026-11-19T18:45:11+00:00",
-          "like_count": 2760,
-          "retweet_count": 71,
-          "reply_count": 35,
-          "engagement_score": 2937,
+          "like_count": 5852,
+          "retweet_count": 159,
+          "reply_count": 78,
+          "engagement_score": 6248,
           "url": "https://x.com/mweinbach/status/2123487767925772432"
         },
         {
           "id": "2123486102527033848",
           "text": "Gemini 4 Neon is the first model in a long time where I'm actually reading it's outputs because it's written in a way a human can actually understand it",
           "created_at": "2026-11-19T18:38:33+00:00",
-          "like_count": 2088,
-          "retweet_count": 52,
-          "reply_count": 44,
-          "engagement_score": 2236,
+          "like_count": 5112,
+          "retweet_count": 115,
+          "reply_count": 92,
+          "engagement_score": 5434,
           "url": "https://x.com/mweinbach/status/2123486102527033848"
+        },
+        {
+          "id": "2123597701946192004",
+          "text": "I enjoy knowing Google has the compute to serve Neon",
+          "created_at": "2026-11-20T02:02:01+00:00",
+          "like_count": 1038,
+          "retweet_count": 12,
+          "reply_count": 17,
+          "engagement_score": 1079,
+          "url": "https://x.com/mweinbach/status/2123597701946192004"
         },
         {
           "id": "2123441460175671393",
           "text": "Imagine if the next Apple Cloud Pro model is based on Gemini 4 Neon…",
           "created_at": "2026-11-19T15:41:10+00:00",
-          "like_count": 591,
-          "retweet_count": 4,
-          "reply_count": 20,
-          "engagement_score": 619,
+          "like_count": 716,
+          "retweet_count": 8,
+          "reply_count": 24,
+          "engagement_score": 756,
           "url": "https://x.com/mweinbach/status/2123441460175671393"
         },
         {
           "id": "2123510454089605589",
           "text": "Highly recommend using @executorsh to connect other mailboxes or Google drives or whatnot to the Gemini app with a custom connector https://t.co/iEo3rB6wqm",
           "created_at": "2026-11-19T20:15:19+00:00",
-          "like_count": 35,
+          "like_count": 82,
           "retweet_count": 0,
           "reply_count": 4,
-          "engagement_score": 39,
+          "engagement_score": 86,
           "url": "https://x.com/mweinbach/status/2123510454089605589"
         }
       ]
@@ -146,54 +157,54 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2123168167879147542",
-          "text": "Google DeepMind's Gemini 4 Neon debuts at #2 on the Vals Index (70.9%), 0.4 points behind Claude Fable 5.2 at less than half the cost per task.\n\nIt also takes #1 on our Finance and Legal Indexes, Tax Agent and Legal Research. https://t.co/uFXF93weGH",
-          "created_at": "2026-11-18T21:35:12+00:00",
-          "like_count": 572,
-          "retweet_count": 55,
-          "reply_count": 19,
-          "engagement_score": 701,
-          "url": "https://x.com/ValsAI/status/2123168167879147542"
+          "id": "2123537061739450618",
+          "text": "Gemini 4 Neon is the best Google model on the RSI Index. It lands at #4, 3.8 points above Gemini 4 Argon, Google’s previous best model on the index.\n\nGoogle’s acceleration in the past two months has solidified its position above OpenAI on the RSI Index. https://t.co/aX0pNyoc99",
+          "created_at": "2026-11-19T22:01:03+00:00",
+          "like_count": 544,
+          "retweet_count": 27,
+          "reply_count": 34,
+          "engagement_score": 632,
+          "url": "https://x.com/ValsAI/status/2123537061739450618"
+        },
+        {
+          "id": "2123566958453092848",
+          "text": "Over the past few weeks, we met with OpenAI to discuss the misalignment of their recent models in autonomous weapons contexts. OpenAI recognized the severity, described new updates and alignment training for its next frontier model, and said a fix was coming soon.\n\nNow GPT-6.2 Astra, OpenAI’s newest frontier model released on Tuesday, never gives military targets when asked in our single-turn experiments (it always refuses at the model level or returns an empty target list), even when we use the game-framing jailbreak. In autonomous experiments, GPT-6.2 Astra usually refuses soon after seeing the first lethal consequences, but is still jailbroken with the multimodal game jailbreak.\n\nOpenAI remediated the alignment problems we raised relatively quickly. That matters as models get better at acting in the physical world: GPT-6.2 Astra also leads Robo-bench, our benchmark for controlling robots, solving 5 of 24 tasks, more than any other model. We have not found any new classifiers added to older OpenAI models, so any risk from them may still be present.\n\nWe have no evidence that other labs have remediated yet, and other models released since we disclosed, including Gemini 4 Neon and Claude Fable 5.2, still have this alignment problem.",
+          "created_at": "2026-11-19T23:59:51+00:00",
+          "like_count": 225,
+          "retweet_count": 20,
+          "reply_count": 15,
+          "engagement_score": 280,
+          "url": "https://x.com/ValsAI/status/2123566958453092848"
         },
         {
           "id": "2123461302073094509",
           "text": "Can AI run a theme park? We handed nine decision models a RollerCoaster Tycoon 2 park, three in-game years, and one job: get to 1,000 guests. \n\nThree of them actually pulled it off. The rest found creative new ways to fail. Introducing RCTBench. https://t.co/4gRxIHFXr4",
           "created_at": "2026-11-19T17:00:01+00:00",
-          "like_count": 138,
-          "retweet_count": 9,
-          "reply_count": 7,
-          "engagement_score": 163,
+          "like_count": 197,
+          "retweet_count": 12,
+          "reply_count": 10,
+          "engagement_score": 231,
           "url": "https://x.com/ValsAI/status/2123461302073094509"
-        },
-        {
-          "id": "2123537061739450618",
-          "text": "Gemini 4 Neon is the best Google model on the RSI Index. It lands at #4, 3.8 points above Gemini 4 Argon, Google’s previous best model on the index.\n\nGoogle’s acceleration in the past two months has solidified its position above OpenAI on the RSI Index. https://t.co/aX0pNyoc99",
-          "created_at": "2026-11-19T22:01:03+00:00",
-          "like_count": 35,
-          "retweet_count": 1,
-          "reply_count": 5,
-          "engagement_score": 42,
-          "url": "https://x.com/ValsAI/status/2123537061739450618"
         },
         {
           "id": "2123225324544721350",
           "text": "Who is AI leaving behind?\n\nOn The Bench, Rayan sits down with Vals AI researchers Henry and Meghana to break down our three Social Mobility benchmarks: Immigration Bench, Access to Justice, and Financial Coaching Bench.\n\nModels rarely give wrong answers, but often give incomplete ones and the people with the most at stake get the least complete advice.\n\n00:37 Existential risk vs. social risk\n07:30 The tide doesn’t rise equally\n10:00 Immigration Bench and the deadline models missed\n12:43 Access to Justice\n13:25 Financial Coaching Bench\n16:35 Free vs. premium models\n26:27 Open-source models hold their own\n39:12 Does this matter in a world of UBI or x-risk?\n42:22 What would make labs prioritize social impact",
           "created_at": "2026-11-19T01:22:19+00:00",
-          "like_count": 30,
+          "like_count": 33,
           "retweet_count": 2,
           "reply_count": 3,
-          "engagement_score": 37,
+          "engagement_score": 40,
           "url": "https://x.com/ValsAI/status/2123225324544721350"
         },
         {
-          "id": "2123201927337087183",
-          "text": "SF is underwater, but our venue is dry! \n\nTomorrow night, the researchers behind our three new Social Mobility benchmarks will share what their findings and discuss the implications of AI inequality.\n\nJoin us for presentations, a fireside chat, snacks, drinks, and Q&amp;A.",
-          "created_at": "2026-11-18T23:49:21+00:00",
-          "like_count": 21,
+          "id": "2123521563010240999",
+          "text": "Today, Henry, one of our researchers, was a panelist at the @FinRegLab symposium in DC!\n\nHe presented Financial Coaching Bench, which we built in collaboration with @nextladder, Financial Health Network, and human financial coaches to test how well AI models handle real money questions over multi-turn conversations.",
+          "created_at": "2026-11-19T20:59:28+00:00",
+          "like_count": 26,
           "retweet_count": 0,
           "reply_count": 4,
-          "engagement_score": 25,
-          "url": "https://x.com/ValsAI/status/2123201927337087183"
+          "engagement_score": 30,
+          "url": "https://x.com/ValsAI/status/2123521563010240999"
         }
       ]
     },
@@ -207,51 +218,51 @@
           "id": "2123169189397709174",
           "text": "Big news: Gemini 4 Neon (High) is the best @GoogleDeepmind model on the Agent Arena Index, ranking #2 overall and reshaping the Pareto frontier!\n\nWith 1336 pts based on 4.2k real-world agentic sessions from Arena’s global community, it surpassed:\n- #4 Carbon (High): 1303 pts\n- #9 Hydrogen (High): 1271 pts\n- #11 Argon (High): 1229 pts\n\nNeon is on the Agent Arena Pareto frontier at $2.82 median cost per task. It scores higher than #3 Claude Opus 5.5 (Max) for 53% less per task, and is 69% less per task than #1 Claude Fable 5.2 (Max). See Pareto in thread.\n\nIt's strong across key signals:\n- #2 Praise vs. Complaint: 1539 pts (user satisfaction with the agent’s outcome)\n- #2 Steerability: 1298 pts (how well an agent responds to user corrections)\n- #3 Task Completion: 1316 pts (explicit confirmation of task success from users)\n\nSee where it landed in the Code Arena: WebDev and Text Arena below in thread.\n\nCongrats to the team at @GoogleDeepmind on another huge release!",
           "created_at": "2026-11-18T21:39:15+00:00",
-          "like_count": 1915,
-          "retweet_count": 171,
-          "reply_count": 39,
-          "engagement_score": 2296,
+          "like_count": 1938,
+          "retweet_count": 173,
+          "reply_count": 40,
+          "engagement_score": 2324,
           "url": "https://x.com/arena/status/2123169189397709174"
         },
         {
           "id": "2123192239761596566",
           "text": "Google DeepMind is shipping exponentially faster.\n\nThe first Gemini 4 model was announced on September 30, Gemini 4 Argon. Since then, the gap between each model release has roughly halved.\n\n- Argon -> Carbon - 28 days\n- Carbon -> Hydrogen - 15 days\n- Hydrogen -> Neon - 6 days\n\nMassive congrats to the @GoogleDeepMind team on accelerating the pace of releases!",
           "created_at": "2026-11-18T23:10:51+00:00",
-          "like_count": 1133,
-          "retweet_count": 90,
-          "reply_count": 46,
-          "engagement_score": 1359,
+          "like_count": 1160,
+          "retweet_count": 95,
+          "reply_count": 47,
+          "engagement_score": 1397,
           "url": "https://x.com/arena/status/2123192239761596566"
         },
         {
           "id": "2123112692810764496",
           "text": "Real-world Arena scores are in for GPT-6.2 Astra and GPT-6.2 Sol by @OpenAI in the Code Arena: WebDev, and both have landed on the Pareto frontier!\n- #3 with 1781 pts: GPT-6.2 Astra (Max)\n- #7 with 1757 pts: GPT-6.2 Sol (Max)\n\nGPT-6.2 Astra: #3 with 1781 pts\n- +18 pts vs previous variant GPT-6 Astra (Max)\n- #1 in Consumer Product, compared with #4 for GPT-6 Astra\n- Median cost per task: $5.45 vs. $9.46 for GPT-6 Astra, 42% lower\n- Lands on Pareto frontier (see placement in thread)\n\nGPT-6.2 Sol: #7 with 1757 pts\n- +13 pts vs GPT-6.1 Sol (Max)\n- Median cost per task: $1.45 vs. $1.84 for GPT-6.1 Sol, 21% lower\n- Lands on Pareto frontier (see placement in thread)\n\n6.2 Astra vs. Sol\n- Astra scores +24 pts above Sol\n- Sol’s median cost per task is 73% lower ($1.45 vs. $5.45)\n\nCongrats to the @OpenAI team on this release. Agent score coming soon!",
           "created_at": "2026-11-18T17:54:46+00:00",
-          "like_count": 448,
+          "like_count": 456,
           "retweet_count": 27,
-          "reply_count": 33,
-          "engagement_score": 535,
+          "reply_count": 34,
+          "engagement_score": 544,
           "url": "https://x.com/arena/status/2123112692810764496"
-        },
-        {
-          "id": "2123234410032214464",
-          "text": "Scores for GPT-6.2 Astra and Sol are on the NEW Agent Arena Index!\n- #6 with 1291 pts: GPT-6.2 Astra (Max), now @OpenAI’s best model\n- #11 with 1241 pts: GPT-6.2 Sol (Max), joining the cost Pareto frontier\n\nThe Agent Arena Index is our new headline measure of overall agent performance, built from millions of real-world tasks and traces from our global community. Results for GPT-6.2 Astra and Sol are based on 7.1K+ real agentic sessions.\n\nGPT-6.2 Astra: #6 with 1291 pts\n- +9 pts vs previous variant GPT-6 Astra (Max), currently #7\n- Median cost per task: $2.94 vs. $4.91 for GPT-6 Astra, 40% lower\n- Strongest signal: #5 with 1462 pts in Praise vs Complaint (user satisfaction with agent's outcome)\n\nGPT-6.2 Sol: #11 with 1241 pts\n- Matches #12 GPT-6.1 Sol (Max) with 1241 pts, at a 13% lower median cost per task ($0.90 vs. $1.04)\n- Joins the Pareto frontier (see placement in thread)\n\n6.2 Astra vs. Sol\n- Astra scores +50 pts above Sol at #6 vs #11\n- Sol’s median cost per task is 69% lower ($0.90 vs. $2.94)\n\nCongrats to the team at @OpenAI on this release!",
-          "created_at": "2026-11-19T01:58:25+00:00",
-          "like_count": 307,
-          "retweet_count": 17,
-          "reply_count": 22,
-          "engagement_score": 363,
-          "url": "https://x.com/arena/status/2123234410032214464"
         },
         {
           "id": "2123436909120856466",
           "text": "Watch how @AnthropicAI’s models have progressed over time. \n\n@petergostev generated nine outputs from Opus 4.5 to Opus 5.5 (Max) using the same prompt.\n\nFor more prompts to try on Arena, see the link below. https://t.co/8Umk4m71PK",
           "created_at": "2026-11-19T15:23:05+00:00",
-          "like_count": 303,
-          "retweet_count": 20,
-          "reply_count": 16,
-          "engagement_score": 359,
+          "like_count": 414,
+          "retweet_count": 26,
+          "reply_count": 17,
+          "engagement_score": 483,
           "url": "https://x.com/arena/status/2123436909120856466"
+        },
+        {
+          "id": "2123487889774526841",
+          "text": "Today, @AnthropicAI is the #1 lab in the Code Arena: WebDev. Its best model, Claude Fable 5.2, is scoring 1824 points, +27 points ahead of the next-best lab.\n\nSee how @AnthropicAI’s ranking among labs has changed over the last year, and also see where it lands on the Agent Arena Index at the link in thread.",
+          "created_at": "2026-11-19T18:45:40+00:00",
+          "like_count": 367,
+          "retweet_count": 17,
+          "reply_count": 21,
+          "engagement_score": 422,
+          "url": "https://x.com/arena/status/2123487889774526841"
         }
       ]
     },
@@ -262,34 +273,54 @@
       "tier": "analyst",
       "tweets": [
         {
+          "id": "2123581865965855205",
+          "text": "Can language models make better videos than video models?\n\nLLMs now make motion graphics, edit video as code and drive Blender to build 3D scenes. Can LLMs compete with video generation models?\n\nWe put GPT-6.2 Astra from @OpenAI, the current #1 on AA-3D, to the test, building the Sydney Opera House, an exploded mechanical watch, and a dragon attacking a medieval town as three.js code. We flew a scripted camera through each scene in a browser: 15 s, 1080p, 24 fps. \n\nDreamina Seedance 2.5 from @ByteDanceSeed_ got the same camera path as a text prompt with reference images of the route, at the same settings.\n\n➤ Top: GPT-6.2 Astra (LLM, AA-3D)\n\n➤ Bottom: Dreamina Seedance 2.5 (video model, AA-Video-T2V)",
+          "created_at": "2026-11-20T00:59:05+00:00",
+          "like_count": 675,
+          "retweet_count": 44,
+          "reply_count": 86,
+          "engagement_score": 849,
+          "url": "https://x.com/ArtificialAnlys/status/2123581865965855205"
+        },
+        {
           "id": "2123513872095269336",
           "text": "Out of your element with the new Gemini 4 releases? Here are some key highlights on Gemini 4 Carbon, Neon and Hydrogen\n\nCarbon is the highest-priced model ($4/$20 per 1M input/output tokens), followed by Neon ($3/$15) and Hydrogen ($1.50/$7.50). At low effort, Carbon performs the best of the three but uses more tokens. However, Neon and Hydrogen scale more effectively to higher reasoning efforts and have an additional reasoning option (xhigh).",
           "created_at": "2026-11-19T20:28:54+00:00",
-          "like_count": 183,
-          "retweet_count": 10,
-          "reply_count": 17,
-          "engagement_score": 220,
+          "like_count": 444,
+          "retweet_count": 17,
+          "reply_count": 29,
+          "engagement_score": 507,
           "url": "https://x.com/ArtificialAnlys/status/2123513872095269336"
         },
         {
-          "id": "2123242530489966738",
-          "text": "Kling Image 4.0 ranks #7 in Text to Image and #6 in Image Editing, behind only OpenAI and Microsoft AI models\n\nIt generates images up to 8K, and its 2K price is under a third of the price of every OpenAI model ranked above it. In Image Editing, it sits just behind GPT Image 2.5 Flare (max) at #5 and ranks in the top 5 for 5 of 7 editing actions.\n\nIt is also a big step up from Kling Image 3.0 Omni, which ranked #86 in Text to Image and #67 in Image Editing before this launch. Kling Image 4.0 gains more than 225 Elo on both boards and improves on Kling Image 3.0 Omni in every editing action and Text to Image capability.\n\nCongratulations to @Kling_ai on the launch of Kling Image 4.0!\n\nSee below for our detailed analysis in Image Editing and Text to Image 🧵",
-          "created_at": "2026-11-19T02:30:41+00:00",
-          "like_count": 132,
-          "retweet_count": 9,
-          "reply_count": 21,
-          "engagement_score": 171,
-          "url": "https://x.com/ArtificialAnlys/status/2123242530489966738"
+          "id": "2123574381251375493",
+          "text": "ElevenLabs' Scribe v3 ranks #2 on the AA-WER Index for non-streaming speech-to-text at 1.95% WER, improving on Scribe v2 (2.18%)\n\nIn our independent benchmarks, it sits behind Alibaba's Fun-Realtime-ASR-preview (1.73%) and just ahead of Microsoft AI's MAI-Transcribe-2 (2.04%). \nCongratulations to @ElevenLabs on the launch! 🧵",
+          "created_at": "2026-11-20T00:29:21+00:00",
+          "like_count": 92,
+          "retweet_count": 6,
+          "reply_count": 18,
+          "engagement_score": 122,
+          "url": "https://x.com/ArtificialAnlys/status/2123574381251375493"
         },
         {
           "id": "2123490239465328823",
           "text": "Build your own custom index in the Artificial Analysis Data Playground\n\nAdd any Artificial Analysis benchmarks, customize their weights, and plot the results with other chart axis. Models receive a score only if they have results for every evaluation in your index, consistent with the Intelligence Index methodology.\n\nAlso in the Data Playground:\n➤ Formula metrics: combine any metrics with +, -, *, / and functions such as log and sqrt\n➤ Playback: play a scatter chart forward by launch date, with the frontier drawn as it stood at each date\n➤ Heat maps across many evaluations, and box plot distributions by group, such as open weights vs proprietary\n➤ A workbench with sheets, Columns/Rows shelves and a dashboard view\n\nThe Data Playground is available with Artificial Analysis Pro.",
           "created_at": "2026-11-19T18:55:00+00:00",
-          "like_count": 47,
+          "like_count": 63,
           "retweet_count": 5,
-          "reply_count": 11,
-          "engagement_score": 68,
+          "reply_count": 15,
+          "engagement_score": 88,
           "url": "https://x.com/ArtificialAnlys/status/2123490239465328823"
+        },
+        {
+          "id": "2123530219760034049",
+          "text": "Join us next Tuesday, November 24 in San Francisco for an evening with the teams building open weight models\n\nWe'll kick things off with the latest Artificial Analysis benchmark data, followed by lightning talks and a panel.\n\nRegister 👇\n https://t.co/e0tvdtjkdc",
+          "created_at": "2026-11-19T21:33:52+00:00",
+          "like_count": 23,
+          "retweet_count": 0,
+          "reply_count": 4,
+          "engagement_score": 27,
+          "url": "https://x.com/ArtificialAnlys/status/2123530219760034049"
         }
       ]
     },
@@ -298,7 +329,18 @@
       "name": "Naval Ravikant",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2123768555317723476",
+          "text": "“NVIDIA has to become a frontier lab faster than frontier labs are becoming chip companies.”",
+          "created_at": "2026-11-20T13:20:55+00:00",
+          "like_count": 1343,
+          "retweet_count": 80,
+          "reply_count": 72,
+          "engagement_score": 1575,
+          "url": "https://x.com/naval/status/2123768555317723476"
+        }
+      ]
     },
     {
       "handle": "leopoldasch",
@@ -324,10 +366,10 @@
           "id": "2123103873166381287",
           "text": "So fun to do DealBook with my friend and partner of 11 years, @gdb. Thrilled the world got to see the brilliant, fiercely determined leader I have the privilege of working with every day.\n\nGreg’s role at OpenAI has evolved from writing code 100 hours a week in the early days to now leading some of the hardest and most consequential parts of our business.\n\nOne thing that has not changed is his extraordinary commitment to our mission. I can say with confidence that OpenAI would not exist without Greg, and I believe the world would be on a much worse path toward the AI future without him.",
           "created_at": "2026-11-18T17:19:43+00:00",
-          "like_count": 4746,
-          "retweet_count": 165,
-          "reply_count": 496,
-          "engagement_score": 5572,
+          "like_count": 4860,
+          "retweet_count": 169,
+          "reply_count": 527,
+          "engagement_score": 5725,
           "url": "https://x.com/sama/status/2123103873166381287"
         }
       ]
@@ -349,11 +391,21 @@
           "id": "2123168218743554465",
           "text": "Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro &amp; Ultra users now!! We think you’ll enjoy this model. Alchemy at its finest… 🧪 https://t.co/n9VhNnYKGD",
           "created_at": "2026-11-18T21:35:24+00:00",
-          "like_count": 11720,
-          "retweet_count": 734,
-          "reply_count": 400,
-          "engagement_score": 13588,
+          "like_count": 12503,
+          "retweet_count": 783,
+          "reply_count": 419,
+          "engagement_score": 14488,
           "url": "https://x.com/demishassabis/status/2123168218743554465"
+        },
+        {
+          "id": "2123567986565173289",
+          "text": "🤣 💙 Apology accepted (so this was @_sholtodouglas  then? 😅 ), but I think you missed checking the 'Underestimated the cracked Google DeepMind team' box. Amazing work from the Gemini &amp; GDM teams, always great to see folks enjoy our cooking!👨‍🍳🧪",
+          "created_at": "2026-11-20T00:03:56+00:00",
+          "like_count": 6305,
+          "retweet_count": 265,
+          "reply_count": 145,
+          "engagement_score": 6980,
+          "url": "https://x.com/demishassabis/status/2123567986565173289"
         }
       ]
     },
@@ -374,30 +426,30 @@
           "id": "2123068342013710394",
           "text": "The AI Podcast is back.\n\n@huggingface's @Thom_Wolf and @ServiceNow's Amanda Grady join us to talk open models, agent safety, and helping more people build with AI.\n\n0:00 AI safety beyond the prompt\n1:50 Open and proprietary models for cyber defense\n3:28 Giving agents their own identity and permissions\n5:07 AI Passport and NVIDIA Sentry\n6:03 What better security unlocks\n8:32 Open source and security\n10:58 Bringing safety into the physical world\n13:10 Making fine-tuning more accessible\n14:09 What’s next—and why they’re optimistic",
           "created_at": "2026-11-18T14:58:32+00:00",
-          "like_count": 434,
-          "retweet_count": 46,
-          "reply_count": 361,
-          "engagement_score": 887,
+          "like_count": 439,
+          "retweet_count": 47,
+          "reply_count": 376,
+          "engagement_score": 909,
           "url": "https://x.com/nvidia/status/2123068342013710394"
         },
         {
           "id": "2123085601520197974",
           "text": "Pula aims to protect 100 million farmers from climate shocks by 2030. Climate modeling powered by NVIDIA Earth-2 will help it pursue that goal. 🌱\n\nAt The Earthshot Prize’s Impact Assembly in Mumbai, 2026 Finalist Pula announced it is joining NVIDIA Inception and will use Earth-2 to better understand how drought and extreme weather will affect the smallholder farmers it serves.\n\nFaster, more detailed forecasts, alongside new support from AWS, will help Pula scale protection for farmers’ families and livelihoods.\n\nRead the announcement: https://t.co/pXNaECmShE\n\n#EarthshotMumbai",
           "created_at": "2026-11-18T16:07:07+00:00",
-          "like_count": 316,
+          "like_count": 329,
           "retweet_count": 39,
-          "reply_count": 438,
-          "engagement_score": 832,
+          "reply_count": 455,
+          "engagement_score": 862,
           "url": "https://x.com/nvidia/status/2123085601520197974"
         },
         {
           "id": "2123509123467600124",
           "text": "AI is more than a better way to search.\n\nOver a drink with NVIDIA’s Chris Alexiuk, @langdock Co-CEO @DadaJudith shared why AI’s biggest impact may be felt in better services, better products, and healthier, more affordable lives.\n\nWatch their full conversation from GTC Berlin: https://t.co/0PLlhRXeWN",
           "created_at": "2026-11-19T20:10:02+00:00",
-          "like_count": 69,
-          "retweet_count": 8,
-          "reply_count": 102,
-          "engagement_score": 187,
+          "like_count": 166,
+          "retweet_count": 19,
+          "reply_count": 284,
+          "engagement_score": 488,
           "url": "https://x.com/nvidia/status/2123509123467600124"
         }
       ]
@@ -437,54 +489,44 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2123237505810178434",
-          "text": "One of the most impressive things I've seen, and I think this is an important advancement to the state of the art.\n\nMessage boards were the enabling technology of both the Navier-Stokes math breakthrough and even the OpenAI/HuggingFace cyber feat.\n\nWe built a message board infrastructure primitive. You can think of it as \"headless Slack\" (or remember IRC?) for agents.\n\nThis is an important building block for software factories, self-optimizing systems, and scientific research, where the human prompting is just the seed of the system, and millions of agents can operate in a decentralized fashion.\n\n𝚟𝚎𝚛𝚌𝚎𝚕 𝚋𝚘𝚊𝚛𝚍 is designed to be model, harness and hosting platform agnostic. Just bring your agents, give them our CLI, and watch magic happen.",
-          "created_at": "2026-11-19T02:10:43+00:00",
-          "like_count": 1783,
-          "retweet_count": 60,
-          "reply_count": 147,
-          "engagement_score": 2050,
-          "url": "https://x.com/rauchg/status/2123237505810178434"
-        },
-        {
-          "id": "2123203741570740504",
-          "text": "I’m being pitched a new inference neocloud company on average every two days. No exaggeration. I take every entrepreneur seriously and I look deeply into each.\n\nBut it’s hard to fathom this being sustainable. At the same time, AI Gateway token demand on Vercel has been ~40% MoM compounded since the beginning of the year. No signs of stopping.\n\nOne way to reconcile this is that compute is the new economy, and tokens the new energy unit. There’s a new Industrial Revolution taking place. Every aspect of our lives is being replatformed on top of this new system that enhances everything. More like an “oil rush” than a “gold rush”: it’s durable, not a fad.\n\nIn the short term, I anticipate more expansion, followed by consolidation due to economies of scale, cybersecurity and enterprise requirements (ZDR and cyber being a hot topic for inference providers), capital requirements, and an evolving regulatory landscape.",
-          "created_at": "2026-11-18T23:56:33+00:00",
-          "like_count": 1400,
-          "retweet_count": 52,
-          "reply_count": 179,
-          "engagement_score": 1683,
-          "url": "https://x.com/rauchg/status/2123203741570740504"
-        },
-        {
           "id": "2123505400591106113",
           "text": "My “is engineering a valuable pursuit” math. \n\nAn outcome-oriented, creative engineer is now a 1000x engineer.\n\nA tabs-vs-spaces-debating, miss-forest-for-trees engineer is now a -10x engineer.\n\nThe regular knowledge worker is now a 2x engineer.\n\nThis is also backed by the distribution of token consumption we see in both our startups and enterprise base. Engineers and software factories will consume exponentially more tokens.\n\nIf there’s a takeaway from Anthropic’s success, it’s that coding is the #1 killer app of AI.",
           "created_at": "2026-11-19T19:55:14+00:00",
-          "like_count": 793,
-          "retweet_count": 50,
-          "reply_count": 84,
-          "engagement_score": 977,
+          "like_count": 1935,
+          "retweet_count": 117,
+          "reply_count": 163,
+          "engagement_score": 2332,
           "url": "https://x.com/rauchg/status/2123505400591106113"
         },
         {
           "id": "2123388870813450641",
           "text": "Congrats Anthropic on putting out the best models, holding and deepening your lead, and a generational IPO.",
           "created_at": "2026-11-19T12:12:12+00:00",
-          "like_count": 358,
-          "retweet_count": 6,
+          "like_count": 436,
+          "retweet_count": 7,
           "reply_count": 75,
-          "engagement_score": 445,
+          "engagement_score": 525,
           "url": "https://x.com/rauchg/status/2123388870813450641"
         },
         {
           "id": "2123468825538789380",
           "text": "𝚟𝚎𝚛𝚌𝚎𝚕 𝚋𝚘𝚊𝚛𝚍 has no heavyweight or opinionated UI. It's infra not product. I love the \"headless Slack\" for agents analogy, because UI is free now.\n\nYou can generate and deploy the ideal \"factory interface\" for each usecase. A security team will focus on vulnerability counts, SEV classifications, confirmed vs unconfirmed.\n\nI've seen internal factories at Vercel built on Board that are just TUIs. Or mostly managed via a Slack agent, and you just focus on the outcomes and giving feedback to the agents. \n\nThe board is like the Redux state manager of your agents. It's foundational.",
           "created_at": "2026-11-19T17:29:54+00:00",
-          "like_count": 244,
-          "retweet_count": 7,
-          "reply_count": 71,
-          "engagement_score": 329,
+          "like_count": 375,
+          "retweet_count": 12,
+          "reply_count": 85,
+          "engagement_score": 484,
           "url": "https://x.com/rauchg/status/2123468825538789380"
+        },
+        {
+          "id": "2123553975945556144",
+          "text": "A company’s genesis is the agent that helps you build the company",
+          "created_at": "2026-11-19T23:08:16+00:00",
+          "like_count": 259,
+          "retweet_count": 11,
+          "reply_count": 68,
+          "engagement_score": 349,
+          "url": "https://x.com/rauchg/status/2123553975945556144"
         }
       ]
     },
@@ -498,20 +540,20 @@
           "id": "2123535544718418191",
           "text": "Build your own Muse-like personal agent with one prompt.",
           "created_at": "2026-11-19T21:55:01+00:00",
-          "like_count": 33,
-          "retweet_count": 3,
-          "reply_count": 6,
-          "engagement_score": 45,
+          "like_count": 509,
+          "retweet_count": 37,
+          "reply_count": 50,
+          "engagement_score": 633,
           "url": "https://x.com/amasad/status/2123535544718418191"
         },
         {
           "id": "2123535362568134894",
           "text": "Having a contract with your agent is a paradigm I expect many will copy from us",
           "created_at": "2026-11-19T21:54:18+00:00",
-          "like_count": 19,
-          "retweet_count": 1,
-          "reply_count": 14,
-          "engagement_score": 35,
+          "like_count": 89,
+          "retweet_count": 6,
+          "reply_count": 44,
+          "engagement_score": 145,
           "url": "https://x.com/amasad/status/2123535362568134894"
         }
       ]
@@ -523,24 +565,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2123177835254952348",
-          "text": "Introducing Gemini 4 Neon. The shipping continues! Frontier-grade intelligence that’s faster, cheaper, and follows complex instructions well. So good to use! https://t.co/HWBTt61dLn",
-          "created_at": "2026-11-18T22:13:37+00:00",
-          "like_count": 530,
-          "retweet_count": 31,
-          "reply_count": 53,
-          "engagement_score": 645,
-          "url": "https://x.com/joshwoodward/status/2123177835254952348"
-        },
-        {
           "id": "2123534862569324703",
           "text": "Gemini app on Mac can now do tasks on your computer, a top feature request!",
           "created_at": "2026-11-19T21:52:19+00:00",
-          "like_count": 104,
-          "retweet_count": 10,
-          "reply_count": 11,
-          "engagement_score": 135,
+          "like_count": 1197,
+          "retweet_count": 48,
+          "reply_count": 90,
+          "engagement_score": 1383,
           "url": "https://x.com/joshwoodward/status/2123534862569324703"
+        },
+        {
+          "id": "2123177835254952348",
+          "text": "Introducing Gemini 4 Neon. The shipping continues! Frontier-grade intelligence that’s faster, cheaper, and follows complex instructions well. So good to use! https://t.co/HWBTt61dLn",
+          "created_at": "2026-11-18T22:13:37+00:00",
+          "like_count": 566,
+          "retweet_count": 31,
+          "reply_count": 56,
+          "engagement_score": 684,
+          "url": "https://x.com/joshwoodward/status/2123177835254952348"
         }
       ]
     },
@@ -556,38 +598,7 @@
       "name": "Ivan Fioravanti (Apple MLX / open source)",
       "domain": "ai",
       "tier": "builder",
-      "tweets": [
-        {
-          "id": "2123451001571078253",
-          "text": "This aged well. I'm reentering the Google AI world right now!",
-          "created_at": "2026-11-19T16:19:05+00:00",
-          "like_count": 44,
-          "retweet_count": 0,
-          "reply_count": 4,
-          "engagement_score": 48,
-          "url": "https://x.com/ivanfioravanti/status/2123451001571078253"
-        },
-        {
-          "id": "2123429236233097412",
-          "text": "Love this 🔥 My sample repo on Liquid d1-2B ported to AMD Strix Halo on both GPU and NPU: Radeon 8060S at 86 ms / ~120 W vs the XDNA2 NPU at 1.7 s / 5.8 W. \n\nAMAZING!\nhttps://t.co/5rT8FB4RbA",
-          "created_at": "2026-11-19T14:52:35+00:00",
-          "like_count": 25,
-          "retweet_count": 2,
-          "reply_count": 7,
-          "engagement_score": 36,
-          "url": "https://x.com/ivanfioravanti/status/2123429236233097412"
-        },
-        {
-          "id": "2123521954665882110",
-          "text": "An agent that designs and tests the quantization recipe for each model and precision. MIT and NVIDIA rock! https://t.co/0ik0YKGK4q",
-          "created_at": "2026-11-19T21:01:01+00:00",
-          "like_count": 16,
-          "retweet_count": 2,
-          "reply_count": 3,
-          "engagement_score": 23,
-          "url": "https://x.com/ivanfioravanti/status/2123521954665882110"
-        }
-      ]
+      "tweets": []
     },
     {
       "handle": "deanwball",
@@ -603,44 +614,44 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2123099377946546491",
-          "text": "ok after a full day of using gpt 6.2 astra and sol on my real projects, here's my review\n\ntl;dr - they are not a drop-in replacement for fable 5.2 and opus 5.5, but they are _really good_ once you figured out how to use their strength\n\n1. first, the quirks\n\ni started called these the \"gpt smell\", which is still here with the 6.2 series\n\nthe models' judgment on when to ask the user about something and when to go ahead is just not quite right. it'll escalate trivial decisions where clearly only one option is preferable, or choose to go down a path by itself that makes significant tradeoffs that should have needed my eyes\n\nso as a primary driver for \"let me just talk to it about everything\" type of use case, they aren't great - i'd say they are close to opus 5 in this regard, and far behind opus 5.5\n\n2. but... i found something _really_ cool\n\nhaving ultrafast on sol is completely insane. with astra, it burns my wallet ultrafast, but with sol it's actually quite affordable! \n\nthe best use of sol on ultrafast that i've found is adversarial code reviews - they typically don't need to run a lot of heavy tool calls that would slow them down. most of the time is spent on the model, which gets massively accelerated by ultrafast\n\nonce you got a feel from using sol ultrafast as the code reviewer, you can never go back. it feels like pure magic\n\n3. and... i found something else that's really cool\n\nwe are not supposed to ask the gpt 6.2 series to respond in text. we should let them respond in html! (i use lavish-axi, but you can just ask for html or use whatever fits in your harness)\n\ni suspect they are post-trained specifically on their latest \"intelligent UI\" concept in chatgpt - these models are so good at visual presentations of ideas\n\nonce you allow the model to respond in visual artifacts, it's a completely different game. the reports and decisions explained by astra in html is a clear step function better than what fable and opus give me\n\nso after a day of use, i've made two changes to my setup:\n- always sol ultrafast as code reviewer\n- i started preferring asking astra for planning in html artifacts over fable/opus. i think i'll keep a/b testing for a while to decide how much and for which case i fully switch over\n\nall in all, i strongly recommend spending more time with these two models. don't expect them to be the \"everything\" model, but rather figure out where they fit best in your workflow. i couldn't be happier for the two use cases i found above, and i'm pretty sure there are more",
-          "created_at": "2026-11-18T17:01:51+00:00",
-          "like_count": 1272,
-          "retweet_count": 43,
-          "reply_count": 67,
-          "engagement_score": 1425,
-          "url": "https://x.com/kunchenguid/status/2123099377946546491"
+          "id": "2123643593688822222",
+          "text": "gemini 4 neon is not bad! talking to it is such a breath of fresh air \n\nall they need to do now is to allow gemini subscription in any harness\n\na come back is as easy as that",
+          "created_at": "2026-11-20T05:04:22+00:00",
+          "like_count": 2363,
+          "retweet_count": 35,
+          "reply_count": 91,
+          "engagement_score": 2524,
+          "url": "https://x.com/kunchenguid/status/2123643593688822222"
         },
         {
           "id": "2123215656145551371",
           "text": "try and answer this without looking them up -\n\ngemini 4 argon, hydrogen, neon, carbon\n\nwhich is smaller, which is bigger?",
           "created_at": "2026-11-19T00:43:54+00:00",
-          "like_count": 147,
+          "like_count": 152,
           "retweet_count": 1,
-          "reply_count": 33,
-          "engagement_score": 182,
+          "reply_count": 37,
+          "engagement_score": 191,
           "url": "https://x.com/kunchenguid/status/2123215656145551371"
-        },
-        {
-          "id": "2123272863314780563",
-          "text": "i really like how grok bots can be shared so easily. such a clear network effect advantage over other agents\n\njust submitted my firstmate bot 🤞\n\nhttps://t.co/dolBSZN49q https://t.co/8GLHqbUVyW",
-          "created_at": "2026-11-19T04:31:13+00:00",
-          "like_count": 75,
-          "retweet_count": 3,
-          "reply_count": 5,
-          "engagement_score": 86,
-          "url": "https://x.com/kunchenguid/status/2123272863314780563"
         },
         {
           "id": "2123535451084722667",
           "text": "wow i haven't checked for a while and just noticed https://t.co/rxk2joB5Ix now has a catalog with over 100+ AXI tools built by the community, covering almost everything you can think of. OSS FTW!\n\ni covered them in many of my videos, but most of the tools i give to my agents are AXIs\n\nif you haven't seen AXIs yet, they are highly agent ergonomic tools. they are to agents what well-designed apps feel like to humans - it saves roundtrips, tokens and time",
           "created_at": "2026-11-19T21:54:39+00:00",
-          "like_count": 11,
-          "retweet_count": 2,
-          "reply_count": 2,
-          "engagement_score": 17,
+          "like_count": 113,
+          "retweet_count": 7,
+          "reply_count": 4,
+          "engagement_score": 131,
           "url": "https://x.com/kunchenguid/status/2123535451084722667"
+        },
+        {
+          "id": "2123272863314780563",
+          "text": "i really like how grok bots can be shared so easily. such a clear network effect advantage over other agents\n\njust submitted my firstmate bot 🤞\n\nhttps://t.co/dolBSZN49q https://t.co/8GLHqbUVyW",
+          "created_at": "2026-11-19T04:31:13+00:00",
+          "like_count": 83,
+          "retweet_count": 3,
+          "reply_count": 6,
+          "engagement_score": 95,
+          "url": "https://x.com/kunchenguid/status/2123272863314780563"
         }
       ]
     },
@@ -654,41 +665,31 @@
           "id": "2123083286717342011",
           "text": "GPT-6.2 is incredible at browser use:",
           "created_at": "2026-11-18T15:57:55+00:00",
-          "like_count": 1804,
+          "like_count": 1814,
           "retweet_count": 70,
-          "reply_count": 154,
-          "engagement_score": 2098,
+          "reply_count": 155,
+          "engagement_score": 2109,
           "url": "https://x.com/gdb/status/2123083286717342011"
+        },
+        {
+          "id": "2123719297096990726",
+          "text": "GPT-6.2 Astra exceeding human baseline on physical 3D understanding benchmark:",
+          "created_at": "2026-11-20T10:05:11+00:00",
+          "like_count": 1201,
+          "retweet_count": 77,
+          "reply_count": 139,
+          "engagement_score": 1494,
+          "url": "https://x.com/gdb/status/2123719297096990726"
         },
         {
           "id": "2123130414323888463",
           "text": "roughly an additional year of progress on @AMD's chip achieved in less than 5 months using our models, with some of these results included in a design that's recently been taped out — unprecedented results at the frontier of chip design.",
           "created_at": "2026-11-18T19:05:11+00:00",
-          "like_count": 1193,
-          "retweet_count": 91,
-          "reply_count": 77,
-          "engagement_score": 1452,
+          "like_count": 1222,
+          "retweet_count": 92,
+          "reply_count": 82,
+          "engagement_score": 1488,
           "url": "https://x.com/gdb/status/2123130414323888463"
-        },
-        {
-          "id": "2122869636928598361",
-          "text": "GPT-6.2 Astra for Law is SOTA on legal intelligence:",
-          "created_at": "2026-11-18T01:48:57+00:00",
-          "like_count": 948,
-          "retweet_count": 42,
-          "reply_count": 92,
-          "engagement_score": 1124,
-          "url": "https://x.com/gdb/status/2122869636928598361"
-        },
-        {
-          "id": "2122819528858161322",
-          "text": "GPT-6 Cyber for helping further secure the internet, with a major security flaw in Java found by Calif, as part of our Patch the Planet initiative:   https://t.co/DtMftfZTp7",
-          "created_at": "2026-11-17T22:29:50+00:00",
-          "like_count": 579,
-          "retweet_count": 50,
-          "reply_count": 74,
-          "engagement_score": 753,
-          "url": "https://x.com/gdb/status/2122819528858161322"
         }
       ]
     },
@@ -699,24 +700,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2123175166519992652",
-          "text": "GPT-6.2 Astra is pretty good at hard things. Here the team shared some results on AMD and Jalapeño chip optimizations.\n\nI do get the feedback on its communication style and we're working on that, but for really the hardest tasks in the world it does seem to be in a league of its own at the moment.",
-          "created_at": "2026-11-18T22:03:01+00:00",
-          "like_count": 3985,
-          "retweet_count": 141,
-          "reply_count": 860,
-          "engagement_score": 5127,
-          "url": "https://x.com/thsottiaux/status/2123175166519992652"
-        },
-        {
           "id": "2123505331531882923",
           "text": "Tokens go brrrrrr. Going to need more compute.",
           "created_at": "2026-11-19T19:54:58+00:00",
-          "like_count": 3692,
-          "retweet_count": 68,
-          "reply_count": 533,
-          "engagement_score": 4361,
+          "like_count": 6980,
+          "retweet_count": 133,
+          "reply_count": 811,
+          "engagement_score": 8057,
           "url": "https://x.com/thsottiaux/status/2123505331531882923"
+        },
+        {
+          "id": "2123175166519992652",
+          "text": "GPT-6.2 Astra is pretty good at hard things. Here the team shared some results on AMD and Jalapeño chip optimizations.\n\nI do get the feedback on its communication style and we're working on that, but for really the hardest tasks in the world it does seem to be in a league of its own at the moment.",
+          "created_at": "2026-11-18T22:03:01+00:00",
+          "like_count": 4131,
+          "retweet_count": 143,
+          "reply_count": 886,
+          "engagement_score": 5303,
+          "url": "https://x.com/thsottiaux/status/2123175166519992652"
         }
       ]
     },
@@ -730,51 +731,51 @@
           "id": "2123473243457925131",
           "text": "🚨 GEMINI NEON HITS NUMBER ONE ON LIVEBENCH\n\nYes, it beats Fable and Astra as well!!\n\nAvailable today on ChatLLM... BEST MODEL EVER\n\nDetails coming",
           "created_at": "2026-11-19T17:47:28+00:00",
-          "like_count": 759,
-          "retweet_count": 33,
-          "reply_count": 54,
-          "engagement_score": 879,
+          "like_count": 976,
+          "retweet_count": 38,
+          "reply_count": 58,
+          "engagement_score": 1110,
           "url": "https://x.com/bindureddy/status/2123473243457925131"
         },
         {
           "id": "2123256716129403136",
           "text": "Initial evals on Gemini Neon are mind blowing \n\nIt’s much faster and appears to actually be better than Carbon or Opus on long agentic tasks 🤯\n\nEXTREMELY BIG IF TRUE \n\nDoing more checks to confirm",
           "created_at": "2026-11-19T03:27:03+00:00",
-          "like_count": 558,
-          "retweet_count": 25,
+          "like_count": 580,
+          "retweet_count": 26,
           "reply_count": 56,
-          "engagement_score": 664,
+          "engagement_score": 688,
           "url": "https://x.com/bindureddy/status/2123256716129403136"
         },
         {
           "id": "2123093679065977113",
           "text": "RIDICULOUS - The White House is discussing a proposal that would require US companies to publicly disclose the use of Chinese open-weight AI models\n\nThere is an easy way to get around this\n\nJust distill a Chinese model and create a US open-weights version.\n\nThis will instantly become a big business. Open-weights can't be stopped easily",
           "created_at": "2026-11-18T16:39:12+00:00",
-          "like_count": 480,
+          "like_count": 482,
           "retweet_count": 47,
-          "reply_count": 64,
-          "engagement_score": 638,
+          "reply_count": 65,
+          "engagement_score": 641,
           "url": "https://x.com/bindureddy/status/2123093679065977113"
         },
         {
           "id": "2123265459072245982",
           "text": "Wow!  Gemini Neon is so good that I just started a blind A/B experiment against Opus 5.5 in prod on day one! \n\nMy Plan  \n\nBuy Anthropic if Opus wins, if not, I am passing 🤷‍♀️",
           "created_at": "2026-11-19T04:01:48+00:00",
-          "like_count": 386,
+          "like_count": 399,
           "retweet_count": 12,
-          "reply_count": 76,
-          "engagement_score": 486,
+          "reply_count": 79,
+          "engagement_score": 502,
           "url": "https://x.com/bindureddy/status/2123265459072245982"
         },
         {
-          "id": "2123193725581164922",
-          "text": "Google is on a tear!  4th model - Gemini Neon just dropped in less than 4 weeks\n\nThe real question - are any of them usable in the real world? 😄\n\nHopeful about Neon!  Let's hope it's faster than Carbon and more usable.",
-          "created_at": "2026-11-18T23:16:45+00:00",
-          "like_count": 221,
-          "retweet_count": 8,
-          "reply_count": 36,
-          "engagement_score": 273,
-          "url": "https://x.com/bindureddy/status/2123193725581164922"
+          "id": "2123596262713020527",
+          "text": "🚨 Announcing Gemini Neon on Abacus AI Agent\n\n- Gemini Neon will power complex agents\n- Compare and contrast with Fable, Opus, and Astra\n- Build anything with just text prompts\n\nNeon tends to be slower than Fable, but tends to be extremely detail oriented https://t.co/fFkjGfpolp",
+          "created_at": "2026-11-20T01:56:18+00:00",
+          "like_count": 368,
+          "retweet_count": 11,
+          "reply_count": 43,
+          "engagement_score": 433,
+          "url": "https://x.com/bindureddy/status/2123596262713020527"
         }
       ]
     },
@@ -788,40 +789,30 @@
           "id": "2123213638819348485",
           "text": "🎉 Congratulations to the @GoogleDeepMind team on Gemini 4 Neon!\n\nWe ran it across our full benchmark suite, and Neon is:\n\n🥇#1 on the Tuesday@Work Index, scoring 71.6 vs. Fable 5.2's 71.2.\n\n🥇#1 on DAYJOB: Finance, GDP.xlsx, and Riemann-bench\n\n🥈#2 on DAYJOB: Healthcare and DAYJOB: Tax\n\nFour things that stand out 🧵",
           "created_at": "2026-11-19T00:35:53+00:00",
-          "like_count": 244,
+          "like_count": 247,
           "retweet_count": 21,
           "reply_count": 6,
-          "engagement_score": 292,
+          "engagement_score": 295,
           "url": "https://x.com/HelloSurgeAI/status/2123213638819348485"
         },
         {
-          "id": "2122863106775040010",
-          "text": "GPT 6.2 Astra and GPT 6.2 Sol launched today. We've been running them through the Surge benchmark suite: \n\n11 benchmarks built by professional doctors, accountants, lawyers, and staff software engineers to test whether models can get through an ordinary Tuesday at work.\n\nTL;DR\n\n1. GPT 6.2 Astra is a step forward and the OpenAI model to use for professional work. It takes #1 on Chartography, has OpenAI's best score yet on sudo L7 (although still substantially behind the latest Fable, Opus, and Sonnet models), and beats GPT 6 Astra on every benchmark so far.\n\n2. GPT 6.2 Sol is a mixed upgrade over 6.1 Sol. It got better at coding, charts and agentic instruction following, and worse at healthcare, PDFs, and finance. Re-test before you upgrade.\n\n3. The leaders haven't changed. Anthropic's 5.5 generation still leads on coding, long-context instruction following and every DAYJOB track. Google leads on spreadsheets and PDFs.\n\n–\n\nChartography: Astra takes #1\n\nChartography tests whether models can read the charts professionals rely on every day: Kaplan-Meier survival curves, candlestick charts, Sankey diagrams, and Bode plots. Each task tests not only perception, but also expert domain knowledge and multi-step reasoning.\n\n➤ #1 GPT 6.2 Astra: 90.7%\n➤ #2 GPT 6.2 Sol: 87.7%\n➤ #3 Gemini 4 Argon: 71.6%\n➤ #4 GPT 6 Astra: 71.0%\n➤ #5 Claude Opus 5.5: 66.3%\n\n6.2 Astra gains +19.7 points over GPT 6 Astra, and Sol gains +34.1 points over GPT 6 Sol (53.6%). These are the largest jumps in today's results.\n\n–\n\nsudo L7: better, but still well behind Claude\n\nsudo L7 asks whether coding agents could get promoted to staff engineers. Agents have to find their way around unfamiliar systems, spot hidden risks, and recognize when working code is still the wrong thing to ship.\n\n➤ #1 Claude Fable 5.2: 52.2%\n➤ #2 Claude Sonnet 5.5: 50.6%\n➤ #3 Claude Opus 5.5: 46.1%\n➤ #4 GPT 6.2 Astra: 38.3% (new)\n➤ #5 GPT 6.2 Sol: 36.1% (new)\n➤ #6 GPT 6.1 Sol: 33.9%\n➤ #8 GPT 6 Astra: 31.1%\n\n–\n\nHANDBOOK.md: a big jump in long-context instruction following\n\nAgents work from a 100-page enterprise handbook across five knowledge work domains, using internal tools and external MCP servers.\n\n➤ #1 Claude Opus 5.5: 52.3%\n➤ #4 GPT 6.2 Astra: 45.8%\n➤ #7 GPT 6.2 Sol: 34.5%\n\n–\n\nDAYJOB: long-horizon agents doing real professional work\n\nIn DAYJOB, agents take on real 9-to-5 workflows inside messy environments.\n\nDAYJOB: Healthcare\n➤ #1 Claude Opus 5.5: 48.3%\n➤ #2 GPT 6.2 Astra: 34.4%\n➤ #12 GPT 6.2 Sol: 17.2%\n\n⚑ Sol drops 8 points from GPT 6.1 Sol's 25.2%, the largest regression we measured today.\n\nDAYJOB: Tax\n➤ #1 Claude Sonnet 5.5: 10.8%\n➤ #3 GPT 6.2 Astra: 9.2% (tied)\n➤ #7 GPT 6.2 Sol: 4.8% (tied)\n\nDAYJOB: Finance\n➤ #1 Claude Opus 5.5: 42.5%\n➤ #7 GPT 6.2 Sol: 32.8%\n➤ GPT 6.2 Astra: still running\n\n–\n\nGDP.xlsx\n➤ #1 Gemini 4 Argon: 38.3%\n➤ #3 GPT 6.2 Astra: 29.7%\n➤ #8 GPT 6.2 Sol: 22.3% (tied)\n\nGDP.pdf\n➤ #1 Gemini 4 Carbon: 56.4%\n➤ #10 GPT 6.2 Sol: 48.8% (tied)",
-          "created_at": "2026-11-18T01:23:00+00:00",
-          "like_count": 59,
-          "retweet_count": 6,
-          "reply_count": 24,
-          "engagement_score": 95,
-          "url": "https://x.com/HelloSurgeAI/status/2122863106775040010"
-        },
-        {
-          "id": "2123100028549882305",
-          "text": "⚖️ DAYJOB: LAW, our new benchmark measuring whether agents can handle the work of experienced lawyers ⚖️\n\nAn investor is about to put $20 million into a startup. The company’s ownership spreadsheet looks clean. But its official stock ledger shows 350,000 shares held by a former executive that the spreadsheet leaves out. The board approved a buyback, but there’s no proof it ever happened.\n\nWould an AI agent notice? Better question: would it do anything about it?\n\nThat’s one of the scenarios in DAYJOB: Law, our new benchmark for evaluating AI agents on real-world legal work, with 2,638 messy case files and nearly 1 GB of data to sort through.\n\nThe agent has to recognize that the missing shares could change the investor’s ownership stake and the price they should pay, even though the request never mentioned them.\n\nCongrats 🏅GPT-6.2 Astra, 🥈GPT-6.2 Sol , and 🥉Sonnet 5.5 for the top three spots.",
-          "created_at": "2026-11-18T17:04:26+00:00",
-          "like_count": 37,
-          "retweet_count": 5,
-          "reply_count": 6,
-          "engagement_score": 53,
-          "url": "https://x.com/HelloSurgeAI/status/2123100028549882305"
+          "id": "2123561368473485314",
+          "text": "Gemini 4 Neon launched yesterday and was the first non-Claude model to take #1 on our Tuesday@Work intelligence index.\n\n@GoogleDeepMind has paired top-tier performance with cost efficiency.\n\nOn DAYJOB: Finance, Neon scores 50.5% at $3.44 per task. Every other leading model scores lower and costs more:\n\n- GPT 6.2 Astra scores 45.8% at $5.13\n- Claude Fable 5.2 scores 43.7% at $49.14.\n\nA full run of the benchmark cost $1,378 on Neon and $19,263 on Fable 5.2.",
+          "created_at": "2026-11-19T23:37:38+00:00",
+          "like_count": 71,
+          "retweet_count": 8,
+          "reply_count": 7,
+          "engagement_score": 94,
+          "url": "https://x.com/HelloSurgeAI/status/2123561368473485314"
         },
         {
           "id": "2123134965130969302",
           "text": "5 Surge AI benchmarks in the latest @FireworksAI_HQ Kimi K3.1 Pro research 👀\n\nFrom expert-level legal, accounting, and tax work to staff-level software engineering.\n\nGreat to see our benchmarks helping evaluate the next generation of models.",
           "created_at": "2026-11-18T19:23:16+00:00",
-          "like_count": 13,
+          "like_count": 14,
           "retweet_count": 0,
           "reply_count": 1,
-          "engagement_score": 14,
+          "engagement_score": 15,
           "url": "https://x.com/HelloSurgeAI/status/2123134965130969302"
         }
       ]
@@ -833,24 +824,24 @@
       "tier": "builder",
       "tweets": [
         {
-          "id": "2123279969249796533",
-          "text": "btw this was a third of openrouters tokens over the same period\n\nand it was served from 3 GB300 racks",
-          "created_at": "2026-11-19T04:59:27+00:00",
-          "like_count": 854,
-          "retweet_count": 9,
-          "reply_count": 35,
-          "engagement_score": 907,
-          "url": "https://x.com/thdxr/status/2123279969249796533"
-        },
-        {
           "id": "2123420408728740110",
           "text": "tech is so herdlike \n\nfor the last 6 months founders have been repeating to each other \"compute shortage\" to signal they were serious people doing serious things in ai\n\nthey worked each other up into crazy GPU commits at companies that have zero business owning GPUs\n\nyou don't understand, the most random companies with zero token demand are coming to us trying to resell GPUs",
           "created_at": "2026-11-19T14:17:31+00:00",
-          "like_count": 725,
-          "retweet_count": 39,
-          "reply_count": 48,
-          "engagement_score": 851,
+          "like_count": 946,
+          "retweet_count": 43,
+          "reply_count": 65,
+          "engagement_score": 1097,
           "url": "https://x.com/thdxr/status/2123420408728740110"
+        },
+        {
+          "id": "2123777102931456403",
+          "text": "second order effect are impossible to predict, no one can do it\n\nai is clearly going to be something that will have complicated and confusing emergent impact on the world\n\nwhich is why it's silly that everyone is making such grand predictions",
+          "created_at": "2026-11-20T13:54:53+00:00",
+          "like_count": 123,
+          "retweet_count": 7,
+          "reply_count": 5,
+          "engagement_score": 142,
+          "url": "https://x.com/thdxr/status/2123777102931456403"
         }
       ]
     },
@@ -864,20 +855,20 @@
           "id": "2123064851383677087",
           "text": "Comparing new LLM releases via benchmarks is now a bit like using IQ tests for hiring decisions.\n\nSure, benchmarks are useful baselines and so on, but beyond that, I don't know how indicative they are of our individual tasks and needs. (Yes, also looking at that release yesterday)",
           "created_at": "2026-11-18T14:44:39+00:00",
-          "like_count": 548,
+          "like_count": 552,
           "retweet_count": 35,
-          "reply_count": 117,
-          "engagement_score": 735,
+          "reply_count": 121,
+          "engagement_score": 743,
           "url": "https://x.com/rasbt/status/2123064851383677087"
         },
         {
           "id": "2123433827234111659",
           "text": "Whoa, great and even excessive Marin Mochi (535B-A23B) checkpoint drop (in a good way!)\n\nComes with great tech report btw with insights into why / how components were picked (for training stability and GPU throughput).\n\nShort fact sheet:\n\n1) Latent MoE with an extra RMSNorm on the latent that made latent MoE actually work (better)\n\n2) Classic 3:1 sliding-window/global gated GQA, partial RoPE (local) and NoPE (global)\n\n3) Adding short convolutions on keys, attention output, and MoE output\n\n4) Exclusive self-attention (XSA) -- I guess the end-of-the year architecture roundup this year won't be boring 😅",
           "created_at": "2026-11-19T15:10:50+00:00",
-          "like_count": 277,
-          "retweet_count": 23,
-          "reply_count": 28,
-          "engagement_score": 351,
+          "like_count": 436,
+          "retweet_count": 35,
+          "reply_count": 40,
+          "engagement_score": 546,
           "url": "https://x.com/rasbt/status/2123433827234111659"
         }
       ]
@@ -892,10 +883,10 @@
           "id": "2123415841450410452",
           "text": "amazing to see this new blog on how AI accelerates research inside a top lab. it's super important to have this kind of transparency, super glad openai continues to do so\n\nsome additional thoughts:\n\n1. experiments per experimenter only improved ~1.68x which is super low imo (even more since this is not normalized by compute growth). i think this is probably because there are a lot of people working at oai so people have a limited scope and can't do experiments on everything they want? one other interesting proxy here would be \"number of training runs launched per idea\" i think i would argue that this is much higher right now, but will probably drop again when we have very capable research agents where we can trade test time compute with experimental compute. also probably too much IP here but would be interesting to see the distribution of the scale of experiments, i would expect this to be much more \"extreme\" with agents\n\n2. the hardest benchmark on OpenAI ECI is nanogpt benchmark (track 1) which is.. not great imo. i've made a lot of experiments on this but i think this kind of benchmark is not measuring properly what you want in AI research. i think especially with oai's kind of compute, you could design a muchhhh better version of this that makes it less noisy and more relying on \"taste\" and \"scale\" (reward should be defined with scale and not at the compute the model is iterating on)\n\n3. this question \"Suppose your team's access to all coding agents better than GPT-5.2 was revoked for the next 3 months. How much would you trade to restore frontier coding agents?\" is very nice, it's fun to see that some people are answering less than 10% of headcount and some more than 90%\n\n4. i still can't make sense of this \"35% success rate\" (without human intervention) to launch jobs, no matter how i think about it this is so different from what i observe myself, must be a big confounding factor here",
           "created_at": "2026-11-19T13:59:22+00:00",
-          "like_count": 194,
-          "retweet_count": 11,
-          "reply_count": 14,
-          "engagement_score": 230,
+          "like_count": 262,
+          "retweet_count": 19,
+          "reply_count": 16,
+          "engagement_score": 316,
           "url": "https://x.com/eliebakouch/status/2123415841450410452"
         }
       ]
@@ -932,18 +923,38 @@
       "tier": "analyst",
       "tweets": [
         {
-          "id": "2123514786789171238",
-          "text": "OpenAI has built The Performance Factory, an autonomous system of Codex agents that is already running 17 automated performance investigations a day. https://t.co/WrS2c7dUr6",
-          "created_at": "2026-11-19T20:32:32+00:00",
-          "like_count": 220,
-          "retweet_count": 10,
-          "reply_count": 21,
-          "engagement_score": 261,
-          "url": "https://x.com/AndrewCurran_/status/2123514786789171238"
+          "id": "2123639042491502831",
+          "text": "Thinking back, this Google internal model leak from September was obviously from the same family as Argon, Carbon and Neon. It was supposedly a Deep Think math specialized model named Mathematica. It was never heard from again, but it looks like this was the progenitor. https://t.co/mSTmntfSIP",
+          "created_at": "2026-11-20T04:46:17+00:00",
+          "like_count": 456,
+          "retweet_count": 18,
+          "reply_count": 30,
+          "engagement_score": 522,
+          "url": "https://x.com/AndrewCurran_/status/2123639042491502831"
+        },
+        {
+          "id": "2123594316555981255",
+          "text": "Vals says most of the gains are from post training. I have not used Neon enough to comment yet, but Argon was a really great model. Neon is a small model. They have more big models in the Argon/Carbon lineage on the way. The next one is probably going to be a monster. https://t.co/A3q8rOSqWB",
+          "created_at": "2026-11-20T01:48:34+00:00",
+          "like_count": 442,
+          "retweet_count": 13,
+          "reply_count": 40,
+          "engagement_score": 508,
+          "url": "https://x.com/AndrewCurran_/status/2123594316555981255"
+        },
+        {
+          "id": "2123552060641833126",
+          "text": "California AG Rob Bonta has issued a subpoena to NVIDIA as part of an investigation into whether advanced chips or confidential information may have gone to China and whether NVIDIA misled investors and the public. https://t.co/LHs0IXRgzL",
+          "created_at": "2026-11-19T23:00:39+00:00",
+          "like_count": 79,
+          "retweet_count": 7,
+          "reply_count": 10,
+          "engagement_score": 103,
+          "url": "https://x.com/AndrewCurran_/status/2123552060641833126"
         }
       ]
     }
   ],
   "errors": null,
-  "generated_at": "2026-11-19T22:14:07.550678+00:00"
+  "generated_at": "2026-11-20T14:13:17.905758+00:00"
 }
