@@ -1,7 +1,46 @@
 {
-  "generated_at": "2026-11-20T14:30:56.516784+00:00",
+  "generated_at": "2026-11-22T07:35:58.794539+00:00",
   "retention_days": 14,
   "transcripts": [
+    {
+      "guid": "dc1b4612-51b7-48dd-b948-001e8b42b4a4",
+      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/Nvidia-Without-Jensen-Does-the-Price-Now-Make-Sense-e3sobfn",
+      "channel": "The Acquirers Podcast",
+      "title": "Nvidia Without Jensen: Does the Price Now Make Sense?",
+      "pub_date": "2026-11-21T08:00:00+00:00",
+      "transcript_path": "feeds/transcripts/b0ef717c28f429b39f009604.txt",
+      "transcript_chars": 139709,
+      "transcript_source": "episode_page",
+      "cached_at": "2026-11-22T07:35:58.794539+00:00",
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+    },
+    {
+      "guid": "yt:yDzUNiBbgSM",
+      "link": "https://www.youtube.com/watch?v=yDzUNiBbgSM",
+      "channel": "Forbes",
+      "title": "Watch Dario And Daniela Amodei Launch Anthropic's IPO On The New York Stock Exchange",
+      "pub_date": "2026-11-19T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/11ec291f0e16b4915da83da8.txt",
+      "transcript_chars": 12441,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-22T07:35:58.794539+00:00",
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+    },
+    {
+      "guid": "yt:BeGbUvYxSmg",
+      "link": "https://www.youtube.com/watch?v=BeGbUvYxSmg",
+      "channel": "Bloomberg Tech",
+      "title": "Jensen Huang Signals He’s Ready for Nvidia Comeback",
+      "pub_date": "2026-11-17T00:00:00+00:00",
+      "transcript_path": "feeds/transcripts/d3f76b322f3a616e6eeca4ee.txt",
+      "transcript_chars": 34350,
+      "transcript_source": "youtube_transcript_api",
+      "cached_at": "2026-11-22T07:35:58.794539+00:00",
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+    },
     {
       "guid": "373a06ea-f8c5-4e17-bb27-c0f37d531f96",
       "link": "https://deepmind.com/podcast",
@@ -12,8 +51,8 @@
       "transcript_chars": 18629,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
-      "expires_at": "2026-12-04T14:30:56.516784+00:00"
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
     },
     {
       "guid": "70598c92-fb0f-462d-b4be-bbb80957384e",
@@ -25,8 +64,8 @@
       "transcript_chars": 140672,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
-      "expires_at": "2026-12-04T14:30:56.516784+00:00"
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
     },
     {
       "guid": "https://lexfridman.com/?p=7826",
@@ -51,8 +90,8 @@
       "transcript_chars": 30958,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
-      "expires_at": "2026-12-04T14:30:56.516784+00:00"
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
     },
     {
       "guid": "yt:3oD4KuRfbjI",
@@ -64,8 +103,8 @@
       "transcript_chars": 20108,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
-      "expires_at": "2026-12-04T14:30:56.516784+00:00"
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
     },
     {
       "guid": "yt:cTFNOTt-jGs",
@@ -77,8 +116,8 @@
       "transcript_chars": 128143,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
-      "expires_at": "2026-12-04T14:30:56.516784+00:00"
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
     },
     {
       "guid": "yt:Nv8-Km25Qj4",
@@ -90,8 +129,8 @@
       "transcript_chars": 26772,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
-      "expires_at": "2026-12-04T14:30:56.516784+00:00"
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
     },
     {
       "guid": "yt:9RFrkPyPysQ",
@@ -103,8 +142,8 @@
       "transcript_chars": 23546,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
-      "expires_at": "2026-12-04T14:30:56.516784+00:00"
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
     },
     {
       "guid": "yt:J5EA7QeBm8k",
@@ -116,8 +155,8 @@
       "transcript_chars": 43200,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
-      "expires_at": "2026-12-04T14:30:56.516784+00:00"
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
     },
     {
       "guid": "yt:-t8daAqoIEA",
@@ -129,8 +168,8 @@
       "transcript_chars": 48785,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
-      "expires_at": "2026-12-04T14:30:56.516784+00:00"
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
     },
     {
       "guid": "yt:0NE89Nzfk20",
@@ -142,8 +181,8 @@
       "transcript_chars": 67034,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
-      "expires_at": "2026-12-04T14:30:56.516784+00:00"
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
@@ -207,8 +246,8 @@
       "transcript_chars": 14999,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-16T23:31:52.438292+00:00",
-      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
-      "expires_at": "2026-12-04T14:30:56.516784+00:00"
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_5ecf266a-aa1c-4b9a-bcec-3c52bcc9ca63",
@@ -285,8 +324,8 @@
       "transcript_chars": 51937,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-14T10:47:53.965771+00:00",
-      "last_seen_at": "2026-11-20T14:30:56.516784+00:00",
-      "expires_at": "2026-12-04T14:30:56.516784+00:00"
+      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
+      "expires_at": "2026-12-06T07:35:58.794539+00:00"
     },
     {
       "guid": "yt:JW5s9Md4U2U",
@@ -445,32 +484,6 @@
       "expires_at": "2026-11-23T00:39:00.530437+00:00"
     },
     {
-      "guid": "https://www.dwarkesh.com/p/clocktower",
-      "link": "https://www.dwarkesh.com/p/clocktower",
-      "channel": "Dwarkesh Patel",
-      "title": "The benchmark where AIs have to lie to win",
-      "pub_date": "2026-11-05T21:05:50+00:00",
-      "transcript_path": "feeds/transcripts/67be32493b806c055474c85c.txt",
-      "transcript_chars": 24472,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-05T23:44:45.359386+00:00",
-      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
-      "expires_at": "2026-11-22T02:21:26.262268+00:00"
-    },
-    {
-      "guid": "31fc9870-665a-426f-9920-a7399d4d612f",
-      "link": "https://podcasters.spotify.com/pod/show/acquirers/episodes/The-Best-Business-Youve-Never-Heard-Of--Todd-Wenning-e3rodfa",
-      "channel": "The Acquirers Podcast",
-      "title": "The Best Business You've Never Heard Of | Todd Wenning",
-      "pub_date": "2026-11-05T08:00:00+00:00",
-      "transcript_path": "feeds/transcripts/87856c3761677678bce72e69.txt",
-      "transcript_chars": 142813,
-      "transcript_source": "episode_page",
-      "cached_at": "2026-11-05T23:44:45.359386+00:00",
-      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
-      "expires_at": "2026-11-22T02:21:26.262268+00:00"
-    },
-    {
       "guid": "b56caee9-8c9e-4dde-92e7-cfc4837b642d",
       "link": "https://podcasters.spotify.com/pod/show/jordan-nanos/episodes/Ep--043---The-Midterms-and-the-2028-Datacenter-Buildout-Datacenters--Jeremie-Eliahou-Ontiveros--Jordan-Nanos--Maya-Barkin--Wayne-Ma-e3rp424",
       "channel": "SemiAnalysis",
@@ -482,19 +495,6 @@
       "cached_at": "2026-11-05T23:44:45.359386+00:00",
       "last_seen_at": "2026-11-17T23:41:46.607462+00:00",
       "expires_at": "2026-12-01T23:41:46.607462+00:00"
-    },
-    {
-      "guid": "yt:HMA357MXB1o",
-      "link": "https://www.youtube.com/watch?v=HMA357MXB1o",
-      "channel": "TheAIGRID",
-      "title": "Sam Altman Just Made His Most Controversial Statement Yet",
-      "pub_date": "2026-11-01T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/7ee60f1f8d2f687c4e5e64d0.txt",
-      "transcript_chars": 26921,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-11-04T22:47:03.582486+00:00",
-      "last_seen_at": "2026-11-06T23:28:08.278570+00:00",
-      "expires_at": "2026-11-20T23:28:08.278570+00:00"
     },
     {
       "guid": "b3946996-1696-430a-b9f2-f9a43380d7e2",
@@ -521,19 +521,6 @@
       "cached_at": "2026-11-03T22:12:18.379414+00:00",
       "last_seen_at": "2026-11-09T23:44:34.135067+00:00",
       "expires_at": "2026-11-23T23:44:34.135067+00:00"
-    },
-    {
-      "guid": "yt:vDmjw-c_R2k",
-      "link": "https://www.youtube.com/watch?v=vDmjw-c_R2k",
-      "channel": "Linus Tech Tips",
-      "title": "My F-You To Sam Altman",
-      "pub_date": "2026-11-02T00:00:00+00:00",
-      "transcript_path": "feeds/transcripts/68c672c8a09e4a6ecab47476.txt",
-      "transcript_chars": 27160,
-      "transcript_source": "youtube_transcript_api",
-      "cached_at": "2026-11-02T22:29:25.167392+00:00",
-      "last_seen_at": "2026-11-08T02:21:26.262268+00:00",
-      "expires_at": "2026-11-22T02:21:26.262268+00:00"
     },
     {
       "guid": "55a9b7c7-fd29-4fa7-bdcc-79602d486227",
