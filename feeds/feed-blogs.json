@@ -1,24 +1,5 @@
 {
-  "articles": [
-    {
-      "id": "https://openai.com/index/combatting-adversarial-distillation",
-      "source": "openai",
-      "source_name": "OpenAI",
-      "title": "Combatting adversarial distillation",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "published": "2026-11-20T10:00:00+00:00",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction."
-    },
-    {
-      "id": "https://www.anthropic.com/news/ipo-close",
-      "source": "anthropic",
-      "source_name": "Anthropic",
-      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
-      "url": "https://www.anthropic.com/news/ipo-close",
-      "published": "2026-11-20T00:00:00+00:00",
-      "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price."
-    }
-  ],
+  "articles": [],
   "errors": null,
-  "generated_at": "2026-11-21T14:30:23.082147+00:00"
+  "generated_at": "2026-11-22T14:11:22.335942+00:00"
 }

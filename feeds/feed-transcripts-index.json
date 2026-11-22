@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T07:35:58.794539+00:00",
+  "generated_at": "2026-11-22T15:00:48.025053+00:00",
   "retention_days": 14,
   "transcripts": [
     {
@@ -12,8 +12,8 @@
       "transcript_chars": 139709,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-22T07:35:58.794539+00:00",
-      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
-      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+      "last_seen_at": "2026-11-22T15:00:48.025053+00:00",
+      "expires_at": "2026-12-06T15:00:48.025053+00:00"
     },
     {
       "guid": "yt:yDzUNiBbgSM",
@@ -25,8 +25,8 @@
       "transcript_chars": 12441,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-22T07:35:58.794539+00:00",
-      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
-      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+      "last_seen_at": "2026-11-22T15:00:48.025053+00:00",
+      "expires_at": "2026-12-06T15:00:48.025053+00:00"
     },
     {
       "guid": "yt:BeGbUvYxSmg",
@@ -38,8 +38,8 @@
       "transcript_chars": 34350,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-22T07:35:58.794539+00:00",
-      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
-      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+      "last_seen_at": "2026-11-22T15:00:48.025053+00:00",
+      "expires_at": "2026-12-06T15:00:48.025053+00:00"
     },
     {
       "guid": "373a06ea-f8c5-4e17-bb27-c0f37d531f96",
@@ -51,8 +51,8 @@
       "transcript_chars": 18629,
       "transcript_source": "episode_page",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
-      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+      "last_seen_at": "2026-11-22T15:00:48.025053+00:00",
+      "expires_at": "2026-12-06T15:00:48.025053+00:00"
     },
     {
       "guid": "70598c92-fb0f-462d-b4be-bbb80957384e",
@@ -90,8 +90,8 @@
       "transcript_chars": 30958,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
-      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+      "last_seen_at": "2026-11-22T15:00:48.025053+00:00",
+      "expires_at": "2026-12-06T15:00:48.025053+00:00"
     },
     {
       "guid": "yt:3oD4KuRfbjI",
@@ -103,8 +103,8 @@
       "transcript_chars": 20108,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
-      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+      "last_seen_at": "2026-11-22T15:00:48.025053+00:00",
+      "expires_at": "2026-12-06T15:00:48.025053+00:00"
     },
     {
       "guid": "yt:cTFNOTt-jGs",
@@ -116,8 +116,8 @@
       "transcript_chars": 128143,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
-      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+      "last_seen_at": "2026-11-22T15:00:48.025053+00:00",
+      "expires_at": "2026-12-06T15:00:48.025053+00:00"
     },
     {
       "guid": "yt:Nv8-Km25Qj4",
@@ -129,8 +129,8 @@
       "transcript_chars": 26772,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T22:31:56.457415+00:00",
-      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
-      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+      "last_seen_at": "2026-11-22T15:00:48.025053+00:00",
+      "expires_at": "2026-12-06T15:00:48.025053+00:00"
     },
     {
       "guid": "yt:9RFrkPyPysQ",
@@ -142,8 +142,8 @@
       "transcript_chars": 23546,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
-      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+      "last_seen_at": "2026-11-22T15:00:48.025053+00:00",
+      "expires_at": "2026-12-06T15:00:48.025053+00:00"
     },
     {
       "guid": "yt:J5EA7QeBm8k",
@@ -155,8 +155,8 @@
       "transcript_chars": 43200,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
-      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+      "last_seen_at": "2026-11-22T15:00:48.025053+00:00",
+      "expires_at": "2026-12-06T15:00:48.025053+00:00"
     },
     {
       "guid": "yt:-t8daAqoIEA",
@@ -168,8 +168,8 @@
       "transcript_chars": 48785,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
-      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+      "last_seen_at": "2026-11-22T15:00:48.025053+00:00",
+      "expires_at": "2026-12-06T15:00:48.025053+00:00"
     },
     {
       "guid": "yt:0NE89Nzfk20",
@@ -181,8 +181,8 @@
       "transcript_chars": 67034,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-19T02:32:07.466457+00:00",
-      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
-      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+      "last_seen_at": "2026-11-22T15:00:48.025053+00:00",
+      "expires_at": "2026-12-06T15:00:48.025053+00:00"
     },
     {
       "guid": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
@@ -246,8 +246,8 @@
       "transcript_chars": 14999,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-16T23:31:52.438292+00:00",
-      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
-      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+      "last_seen_at": "2026-11-22T15:00:48.025053+00:00",
+      "expires_at": "2026-12-06T15:00:48.025053+00:00"
     },
     {
       "guid": "urn:latent-space:post:post_5ecf266a-aa1c-4b9a-bcec-3c52bcc9ca63",
@@ -324,8 +324,8 @@
       "transcript_chars": 51937,
       "transcript_source": "youtube_transcript_api",
       "cached_at": "2026-11-14T10:47:53.965771+00:00",
-      "last_seen_at": "2026-11-22T07:35:58.794539+00:00",
-      "expires_at": "2026-12-06T07:35:58.794539+00:00"
+      "last_seen_at": "2026-11-22T15:00:48.025053+00:00",
+      "expires_at": "2026-12-06T15:00:48.025053+00:00"
     },
     {
       "guid": "yt:JW5s9Md4U2U",
