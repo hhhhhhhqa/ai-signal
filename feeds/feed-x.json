@@ -22,6 +22,26 @@
           "reply_count": 65,
           "engagement_score": 139,
           "url": "https://x.com/swyx/status/2123690305736396925"
+        },
+        {
+          "id": "2124730733147390347",
+          "text": "incredible founder journey breakdown from founding to acquisition complete with regrets and advice. not enough founders document this! please do, it saves others potentially a lot of pain\n\nhighlights \n- @theallinpod top ticking saas market\n- IP assignment woes\n- do not brag about your SEO\n- how to draw @naval’s interest\n- hiring advice and layoff advice\n- how to fish for an acquisition\n- how to clear roadblocks for an acquisition\n- there are CTO coaches??",
+          "created_at": "2026-11-23T05:04:17+00:00",
+          "like_count": 162,
+          "retweet_count": 5,
+          "reply_count": 87,
+          "engagement_score": 259,
+          "url": "https://x.com/swyx/status/2124730733147390347"
+        },
+        {
+          "id": "2124583459356373052",
+          "text": "OpenAI proposes perplexity as the universal metric for industry self regulation and pacing (as opposed to eg FLOPS)\n\n“Given that the main way new surprising capabilities emerge is by progress on compression, a measure rooted in perplexity could give us a shared benchmark for general intelligence, regardless of the degree of automation of the development process. Extrapolating from recent progress, we should expect further transformative capabilities as we enter the ~0.68-0.7 log-perplexity window.”\n\nthis chart is one of the most beautiful ways to tell the story of the last 4 years. it also shows that a lot of the post training issues we debate is kinda the B plot to the overall A plot of large scale pretrain progress.",
+          "created_at": "2026-11-22T19:19:04+00:00",
+          "like_count": 147,
+          "retweet_count": 8,
+          "reply_count": 106,
+          "engagement_score": 269,
+          "url": "https://x.com/swyx/status/2124583459356373052"
         }
       ]
     },
@@ -40,6 +60,16 @@
           "reply_count": 44,
           "engagement_score": 1388,
           "url": "https://x.com/dylan522p/status/2124576956872339643"
+        },
+        {
+          "id": "2124284118276186177",
+          "text": "Little known fact about the man of the hour Levant @__alpoge__, is that he cooks at Age of Empires 2",
+          "created_at": "2026-11-21T23:29:35+00:00",
+          "like_count": 638,
+          "retweet_count": 24,
+          "reply_count": 19,
+          "engagement_score": 705,
+          "url": "https://x.com/dylan522p/status/2124284118276186177"
         }
       ]
     },
@@ -48,7 +78,58 @@
       "name": "Irrational Analysis",
       "domain": "ai",
       "tier": "analyst",
-      "tweets": []
+      "tweets": [
+        {
+          "id": "2124456359047610479",
+          "text": "When exchanges start to ban short selling (Taiwan already did), that us usually a bad sign.",
+          "created_at": "2026-11-22T10:54:01+00:00",
+          "like_count": 91,
+          "retweet_count": 2,
+          "reply_count": 15,
+          "engagement_score": 110,
+          "url": "https://x.com/insane_analyst/status/2124456359047610479"
+        },
+        {
+          "id": "2124415400175927787",
+          "text": "Jensen was correct in wanting to seed competition. Unfortunately he is out, rates going up, and supply previously rented to Chinese entities in southeast asia hitting market. All at once.",
+          "created_at": "2026-11-22T08:11:15+00:00",
+          "like_count": 225,
+          "retweet_count": 8,
+          "reply_count": 16,
+          "engagement_score": 257,
+          "url": "https://x.com/insane_analyst/status/2124415400175927787"
+        },
+        {
+          "id": "2124414954384302138",
+          "text": "Anthropic sort of makes money.\nOpenAI is in financial distress.\nThinking Machines and SSI dont make money.\nA long tail of \"neolabs\" also dont make money.\n\nWhat do you think happens when global training demand from VC-clown backed startups implodes because Jensen backstop gone?",
+          "created_at": "2026-11-22T08:09:29+00:00",
+          "like_count": 425,
+          "retweet_count": 24,
+          "reply_count": 51,
+          "engagement_score": 524,
+          "url": "https://x.com/insane_analyst/status/2124414954384302138"
+        },
+        {
+          "id": "2124411948427296915",
+          "text": "They are also prob gona die now that Jensen is no longer around to prop them up.",
+          "created_at": "2026-11-22T07:57:32+00:00",
+          "like_count": 82,
+          "retweet_count": 2,
+          "reply_count": 7,
+          "engagement_score": 93,
+          "url": "https://x.com/insane_analyst/status/2124411948427296915"
+        },
+        {
+          "id": "2124343312001699942",
+          "text": "Chinese customers are huge portion of $QCOM auto rev and they are all in the process of designing Qualcomm out.",
+          "created_at": "2026-11-22T03:24:48+00:00",
+          "like_count": 135,
+          "retweet_count": 9,
+          "reply_count": 10,
+          "engagement_score": 163,
+          "url": "https://x.com/insane_analyst/status/2124343312001699942"
+        }
+      ]
     },
     {
       "handle": "simonw",
@@ -1126,5 +1207,5 @@
   "errors": [
     "2026-11-23 manual Chrome collection is incomplete: several long posts and account timelines could not be verified because X stopped loading; existing feed entries retained."
   ],
-  "generated_at": "2026-11-23T14:36:08.578907+00:00"
+  "generated_at": "2026-11-23T14:39:29.686590+00:00"
 }
