@@ -36,20 +36,8 @@
         "tier": "analyst"
       },
       {
-        "handle": "levie",
-        "name": "Aaron Levie (Box CEO)",
-        "domain": "ai",
-        "tier": "analyst"
-      },
-      {
         "handle": "RyanPGreenblatt",
         "name": "Ryan Greenblatt (Redwood Research)",
-        "domain": "ai",
-        "tier": "analyst"
-      },
-      {
-        "handle": "mweinbach",
-        "name": "Max Weinbach (Creative Strategies)",
         "domain": "ai",
         "tier": "analyst"
       },
@@ -74,18 +62,6 @@
       {
         "handle": "naval",
         "name": "Naval Ravikant",
-        "domain": "ai",
-        "tier": "analyst"
-      },
-      {
-        "handle": "leopoldasch",
-        "name": "Leopold Aschenbrenner",
-        "domain": "ai",
-        "tier": "analyst"
-      },
-      {
-        "handle": "jimkxa",
-        "name": "Jim Keller",
         "domain": "ai",
         "tier": "analyst"
       },
@@ -144,18 +120,6 @@
         "tier": "builder"
       },
       {
-        "handle": "rauchg",
-        "name": "Guillermo Rauch (Vercel)",
-        "domain": "ai",
-        "tier": "builder"
-      },
-      {
-        "handle": "amasad",
-        "name": "Amjad Masad (Replit)",
-        "domain": "ai",
-        "tier": "builder"
-      },
-      {
         "handle": "joshwoodward",
         "name": "Josh Woodward (Google Labs)",
         "domain": "ai",
@@ -182,6 +146,30 @@
       {
         "handle": "kunchenguid",
         "name": "Kun Chen (FirstMate / ex-Meta L8)",
+        "domain": "ai",
+        "tier": "builder"
+      },
+      {
+        "handle": "alexandr_wang",
+        "name": "Alexandr Wang",
+        "domain": "ai",
+        "tier": "exec"
+      },
+      {
+        "handle": "merettm",
+        "name": "Jakub Pachocki",
+        "domain": "ai",
+        "tier": "analyst"
+      },
+      {
+        "handle": "polynoamial",
+        "name": "Noam Brown",
+        "domain": "ai",
+        "tier": "analyst"
+      },
+      {
+        "handle": "bindureddy",
+        "name": "Bindu Reddy",
         "domain": "ai",
         "tier": "builder"
       }
