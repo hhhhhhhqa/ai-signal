@@ -172,6 +172,12 @@
         "name": "Bindu Reddy",
         "domain": "ai",
         "tier": "builder"
+      },
+      {
+        "handle": "kimmonismus",
+        "name": "Chubby",
+        "domain": "ai",
+        "tier": "analyst"
       }
     ]
   },
