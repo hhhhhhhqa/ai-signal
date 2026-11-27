@@ -5,7 +5,7 @@
 # X changed its web bundle chunk hashes from 7 to 16 hex characters on
 # 2026-08-24. Upstream v0.20.1 handles both formats and the current x-web
 # script layout; pin the release commit for reproducible central runs.
-twscrape @ git+https://github.com/vladkens/twscrape.git@5271cbdc5da1095b765a2a7ec750b4ac686d581f
+# twscrape @ git+https://github.com/vladkens/twscrape.git@5271cbdc5da1095b765a2a7ec750b4ac686d581f
 youtube-transcript-api>=0.6
 yt-dlp>=2024.1
 # Renders the 微信读书 re-login QR into the health alert email. Optional —

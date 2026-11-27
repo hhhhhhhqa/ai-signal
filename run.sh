@@ -9,7 +9,7 @@ cd "$(dirname "$0")"
 
 # ── 载入本地密钥 ─────────────────────────────────────────────
 if [ ! -f .env ]; then
-  echo "❌ 缺少 .env(应包含 TWITTER_COOKIES 和 VOLC_ASR_API_KEY)"; exit 1
+  echo "❌ 缺少 .env(应包含 所需的本机配置)"; exit 1
 fi
 set -a; source .env; set +a
 PY="$(pwd)/.venv/bin/python"
@@ -33,7 +33,7 @@ done
 if [ "$ok" = 1 ]; then echo "   ✅ wewe-rss 就绪"; else echo "   ⚠️ wewe-rss 未就绪,公众号这次可能抓不到(其它源照常)"; fi
 
 # ── 2. 抓取全部来源 ─────────────────────────────────────────
-echo "==> 2/5 抓取 Twitter / 播客 / arXiv / 官方博客 / 公众号"
+echo "==> 2/5 抓取播客 / arXiv / 官方博客 / 公众号"
 "$PY" scripts/generate_feed.py
 
 # ── 3. 转录无字幕播客(火山 ASR,可选)──────────────────────

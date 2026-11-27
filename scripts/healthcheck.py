@@ -53,7 +53,6 @@ ICON = {OK: "✅", WARN: "⚠️", FAIL: "❌"}
 # catches the ImportError per person/episode, so the run still "succeeds".
 REQUIRED_MODULES = {
     "httpx": "拉取所有 HTTP 来源",
-    "twscrape": "抓 Twitter/X",
     "yt_dlp": "人物追踪的 YouTube 搜索",
     "youtube_transcript_api": "播客的 YouTube 字幕",
 }
@@ -111,7 +110,7 @@ def check_dependencies():
 
 
 def check_x():
-    """An expired cookie aborts the whole run, so feed-x.json stops refreshing."""
+    """Check the freshness and coverage of the externally supplied X feed."""
     feed = load_feed("feed-x.json")
     if feed is None:
         return result(FAIL, "X/Twitter", "feed-x.json 读不到",
@@ -122,8 +121,7 @@ def check_x():
         shown = "未知" if age is None else f"{age:.0f} 小时"
         return result(
             FAIL, "X/Twitter", f"feed 已 {shown}未更新",
-            "多半是 .env 里的 TWITTER_COOKIES 过期了(整轮抓取会因此中止)——"
-            "重新从浏览器复制 auth_token 和 ct0",
+            "检查 X feed 的最近一次发布与本机同步记录",
         )
 
     accounts = feed.get("x") or []
@@ -132,7 +130,7 @@ def check_x():
     if accounts and active == 0:
         return result(
             FAIL, "X/Twitter", f"{len(accounts)} 个账号全部没抓到内容",
-            "cookie 大概率已失效,更新 .env 里的 TWITTER_COOKIES",
+            "检查 X feed 中记录的采集状态和错误",
         )
     if errors:
         return result(WARN, "X/Twitter",

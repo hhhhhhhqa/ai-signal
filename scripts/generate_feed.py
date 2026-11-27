@@ -14,7 +14,7 @@ Usage:
 podcasts.people) and keeps existing channel episodes in feed-podcasts.json.
 
 Env vars:
-    TWITTER_COOKIES — browser cookie string for twscrape auth
+    TWITTER_COOKIES — legacy twscrape credential (X collection disabled)
 """
 
 import asyncio
@@ -462,6 +462,7 @@ def detect_proxy():
     return ""
 
 
+# Retained for maintenance and offline tests. The CLI does not call this collector.
 async def fetch_twitter(sources):
     twitter_cfg = sources.get("twitter", {})
     accounts = twitter_cfg.get("accounts", [])
@@ -2381,31 +2382,15 @@ async def main():
     parser.add_argument("--people-only", action="store_true",
                         help="refresh person-appearance searches only; keep channel episodes as-is")
     args = parser.parse_args()
+    if args.twitter_only:
+        parser.error("twscrape X collection is disabled. The existing feed-x.json is preserved.")
 
     sources = load_sources()
     now = datetime.now(timezone.utc)
     FEEDS_DIR.mkdir(parents=True, exist_ok=True)
 
-    run_all = not (args.twitter_only or args.podcasts_only or args.arxiv_only
+    run_all = not (args.podcasts_only or args.arxiv_only
                    or args.blogs_only or args.wechat_only or args.people_only)
-
-    if run_all or args.twitter_only:
-        log("\n━━━ Twitter/X ━━━")
-        try:
-            twitter_feed = await fetch_twitter(sources)
-        except Exception as e:
-            # X is only one source. During an X schema change or a transient
-            # auth/network failure, do not prevent the other feeds from being
-            # refreshed. A standalone --twitter-only run must still fail so the
-            # problem remains visible to whoever is debugging it.
-            if not run_all:
-                raise
-            log(f"❌ Twitter fetch failed; keeping existing feed-x.json: {e}")
-        else:
-            twitter_feed["generated_at"] = now.isoformat()
-            write_json(FEEDS_DIR / "feed-x.json", twitter_feed)
-            active = sum(1 for a in twitter_feed["x"] if a["tweets"])
-            log(f"✅ feed-x.json ({active}/{len(twitter_feed['x'])} accounts with content)")
 
     if run_all or args.podcasts_only or args.people_only:
         log("\n━━━ Podcasts ━━━")

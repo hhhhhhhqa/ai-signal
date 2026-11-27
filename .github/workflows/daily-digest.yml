@@ -65,7 +65,7 @@ jobs:
 
       - name: Generate feeds
         env:
-          TWITTER_COOKIES: ${{ secrets.TWITTER_COOKIES }}
+          # TWITTER_COOKIES is not injected while twscrape collection is disabled.
           SCHEDULE: ${{ github.event.schedule }}
         run: |
           if [ "$SCHEDULE" = "30 1 * * 1-5" ]; then
